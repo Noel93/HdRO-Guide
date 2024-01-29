@@ -1,0 +1,13 @@
+Steinfundament (59)
+
+Erkundungstat (Zabab-fakâk, 12.0S,102.0W - Die Überschattete Zuflucht, 13.0S,101.6W - Dalgum-ru, 14.2S,101.6W - Skûmfíl, 13.2S,100.4W - Der Brückensplitter, 14.1S,97.7W - Askâd-mazal, die Kammer der Schatten, 14.1S,94.9W - Schattenbinge, 15.8S,97.3W - Die Endlose Treppe, 15.0S,99.0W)
+59 Ein Hoffnungsschimmer (Moria-Spiegel, 12.0S,101.5W)
+59 Worte des Lichts (Wéorn, 13.0S,101.7W) -> 59 Abwehr durch Runen
+59 Befall (Tyki, 13.0S,101.7W) -> 59 Eine Süßwasserkur -> 59 Bringt ihm den Feuertod -> 59 Der Fungus unter uns
+59 Spinnenbefall (Klintur, 13.0S,101.7W) -> 59 Fungus-Königin
+59 Wahnsinn auf acht Beinen (Klintur, 13.0S,101.7W)
+59 Lauern im Schatten (Nökkvi, 13.0S,101.7W) -> 59 Unzumutbare Ernährung -> 59 Rache aus dem Grab
+("Barde") 58 Der Wächter der Entschlossenheit: Hilfe in der Not (R) (Bassela, 13.4S,100.4W)
+("Waffenmeister") 58 Der Pfad des Meisters der Kampfkunst: Hilfe in der Not (R) (Níls, 13.4S,100.4W)
+("Hüter") 58 Der Pfad der meisterlichen Faust: Hilfe in der Not (R) (Breguthryth, 15.4S,97.4W)
+("Wächter") 58 Der Verteidiger der Freien Völker: Hilfe in der Not (R) (Ingthor, 15.5S,97.4W)

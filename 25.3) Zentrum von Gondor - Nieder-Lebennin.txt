@@ -1,0 +1,40 @@
+Zentrum von Gondor: Nieder-Lebennin (100)
+
+Sarnhad & Malbarth
+Erkundungstat (Ruinen von Ethillorn, 84.0S,45.6W)
+Nach 100 Das Dunkel im Osten Objective #2: 100 Verwüstung an der Küste (Baraniel, 81.4S,43.9W)
+Nach 100 Das Dunkel im Osten: 100 Die Männer der düsteren Flotte (Korsaren, um 84.0S,45.6W)
+Nach 100 Das Dunkel im Osten: 100 Gestrandet (Automatisch, um 84.0S,45.7W)
+Nach 100 Verwüstung an der Küste Objective #2: 100 Erinnerungen an den Frieden (Amrúngal, 84.0S,45.6W)
+Nach 100 Verwüstung an der Küste und 100 Erinnerungen an den Frieden: 100 Kinder der Schwestern (Erianir, 81.6S,44.1W) -> 100 Weit weg vom Ufer (Barchir, 80.1S,42.6W) -> 100 Die Rückkehr der Schwestern, 100 Ehrung des Gilrain (Arvaeth, 79.2S,43.4W)
+Nach Annahme von 100 Weit weg vom Ufer: 100 Vormarsch ins Land der Schwestern (Melawen, 80.3S,42.6W)
+Nach 100 Die Rückkehr der Schwestern: 100 Flammen des südlichen Leuchtfeuers (Barchir, 80.1S,42.6W)
+100 Kampfgruppe: Darik (R) (Automatisch, um 83.5S,42.6W)
+
+Feste Anglebed
+Erkundungstat (Tribut an den Serni, 80.9S,38.3W - Thama Aklam, 80.8S,36.8W - Anglebed, 80.0S,39.7W - Lornost, 80.8S,34.4W)
+Nach 100 Flammen des südlichen Leuchtfeuers: 100 Die kopflose Schlange (Malthellim, 78.5S,39.2W)
+Nach Annahme von 100 Die kopflose Schlange: 100 Begrenzte Offensive, 100 Im Schatten (Malthellim, 78.5S,39.2W)
+Nach 100 Die kopflose Schlange, 100 Begrenzte Offensive und 100 Im Schatten: 100 Blut des Königs (Malthellim, 78.5S,39.2W) -> 100 Den Erben treu ergeben (Nimithil, 79.4S,39.4W)
+Nach Annahme von 100 Den Erben treu ergeben: 100 Der Feind im Innern (Nimithil, 79.4S,39.4W)
+Nach 100 Den Erben treu ergeben und 100 Der Feind im Innern: 100 Zuflucht im Osten (Nimithil, 79.4S,39.4W) -> 100 Gereinigt von der Angst (Glathril, 80.2S,32.7W)
+Nach 100 Den Erben treu ergeben und 100 Der Feind im Innern: 100 Das Schicksal von Lornost (Nimithil, 79.4S,39.4W) -> 100 Vermächtnis der Zwietracht -> 100 Instanz: Vermächtnis der Zwietracht -> 100 Jenseits der Grenze
+Nach Annahme von 100 Das Schicksal von Lornost: 100 Das Geschenk der Geißel (Automatisch, um 80.8S,34.4W)
+100 Kampfgruppe: Vilosh (R) (Automatisch, um 80.6S,35.2W)
+
+Aerthir
+Erkundungstat (Hata Kebir, 84.2S,37.6W - Lager der Schatten, 82.5S,37.6W - Pelagir, 83.0S,34.8W)
+Bezwingertat (Haradrim und Halbtrolle, um 84.6S,36.7W)
+Nach 100 Jenseits der Grenze: 100 Ehre und Rache (Jajax, 84.3S,39.9W) -> 100 Söhne des Usurpators (Erchar, 80.6S,44.9W) -> 100 Instanz: Söhne des Usurpators -> 100 Die Söhne von Pelargir (Nimithil, 79.4S,39.4W)
+Während 100 Ehre und Rache: 100 Gespaltene Zungen (Jajax, herbeigerufen durch Item)
+Während 100 Ehre und Rache und nach Annahme von 100 Gespaltene Zungen: 100 Siegreich in der Niederlage, 100 Verdiente Beute (Jajax, herbeigerufen durch Item)
+Während 100 Ehre und Rache, nach 100 Gespaltene Zungen, 100 Siegreich in der Niederlage und 100 Verdiente Beute: 100 Getrennt durch den Krieg (Jajax, herbeigerufen durch Item) -> 100 Dunkelheit über Lebennin (Daxamat, 83.9S,37.8W) -> 100 Dunkelheit über Lebennin
+100 Kampfgruppe: Shataz (R) (Automatisch, um 83.9S,36.4W)
+
+Nach 100 Söhne des Usurpators: 100 In der Fremde (R), 100 Umherziehende Bedrohung: Luruyak, Schrecken von Harad (R) (Nimithil, 79.4S,39.4W)
+Nach 100 Söhne des Usurpators: 100 Umherziehende Bedrohung: Abrakhôr, Auserwählter der Geißel (R), 100 Umherziehende Bedrohung: Render, Schatten des Weißen Gebirges (R) (Milonnen, 79.4S,39.4W)
+Nach 100 Söhne des Usurpators: 100 Im Glauben an die Schwestern (R) (Glathril, 80.2S,32.7W)
+Nach 100 Söhne des Usurpators: 100 Gestrandet im Großen Fluss (R) (Aerin, 84.4S,40.0W)
+Nach 100 Söhne des Usurpators: 100 Pelargirs Reichtum (R), 100 Sklavenrettung (R) (Firiondur, 84.4S,40.0W)
+
+Nach 100 Söhne des Usurpators und (Tat) Freund von Lebennin: 100 Epilog: Fahrt ins Morgengrauen (Nimithil, 79.4S,39.4W)

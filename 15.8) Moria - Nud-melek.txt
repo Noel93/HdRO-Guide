@@ -1,0 +1,28 @@
+Nud-melek (58)
+
+Zweite Halle
+Erkundungstat (Khadar-zarâm, 8.0S,103.6W - Khurjezer, 7.3S,100.9W - Brücke von Khazad-dûm (Westbogen), 8.0S,99.2W - Tiefer Scheideweg, 6.3S,101.1W)
+58 Die Erhabenheit der Steinbäume (Svanr, 8.0S,103.6W) -> 58 Gefahr in Khadar-zarâm -> 58 Ein Tribut aus Licht -> 58 Die unruhigen Orks des Kluftrands (Svanr, 8.0S,99.1W) -> 58 Das Lager an der Spalte
+NUR während 58 Gefahr in Khadar-zarâm: 58 Ein Speerregen, 58 Ein starkes Beben... (Automatisch, um 7.7S,104.0W)
+58 Ein unbewachter Schatz (Truhe, 8.5S,103.9W)
+Nach 58 Gefahr in Khadar-zarâm: 58 Ein fauler Geruch (Svanr, 8.0S,103.6W)
+Nach 58 Gefahr in Khadar-zarâm: 58 Feinde der Zweiten Halle (Gegner, um 7.9S,102.1W)
+Nach 58 Gefahr in Khadar-zarâm: 58 Ein widerlicher Schein (Tiefenkriecher, um 7.9S,101.3W)
+Nach 58 Die unruhigen Orks des Kluftrands: 58 Ein unheimlicher Glanz (Narfulz-Erz, um 8.1S,99.8W) 
+Nach 58 Die unruhigen Orks des Kluftrands: 58 Ork-Barrieren (Ork-Barriere, um 8.1S,99.8W) 
+Nach 58 Das Lager an der Spalte und 58 Ein unheimlicher Glanz: 58 Auf trügerischen Pfaden (Svanr, 8.0S,99.1W)
+58 Balins Stolz (Automatisch, 5.8S,103.7W)
+58 Das Rätsel der Gravuren (Steinmetz-Tagebuch, 5.8S,103.9W) [Baum > Sarg > Besen > Schädel > Zwiebel]
+
+Erste Halle
+Erkundungstat (Grubensprung, 5.5S,99.8W - Sudulthurkh, 5.6S,99.2W - Brücke von Khazad-dûm (Ostbogen), 8.0S,98.5W - Die Erste Halle, 8.0S,95.9W)
+58 Spiegelbilder von Steinbäumen (Moria-Spiegel, 5.4S,98.7W)
+Nach 58 Auf trügerischen Pfaden: 58 Feinde des Scheidewegs (Svanr, 5.5S,98.6W)
+Nach Annahme von 58 Feinde des Scheidewegs: 58 Rückzug aus den Minen (Lore, um 5.6S,99.2W)
+Nach 58 Feinde des Scheidewegs und 58 Rückzug aus den Minen: 58 Endspurt (Svanr, 5.5S,98.6W) -> 58 Begrüßt den Himmel (Svanr, 8.0S,95.4W) -> 58 Instanz: Begrüßt den Himmel -> 58 Die zuvor hier waren -> 58 Instanz: Die zuvor hier waren
+Nach 58 Die zuvor hier waren: 58 Die nie heraus kamen, 58 Freunde am Tor (Svanr, 8.0S,95.4W)
+
+Südliche Orklager
+Erkundungstat (Sigin-tharâkh, 10.3S,101.0W - Grubensprung, 10.1S,100.7W - Die Sechzehnte Halle, 11.1S,101.0W)
+("Schurke") 58 Der Pfad des Erzschelms: Hilfe in der Not (R) (Hardsnel, 11.0S,101.1W)
+("Runenbewahrer") 58 Rune der Wiederherstellung: Hilfe in der Not (R) (Ríon, 11.0S,101.0W)

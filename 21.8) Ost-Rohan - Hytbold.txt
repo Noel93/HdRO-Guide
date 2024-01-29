@@ -1,0 +1,132 @@
+Hytbold (85)
+
+Nicht während 85 Nach Hytbold: 85 Willkommen in Hytbold (Edgal, 57.4S,55.4W) -> 85 Die Methalle: Umbau
+Nach 85 Die Methalle: Umbau: 85 Die Methalle: Äußere Verbesserung I, 85 Die Methalle: Äußere Verbesserung II (Edgal, 57.4S,55.4W) -> 85 Die Methalle: Innere Verbesserung I, 85 Die Methalle: Innere Verbesserung II -> 85 Die Methalle: Einwohner I, 85 Die Methalle: Einwohner II
+Nach 85 Die Methalle: Umbau: 85 Der Stall: Wiederaufbau (Edgal, 57.4S,55.4W)
+Nach 85 Die Methalle: Umbau: 85 Die Bibliothek: Wiederaufbau (Edgal, 57.4S,55.4W)
+Nach 85 Die Methalle: Umbau: 85 Die Palisade: Wiederaufbau I (Edgal, 57.4S,55.4W)
+Nach 85 Die Methalle: Umbau: 85 Die Schmiede: Umbau (Edgal, 57.4S,55.4W)
+Nach 85 Die Methalle: Umbau: 85 Die Sägemühle: Wiederaufbau (Edgal, 57.4S,55.4W)
+Nach 85 Die Methalle: Umbau: 85 Die Waffenkammer: Wiederaufbau (Edgal, 57.4S,55.4W)
+Nach 85 Die Waffenkammer: Verbesserungen I, 85 Die Waffenkammer: Verbesserungen II, 85 Die Waffenkammer: Verbesserungen III und 85 Die Waffenkammer: Verbesserungen IV: 85 Die Waffenkammer: Einwohner I, 85 Die Waffenkammer: Einwohner II (Edgal, 57.4S,55.4W)
+Nach 85 Die Methalle: Umbau: 85 Licht und Zäune: Umbau I (Edgal, 57.4S,55.4W)
+Nach 85 Die Methalle: Umbau: 85 Stadtbewohner I, 85 Stadtbewohner II (Edgal, 57.4S,55.4W)
+Nach Tat "Hytbold": 85 Der Witan (Edgal, 57.4S,55.4W) -> 85 Der Witan: Die Herren von Ost-Emnet -> 85 Der weise Ratgeber: Die Schlacht um Hytbold
+
+Ab "Verbündeter" bei den Menschen der Steppe:
+Nach 85 Die Methalle: Umbau: 85 Das Osttor: Umbau (Oseg, 57.7S,56.0W)
+Nach 85 Die Methalle: Umbau: 85 Das Westtor: Umbau (Oseg, 57.7S,56.0W)
+Nach 85 Die Methalle: Umbau: 85 Der Turm in der Steppe: Wiederaufbau (Oseg, 57.7S,56.0W)
+Nach 85 Die Methalle: Umbau: 85 Die Methalle: Äußere Verbesserung III (Oseg, 57.7S,56.0W) -> 85 Die Methalle: Innere Verbesserung III, 85 Die Methalle: Innere Verbesserung IV -> 85 Die Methalle: Einwohner III
+Nach 85 Die Methalle: Umbau: 85 Die Palisade: Wiederaufbau II, 85 Die Palisade: Wiederaufbau III (Oseg, 57.7S,56.0W)
+Nach 85 Die Methalle: Umbau: 85 Zelte in der Steppe: Wiederaufbau (Oseg, 57.7S,56.0W) -> 85 Zelte in der Steppe: Verbesserungen I, 85 Zelte in der Steppe: Verbesserungen II -> 85 Zelte der Steppe: Einwohner
+Nach 85 Die Bibliothek: Verbesserungen I, 85 Die Bibliothek: Verbesserungen II und 85 Die Bibliothek: Höhere Studien: 85 Die Bibliothek: Einwohner (Oseg, 57.7S,56.0W)
+Nach 85 Die Schmiede: Umbau: 85 Die Schmiede: Überragende Schmiede (Oseg, 57.7S,56.0W)
+Nach 85 Die Sägemühle: Wiederaufbau: 85 Die Sägemühle: Verbesserungen I, 85 Die Sägemühle: Verbesserungen II (Oseg, 57.7S,56.0W)
+Nach 85 Die Waffenkammer: Wiederaufbau: 85 Die Waffenkammer: Verbesserungen I (Oseg, 57.7S,56.0W)
+
+Ab "Verwandter" bei den Menschen der Steppe:
+Nach 85 Die Methalle: Umbau: 85 Licht und Zäune: Umbau II, 85 Licht und Zäune: Umbau III (Hargar, 57.8S,56.0W)
+Nach 85 Der Turm in der Steppe: Wiederaufbau: 85 Der Turm in der Steppe: Verbesserungen I, 85 Der Turm in der Steppe: Verbesserungen II, 85 Der Turm in der Steppe: Verbesserungen III (Hargar, 57.8S,56.0W) -> 85 Der Turm in der Steppe: Verteidiger
+Nach 85 Die Methalle: Umbau: 85 Das Haus in der Steppe: Wiederaufbau (Hargar, 57.8S,56.0W) -> 85 Haus der Steppe: Verbesserungen I, 85 Haus der Steppe: Verbesserungen II, 85 Haus der Steppe: Verbesserungen III -> 85 Haus der Steppe: Einwohner
+Nach 85 Die Methalle: Umbau: 85 Häuschen der Steppe: Umbau (Hargar, 57.8S,56.0W) -> 85 Häuschen der Steppe: Verbesserungen I, 85 Häuschen der Steppe: Verbesserungen II, 85 Häuschen der Steppe: Verbesserungen III -> 85 Häuschen der Steppe: Einwohner
+Nach 85 Haus der Steppe: Verbesserungen I und 85 Häuschen der Steppe: Verbesserungen I: 85 Stadtbewohner III (Hargar, 57.8S,56.0W)
+Nach 85 Der Stall: Verbesserungen I und 85 Der Stall: Verbesserungen II: 85 Der Stall: Steppenpferde (Hargar, 57.8S,56.0W)
+
+Ab "Verbündeter" bei den Menschen der Norhofen:
+Nach 85 Die Methalle: Umbau: 85 Der Turm der Norhofen: Wiederaufbau (Warin, 57.4S,55.9W)
+Nach 85 Die Methalle: Umbau: 85 Die Methalle: Äußere Verbesserung V (Warin, 57.4S,55.9W) -> 85 Die Methalle: Innere Verbesserung VII, 85 Die Methalle: Verbesserungen im Inneren VIII -> 85 Die Methalle: Einwohner V
+Nach 85 Die Methalle: Umbau: 85 Die Palisade: Wiederaufbau V, 85 Die Palisade: Wiederaufbau VI (Warin, 57.4S,55.9W)
+Nach 85 Die Methalle: Umbau: 85 Zelte in den Norhofen: Wiederaufbau (Warin, 57.4S,55.9W) -> 85 Zelte in den Norhofen: Verbesserungen I, 85 Zelte in den Norhofen: Verbesserungen II -> 85 Zelte in den Norhofen: Einwohner
+Nach 85 Der Stall: Wiederaufbau: 85 Der Stall: Verbesserungen I (Warin, 57.4S,55.9W)
+Nach 85 Das Osttor: Umbau: 85 Das Osttor: Verbesserungen I (Warin, 57.4S,55.9W)
+Nach 85 Das Westtor: Umbau: 85 Das Osttor: Verbesserungen I (Warin, 57.4S,55.9W)
+Nach 85 Die Bibliothek: Wiederaufbau: 85 Die Bibliothek: Höhere Studien (Warin, 57.4S,55.9W)
+Nach 85 Die Sägemühle: Wiederaufbau: 85 Die Sägemühle: Verbesserungen IV (Warin, 57.4S,55.9W)
+Nach 85 Die Waffenkammer: Wiederaufbau: 85 Die Waffenkammer: Verbesserungen III (Warin, 57.4S,55.9W)
+Nach 85 Die Sägemühle: Verbesserungen I, 85 Die Sägemühle: Verbesserungen II, 85 Die Sägemühle: Verbesserungen III, 85 Die Sägemühle: Verbesserungen IV, 85 Die Sägemühle: Verbesserungen V und 85 Die Sägemühle: Überragende Werkbank: 85 Die Sägemühle: Einwohner II (Warin, 57.4S,55.9W)
+
+Ab "Verwandter" bei den Menschen der Norhofen:
+Nach 85 Die Methalle: Umbau: 85 Licht und Zäune: Umbau V, 85 Licht und Zäune: Umbau VI (Segwine, 57.4S,55.9W)
+Nach 85 Die Methalle: Umbau: 85 Stadtbewohner V (Segwine, 57.4S,55.9W)
+Nach 85 Der Turm der Norhofen: Wiederaufbau: 85 Der Turm der Norhofen: Verbesserungen I, 85 Der Turm der Norhofen: Verbesserungen II, 85 Der Turm der Norhofen: Verbesserungen III (Segwine, 57.4S,55.9W) -> 85 Der Turm der Norhofen: Verteiger
+Nach 85 Die Methalle: Umbau: 85 Das Haus in den Norhofen: Wiederaufbau (Segwine, 57.4S,55.9W) -> 85 Das Haus der Norhofen: Verbesserungen I, 85 Das Haus der Norhofen: Verbesserungen II, 85 Das Haus der Norhofen: Verbesserungen III -> 85 Haus in den Norhofen: Einwohner
+Nach 85 Die Methalle: Umbau: 85 Die Hütte der Norhofen: Wiederaufbau (Segwine, 57.4S,55.9W) -> 85 Häuschen in den Norhofen: Verbesserungen I, 85 Häuschen in den Norhofen: Verbesserungen II, 85 Häuschen in den Norhofen: Verbesserungen III -> 85 Häuschen in den Norhofen: Einwohner
+Nach 85 Der Stall: Verbesserungen I und 85 Der Stall: Verbesserungen II: 85 Der Stall: Die Pferde der Norhofen (Segwine, 57.4S,55.9W)
+
+Ab "Verbündeter" bei den Menschen des Entwasser-Tals:
+Nach 85 Die Methalle: Umbau: 85 Bauernhof des Entwasser-Tals: Umbau (Fréamar, 58.2S,56.0W) -> 85 Bauernhof des Entwasser-Tals: Feldfrüchte, 85 Bauernhof des Entwasser-Tals: Verbesserungen -> 85 Bauernhof des Entwasser-Tals: Bewohner
+Nach 85 Die Methalle: Umbau: 85 Der Turm des Entwasser-Tals: Wiederaufbau (Fréamar, 58.2S,56.0W)
+Nach 85 Die Methalle: Umbau: 85 Die Palisade: Wiederaufbau VII, 85 Die Palisade: Wiederaufbau VIII (Fréamar, 58.2S,56.0W)
+Nach 85 Die Methalle: Umbau: 85 Zelte des Entwasser-Tals: Wiederaufbau (Fréamar, 58.2S,56.0W) -> 85 Zelte des Entwasser-Tals: Verbesserungen I, 85 Zelte des Entwasser-Tals: Verbesserungen II -> 85 Zelte des Entwasser-Tals: Einwohner
+Nach 85 Das Osttor: Umbau: 85 Das Osttor: Verbesserungen II (Fréamar, 58.2S,56.0W)
+Nach 85 Das Westtor: Umbau: 85 Das Westtor: Verbesserungen II (Fréamar, 58.2S,56.0W)
+Nach 85 Die Bibliothek: Wiederaufbau: 85 Die Bibliothek: Verbesserungen II (Fréamar, 58.2S,56.0W)
+Nach 85 Die Schmiede: Umbau: 85 Die Schmiede: Verbesserungen II (Fréamar, 58.2S,56.0W)
+Nach 85 Die Sägemühle: Wiederaufbau: 85 Die Sägemühle: Verbesserungen V, 85 Die Sägemühle: Überragende Werkbank (Fréamar, 58.2S,56.0W)
+Nach 85 Die Waffenkammer: Wiederaufbau: 85 Die Waffenkammer: Verbesserungen IV (Fréamar, 58.2S,56.0W)
+
+Ab "Verwandter" bei den Menschen des Entwasser-Tals:
+Nach 85 Die Methalle: Umbau: 85 Licht und Zäune: Umbau VII, 85 Licht und Zäune: Umbau VIII (Egmund, 58.3S,56.1W)
+Nach 85 Die Methalle: Umbau: 85 Stadtbewohner VI (Egmund, 58.3S,56.1W)
+Nach 85 Die Methalle: Umbau: 85 Die Methalle: Äußere Verbesserung VI (Egmund, 58.3S,56.1W) -> 85 Die Methalle: Innere Verbesserung IX, 85 Die Methalle: Innere Verbesserung X -> 85 Die Methalle: Einwohner VI
+Nach 85 Der Stall: Wiederaufbau: 85 Der Stall: Verbesserungen II (Egmund, 58.3S,56.1W)
+Nach 85 Der Stall: Verbesserungen I und 85 Der Stall: Verbesserungen II: 85 Der Stall: Pferde des Entwasser-Tals (Egmund, 58.3S,56.1W)
+Nach 85 Der Turm des Entwasser-Tals: Wiederaufbau: 85 Der Turm des Entwasser-Tals: Verbesserungen I, 85 Der Turm des Entwasser-Tals: Verbesserungen II, 85 Der Turm des Entwasser-Tals: Verbesserungen III (Egmund, 58.3S,56.1W) -> 85 Der Turm des Entwasser-Tals: Verteidiger
+Nach 85 Die Methalle: Umbau: 85 Haus des Entwasser-Tals: Umbau (Egmund, 58.3S,56.1W) -> 85 Das Haus des Entwasser-Tals: Verbesserungen I, 85 Das Haus des Entwasser-Tals: Verbesserungen II, 85 Das Haus des Entwasser-Tals: Verbesserungen III -> 85 Haus des Entwasser-Tals: Bewohner
+
+Ab "Verbündeter" bei den Menschen der Suthofen:
+Nach 85 Die Methalle: Umbau: 85 Bauernhof der Suthofen: Umbau (Hereswith, 56.9S,56.1W) -> 85 Bauernhof der Suthofen: Feldfrüchte, 85 Bauernhof der Suthofen: Verbesserungen -> 85 Bauernhof der Suthofen: Einwohner
+Nach 85 Bauernhof der Suthofen: Umbau: 85 Bauernhof der Suthofen: Überragender Ofen, 85 Bauernhof der Suthofen: Überragendes Ackerland (Hereswith, 56.9S,56.1W)
+Nach 85 Die Methalle: Umbau: 85 Der Turm der Suthofen: Wiederaufbau (Hereswith, 56.9S,56.1W)
+Nach 85 Die Methalle: Umbau: 85 Die Palisade: Wiederaufbau IV (Hereswith, 56.9S,56.1W)
+Nach 85 Die Methalle: Umbau: 85 Zelte der Suthofen: Wiederaufbau (Hereswith, 56.9S,56.1W) -> 85 Zelte der Suthofen: Verbesserungen I, 85 Zelte der Suthofen: Verbesserungen II -> 85 Zelte der Suthofen: Einwohner
+Nach 85 Die Bibliothek: Wiederaufbau: 85 Die Bibliothek: Verbesserungen I (Hereswith, 56.9S,56.1W)
+Nach 85 Die Schmiede: Umbau: 85 Die Schmiede: Verbesserungen I (Hereswith, 56.9S,56.1W)
+Nach 85 Die Sägemühle: Wiederaufbau: 85 Die Sägemühle: Verbesserungen III (Hereswith, 56.9S,56.1W)
+Nach 85 Die Waffenkammer: Wiederaufbau: 85 Die Waffenkammer: Verbesserungen II (Hereswith, 56.9S,56.1W)
+Nach 85 Die Schmiede: Verbesserungen I, 85 Die Schmiede: Verbesserungen II und 85 Die Schmiede: Überragende Schmiede: 85 Die Schmiede: Einwohner (Hereswith, 56.9S,56.1W)
+Nach 85 Die Sägemühle: Verbesserungen I, 85 Die Sägemühle: Verbesserungen II, 85 Die Sägemühle: Verbesserungen III, 85 Die Sägemühle: Verbesserungen IV, 85 Die Sägemühle: Verbesserungen V und 85 Die Sägemühle: Überragende Werkbank: 85 Die Sägemühle: Einwohner I (Hereswith, 56.9S,56.1W)
+
+Ab "Verwandter" bei den Menschen der Suthofen:
+Nach 85 Die Methalle: Umbau: 85 Licht und Zäune: Umbau IV (Harsterre, 57.0S,56.1W)
+Nach 85 Die Methalle: Umbau: 85 Stadtbewohner IV (Harsterre, 57.0S,56.1W)
+Nach 85 Der Turm der Suthofen: Wiederaufbau: 85 Der Turm der Suthofen: Verbesserungen I, 85 Der Turm der Suthofen: Verbesserungen II, 85 Der Turm der Suthofen: Verbesserungen III (Harsterre, 57.0S,56.1W) -> 85 Der Turm der Suthofen: Verteidiger
+Nach 85 Das Osttor: Verbesserungen I und 85 Das Osttor: Verbesserungen II: 85 Das Osttor: Verteidiger (Harsterre, 57.0S,56.1W)
+Nach 85 Das Westtor: Verbesserungen I und 85 Das Westtor: Verbesserungen II: 85 Das Westtor: Verteidiger (Harsterre, 57.0S,56.1W)
+Nach 85 Die Methalle: Umbau: 85 Das Haus in den Suthofen: Wiederaufbau (Harsterre, 57.0S,56.1W) -> 85 Das Haus der Suthofen: Verbesserungen I, 85 Das Haus der Suthofen: Verbesserungen II, 85 Das Haus der Suthofen: Verbesserungen III -> 85 Haus in den Suthofen: Einwohner
+Nach 85 Die Methalle: Umbau: 85 Die Methalle: Äußere Verbesserung IV (Harsterre, 57.0S,56.1W) -> 85 Die Methalle: Innere Verbesserung V, 85 Die Methalle: Innere Verbesserung VI -> 85 Die Methalle: Einwohner IV
+Nach 85 Der Stall: Verbesserungen I und 85 Der Stall: Verbesserungen II: 85 Der Stall: Die Pferde der Suthofen (Harsterre, 57.0S,56.1W)
+
+
+Nach 85 Die Methalle: Umbau: 85 Hilfe für Ost-Emnet (R) (Rinwald, 57.4S,55.4W)
+
+Hilfe für die Steppe
+Während 85 Hilfe für Ost-Emnet (R): 85 Ankleidepuppen (R), 85 Räuber und Rohirrim (R), 85 Steckenpferd (R) (Garbrand, 39.9S,52.8W)
+Während 85 Hilfe für Ost-Emnet (R): 85 Die östlichen Ebenen der Steppe (R) (Wigbald, 39.9S,52.9W)
+Während 85 Hilfe für Ost-Emnet (R): 85 Die Furt: Besudelte Runen (R), 85 Die Furt: Eine Armee aus dem Osten (R), 85 Die Verteidigung von Harwick: Der Angriff (R), 85 Die Verteidigung von Harwick: Pfeilregen (R), 85 Dígelon: Ein Licht in der Dunkelheit (R), 85 Dígelon: Im Fungus schwelgen (R), 85 Gerngarth: Plünderer des Wissens (R), 85 Gerngarth: Pillagers of Knowledge (R) (Wulfin, 39.9S,52.8W)
+
+Hilfe für die Norhofen
+Während 85 Hilfe für Ost-Emnet (R): 85 Das Rennen (R), 85 Die Banner des Feindes (R), 85 Dressur (R), 85 Wildpferde (R) (Gladsnel, 43.2S,56.5W)
+Während 85 Hilfe für Ost-Emnet (R): 85 Die Höfe der Norhofen (R) (Hwitnyd, 43.2S,56.5W)
+Während 85 Hilfe für Ost-Emnet (R): 85 Die Belagerung Feldheims: Das Inferno (R), 85 Die Belagerung Feldheims: Die Stellung halten (R), 85 Dwergfant: In der Klemme (R), 85 Dwergfant: Schmutzige Wasser (R), 85 Feste Magol: Ruinen der Dunkelheit (R), 85 Feste Magol: Totems des Krieges (R), 85 Sâd Torech: Banges Herz (R), 85 Sâd Torech: Offene Schlacht (R) (Aldbéort, 43.2S,56.5W)
+
+Hilfe für das Entwasser-Tal
+Während 85 Hilfe für Ost-Emnet (R): 85 Die Signalfeuer von Ohrenburg (R), 85 Nachschub für die Front (R) (Cendal, 47.6S,63.9W)
+Während 85 Hilfe für Ost-Emnet (R): 85 Die Straße nach Dornenwarte (R) (Holenmal, 47.6S,63.9W)
+Während 85 Hilfe für Ost-Emnet (R): 85 Belagerung von Ohrenburg: Katapulte (R), 85 Belagerung von Ohrenburg: Uruk-hai des Tals (R), 85 Der Entgang: Kreaturen des Waldes (R), 85 Der Entgang: Orks in den Bäumen (R), 85 Die Lebende Tiefe: Bilwiss-Sappeure (R), 85 Die Lebende Tiefe: Schwarzpulver (R), 85 Heuklippe: Froschschleim (R), 85 Heuklippe: Schrecken des Waldes (R) (Dernstan, 47.6S,63.9W)
+
+Hilfe für die Suthofen
+Während 85 Hilfe für Ost-Emnet (R): 85 Der Blutfisch (R), 85 Der Garsfeld-Kärpfling (R), 85 Grauen aus den Tiefen (R), 85 Stücke Fisch (R) (Héalac, 60.4S,62.3W)
+Während 85 Hilfe für Ost-Emnet (R): 85 Die Bauernhöfe der Suthofen (R) (Daggaric, 60.4S,62.3W)
+Während 85 Hilfe für Ost-Emnet (R): 85 Der Kriechende Wald: Angst vor Spinnen (R), 85 Der Kriechende Wald: Eingesponnen (R), 85 Die Verteidigung von Walstow: Auge des Sturms (R), 85 Die Verteidigung von Walstow: Triage der Verletzten (R), 85 Ghâmpronk: Bilwiss-Minenbauer (R), 85 Ghâmpronk: Nach Eisen graben (R), 85 Langraf: Die Vorfahren ehren (R), 85 Langraf: Schänder der Toten (R)
+
+
+Nach 85 Die Sägemühle: Überragende Werkbank, nicht während 85 Iserngraf: Abtrennung (R) oder 85 Parphád: Größenordnung (R): 85 Imping: Sägemüllers Feind (R) (Ethelbryt, 57.8S,55.0W)
+Während 85 Imping: Sägemüllers Feind (R): 85 Imping: Auf eigene Faust (R), 85 Imping: Historische Werkzeuge (R) (Automatisch, um 65.1S,58.5W)
+
+Nach 85 Die Schmiede: Überragende Schmiede, nicht während 85 Parphád: Größenordnung (R) oder 85 Imping: Sägemüllers Feind (R): 85 Iserngraf: Abtrennung (R) (Frithnoth, 57.9S,55.0W)
+Während 85 Iserngraf: Abtrennung (R): 85 Iserngraf: Erz fördern (R), 85 Iserngraf: Mut in der Mine (R) (Automatisch, Iserngraf)
+
+Nach 85 Die Bibliothek: Höhere Studien, nicht während 85 Imping: Sägemüllers Feind (R) oder 85 Iserngraf: Abtrennung (R): 85 Parphád: Größenordnung (R) (Ascbert, 57.8S,54.9W)
+Während 85 Parphád: Größenordnung (R): 85 Parphád: Gutes Ansehen (R), 85 Parphád: Schadensbegrenzung (R) (Automatisch, Parphád)

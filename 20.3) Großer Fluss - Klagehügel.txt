@@ -1,0 +1,15 @@
+Klagehügel (71-72)
+
+Erkundungstat (Der Cuthstan, 25.6S,65.6W - Lager der Nink-hai, 27.4S,66.7W - Frithstans Lager, 24.7S,65.5W - Siedlung der Mor-hai, 23.9S,68.1W - Asternhügel, 22.9S,65.7W - Floid und Dewitt, 23.0S,65.3W - Einsame Lichtung, 22.2S,64.9W - Giftbiss-Höhle, 22.2S,66.5W)
+
+71 Das verlorene Schmuckstück (Ithamar, 25.7S,65.8W)
+71 Den Vandalen Angst machen (Lanbert, 25.7S,65.9W)
+71 Waffen plündern (Lanbert, 25.7S,65.9W) -> 71 Uneinigkeit -> 71 Anführer der Nink-hai, 71 Gut versorgt (Odda, 26.4S,65.7W) -> 71 Die Wahrheit kommt ans Tageslicht -> 71 Ein Gefangener in Stangard (Robustes Seil, 27.0S,64.8W) -> 71 Instanz: Ein Gefangener in Stangard -> 72 Im Schatten des Steins (Byrnstan, 26.3S,63.9W) -> 72 Das verlassene Lager (Penda, 24.7S,65.5W) -> 72 Drängt weiter voran -> 72 Eine kühne Rettung (Frithstan, 24.1S,68.2W) -> 72 Der Saboteur, 72 Geeignete Ressourcen (Wiederholbar) (R) (Frithstan,24.6S,65.6W)
+71 Unerwartete Rettung (Magla, 27.0S,66.3W)
+Nach 72 Im Schatten des Steins: 72 Die Straße schützen (Penda, 24.7S,65.5W)
+Nach 72 Drängt weiter voran: 72 Das Gegengift suchen (Befehle von Dushatár, 24.0S,68.3W) -> 72 Das Gegengift suchen (Wiederholbar) (R) (Penda, 24.7S,65.5W)
+Nach 72 Eine kühne Rettung: 72 Ehre den Gefallenen (Penda, 24.7S,65.5W)
+Nach 72 Eine kühne Rettung und ("Eorlsaue") 71 Stanrics Widerstand: 71 Besucher aus dem Norden (Penda, 24.7S,65.5W)
+
+Nach ("Eorlsaue") 71 Stanrics Widerstand: 71 Das Tal bewachen (Landroval, 22.2S,64.9W)
+Nach Annahme von 71 Das Tal bewachen: 71 Keine Beweise (Landroval, 22.2S,64.9W) -> 71 Auf der Suche nach Meneldor -> 71 Instanz: Die Suche nach Meneldor -> 71 Eine Nachricht aus Stangard

@@ -1,0 +1,25 @@
+Wildermark: Bundwald (85)
+
+Erkundungstat (Cerdics Lager, 35.4S,69.8W - Núrzums Zorn, 32.7S,70.9W - Wilder Rotpilz, 32.8S,70.2W - Steinhang, 30.2S,70.9W - Entsenke, 32.1S,69.7W - Lockenblatts Aue, 32.2S,73.2W - Wilde Waldlilie, 32.2S,73.1W - Drû Vádokan, 30.9S,74.6W)
+Bezwingertat (Waldtrolle, um 33.1S,69.7W)
+
+Nach ("Wildermark: Hohe Hügel") 85 In den düsteren Wald: 85 Aug' in Aug' mit der Gefahr (Cerdic, 35.4S,69.8W) -> 85 Flucht ins Nirgendwo -> 85 Instanz: Flucht ins Nirgendwo -> 85 Kein Entkommen (Húna, 32.8S,70.2W)
+Nach 85 Flucht ins Nirgendwo: 85 Verirrt im Bundwald (Léodwald, 32.8S,70.2W)
+Nach Annahme von 85 Kein Entkommen: 85 Die Kälte zurückdrängen (Bébba, 32.8S,70.2W) -> 85 Schneeblind (Húna, 32.8S,70.2W) -> 85 Wenn ein Ork im Wald fällt -> 85 Gesplitterte Gesellschaft -> 85 Aus längst vergangenen Tagen (Barallas, 30.2S,70.9W) -> 85 Instanz: Lang vergangene  Tage -> 85 Versteck in der Wildnis -> 85 Astrein -> 85 Ein Freund des Waldes (Moosbart, 34.0S,71.8W) -> 85 Mann und Monster (Moosbart, 30.2S,70.9W) -> 85 Instanz: Mann und Monster -> 85 Núrzums Zorn (Barallas, 30.2S,70.9W) -> 85 Instanz: Núrzums Zorn -> 85 Steil bergauf kämpfen -> 85 Die Weiße Hand brechen, 85 Ein Stachel in ihrem Fleisch (Barallas, 31.4S,74.4W) -> 85 Der Wald den Bäumen -> 85 Instanz: Der Wald für die Bäume -> 85 Ein Moment der Stille (Barallas, 30.2S,70.9W)
+Nach 85 Schneeblind: 85 Erfrieren oder brennen (Léodwald, 32.8S,70.2W)
+Nach 85 Schneeblind: 85 Straucheln in der Dunkelheit (Automatisch, um 32.8S,70.2W)
+Nach 85 Schneeblind: 85 Orks auf Eis (Ork-Krieger und Ork-Kundschafter, um 32.7S,70.9W)
+Nach 85 Wenn ein Ork im Wald fällt Objective #3: 85 Recht in Zweierlei (Drop von Lomor, 31.9S,71.4W)
+Nach Annahme von 85 Versteck in der Wildnis: 85 Der ungehegte Wald (Tithenolf, 30.2S,70.9W)
+Nach Annahme von 85 Der ungehegte Wald: 85 Wildes Wachstum (Huorns, um 30.4S,72.4W)
+Nach Annahme von 85 Der ungehegte Wald: 85 Zu Füßen verfangen (Schwarzwurzeln, um 31.2S,72.5W)
+Während 85 Versteck in der Wildnis: 85 Nach Núrzums Verwüstungen (Starkwurz, 30.4S,72.4W)
+Während 85 Versteck in der Wildnis: 85 Ein verlorener Freund (Nindorn, 31.4S,69.9W)
+Während 85 Ein Freund des Waldes Objective #2: 85 Grausame Klingen, 85 Leben in der Finsternis (Moosbart, beschworen)
+Während 85 Ein Freund des Waldes Objective #3: 85 Alte Wurzeln (Moosbart, beschworen)
+Während 85 Ein Freund des Waldes Objective #4: 85 Entwurzelt (Moosbart, beschworen) -> 85 Instanz: Zerrüttete Wurzeln
+Nach 85 Steil bergauf kämpfen: 85 Nicht in ihrem Element (Ork-Zelte, um 30.9S,74.6W)
+Nach Annahme von 85 Ein Stachel in ihrem Fleisch: 85 Die Vorratskette abschneiden (Vorräte der Weißen Hand, um 30.9S,74.6W)
+
+Nicht während ("Wildermark: Wiederaufbau") 85 Kampfgruppe II: Varg (R): 85 Kampfgruppe: Varg (R) (Automatisch, um 34.4S,69.7W)
+Nicht während ("Wildermark: Wiederaufbau") 85 Kampfgruppe II: Faulherz (R): 85 Kampfgruppe: Faulherz (R) (Automatisch, um 34.8S,71.6W)

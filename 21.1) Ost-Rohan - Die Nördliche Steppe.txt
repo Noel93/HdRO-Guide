@@ -1,0 +1,12 @@
+Die Nördliche Steppe (75-76)
+
+Erkundungstat (Langhold, 35.8S,53.9W - Der Brodelnde Sumpf, 37.9S,54.3W - Ostmunds Versteck, 36.1S,56.0W - Wache der Untiefen, 35.9S,49.0W - Südliche Untiefen, 34.9S,47.9W - Harwick, 39.0S,52.3W)
+
+76 Die Steppe (Dala, 35.8S,53.9W) -> 76 Der Than von Langhold (Than Utred, 36.1S,53.4W) -> 76 Salamander hassen Feuer, 76 Zu nahe geschlittert (Higbald, 36.3S,53.5W) -> 76 Eine Runde Räuberklatschen (Cadda, 36.3S,53.5W) -> 76 Instanz: Eine Runde Räuberklatschen -> 76 Eine entmutigende Zurschaustellung von Zuversicht (Dala, 35.8S,53.9W) -> 76 Auf Streife am Fluss (Than Utred, 36.1S,53.4W) -> 76 Ein beunruhigendes Bündnis (Adbert, 36.0S,49.1W) -> 76 Anlass für Alarm -> 76 Der Krieg kommt nach Rohan (Than Utred, 36.1S,53.4W) -> 76 Instanz: Der Krieg kommt nach Rohan -> 76 Zerstörung im Norden (Dala, 35.8S,54.8W)
+
+Nach 76 Der Than von Langhold: 76 Giftzunge (Automatisch, um 38.1S,54.1W)
+Nach 76 Eine Runde Räuberklatschen: 76 Die Räuber der Steppe (Automatisch, um 36.3S,55.7W)
+Nach Annahme von 76 Die Räuber der Steppe: 76 Verbrechen auf den Ackerlanden (Automatisch, um 36.3S,55.7W)
+Nach 76 Auf Streife am Fluss: 76 Ostline an den Untiefen (Automatisch, um 35.4S,48.5W)
+Nach 76 Auf Streife am Fluss: 76 Ein größerer Feind (Ostlinge, um 35.4S,48.5W)
+Nach 76 Der Krieg kommt nach Rohan: 75 Der Turnierplatz: Einführung zum berittenen Kampf (Stallwache, 38.3S,52.5W) -> ("Die Steppe") 75 Der Turnierplatz: Einführung zum berittenen Kampf -> 75 Einführung "Berittener Kampf" (Wiederholbar) (R) (Seoca, 38.8S,52.6W)

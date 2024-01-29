@@ -1,0 +1,60 @@
+Questitem nach  Charaktererstellung: ("Spezial") 5 Ithildín-Münze (R)
+
+Nach Ablauf der Pferdepfeife  aus dem Intro: ("Breeland") 5 Hengstacker-Hof
+
+Lv.13: ("Einleitung") 13+ Ziel: Breeland
+Lv.19: ("Einleitung") 19+ Ziel: Einsame Lande
+Lv.24: ("Einleitung") 24+ Ziel: Nordhöhen
+Lv.30: ("Einleitung") 30+ Ziel: Evendim
+
+Lv.15: klassenspezifische Quest per Post, zb 
+("Barde") 15 Eine dringende Angelegenheit
+("Hüter") 15 Eine dringende Angelegenheit -> 15 Ein Speer an der Südmark (Margerite Affalter, 31.7S,50.8W) -> 15 Instanz: Ein Speer an der Südmark
+
+Lv.30: klassenspezifische Quest per Post, zb
+("Hüter") 30 Eine weitere wichtige Angelegenheit -> 30 Eine Verteidigung in der Dunkelheit (Margerite Affalter, 31.7S,50.8W) -> 30 Instanz: Eine Verteidigung in der Dunkelheit
+
+Lv.39: klassenspezifische Quest per Post, zb
+("Hüter") 39 Eure Legende wächst
+
+Lv.45: klassenspezifische Quest, zb
+("Hüter") 50 Hüter: Die Wacht in den Marken (automatisch) -> 50 Die Weisheit der Hüter (Hrotha, 31.7S,29.4W)
+Nach Annahme von 50 Die Weisheit der Hüter: 50 Der zweitbeste Verbündete des Hüters, 50 Eine Waffe von Macht und Ruhm (Hrotha, 31.7S,29.4W)
+
+Lv.58: klassenspezifische Quest, zb
+("Hüter") 58 Hüter: Der Pfad der meisterlichen Faust (automatisch) -> 58 Anstacheln (Sadreda, 13.1S,101.1W) -> 58 Gewaltmarsch -> 58 Entlang des Wachturms (Mosco Schmutzpöter, 31.8S,29.2W) -> 58 Offensiver Schlag
+Nach ("Champion") 58 Glory: ("Moria") 58 Heroics (Optional)
+Nach ("Hüter") 58 Offensiver Schlag: ("Moria") 58 Schutzmaßnahme (optional) (Sadreda, 13.1S,101.1W)
+Nach ("Hunter") 58 Strength of the Earth: ("Moria") 58 Set the Trap (Optional)
+Nach ("Minstrel") 58 Echoes of Battle: ("Moria") 58 A Fellowship's Heart (Optional)
+Nach ("Rune-keeper") 58 A Rune of Restoration: ("Moria") 58 Secrets Long Forgotten (Optional)
+Nach ("Burglar") 58 A Startling Twist: ("Moria") 58 A Confounding Riddle (Optional)
+Nach ("Lore-master") 58 Knowledge of the Lore-master: ("Moria") 58 Light of the Rising Dawn (Optional)
+Nach ("Captain") 58 Routing Cry: ("Moria") 58 In Harm's Way (Optional)
+
+Lv.20 per Post: ("Scharmützel") 20 Scharmützel - Zum Dienst melden -> 20 Scharmützel -> 20 Einführung: Dieberei und Unheil -> 20 Einführung: Die Verteidigung des "Tänzelnden Ponys"
+Lv.20: ("Mission") 20+ Ihr werdet für den Krieg gebraucht
+Lv.20: ("Mission") 20+ Die Kharum-Ubnâr brauchen euch!
+Nach Erfüllung einer Mission: ("Mission") 20+ Auf einer Mission (Wöchentlich), 20+ Auf einer fortwährenden Mission (Wöchentlich)
+
+Lv.65 per Post: ("Der Aufstieg Isengarts") 65 Nach Dunland
+Lv.65 per Post: ("In ihrer Abwesenheit") 65 In ihrer Abwesenheit, Kapitel 1
+
+Lv.72 per Post: ("Die Nördliche Steppe") 75 Rohan entgegen
+
+Lv.84 per Post: ("Hytbold") 85 Nach Hytbold
+
+Lv.85 per Post: ("Wildermark") 85 Wildermark - Einführung: Hardings Sorge
+
+Lv.90: ("Fangorn") 95 Ein heilloses Durcheinander
+
+Lv.95: ("Epos - Band IV, Buch 1: Die Reise nach Gondor") 95 Einführung: West-Gondor
+
+Lv.100: ("West-Gondor") 100 Die Stadtwache von Dol Amroth
+Lv.100: ("Zentrum von Gondor") 100 Einführung: Zentrum von Gondor
+Lv.100: ("Ost-Gondor") 100 Einführung: Ost-Gondor
+Lv.100: ("Alt-Anórien") 100 Einführung: Alt-Anórien
+Lv.100: ("Fernes Anórien") 101 Einführung: Weites Anórien
+
+Lv.105: ("Pelennor (schlachtgezeichnet)") 105 Einführung: Anórien (schlachtgezeichnet)
+Lv.105: ("Das Ödland") 105 Einführung: Die Ödlande

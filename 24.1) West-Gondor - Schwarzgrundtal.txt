@@ -1,0 +1,46 @@
+West-Gondor: Schwarzgrundtal (95-97)
+
+Morlad
+Erkundungstat (Morlad, 56.8S,67.9W)
+96 Der Dunkelheit entsprungen (Ludhír, 53.2S,66.8W)
+96 Das Ende des Friedens (Malthellam, 56.8S,67.5W)
+Nach Annahme von 96 Das Ende des Friedens: 96 Der ratlose Truchsess (Malthellam, 56.8S,67.5W) -> 96 Ein falsches Urteil -> 96 Eine offene Rechnung
+Nach 96 Das Ende des Friedens Objective #2: 96 Durchbohrtes Tal (Uidor, 57.0S,67.5W)
+Nach 96 Das Ende des Friedens Objective #2: 96 Verheißung des Ruhms (Belegant, 57.0S,67.8W)
+
+Alagrant
+Erkundungstat (Stein von Erech, 58.0S,65.0W)
+Nach 96 Ein falsches Urteil: 96 Geistergeschichten (Calennen, 58.7S,68.5W)
+Nach 96 Geistergeschichten: 97 Kopfgeld: Tarlangs Fänge (Kopfgeld: Tarlangs Fängel, 58.6S,68.6W)
+Nach 96 Geistergeschichten: 97 Kopfgeld: Der Weiße Hirsch (Kopfgeld: Der Weiße Hirsch, 58.6S,68.6W)
+Nach 96 Geistergeschichten: 96 Die Beute im Blick (Schwarzgrund-Berglöwen, um 58.1S,68.5W)
+96 Kein Ausweg (Dírion, 58.6S,68.5W)
+96 Wider die Natur (Sarnir, 58.7S,68.6W) -> 96 Unsichtbare Gefahr
+Nach Annahme von 96 Unsichtbare Gefahr: 96 Ein verlorener Jäger (Sarnir, 58.7S,68.6W) 
+Nach 96 Unsichtbare Gefahr und 96 Ein verlorener Jäger: 97 Mit dem Lauf des Flusses (Sarnir, 58.7S,68.6W)
+97 Kampfgruppe: Hemokh (R) (Automatisch, um 58.0S,65.2W)
+97 Kampfgruppe: Alter Brôg (R) (Automatisch, um 60.2S,66.4W)
+
+Sardol
+Nach 97 Mit dem Lauf des Flusses: 97 Nehmen, was übrig bleibt (Fischernetze, um 60.7S,69.9W)
+Nach 97 Mit dem Lauf des Flusses: 97 Vorbeihuschende Schatten (Amathon, 61.0S,69.5W)
+Nach Annahme von 97 Vorbeihuschende Schatten: 97 Der Wahnsinn unter dem Berg (Amathon, 61.0S,69.5W)
+Nach Annahme von 97 Der Wahnsinn unter dem Berg: 97 Ins Netz gegangen (Sidharan, 60.8S,69.5W)
+97 Dem Untergang geweiht (Spinnen, um 61.7S,68.9W)
+Nach 97 Der Wahnsinn unter dem Berg: 97 Tod im Schwarzgrund (Garthwen, 61.0S,69.6W)
+Nach 97 Der Wahnsinn unter dem Berg: 97 Fässer aus dem Schwarzgrund (Gordir, 60.9S,70.0W)
+Nach Annahme von 97 Fässer aus dem Schwarzgrund: 97 Dem Unbekannten auf der Spur (Gordir, 60.9S,70.0W) -> 97 Die zerbrochene Krone -> 97 Das verfluchte Tal -> 97 Instanz: Das verfluchte Tal
+
+Lancrath
+Erkundungstat (Tingobel, 56.2S,64.0W)
+Bezwingertat (Orks, um 56.2S,64.3W)
+Nach 97 Das verfluchte Tal: 97 Verluste gegen Verluste (Rosfin, 56.8S,67.5W)
+Nach 97 Verluste gegen Verluste: 97 Entwaffnen und wieder bewaffnen (Thenidiel, 58.2S,63.0W)
+Nach 97 Verluste gegen Verluste: 97 Schmied des eigenen Unglücks (Boradan, 58.2S,63.0W)
+Nach 97 Verluste gegen Verluste: 97 Der Griff der Toten (Orodir, 58.1S,63.0W)
+Nach 97 Verluste gegen Verluste: 97 Schwur gebrochen, Schwur gehalten (Gúrion, 58.0S,63.3W)
+Nach Annahme von 97 Schwur gebrochen, Schwur gehalten: 97 Der wandelnde Schatten (Gúrion, 58.0S,63.3W)
+Nach 97 Verluste gegen Verluste: 97 Heimsuchung im Tal (Automatisch, um 58.3S,65.0W) [nur nachts]
+Nach Annahme von 97 Der Griff der Toten: 97 Düstere Standarten (Rashat-hai-Banner, um 56.2S,64.0W)
+Nach Annahme von 97 Der Griff der Toten: 97 Heimatgefühle (Zurückgelassene Vorräte, um 56.2S,64.0W)
+Nach 97 Schwur gebrochen, Schwur gehalten und 97 Der wandelnde Schatten: 97 Stimme der Toten (Gúrion, 58.0S,63.3W) -> 97 Rekrutierung -> 97 Ein dunkler Pakt (Malthellam, 56.8S,67.5W) -> 97 Instanz: Ein dunkler Pakt -> 97 Nach Lamedon! (Rosfin, 56.8S,67.5W)

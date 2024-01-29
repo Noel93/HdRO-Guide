@@ -1,0 +1,61 @@
+Suthofen (83-85)
+
+Garsfeld
+Erkundungstat (Garsfeld, 54.9S,61.8W - Bradhof, 56.9S,61.3W - Krash-bálum, 53.6S,59.2W)
+Bezwingertat (Halborks, um 53.6S,59.2W)
+83 Ärger auf den Höfen (Gísil, 54.9S,61.7W) -> 83 Garsfeld ernähren -> 83 Brennende Banner
+Nach 83 Ärger auf den Höfen: 83 Eine unerwartete Ernte (Gísil, 54.9S,61.7W)
+Während 83 Garsfeld ernähren: 83 Rasche Rationen (Gísling, 54.9S,61.7W)
+Während 83 Garsfeld ernähren: 83 Hoffnung auf bessere Zeiten (Bernwyn, 54.4S,62.1W)
+Während 83 Garsfeld ernähren: 83 Eine überzeugende Vogelscheuche (Agelric, 54.5S,62.6W)
+85 Kampfgruppe: Crebain-Meister Gundul (R) (55.8S,60.1W)
+Nach 83 Garsfeld ernähren: 83 Die verwüsteten Höfe (Gísling, 54.9S,61.7W)
+Nach Annahme von 83 Brennende Banner: 83 Verjagt sie (Gísling, 54.9S,61.7W)
+Nach Annahme von 83 Brennende Banner: 83 Eine halbe Ernte (Halborks, um 53.6S,59.2W)
+Nach Annahme von 83 Brennende Banner: 83 Die Ernte retten (Reifes Getreide, um 53.6S,59.2W)
+Nach 83 Brennende Banner, 83 Die verwüsteten Höfe und 83 Verjagt sie: 83 Augen aus dem Himmel (Gísil, 54.9S,61.7W) -> 83 Die untergehende Sonne -> 83 Ein weit entfernter Hof
+Während 83 Ein weit entfernter Hof: 83 Der verlorene Hof (Gísil, 54.9S,61.7W)
+Während 83 Ein weit entfernter Hof: 83 Um zu überleben (Gísling, 54.9S,61.7W)
+Nach Annahme von 83 Der verlorene Hof: 83 Der von Mordor Verschonte (Gísling, 54.9S,61.7W)
+Während 83 Ein weit entfernter Hof: 83 Ein hungriger Bewohner (Langar, 54.7S,62.6W)
+Nach Annahme von 83 Der verlorene Hof und 83 Der von Mordor Verschonte Objective #4: 83 Keine Überlebenden (Automatisch, um 57.7S,64.0W)
+Nach 83 Ein weit entfernter Hof und 83 Der von Mordor Verschonte: 84 Die Karawane nach Schneegrenze (Gísil, 54.9S,61.7W) -> 85 Instanz: Die Karawane nach Schneegrenze
+
+Schneegrenze
+Erkundungstat (Schneegrenze, 60.5S,61.3W - Wyrthing, 59.1S,61.6W - Dagreds Grab, 60.2S,58.8W)
+("Königsstatt") 10+ Die Siedlungen von Rohan (Burginda, 60.3S,61.6W oder Seleflad, 60.3S,61.6W)
+Nach 84 Die Karawane nach Schneegrenze: 84 Eine Nachricht für Fastred (Gísling, 60.2S,61.7W) -> 84 Rüstung zur Schlacht (Léofhelm, 60.5S,62.3W)
+Nach 85 Instanz: Die Karawane nach Schneegrenze und ("Entwasser-Tal") 81 Ohrenburg unter Belagerung: 84 Der Greve der Suthofen (Burnoth, Sohn von Baldeg, 60.5S,62.3W) -> 84 Ein Durst nach Blut -> 84 Instanz: Ein Durst nach Blut
+Nach Annahme von 84 Eine Nachricht für Fastred: 84 Die Flüchtlinge von Garsfeld (Gísling, 60.2S,61.7W) -> 83 Der Schlächter von Schneegrenze -> 84 Ein abschreckendes Beispiel (Fastred, 60.1S,58.9W) -> 83 Der Überlebende (Fastred, 60.5S,62.3W) -> 84 Unten am Pier, 84 Lebendköder (Sigeric, 60.2S,62.4W)
+Nach 84 Eine Nachricht für Fastred: 84 Für das Getreide (Ecgar, 60.4S,62.3W)
+85 Kampfgruppe: Kramp (R) (Automatisch, um 59.5S,59.4W)
+Nach 83 Der Schlächter von Schneegrenze: 84 Den Durst löschen (Orks, überall)
+Nach 84 Lebendköder: 84 Verdorbene Ernte (Gísling, 60.2S,61.7W) -> 84 Eine beunruhigende Nachricht -> 84 Die Familie des Greven (Cynelac, 60.4S,62.3W) -> 85 Der Vater der Suthofen (Fastred, 60.5S,62.3W) -> 85 Instanz: Der Vater der Suthofen -> 84 Ein Geschenk für West-Emnet
+Nach Annahme von 84 Ein Geschenk für West-Emnet: 84 Moral wiederherstellen (Fastred, 60.5S,62.3W)
+Nach 84 Ein Geschenk für West-Emnet und 84 Moral wiederherstellen: 84 Nach Osten vorstoßen (Fastred, 60.5S,62.3W)
+84 Eine ungewöhnliche Reise (Automatisch, um 60.0S,63.5W) -> 84 Ein Festmahl natürlicher Kreaturen, 84 Natürliche Erfrischung (Gauner, 60.0S,63.5W) -> 84 Ein faules Reittier -> 85 Ein unfairer Tausch
+
+Walstow
+Erkundungstat (Die verlassenen Höfe, 63.5S,56.4W - Ash Durub, 62.1S,56.3W - Ufum-mau, 64.7S,55.3W)
+85 Kriegsgruppe: Oberanführer Bugud (R) (Automatisch, um 60.3S,58.3W)
+Nach 84 Nach Osten vorstoßen: 84 Hoffnung für Walstow (Winsig, 62.3S,54.1W) -> 84 Dächer flicken
+Nach 84 Hoffnung für Walstow: 84 Abermalige Verteidigung (Hubyrt, 62.1S,54.5W)
+Nach 84 Hoffnung für Walstow: 84 Verzweifelte Ernte (Adalgifu, 62.3S,54.6W)
+Nach 84 Dächer flicken, 84 Abermalige Verteidigung und 84 Verzweifelte Ernte: 84 Feinde, wohin man auch blickt (Winsig, 62.3S,54.1W) -> 84 In Stücke gehauen -> 84 Auf die Barrikaden
+Nach Annahme von 84 Feinde, wohin man auch blickt: 84 Der vermisste Kundschafter (Drop von Mordor-Waffendieb, 62.5S,56.0W)
+Nach Annahme von 84 Feinde, wohin man auch blickt: 84 Der durchbrochene Wall (Orks, um 60.9S,53.8W)
+Während 84 In Stücke gehauen: 83 Die Beute umkreisen, 84 Einen Kopf kürzer, 84 Geborgte Barrikaden (Winsig, 62.3S,54.1W)
+Während 84 In Stücke gehauen: 84 Die Führung lahmlegen (Automatisch, um 62.1S,56.3W oder 64.7S,55.3W)
+Während 84 In Stücke gehauen: 84 Scheiterhaufen nach Plan (Ork-Zelt, um 62.1S,56.3W oder 64.7S,55.3W)
+Nach 84 In Stücke gehauen: 84 Das verlorene Andenken (Adalgifu, 62.3S,54.6W)
+Nach Annahme von 84 Auf die Barrikaden: 84 Die Augen von Mordor (Egelferth, 62.0S,54.3W)
+Nach 84 In Stücke gehauen: 84 Lasst sie nicht durch (Mordor-Knochensprenger, um 61.3S,56.1W)
+Nach 84 Auf die Barrikaden, 84 Das verlorene Andenken und 84 Die Augen von Mordor: 84 Kehrt nach Schneegrenze zurück (Winsig, 62.3S,54.1W) 
+
+Nach 84 Kehrt nach Schneegrenze zurück: 84 Der vergessene Sohn (Fastred, 60.5S,62.3W) -> 84 Das Ziel verfehlen
+Nach 84 Der vergessene Sohn Objective #3: 84 Ein offensichtliches Versteck (Sigeric, 60.5S,62.3W)
+Nach 84 Der vergessene Sohn: 85 Ein geheimnisvoller Kleinbauer (Automatisch, um 61.9S,62.3W)
+Nach 84 Das Ziel verfehlen und 84 Ein offensichtliches Versteck: 84 Der Gerechtigkeit Genüge tun (Fastred, 60.5S,62.3W) -> 84 Informationen gewinnen (Gísling, 60.2S,61.7W) -> 84 Den Gürtel enger schnallen, 84 Eine Gelegenheit zur Vergeltung (Fastred, 60.5S,62.3W)
+Nach 84 Informationen gewinnen Objective #5: 84 Die Truppen dezimieren (Gísling, 60.2S,61.7W)
+Nach 84 Den Gürtel enger schnallen, 84 Eine Gelegenheit zur Vergeltung und 84 Die Truppen dezimieren: 85 Eine Warnung aus Walstow (Fastred, 60.5S,62.3W) -> 85 Die zerrissene Familie (Cynelac, 60.4S,62.3W) -> 85 Der erste Angriff (Gísling, 60.2S,61.7W) -> 85 Instanz: Der erste Angriff -> 85 Auf diesen Steinen (Winsig, 62.3S,54.1W) -> 85 Instanz: Auf diesen Steinen -> 85 Frieden auf den Höfen (Gísil, 60.4S,62.3W) -> 85 Wieder bei Sinnen (Fastred, 60.5S,62.3W)
+

@@ -1,0 +1,31 @@
+Wildermark (85)
+
+Erkundungstat (Forlachs Friedhof, 39.8S,60.1W - Großes Gasthaus in Forlach, 39.3S,60.8W - Thrymms Haus, 39.5S,60.6W - Legendäre Halle von Forlach, 39.5S,61.0W - Edsigs Haus, 39.2S,61.0W - Gársigs Haus, 39.0S,61.5W - Barbier von Forlach, 39.2S,60.6W - Keller von Forlach, 39.1S,60.5W - Gárferths Haus, 38.9S,60.9W - Bank von Forlach, 38.8S,60.6W - Handwerkshalle von Forlach, 38.8S,60.6W - Auktionshalle von Forlach, 38.7S,60.6W - Scharmützelhalle von Forlach, 38.6S,61.1W - Krankenstube von Forlach, 38.4S,60.8W - Kaserne von Forlach, 38.4S,60.7W - Methalle von Forlach, 37.9S,61.0W - Methallenturm, 37.8S,61.0W - 14 Gräber, um 39.8S,60.1W [nach ("Wildermark: Die Brachen") 85 Instanz: Begräbnis in Forlach])
+Bezwingertat (Warge, um 37.1S,65.0W [während ("Wildermark: Wiederaufbau") 85 Weißhag: Peinigende Warge (R) / 85 Weißhag: Schwänze können Trophäen werden (R)] - Berittene Feinde, 38.9S,65.5W [während ("Wildermark: Wiederaufbau") 85 Weißhag: Ansturm der Bilwiss-Reiter (R)])
+
+Epos - Band III, Buch 10: Der Schnee der Wildermark (Fortsetzung aus Ost-Rohan)
+85 Buch 10, Kapitel 4: Ein Mann der Steppe (Gléowine, 39.8S,52.8W) -> 85 Buch 10, Kapitel 5: Der Herr der Witwen und Waisen (Horn, 33.6S,59.6W) -> 85 Buch 10, Kapitel 6: Brachland (Horn, 37.9S,61.0W) -> 85 Buch 10, Kapitel 7: Widernatürlicher Winter (Gléowine, 37.9S,61.0W) -> 85 Instanz: Widernatürlicher Winter -> 85 Buch 10, Kapitel 8: Schneewehen (Horn, 37.8S,66.1W) -> 85 Buch 10, Kapitel 9: Ein Lied für Scheunenhöhe -> 85 Buch 10, Kapitel 10: Ein Rezept für ein Heilmittel (Nona, 31.9S,68.3W) -> 85 Buch 10, Kapitel 11: Rückkehr nach Scheunenhöhe (Gléowine, 31.9S,68.3W) -> 85 Buch 10, Kapitel 12: Núrzum (Nona, 31.9S,68.3W) -> 85 Instanz: Núrzum -> 85 Buch 10, Kapitel 13: Den Bundwald durchforsten (Corudan, 31.9S,68.3W) -> 85 Buch 10, Kapitel 14: Lockenblatt erwecken (Corudan, 32.2S,73.2W) -> 85 Buch 10, Kapitel 15: Die Blüte -> 85 Instanz: Die Blüte
+
+Epos - Band III, Zwischenspiel: Die Graue Schar
+Nach ("Epos - Band III, Buch 10: Der Schnee der Wildermark") 85 Buch 10, Kapitel 3: Keine Kunde aus der Wildermark: 85 1. Zwischenspiel: Viele Sorgen (R) (Gléowines Karte, z.B. 39.8S,52.8W)
+Nach ("Epos - Band III, Buch 10: Der Schnee der Wildermark") 85 Buch 10, Kapitel 6: Brachland: 85 2. Zwischenspiel: Eine weitere Reise (R) (Gléowines Karte, z.B. 37.9S,61.0W)
+Nach ("Epos - Band III, Buch 10: Der Schnee der Wildermark") 85 Buch 10, Kapitel 8: Schneewehen: 85 3. Zwischenspiel: Der Ochse und der Drache (R) (Gléowines Karte, z.B. 37.8S,66.1W)
+Nach ("Epos - Band III, Buch 10: Der Schnee der Wildermark") 85 Buch 10, Kapitel 10: Ein Rezept für ein Heilmittel: 85 4. Zwischenspiel: Halros' Wache (Gléowines Karte, 31.9S,68.3W)
+Nach ("Epos - Band III, Buch 10: Der Schnee der Wildermark") 85 Buch 10, Kapitel 12: Núrzum: 85 5. Zwischenspiel: Calenglads Appell (Gléowines Karte, 31.9S,68.3W)
+Nach ("Epos - Band III, Buch 10: Der Schnee der Wildermark") 85 Buch 10, Kapitel 14: Lockenblatt erwecken: 85 6. Zwischenspiel: In der Höhle des Falken (Gléowines Karte, 31.9S,68.3W)
+Nach ("Epos - Band III, Buch 10: Der Schnee der Wildermark") 85 Buch 10, Kapitel 15: Die Blüte: 85 7. Zwischenspiel: Willensstärke (Gléowines Karte, 31.9S,68.3W)
+
+Epos - Band III, Buch 11: Die Goldene Halle
+85 Buch 11, Kapitel 1: Eine zu große Not (Nona, 31.9S,68.3W) -> 86 Buch 11, Kapitel 2: Edoras (Hunbald, 55.9S,64.4W)
+
+Die Ballade von Bingo Boffin (Fortsetzung aus Ost-Rohan)
+88 Bert hat das Wort (Bingo Boffin, 39.3S,60.9W) -> 90 Falsche Identität
+
+Wildermark: Wiederaufbau
+Nach ("Wildermark") 85 Letztes Gefecht: ("Wildermark") 85 Die Erholung der Wildermark (R) (Cole, 39.3S,60.8W)
+Während ("Wildermark") 85 Die Erholung der Wildermark: 85 Jagdauftrag: Adlerauge (R), 85 Jagdauftrag: Iorwerth (R), 85 Jagdauftrag: Krah, der Meisterspion (R), 85 Jagdauftrag: Kurr (R), 85 Jagdauftrag: Marr (R), 85 Jagdauftrag: Shakolam (R), 85 Jagdauftrag: Sulmus (R), 85 Jagdauftrag: Vîz (R) (Britric, 39.3S,60.8W)
+Während ("Wildermark") 85 Die Erholung der Wildermark: 85 Hohe Hügel: Eine besetzte Straße (R), 85 Krummhöhen: Neugierige Ostlinge (R), 85 Thrymms Bauernhof: Säuberung (R), 85 Thrymms Hof: Rückeroberung (R), 85 Weißhag: Ansturm der Bilwiss-Reiter (R), 85 Weißhag: Peinigende Warge (R), 85 Weißhag: Schwänze können Trophäen werden (R) (Dudoc, 39.4S,60.8W)
+Während ("Wildermark") 85 Die Erholung der Wildermark: 85 Brachen: Den Feind zurückschlagen (R), 85 Brachen: Des Bauern Verlust (R), 85 Bundwald: Den Feind zurückschlagen (R), 85 Bundwald: Eine starke Ähnlichkeit (R), 85 Hohe Hügel: Beben auf den Gipfeln (R), 85 Hohe Hügel: Den Feind zurückschlagen (R), 85 Krummhöhen: Den Feind zurückschlagen (R), 85 Krummhöhen: Erleuchtete Hoffnung (R), 85 Weißhag: Den Feind zurückschlagen (R), 85 Weißhag: Tierquälereien (R) (Ealswith, 39.4S,60.8W)
+Während ("Wildermark") 85 Die Erholung der Wildermark: 85 Scylfig: Ein feierliches Festessen (R), 85 Scylfig: Zielschießen (R), 85 Weißhag: Angeln zu Pferd (R), 85 Weißhag: Yst-arning (R), 85 Weißhags: Tjost mit den Rohirrim (R) (Gyric, 39.3S,60.8W)
+Während ("Wildermark") 85 Die Erholung der Wildermark: 85 Forstauftrag: Feuerholz, ... (Hildelith, 39.3S,60.8W)
+Während ("Wildermark") 85 Die Erholung der Wildermark: 85 Kampfgruppe II: Arataus (R), 85 Kampfgruppe II: Balcharan (R), 85 Kampfgruppe II: Conog (R), 85 Kampfgruppe II: Faulherz (R), 85 Kampfgruppe II: Gîmtog (R), 85 Kampfgruppe II: Karkas (R), 85 Kampfgruppe II: Miesfittich (R), 85 Kampfgruppe II: Schneesturm der Hohen Hügel (R), 85 Kampfgruppe II: Shaguk (R), 85 Kampfgruppe II: Shum (R), 85 Kampfgruppe II: Varg (R), 85 Kampfgruppe II: Voz (R), 85 Kampfgruppe II: Zovarr (R) (Manni, 39.4S,60.8W)

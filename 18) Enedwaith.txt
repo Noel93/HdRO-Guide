@@ -1,0 +1,124 @@
+Enedwaith (60-65)
+
+Epos - Band III, Prolog: Botschaften aus Lórien (Fortsetzung aus dem Düsterwald)
+65 Band III, Prolog: Botschaften aus Lórien (Pethelen, 29.9S,3.5W) -> 65 Instanz: Botschaften aus Lórien
+
+Epos - Band III, Buch 1: Der Schwur der Waldläufer
+65 Buch 1, Kapitel 1: Edel wie Elbenherren (Pethelen, 29.9S,3.5W) -> 65 Kapitel 2: Candaiths Versteck (Elrohir, 31.6S,15.2W) -> 65 Kapitel 3: Der wachsame Saeradan (Candaith, 30.1S,37.9W) -> 65 Kapitel 4: Halros, Waldläufer des Auenlands (Saeradan, 25.6S,52.9W) -> 65 Kapitel 5: Unerledigte Aufgaben in den Nordhöhen (Halros, 26.7S,67.0W) -> 65 Kapitel 6: Abschied von Evendim (Daervunn, 9.4S,41.3W) -> 65 Instanz: Abschied von Evendim -> 65 Kapitel 7: Lothrandir aus dem gefrorenen Ödland (Calenglad, 12.7S,67.2W) -> 65 Instanz: Lothrandir aus dem gefrorenen Ödland -> 65 Kapitel 8: Die Tiefen der Pflicht (Lothrandir, 19.0N,70.8W) -> 65 Kapitel 9: Die Zusammenkunft der Grauen Schar
+Während 65 Kapitel 4: Halros, Waldläufer des Auenlands: 65 Halros sollte bleiben oder 65 Halros sollte gehen (Halros, 26.7S,67.0W)
+
+Epos - Band III, Buch 2: Der Ritt der Grauen Schar
+65 Buch II, Kapitel 1: Im Geheimen gefertigt (Elrond, 29.8S,3.4W) -> 65 Kapitel 2: Die Graue Schar in Bruchtal (Halbarad, 29.3S,6.8W) -> 65 Kapitel 3: Das Haus von Isildur (Candaith, 29.0S,6.6W) -> ("Trollhöhen") 65 Instanz: Das Haus Isildurs -> 65 Kapitel 4: In den Süden reiten -> 65 Kapitel 5: Unheilvolle Mächte in Eregion (Saeradan, 40.0S,16.4W) -> 65 Kapitel 6: Fúni Juwelenschneider (Verängstigter Abenteurer, 48.6S,6.5W) -> 65 Kapitel 7: Irreführende Ruinen (Fúni Juwelenschneider, 48.6S,6.5W) -> 65 Kapitel 8: So nahe wie möglich (Radanir, 47.2S,12.6W) -> 65 Instanz: So nahe wie möglich -> 65 Kapitel 9: Die Ebenen von Enedwaith (Halbarad, 47.0S,12.5W) -> 65 Kapitel 10: Blutzeichen (Wadu, 58.6S,14.5W) -> 65 Kapitel 11: Die Blockade (Lothrandir, 58.7S,14.6W) -> 65 Kapitel 12: Der Träger des Schwerts (Saeradan, 63.8S,17.5W) -> 65 Kapitel 13: Das zurückgebrachte Schwert -> 65 Kapitel 14: Der ferne Zwerg (Nona, 66.5S,17.1W) -> 65 Kapitel 15: Widerhall vergangener Tage (Frithgeir, 65.6S,8.5W) -> 65 Instanz: Widerhall vergangener Tage
+
+Epos - Band III, Buch 3: Widerhall der Toten
+Erkundungstat (Lhaid Ogo)
+65 Buch 3, Kapitel 1: Geheimnisse von Zudrugund (Corunir, 65.6S,8.5W) -> 65 Kapitel 2: Beim Stein von Erech (Candaith, 66.4S,16.2W) -> 65 Instanz: Beim Stein von Erech -> 65 Kapitel 3: Nonas Bitte -> 65 Kapitel 4: Elbenfreund Ergothorn (Halbarad, 66.6S,17.3W) -> 65 Instanz: Lhaid Ogo -> 65 Kapitel 5: Nachricht aus Dunland (Glynn Brenin, 66.5S,17.3W) -> 65 Kapitel 6: Für Wadu (Nona, 66.5S,17.1W) -> 65 Kapitel 7: Angriff auf Zudrugund (Radanir, 66.4S,16.2W) -> 65 Instanz: Angriff auf Zudrugund -> 65 Kapitel 8: Noch mehr Geheimnisse (Corunir, 65.6S,8.5W) -> 65 Kapitel 9: Ergothorns Ende (Halbarad, 66.6S,17.3W) -> 65 Kapitel 10: Widerhall der Toten (Radanir, 66.4S,16.2W) -> 65 Instanz: Widerhall der Toten -> 65 Kapitel 16: Trauer und Einsicht (Halbarad, 66.6S,17.3W)
+
+Epos - Band III, Buch 4: Der Aufstieg Isengarts
+65 Buch 4, Kapitel 1: Der Aufbruch aus Lhanuch (Corunir, 65.6S,8.5W) -> 66 Buch 4, Kapitel 2: Das Land der Hirsche (Braigiar, 66.6S,17.2W) oder 66 Buch 4, Kapitel 2: Das Tal der Knochen (Prestadír, 66.6S,17.2W)
+
+Fordirith
+Erkundungstat (Echad Dagoras, 58.6S,14.6W - Markierung der Zwerge, 57.4S,14.4W - Cartrev Duved, 59.0S,12.3W)
+Bezwingertat (Dunländer, um 59.2S,16.0W - Wölfe, um 60.7S,13.3W [Schattenfang hat 10 Sekunden Respawntimer!])
+61 Hinter Gittern (Braigiar, 58.7S,14.6W) -> 61 Instanz: Hinter Gittern -> 61 Eine spitze Botschaft, 61 Einheitlichkeit (R) (Dagoras, 58.7S,14.6W)
+61 Rettung in letzter Sekunde (Braigiar, 58.7S,14.6W) -> 61 Instanz: Rettung in letzter Sekunde -> 61 Wilder Schatten, 61 Schwarze Flammen (R), 61 Mitternachtsjäger (R) (Amarion, 58.7S,14.6W)
+Nach 61 Eine spitze Botschaft und 61 Schwarze Flammen (R): 61 Zu den Windfelsen: Saeradans Lager (Braigiar, 58.7S,14.6W)
+61 Vorräte schleppen: Versteckte Nahrungsmittel (Braigiar, 58.7S,14.6W) -> 61 Vorräte schleppen: Versteckte Heilmittel, 61 Vorräte schleppen: Versteckte Waffen (Braigiar, 58.7S,14.6W)
+Nach 61 Vorräte schleppen: Versteckte Nahrungsmittel und 61 Rettung in letzter Sekunde: 61 Vorräte schleppen: Verstecktes Wissen (Amarion, 58.7S,14.6W)
+61 Aufruhr (Dunländer-Militärbefehle, 59.0S,16.2W)
+
+Windfelsen
+Erkundungstat (Echad Saeradan, 63.8S,17.5W - Hobbit-Stiefel, 61.3S,19.2W - Markierung der Zwerge, 65.2S,16.7W)
+62 Die Gruppe ernähren (Andreg, 63.8S,17.5W)
+Nach 62 Die Gruppe ernähren, nur bis Annahme von 62 Wie zweifelhaft: 62 Die Gruppe ernähren (Wiederholbar) (R) (Andreg, 63.8S,17.5W)
+Nach 62 Die Gruppe ernähren, nur bis Annahme von 62 Die Gruppe ernähren (Wiederholbar): 62 Wie zweifelhaft (Andreg, 63.8S,17.5W) -> 62 Die geschlachtete Herde (Alun, 65.1S,16.4W) -> 62 Der Schutz der Herde (Wunne, 65.1S,16.4W) -> 62 Ehrensache -> 62 Der Schutz der Herde (Wiederholbar) (R) (Davudh, 65.1S,16.4W)
+62 Ein verborgener Weg (Saeradan, 63.8S,17.5W)
+62 Eine ausgestreckte Hand (Saeradan, 63.8S,17.5W) -> 62 Schatten der Angst (Grufudh, 61.8S,14.1W) -> 62 Schatten der Angst (Wiederholbar) (R)
+Während 62 Eine ausgestreckte Hand: 62 Die heilende Hand (Saeradan, 63.8S,17.5W)
+Während 62 Eine ausgestreckte Hand: 62 Federn gegen Freundschaft (Amlan, 63.8S,17.5W)
+Während 62 Eine ausgestreckte Hand: 62 Wärme für den Winter (Andreg, 63.8S,17.5W)
+Nach 62 Eine ausgestreckte Hand: 62 Dunkle Geister der Windfelsen (Rhiain, 61.8S,14.1W) -> 62 Dunkle Geister der Windfelsen (Wiederholbar) (R) (Iuan, 61.8S,14.1W)
+Nach 62 Eine ausgestreckte Hand: 62 Eine ausgestreckte Hand (Wiederholbar) (R) (Saeradan, 63.8S,17.5W)
+62 Die Königin der Wildschweine (Drop von Schwarzer Sau, zB. 64.1S,15.9W)
+62 Dunkle Kristalle (Drop von Cuthraul, um 62.9S,14.2W)
+62 Zeichen der Weißen Hand (Banner der Weißen Hand, 62.9S,14.2W)
+62 Halsbänder der Verfluchten (Drop von Druggavars, um 62.8S,13.4W)
+Nach 62 Dunkle Kristalle, 62 Zeichen der Weißen Hand und 62 Halsbänder der Verfluchten: 62 Das Geheimnis wird undurchsichtiger (Saeradan, 63.8S,17.5W) -> 62 Die alte Frau des Berges -> 62 Instanz: Die alte Frau des Berges
+
+Düstertal
+Erkundungstat (Echad Idhrenfair, 63.5S,21.5W - Hobbit-Skelett, 63.4S,22.6W - Hobbit-Hacke, 64.6S,20.4W - Hobbit-Pfeil, 64.3S,22.2W - Hobbit-Eimer, 63.3S,22.2W - Hobbit-Bogen, 63.7S,23.0W - Hobbit-Lampe, 63.2S,22.9W - Der Angelteich, 63.2S,24.0W)
+Questtat (10x 62 Wundersames Wachstum)
+62 Die Befreiung des Waldes (Idhrenfair, 63.5S,21.5W)
+62 Heiliger Bulle (Schrein der Uch, 63.0S,20.9W)
+62 Elfenbeinspeere (Drop von Düstertal-Sau, um 65.0S,21.0W)
+62 Wilde Jäger (Drop von Düstertal-Wolf, um 65.0S,21.0W)
+62 Geweihkrone (Kadaver eines weißen Hirsches, 64.0S,22.6W)
+62 Wilde Jäger (Drop von Bugan, um 64.9S,22.8W)
+Nach 62 Die Befreiung des Waldes und 62 Wilde Jäger: 62 Bilwisse von Enedwaith (Idhrenfair, 63.5S,21.5W)
+62 Kleine Wunder (Kleine Stiefel, 61.3S,19.2W oder Kleines Skelett, 63.4S,22.6W oder Kleines Werkzeug, 64.6S,20.4W oder Kleiner Pfeil, 64.3S,22.2W oder Kleiner Eimer, 63.3S,22.2W oder Kleiner Bogen, 63.7S,23.0W) -> 62 Halblinge in den Hügeln? (Idhrenfair, 63.5S,21.5W)
+62 Die Fehlgeleiteten führen (Gwin Curhonon, 64.8S,22.9W) -> 62 Instanz: Die Fehlgeleiteten führen -> 62 Eine angenehme neue Bekanntschaft (Gwin Curhonon, 64.3S,22.3W)
+62 Ein größeres Geheimnis (Zerborstener Felsbrocken, 63.4S,22.6W) -> [nur bis Abschluss von 62 Instanz: Der Graukönig] 62 Gefahr in den Hügeln (Himeinor, 63.5S,21.5W) -> 62 Instanz: Der Graukönig -> 63 Am Rande der Wildnis
+62 Ein Riese! [Menschen/Beorninger] oder 62 An Evil Spirit! [Elben/Hochelben] oder 62 A Northern Cousin? [Hobbits] oder 62 A Stone-eater! [Zwerge/Stark-Äxte] (Rhus Cornchúthur, 63.1S,23.0W) -> Treffen mit den Starren -> 62 Eine halbe Bedrohung (Iolo Brochtû, 62.0S,22.9W) -> [nur bis Abschluss von 62 Instanz: Der Graukönig] 62 Der Graukönig -> 62 Instanz: Der Graukönig
+Nach 62 Treffen mit den Starren: 62 Vorräte für die Starren (Caradog Henbuch, 62.1S,23.0W)
+Nach 62 Treffen mit den Starren: 62 Bestechend argumentieren (Rhosun Turio, 62.2S,23.1W)
+Nach 62 Treffen mit den Starren: 62 Wundersames Wachstum (Iago Glennudh, 62.5S,23.1W)
+Nach 62 Treffen mit den Starren: 62 Im Schutze der Ringelblumen (Violed Isbrun, 62.5S,23.4W)
+Nach 62 Vorräte für die Starren und 62 Im Schutze der Ringelblumen: 62 Vorräte für die Starren (Wiederholbar) (R) (Caradog Henbuch, 62.1S,23.0W)
+Nach 62 Wundersames Wachstum und 62 Im Schutze der Ringelblumen: 62 Wundersames Wachstum (Wiederholbar) (R) (Iago Glennudh, 62.5S,23.1W)
+Nach 62 Eine halbe Bedrohung: 62 Die Bedrohung verringern (Wiederholbar) (R) (Iolo Brochtû, 62.0S,22.9W)
+
+Nan Laeglin
+Erkundungstat (Markierung der Zwerge, 65.6S,18.2W - Cartrev Hamon, 68.0S,17.0W - Cartrev Rurith, 69.4S,17.9W - Cartrev Emlun, 67.9S,14.6W - Cartrev Matho, 69.7S,15.3W)
+Bezwingertat (Halborks, um 69.7S,15.3W)
+63 Die Hand von Isengard (Gwilhum, 66.5S,17.3W) -> 63 Der Rat von Brenin (Dufrig, 66.5S,17.3W) -> 63 Instanz: Der Rat von Brehur -> 64 Ärger in den Klippen
+Während 63 Der Rat von Brenin: 63 Die Halborks (Siorus Brehur, 66.5S,17.3W)
+Während 63 Der Rat von Brenin: 63 Zeichen in der Asche (Guladus Brehures, 66.5S,17.3W)
+Während 63 Der Rat von Brenin: 63 Eine Waffe vergangener Zeiten (Penlhun Brehur, 66.5S,17.3W)
+Während 63 Der Rat von Brenin: 63 Wo Rauch ist... (Neirin Brehur, 66.5S,17.3W)
+Nach 63 Der Rat von Brenin: Die Halborks (Wiederholbar) (R), 63 Plünderer von Nan Laeglin (R) (Siorus Brehur, 66.5S,17.3W)
+Nach 63 Der Rat von Brenin: 63 Zeichen in der Asche (Wiederholbar) (R) (Guladus Brehures, 66.5S,17.3W)
+
+Leichenklippen
+Erkundungstat (Markierung der Zwerge, 71.7S,15.6W - Feste Dunhoth, 75.1S,19.7W)
+64 Ein Zeichen der Vergangenheit (Drop von Unholden, um 72.0S,16.0W) -> 64 Der Einsiedler (Mincham, 70.6S,15.5W) -> 64 Das Amulett reparieren, 64 Frieden schenken (Lhudd, 72.1S,16.1W) -> 64 Aufstieg des gefallenen Sohnes -> 64 Instanz: Aufstieg des gefallenen Sohnes -> 64 Ruhestätte -> 64 Vater unserer Wehklage (Cadelhin, 71.8S,15.9W) -> 64 Instanz: Vater unserer Wehklage
+65 Ein bedauernswerter Mann (Mincham, 70.6S,15.5W)
+64 Diener des Meisters, 64 Überbleibsel der Vergangenheit (Mincham, 70.6S,15.5W) -> 64 Die Dunkelheit vernichten, 64 Quelle der Unruhe, 64 Verderbtheit der Hügelgräber -> 64 Enthüllte Finsternis -> 64 Instanz: Enthüllte Finsternis -> 65 Der heimgesuchte Wald
+Nach 64 Diener des Meisters und 64 Überbleibsel der Vergangenheit: 64 Öl ins Feuer gießen (Mincham, 70.6S,15.5W)
+64 Geheimnisvoller Überrest (Pfütze abscheulicher Flüssigkeit, 73.8S,16.5W) -> 64 Nach Zeichen suchen (Mincham, 70.6S,15.5W) -> 64 Schwächt den Griff der Dunkelheit
+
+Thrórs Talenge
+Erkundungstat (Harndirion, 69.7S,13.7W - 5x Nárs Gipfel erklimmen [jeweils 10x die Gebietsgrenze überqueren: Schlangenhallen<->Thrórs Talenge und Thrórs Talenge<->Nárs Gipfel] - Markierung der Zwerge, 65.7S,8.5W - Draigoths Höhle, 67.2S,6.6W - Floid und Dewitt, 68.6S,8.3W)
+Bezwingertat (Gwiber, um 68.0S,8.4W - Riesen, um 69.6S,10.2W)
+64 Vorräte schleppen: Heiltränke, 63 Vorräte schleppen: Pfeile, 63 Vorräte schleppen: Verbände (Culang, 69.4S,13.8W)
+("In ihrer Abwesenheit") 65 Bewohner der Feste Dunhoth (R) (Arnfinnur, 69.5S,13.8W)
+65 Das Verstummen der Wachen, 65 Erkundet Gwâl Draig (Gronu, 67.4S,13.9W) -> 65 Dringend benötigte Versorgung (Gronu, 67.4S,13.9W)
+Nach 65 Das Verstummen der Wachen: 65 Das Verstummen der Wachen (Wiederholbar) (R) (Gronu, 67.4S,13.9W)
+Nach 65 Erkundet Gwâl Draig: 65 Brenin der Draig-lûth (Gronu, 67.4S,13.9W)
+65 Anfang des Wegs (Drop von Draig-lûth-Boten, 67.0S,12.3W) -> 65 Ende des Wegs (Gronu, 67.4S,13.9W) -> 65 Instanz: Ende des Wegs
+65 Tribut für die Meister (Tributhaufen, 69.3S,12.0W)
+64 Der Untergang der Zwerge (Drop von Dunländern, um 68.3S,12.2W)
+Nach 64 Der Untergang der Zwerge: 65 Bedrohlicher Steinbruch (R), 65 Das Gelege zerfällt (R) (Frithgeir, 65.6S,8.5W) -> 65 Die Größeren (R)
+Nach 64 Der Untergang der Zwerge: 65 Mit Grüßen von Nár (R), 65 Relikte der Gefallenen (R) (Frithgeir, 65.6S,8.5W) -> 65 Der Ruf unserer Väter (R), 65 Die Unterstützung zermalmen (R) -> 65 Gunnbergs Torheit (R)
+65 Clobens Auge (Drop von Cloben, um 71.2S,11.9W oder 67.2S,8.6W)
+65 Geheimnisvolles Relikt in Enedwaith (Geheimnisvolles Relikt, 67.2S,8.3W)
+
+Trauerhöhe
+Erkundungstat (Echad Daervunn, 66.6S,21.5W - Hobbit-Lampe, 66.5S,21.2W - Hobbit-Lampe, 70.8S,19.4W)
+Bezwingertat (Waldtrolle, um 67.2S,24.8W - Elhudan, um 72.5S,22.2W)
+65 Der verschwundene Jäger (Daervunn, 66.6S,21.5W) -> 65 Der Kreis der Derudh (Umfrë, 66.6S,21.5W) -> 65 Rituale des Waldes (Enit, 67.7S,21.9W) -> 65 Die Ältesten -> 65 Der gefallene Hain, 65 Fähre des alten Weibs (Tûm, 69.2S,22.4W)
+Während 65 Rituale des Waldes: 65 Rituale des Waldes - Eichenäste, 65 Rituale des Waldes - Hölzerne Haut, 65 Rituale des Waldes - Kriechendes Moos, 65 Rituale des Waldes - Mistelzweige (Enit, 67.7S,21.9W)
+Nach 65 Rituale des Waldes: 65 Scherben des Lichts (Tûm, 69.2S,22.4W) -> 65 Hof des wilden Jägersmannes
+Nach 65 Scherben des Lichts: 65 Die wilde Jagd (Lavaneth, 72.8S,23.9W)
+Während 65 Die wilde Jagd, Objective #2: 65 Die wilde Jagd: Laveneths Geist (Lavaneth, 72.8S,23.9W) -> 65 Instanz: Die wilde Jagd - Lavaneths Geist
+Während 65 Die wilde Jagd, Objective #2: 65 Die wilde Jagd: Gwenaewens Geist (Gwenaewen, 72.8S,24.0W) -> 65 Instanz: Die wilde Jagd - Gwenaewens Geist
+Während 65 Die wilde Jagd, Objective #2: 65 Die wilde Jagd: Munfaerils Geist (Munfaeril, 72.7S,24.0W) -> 65 Instanz: Die wilde Jagd - Munfaerils Geist
+Während 65 Die wilde Jagd, Objective #3: 65 Die wilde Jagd: Arassiels Geist (Arassiel, 72.8S,24.3W) -> 65 Instanz: Die wilde Jagd - Arassiels Geist
+
+("In ihrer Abwesenheit")
+65 In ihrer Abwesenheit, Kapitel 1 (Gerstenmann Butterblume, 29.6S,51.3W) -> 65 In ihrer Abwesenheit, Kapitel 2 (Grenzer Boffin, Nordhüttinger-Hof) -> 65 In ihrer Abwesenheit, Kapitel 3 (Tulipa Gruber, Nordhüttinger-Hof) -> 65 In ihrer Abwesenheit, Kapitel 4 (Grenzer Boffin, Nordhüttinger-Hof) -> 65 In ihrer Abwesenheit, Kapitel 5 (Benedikt Jakoblein, Steinhöhe) -> 65 In ihrer Abwesenheit, Kapitel 6 (Sven Pearse, Steinhöhe) -> 65 In ihrer Abwesenheit, Kapitel 7 (Benedikt Jakoblein, Steinhöhe) -> 65 In ihrer Abwesenheit, Kapitel 8 (Ithriel, Verlorener Tempel) -> 65 In ihrer Abwesenheit, Kapitel 9 (Scristan, Verlorener Tempel) -> 65 In ihrer Abwesenheit, Kapitel 10 (Halbelb Elrond, Verlorener Tempel) -> 65 In ihrer Abwesenheit, Kapitel 11 (Pirita, Sâri-surma) -> 65 In ihrer Abwesenheit, Kapitel 12 (Yrjänä, Sâri-surma)-> 65 In ihrer Abwesenheit, Kapitel 13 -> 65 In ihrer Abwesenheit, Kapitel 14 (Túgonn, Feste Dunhoth - Wunden und Furcht) -> 65 In ihrer Abwesenheit, Kapitel 15
+65+ Nordhüttinger Hof (R) (Automatisch, Nordhüttinger-Hof)
+65 Ein Stück Heimat in Evendim (Drop von Keilern, Nordhüttinger-Hof)
+65+ Die Ortschaft Steinhöhe (R) (Automatisch, Steinhöhe)
+65+ Instanz: Der Verlorene Tempel (R) (Automatisch, Verlorener Tempel)
+65+ Verteidiger der Festung (R) (Automatisch, Sâri-surma)
+65 Bewohner der Feste Dunhoth (R) (Arnfinnur, 69.5S,13.8W)

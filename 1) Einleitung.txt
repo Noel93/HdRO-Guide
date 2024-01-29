@@ -1,0 +1,76 @@
+Einleitung Elben
+1 Instanz: Die Zuflucht Edhelion
+
+Einleitung Zwerge
+1 Instanz: In die Silbertiefe
+
+Einleitung Elben/Zwerge
+1 Intro: Elronds Auftrag (Nos Düsterlied, 15.2S,101.5W) -> 1 Intro: Elronds Traum (Elladan, 15.2S,101.6W) -> 2 Intro: Verfeinern Eures Könnens -> 3 Intro: Wo Skorgrím fiel (Elladan, 15.2S,101.6W) 
+	-> 3 Intro: Wo Skorgrím schläft (Dorongúr Weißdorn, 14.1S,100.7W) -> 4 Intro: Die blutigen Fußspuren (Elladan, 15.2S,101.6W) -> 4 Intro: Gormr, Truchsess der Halle (Tryggwi, 15.3S,102.7W) 
+	-> 4 Intro: Schrein des gefallenen Königs (Gormr Murrschmied, 15.8S,102.5W) -> 5 Intro: Ein unbehagliches Gefühl -> 5 Intro: Eine Seuche bei Thorins Tor (Dwalin, 15.0S,103.2W) -> 5 Intro: Eine faulige Quelle 
+	-> 5 Intro: Elbische Medizin (Elrohir, 14.6S,104.9W) -> 5 Intro: So hält man den Untergang auf -> 5 Intro: Skorgríms Gruft (Dwalin, 15.0S,103.2W) -> 5 Instanz: Skorgríms Gruft
+
+Nach Annahme von 4 Intro: Schrein des gefallenen Königs: 4 Intro: Die Ritualsteine (Bjarni, 15.8S,102.5W)
+Nach Annahme von 5 Intro: Eine Seuche bei Thorins Tor: 5 Intro: Die Hunde des Todes (Unnurr, 15.0S,103.2W)
+Nach Annahme von 5 Intro: So hält man den Untergang auf: 5 Einleitung: Zeichen und Vorzeichen (Minenbauer, 15.0S,103.2W) -> 1 Instanz: Galadriels Traum
+Nach 5 Intro: Skorgríms Gruft per Post: ("Ered Luin") 5 Eine Dankesbotschaft
+Nach 5 Intro: Skorgríms Gruft per Post: ("Handwerkskunst") 5 Ausrüstung herstellen: Privat oder geschäftlich
+5 Ein bisschen mehr schadet nie - Teil 1 (Dwalin, 15.0S,103.2W) -> 1 Ein bisschen mehr schadet nie - Teil 2 (einmalig pro Server!)
+
+Im Zuge von 2 Intro: Verfeinern Eures Könnens:
+2 Ausbildung: Die Aufregung des Kampfes (Malthendring, 15.3S,101.5W) - Waffenmeister
+2 Ausbildung: Schildstreich eines Wächters (Anglor, 15.3S,101.6W) - Wächter
+2 Ausbildung: Der durchdringende Schuss eines Jägers (Glanwen, 15.3S,101.6W) - Jäger
+2 Ausbildung: Der geschickte Schlag eines Hüters (Calthendin, 15.3S,101.5W) - Hüter
+2 Ausbildung: Der Begleiter eines Kundigen (Pennastan, 15.2S,101.6W) - Kundiger
+2 Ausbildung: Scharfer Spott eines Runenbewahrers (Lennasthrieln, 15.3S,101.6W) - Runenbewahrer
+2 Ausbildung: Eines Barden Dur-Ballade (Thalchyl, 15.3S,101.6W) - Barde
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+Einleitung Hobbits
+1 Instanz: Eine Straße durchs Dunkel
+
+Einleitung Menschen
+1 Instanz: Die Flucht
+
+Einleitung Hobbits/Menschen
+1 Intro: Streichers Auftrag (Celandine Brandybock, 25.1S,48.8W) -> 1 Intro: Hauptmann Farnbach (Streicher, 25.0S,48.9W) -> 2 Intro: Verfeinern Eures Könnens -> 3 Intro: Das Heilmittel der alten Könige 
+	-> 3 Intro: Die Wölfe der Ruine (Cornelius Strohlehm, 26.0S,48.7W) -> 3 Intro: Das Verhör (Streicher, 25.0S,48.9W) -> 3 Intro: Belagerung im Süden (Hauptmann Farnbach, 25.0S,48.8W) 
+	-> 4 Intro: Ein Gesuch um Hilfe (Carl Schößling, 27.7S,48.1W) -> 4 Intro: Der Jäger im Exil (Hauptmann Farnbach, 25.0S,48.8W) -> 5 Intro: In die Schatten (Jon Farnbach, 24.9S,47.0W) -> 5 Intro: Ein Funken Hoffnung
+	-> 5 Intro: Der Sturm bricht herein -> 5 Instanz: Angriff auf Archet
+
+Nach 3 Intro: Das Verhör: 4 Ein sehr leerer Magen (Mundo Sackheim-Beutlin, 25.1S,48.8W)
+Nach 3 Intro: Das Verhör: 4 Süßer Heldelbeertee (Celine Brandybock, 25.1S,48.8W) -> 4 Ein Geschenk für Amdir
+Nach 3 Intro: Belagerung im Süden: 4 Die mutigen Knechte (Willi Weizler, 27.7S,48.0W)
+Nach 5 Intro: In die Schatten: 5 Einleitung: Zeichen und Vorzeichen (Jäger, 24.9S,47.0W) -> 1 Instanz: Galadriels Traum
+Nach 5 Intro: Der Sturm bricht herein per Post: ("Breeland") 5 Eine Dankesbotschaft
+Nach 5 Intro: Der Sturm bricht herein per Post: ("Handwerkskunst") 5 Ausrüstung herstellen: Privat oder geschäftlich
+Nach 5 Intro: Der Sturm bricht herein: 7 Die Dame der Fliegen (Drop von Marschfliegen-Königin, 25.3S,46.8W)
+5 Ein bisschen mehr schadet nie - Teil 1 (Jon Farnbach, 24.9S,47.0W) -> 1 Ein bisschen mehr schadet nie - Teil 2 (einmalig pro Server!)
+
+Im Zuge von 2 Intro: Verfeinern Eures Könnens:
+2 Intro: Die Aufregung des Kampfes (Andred Wagenmacher, 25.3S,48.7W) - Waffenmeister
+2 Intro: Ein starker Schild (Tarek Sattler, 25.4S,48.7W) - Wächter
+2 Ausbildung: Ein Auftrag für einen Hauptmann (Edgar Standarte, 25.3S,48.7W) - Hauptmann
+2 Ausbildung: Der durchdringende Schuss eines Jägers (David Mühlmann, 25.3S,48.7W) - Jäger
+2 Ausbildung: Die Entwaffnung der Gegner (Fastred Lochner, 25.2S,48.7W) - Schurke
+2 Intro: Vom Schenkel bis zum Hals (Rosco Griffel, 25.3S,48.7W) - Hüter
+2 Intro: Der Begleiter eines Kundigen (Kunibert Krähe, 25.3S,48.7W) - Kundiger
+2 Intro: Eine kräftige Stimme (Tolman Gärtner, 25.3S,48.7W) - Barde
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+Einleitung Beorninger
+("Beorninger") 0 Instanz: Das Vermächtnis des Gestaltwandlers -> 1 Reisevorbereitungen (Radagast, 33.6N,53.3W) -> 5 Die Spur des Waldläufers (Letty Fuchsschwanz, 25.5S,48.7W)
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+Einleitung Hochelb
+("Hochelb") 0 Instanz: Ein Stern in der Dunkelheit -> 1 Reisevorbereitungen (Elrond)  -> 5 Prolog: Unruhige See -> Sinnieren über die Vergangenheit
+_______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+
+Einleitung Stark-Axt
+("Stark-Axt") 1 Instanz: Beben unter Barad-dûr -> 0 Schinderei im Dunklen Turm (Núluzagar) -> 0 Eine neue Knechtschaft (Zôreth) -> 5 Der Schatten von Mordor (Lethi) -> 0 Instanz: Schatten von Mordor -> 5 Prolog: Fernab der Heimat (Dwalin, 13.7S,103.2W)
+Während 0 Schinderei im Dunklen Turm: 0 Der Preis des Fortschritts, 0 Dienst im Vorratslager, 0 Gegen seine Pläne, 0 Kriegsvorbereitungen, 0 Schwach und kraftlos, 0 Verteidiger des Schwarzen Landes

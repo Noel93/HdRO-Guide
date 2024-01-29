@@ -1,0 +1,27 @@
+Zentrum von Gondor: Dor-en-Ernil (100)
+
+Erkundungstat (Linhir, 81.5S,45.5W - Hata Khezrat, 79.3S,44.2W - Tungobel, 78.6S,50.5W - Dol Brannor, 78.6S,47.7W - Lang Boha, 82.2S,49.4W - Gaerlond, 84.2S,49.7W - Barad Rill, 86.4S,50.4W)
+Bezwingertat (Korsaren, um 79.3S,44.2W)
+
+100 Verteidigungsvorbereitungen (Garvir, 80.6S,44.9W)
+Nach Annahme von 100 Verteidigungsvorbereitungen: 100 Jagd auf die Mutlosen (Garvir, 80.6S,44.9W) -> 100 Ein erneuter Angriff (Gorroch, 79.3S,44.2W) -> 100 Todesangst -> 100 Bis zur rechten Zeit (Gefallener Korsar, 77.9S,46.7W) -> 100 Der Verlauf der Schlacht (Garvir, 80.6S,44.9W) -> 100 Ein Hilferuf (Tancestel, 81.5S,45.3W) -> 100 Die geschundene Lichtung, 100 Unheilvolle Männer (Roamingstar, Jungfer der Gilrain, 76.0S,42.7W) -> 100 Schwester der Gilrain -> 100 Instanz: Schwester des Gilrain
+Nach 100 Jagd auf die Mutlosen Objective #1: 100 Feiglinge und Diebe (Korsaren, um 79.3S,44.2W)
+
+100 Die Suche nach Erchar (Garvir, 80.6S,44.9W) -> 100 Waffen für die Rückkehr, 100 Die Rettung (Erchar, 79.1S,52.5W)
+Nach Annahme von 100 Die Suche nach Erchar: 100 Kopfgeld: Flüchtlinge (R3), 100 Kopfgeld: Halbtrolle (R3) (Glírdor, 79.1S,52.5W)
+100 Sehr verschlossen (Turtothren, 78.6S,50.3W)
+Nach 100 Waffen für die Rückkehr: 100 Das Wort des Bruders (Erchar, 79.1S,52.5W) -> 100 Auge um Auge (Herion, 82.9S,52.2W) -> 100 Zeit für Verhöre (Aras, 81.7S,49.9W) -> 100 Rache am Leuchtturm -> 100 Ein gerechtes Begräbnis (Herion, 82.9S,52.2W) -> 100 Instanz: Ein gerechtes Begräbnis (Erchar, 79.1S,52.5W)
+Nach Annahme von 100 Das Wort des Bruders: 100 Kopfgeld: Haradrim (R3) (Glanion, 80.8S,45.7W)
+100 Der Weinkeller (Túmir, 84.0S,49.8W)
+100 Suche nach Pebble (Balangyl, 84.2S,49.9W)
+100 Kampfgruppe: Hamarsun (R) (Automatisch, um 79.4S,51.8W)
+100 Kampfgruppe: Shatúpash (R) (Automatisch, um 81.5S,51.2W)
+100 Kampfgruppe: Hokhir (R) (Automatisch, um 84.0S,51.5W)
+
+Nach 100 Verteidigungsvorbereitungen, 100 Schwester der Gilrain und 100 Ein gerechtes Begräbnis: 100 'Blut für Blut ...' (Erchar, 80.6S,44.9W) -> 100 Instanz: Blut für Blut -> ("Zentrum von Gondor: Nieder-Lebennin") 100 Das Dunkel im Osten
+
+Nach 100 'Blut für Blut ...': 100 Eine schmutzige Angelegenheit (R), 100 Wacht über die Stadt (R), 100 Umherziehende Bedrohung: Anbúrz Menschenschwinger (R), 100 Umherziehende Bedrohung: Keterang, Herr der Geister (R) (Erchar, 80.6S,44.9W)
+Nach 100 'Blut für Blut ...': 100 Blendung des Feindes (R), 100 Den Vormarsch stoppen (R), 100 Gesplittertes Licht (R), 100 Umherziehende Bedrohung: Ripper, Schrecken der Länder des Prinzen (R) (Herion, 80.6S,44.9W)
+
+Nach 100 'Blut für Blut ...' und (Tat) Freund von Dor-en-Ernil: 100 Epilog: Die Wasser des Gilrain (Erchar, 80.6S,44.9W)
+

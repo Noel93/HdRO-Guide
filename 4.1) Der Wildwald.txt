@@ -1,0 +1,64 @@
+Der Wildwald (45)
+
+Schragen
+Erkundungstat (Mandelwolfsmilch, 17.2S,55.4W - Norwart, 18.5S,55.2W - Knochenbeißer-Grube, 19.4S,55.3W - Cotfast, 19.9S,56.9W - Hirtentäschel, 18.7S,57.6W - Himmelswein-Halle, 19.7S,59.5W - Klappertopf, 18.0S,60.0W - Marls Furt, 16.8S,60.2W - Jägerkante, 18.3S,57.6W - Donnerdistel, 15.9S,58.7W)
+Bezwingertat (Meister des Wildwalds, 18.2S,60.0W - Lagshal Knochen-Knacker, 17.8S,60.0W - Thraumak, 17.6S,59.2W - Hull der Wolfherzige, 18.4S,58.2W - Dulglok, 16.8S,58.5W - Räuber oder Orks um 19.9S,56.9W - Wild um 18.3S,57.6W)
+45 Der Wildwald des Breelands (Aran Grünwit, 17.7S,54.4W oder Enid Nesselstich, 21.4S,61.4W)
+Nach 45 Das Grab von Haudh Eglan und 45 Der Kampf bei Cotfast: 45 Epilog: Der Wildwald des Breelands (Aran Grünwit, 17.7S,54.4W oder Enid Nesselstich, 21.4S,61.4W)
+20+ Missionen des Wildwalds (Wöchentlich) (R) (Radhril, 17.7S,54.4W)
+Bekannter von Bruderschaft der Holzfäller oder Bund der Axt: 45 Federn aus dem Wildwald (R), 45 Fisch aus dem Wildwald (R), 45 Fleisch aus dem Wildwald (R), 45 Holz aus dem Wildwald (R), 45 Häute aus dem Wildwald (R), 45 Kräuter aus dem Wildwald (R), 45 Kupfer aus dem Wildwald (R), 45 Köder für die Fallen (R), 45 Vergiftete Kleintiere (R) (Wildwald-Anschlagtafel, 17.7S,54.4W oder 21.4S,61.5W)
+Freund von Bruderschaft der Holzfäller oder Bund der Axt: 45 Kopfgeld: Akvosh (R), 45 Kopfgeld: Floretta Hasenfuß (R), 45 Kopfgeld: Thunash (R), 45 Kopfgeld: Gethin Ochsenauge (R) (Kopfgeldtafeln, 17.6S,54.5W oder 21.4S,61.5W)
+45 Norwart: Feinde der Freien Völker (R), 45 Norwart: Barrikaden zerstören (R) (automatisch, um 18.5S,55.2W)
+45 Natsulm der Nacht-Angreifer(R) (automatisch, um 19.3S,55.9W)
+45 Knochenbeißer-Grube: Hinterhältige Warge (R) (automatisch, um 19.4S,55.3W)
+45 Cotfast: Feinde der Freien Völker (R), 45 Cotfast: Vorräte zerstören (R) (automatisch, um 19.9S,56.9W)
+45 Himmelswein-Halle: Feinde der Freien Völker (R), 45 Himmelswein-Halle: Barrikaden zerstören (R) (automatisch, um 19.7S,59.5W)
+
+Händlerkai
+Erkundungstat (Händlerkai, 21.4S,61.5W - Kardendistel, 21.8S,60.0W) - Blomlie-Wiese, 22.5S,60.8W - Ostbinge, 23.9S,60.8W - Writhenset, Tunnel zwischen Ost- und Westbinge - Westbinge, 23.9S,61.8W - Kuckuckslichtnelke, 23.6S,63.5W - Das alte Bluffhaus, 23.5S,59.2W)
+Bezwingertat (Broghosh, Writhenset - Drúhuk, 23.1S,62.5W - Großer alter Wildkeiler, 24.0S,63.2W - Herr der Steinhöhle, 24.6S,60.8W)
+45 Der Wildwald des Breelands (Aran Grünwit, 17.7S,54.4W oder Enid Nesselstich, 21.4S,61.4W)
+Nach 45 Das Grab von Haudh Eglan und 45 Der Kampf bei Cotfast: 45 Epilog: Der Wildwald des Breelands (Enid Nesselstich, 21.4S,61.4W oder Aran Grünwit, 17.7S,54.4W)
+Bekannter von Bruderschaft der Holzfäller oder Bund der Axt: 45 Federn aus dem Wildwald (R), 45 Fisch aus dem Wildwald (R), 45 Fleisch aus dem Wildwald (R), 45 Holz aus dem Wildwald (R), 45 Häute aus dem Wildwald (R), 45 Kräuter aus dem Wildwald (R), 45 Kupfer aus dem Wildwald (R), 45 Köder für die Fallen (R), 45 Vergiftete Kleintiere (R) (Wildwald-Anschlagtafel, 17.7S,54.4W oder 21.4S,61.5W)
+Freund von Bruderschaft der Holzfäller oder Bund der Axt: 45 Kopfgeld: Akvosh (R), 45 Kopfgeld: Floretta Hasenfuß (R), 45 Kopfgeld: Thunash (R), 45 Kopfgeld: Gethin Ochsenauge (R) (Kopfgeldtafeln, 21.4S,61.5W oder 17.6S,54.5W) 
+45 Die Bingen: Feinde der Freien Völker (R), 45 Die Bingen: Vorräte zerstören (R) (automatisch, um 23.9S,61.8W und 23.9S,60.8W)
+45 Writhenset: Feinde der Freien Völker (R) (automatisch, Writhenset)
+45 Writhenset: Vorräte zerstören (R) (Vorratskiste, Writhenset)
+45 Writhenset: Zerstörung von Kokons (R) (Spinnenkokon, Writhenset)
+
+Linnets Lager
+Erkundungstat (Ehrenpreis, 21.4S,56.2W - Helvas Grat, 21.7S,58.3W - Augentrost, 22.5S,58.1W - Sutwart, 23.6S,56.0W)
+Bezwingertat (Azdág, 21.4S,56.1W)
+45 Ehrenhafte Jagden (Linnet Roteiche, 22.1S,57.7W) -> 45 Lasst die Hunde los
+45 Die Wildwald-Jagd (Linnet Roteiche, 22.1S,57.7W) -> 45 Gwengorn der weiße Hirsch, 45 Brundurch der große Keiler, 45 Dúgar der Schwarzhirsch, 45 Lhudblath der Silberwarg
+45 Helvas Grat: Weidmannsheil (R) (automatisch, um 21.7S,58.3W)
+45 Sutwart: Feinde der Freien Völker (R), 45 Sutwart: Barrikaden zerstören (R) (automatisch, um 23.6S,56.0W)
+
+Wildwald: Bruderschaft der Holzfäller
+45 In den Wildwald (Cad Kreuzdorn, 17.7S,54.4W) -> 45 Das Zähmen des Wildwalds (Dornenmähne, 17.7S,54.6W) -> 45 Aufforsten des Wildwaldes (Dornenmähne, 18.9S,56.1W) -> 45 Vergeltung der Bäume (Dornenmähne, 19.8S,56.2W) -> 45 Pflege des Wildwaldes -> 45 Die Jagd auf Huorns (Dornenmähne, 22.3S,56.2W) -> 45 Das Ende der Schattenrinde-Ausbreitung (Dornenmähne, 21.9S,57.7W)
+Nach 45 Das Zähmen des Wildwalds: 45 Gerüchten auf der Spur (Dornenmähne, 18.9S,56.1W)
+Nach Ziel #3 von 45 Gwengorn der weiße Hirsch: 45 Strafe für die Wilddiebe (Gefangener Jäger, 21.8S,58.7W)
+Nach Annahme von 45 Der Wildwald des Breelands: 45 Erkundung der Wilden Lande (Aran Grünwit, 17.7S,54.4W)
+Bekannter von Bruderschaft der Holzfäller, nach 45 Erkundung der Wilden Lande: 45 Der Schwarzpulver-Plan (Aran Grünwit, 17.7S,54.4W)
+Freund von Bruderschaft der Holzfäller, nach 45 The Der Schwarzpulver-Plan: 45 Ein Mord in Schragen (Aran Grünwit, 17.7S,54.4W)
+Verbündeter von Bruderschaft der Holzfäller, nach 45 Ein Mord in Schragen: 45 Der Markt der Schwierigkeiten (Aran Grünwit, 17.7S,54.4W)
+Verwandter von Bruderschaft der Holzfäller, nach 45 Der Markt der Schwierigkeiten: 45 Der Kampf bei Cotfast (Aran Grünwit, 17.7S,54.4W)
+Nach 45 Erkundung der Wilden Lande: 45 Hilfe für Schragen (R), 45 Hilfe beim Wiederaufbau (R) (Nessa Lärche, 17.7S,54.4W)
+Nach 45 Erkundung der Wilden Lande: 45 Kisten sammeln (R), 45 Harz sammeln (R) (Cad Kreuzdorn, 17.7S,54.4W)
+Nach 45 Erkundung der Wilden Lande, vor Annahme von 45 Der Bund der Axt (Täglich) (R): 45 Die Bruderschaft der Holzfäller (Täglich) (R) (Aran Grünwit, 17.7S,54.4W)
+
+Wildwald: Bund der Axt
+45 Umgestürzte Vorräte (Minda Heidezehen, 21.4S,61.5W) -> 45 Die Abenteuer von Stampfer, dem Pony (Minda Heidezehen, 20.9S,60.1W) -> 45 Wildwald-Delikatesse (Minda Heidezehen, 20.5S,57.8W) -> 45 Wildwald-Fest -> 45 Vorräte für den Vorratswagen (Minda Heidezehen, 22.0S,57.7W)
+Nach Annahme von 45 Der Wildwald des Breelands: 45 Der Wert des Vertrauens (Enid Nesselstich, 21.4S,61.4W)
+Neutral bei Bund der Axt, nach 45 Der Wert des Vertrauens: 45 Ärger mit Grabräubern (Enid Nesselstich, 21.4S,61.4W)
+Bekannter von Bund der Axt, nach 45 Ärger mit Grabräubern: 45 Jagen für den Bund (Enid Nesselstich, 21.4S,61.4W)
+Freund von Bund der Axt, nach 45 Jagen für den Bund: 45 Bergbau für den Bund (Enid Nesselstich, 21.4S,61.4W)
+Verbündeter von Bund der Axt, nach 45 Bergbau für den Bund: 45 Das Grab von Haudh Eglan (Enid Nesselstich, 21.4S,61.4W)
+Nach 45 Der Wert des Vertrauens: 45 Fallen in der Wildnis (R), 45 Essen an den Ufern (R) (Grund Krauserampfer, 21.4S,61.5W)
+Nach 45 Der Wert des Vertrauens: 45 Angespülte Vorräte (R) (Tegwen Spörgel, 21.3S,61.4W)
+Nach 45 Der Wert des Vertrauens: 45 Äxte schärfen (R) (Mal Flockenblume, 21.3S,61.4W)
+Nach 45 Der Wert des Vertrauens, vor Annahme von 45 Die Bruderschaft der Holzfäller (Täglich): 45 Der Bund der Axt (Täglich) (R) (Enid Nesselstich, 21.4S,61.4W)
+
+Mission: Wildwald
+Bezwingertat (Missionsgegner)
+0+ Mission: Angriff auf Cotfast, 0+ Mission: Angriff auf Schragen, 0+ Mission: Brüten in der Tiefe, 0+ Mission: Der Schragen-Hinterhalt, 0+ Mission: Die Bedrohung von Sutwart, 0+ Mission: Drohender Zusammenbruch, 0+ Mission: Eindringlinge in der Binge, 0+ Mission: Eingeschlossen, 0+ Mission: Svalfangs Gefecht, 0+ Mission: Ärger am Brandywein (Radhril, 17.7S,54.4W)

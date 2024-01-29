@@ -1,0 +1,25 @@
+Das Wasserwerk (54)
+
+Der Verrottende Keller
+Erkundungstat (Durins Bart, 13.6S,112.6W - Der Verrottende Keller, 15.1S,112.1W - Die Kammer der Dunklen Wasser, 16.9S,111.9W - Die Kammer der Erinnerungen, 18.2S,111.6W - Die Verlorene Schatzkammer, 17.3S,111.0W - Der Verlorene Palast, 15.0S,114.9W - Die Kammer des Sees, 15.5S,115.3W)
+54 Ein bisschen Sicherheit (Sylfa, 14.9S,112.1W)
+54 Dunkles seichtes Wasser (Gyrgir, 15.1S,111.8W)
+54 Der Wildnis auf der Spur (Águti, 15.3S,111.7W) -> 54 Die hiesige Wildnis ist tödlich
+Nach 54 Ein bisschen Sicherheit, 54 Dunkles seichtes Wasser und 54 Der Wildnis auf der Spur: 54 Ein offensichtliches Problem (Thrand, 15.2S,112.2W)
+Nach 54 Ein offensichtliches Problem und 54 Die hiesige Wildnis ist tödlich: 54 Spinnenbein-Prismen (Thrand, 15.2S,112.2W)
+54 Spiegel im Morast (Moria-Spiegel, 15.1S,114.8W)
+54 In undurchsichtigen Netzen gefangen (Brosche aus Lórien, 14.9S,115.3W)
+Nach 54 Spinnenbein-Prismen: 54 Auf der Lauer (Sylfa, 14.9S,112.1W)
+54 Rumpf von Helgi Bilwissfluch (Statue - Torso-Stück, 16.8S,112.0W)
+
+Hulwul-nefekh
+Erkundungstat (Narag-kheleb, 17.2S,114.7W - Das Große Wasserrad, 17.7S,115.6W - Harâzgund, 17.6S,116.9W)
+Nach 54 Spinnenbein-Prismen: 54 Aus der Finsternis (Ansurr, 16.8S,114.1W) -> 54 Wogender Schaum -> 54 Verrostetes Getriebe -> 54 Fungus und Säure
+Nach 54 Aus der Finsternis: 54 Krötenschleim (Gyrgir, 16.8S,114.1W) -> 54 Schleim mit Schleim bekämpfen
+Nach Annahme von 54 Fungus und Säure: 54 Vorarbeiter beim Großen Wasserrad (Ansurr, 16.8S,114.1W)
+Nach 54 Auf der Lauer: 54 Von Schimmel geschwärzt (Thrand, 16.8S,114.1W)
+Nach 54 Auf der Lauer: 54 Kampf gegen den Fungus (Ansurr, 16.8S,114.1W)
+Während 54 Kampf gegen den Fungus: 54 Fehlende Pfeile (Ansurr, 16.8S,114.1W)
+Während 54 Kampf gegen den Fungus: 54 Pilze suchen (Thrand, 16.8S,114.1W)
+Während 54 Kampf gegen den Fungus: 54 Vom Wasser angezogen (Gyrgir, 16.8S,114.1W)
+54 Verstopfung des Wasserwerks (Indrith, 17.9S,115.9W) -> 54 Ein zweiter Versuch -> 54 Ein neues Zahnrad -> 54 Zwei Fliegen, eine Klappe -> 54 Auf zum Kanal -> 54 Messwerte aus dem Becken (Kaldi, 17.6S,116.9W) -> 54 Bericht über die Ergebnisse -> 54 Ein ungleichmäßiger Strom

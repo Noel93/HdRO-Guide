@@ -1,0 +1,23 @@
+Eorlsaue (71-72)
+
+Erkundungstat (Stangard, 25.6S,63.1W - Auktionshalle, 25.5S,63.0W - Laden für legendäre Gegenstände, 25.4S,63.1W - Das Gasthaus von Stangard, 25.4S,63.3W - Saberts Haus, 25.4S,63.5W - Adalberts Haus, 25.6S,63.5W - Verlassenes Haus, 25.5S,63.3W [erst ab "Verbündeter" bei den Reitern von Stangard] - Uthrads Haus, 25.8S,62.9W - Ställe von Stangard, 26.4S,63.1W - Verwahrungshaus, 26.2S,63.0W - Scharmützelhalle, 26.4S,63.2W - Tatwines Haus, 26.2S,63.3W - Dunstans Haus, 26.0S,63.3W - Haus des Vorratshändlers, 26.0S,63.2W - Zuchtstätten von Stangard, 25.9S,63.1W - Haus des Handelsmannes, 26.4S,63.5W - Bank von Stangard, 26.5S,63.5W - Wadas Haus, 26.5S,63.6W - Stanrics Haus, 26.3S,63.8W - Byrnstans Haus, 26.2S,63.9W - Methalle, 26.4S,63.9W - Die Stinkenden Höhlen, 28.0S,61.3W - Das Wuselnest, 26.5S,60.1W - Der Verlassene Hof, 29.5S,60.1W - Turm von Eorlsaue, 28.0S,59.9W)
+
+71 Gastfreundschaft in fremden Landen (Sabert, 25.7S,62.8W) -> 71 Probleme in Stangard (Stanric, 26.4S,63.9W) -> 71 Ein logischer Appell (Gadda, 26.3S,63.8W) -> 71 Instanz: Ein logischer Appell -> 71 Eine zugeflüsterte Erlaubnis -> 71 Weitere gute Taten für Stangard -> 71 Stanrics Widerstand -> 71 Instanz: Stanrics Widerstand -> ("Klagehügel") 71 Der Stein der Freundschaft
+Während 71 Probleme in Stangard: 71 Hungrige Menschen, hungrige Pferde (Gadda, 26.3S,63.8W)
+Während 71 Probleme in Stangard: 71 Gebrochene Gesetze (Byrnstan, 26.3S,63.9W)
+Während 71 Probleme in Stangard: 71 Biester vor den Türen (Sabert, 25.7S,62.8W)
+Während 71 Eine zugeflüsterte Erlaubnis: 71 Eine grüne Weite (Tatwine, 26.1S,63.6W)
+Während 71 Eine zugeflüsterte Erlaubnis: 71 Eine knurrende Bedrohung vor dem Tor (Sabert, 25.7S,62.8W)
+Nach 71 Ein logischer Appell: 71 Überreste der Jagd (Haufen Überreste, z.B. 27.3S,61.4W)
+71  Brüder verschlingen (Hundekadaver, z.B. 27.7S,61.5W)
+Nach 71 Eine zugeflüsterte Erlaubnis: 71 Nahrung für die Zukunft (Tatwine, 26.1S,63.6W)
+Nach 71 Eine zugeflüsterte Erlaubnis: 71 Böse Brut, 71 Eine glitschige Bedrohung (Sabert, 25.7S,62.8W)
+Nach Annahme von 71 Böse Brut und 71 Eine glitschige Bedrohung: 71 Schrecklicher Reißzahn (Drop von Uralter Felswurm, um 26.5S,60.1W)
+
+Nach ("Klagehügel") 71 Eine Nachricht aus Stangard: 72 Eine Wendung zum Schlechten (Sabert, 25.7S,62.8W) -> 72 Zukunftspläne (Gadda, 29.5S,60.1W) -> 72 Ein Freund unter ihnen -> 72 Beweis des Verrats (Swithulf, 28.0S,59.9W) -> 72 Beweise für falsches Spiel
+Nach 72 Eine Wendung zum Schlechten: 72 Eine bessere Zukunft (Tatwine, 29.4S,60.0W)
+Während 72 Beweis des Verrats: 72 Bruchstücke der Welt (Karte, 28.0S,60.0W)
+Während 72 Beweis des Verrats: 72 Etwas Blaues (Blauer Stofffetzen, 28.0S,59.9W)
+Während 72 Beweis des Verrats: 72 Entfernugsweiser (Flagge, 28.0S,59.9W)
+Während 72 Beweis des Verrats: 72 Eine Ratte aufspüren (Tote Ratte, 28.1S,59.9W)
+Nach 72 Eine bessere Zukunft und 72 Beweise für falsches Spiel: 72 Alles über den Tod (Gadda, 29.5S,60.1W) -> 72 Eine Untersuchung (Sabert, 25.7S,62.8W) -> 72 Eine kühne Flucht (Stanric, 26.2S,63.0W) -> 72 Instanz: Eine kühne Flucht -> ("Parth Celebrant") 73 Eine beunruhigende Verspätung (Stanric, 26.4S,63.9W)

@@ -1,0 +1,26 @@
+Wildermark: Die Krummhöhen (85)
+
+Erkundungstat (Thrymm Rotbarts Lager, 33.3S,58.3W - Scylfig, 33.6S,60.0W - Kadar-golnauk, 33.0S,61.2W - Fischwert, 33.8S,62.4W - Fushaum-dorám, 39.2S,56.8W - Wilde Distel, 36.2S,59.9W)
+
+85 Ausritt für Harding (Prinz Harding, 39.8S,52.8W) -> 85 Der schlimmste Winter seit Ewigkeiten (Thrymm Rotbart, 33.3S,58.4W)
+Nach Annahme von 85 Der schlimmste Winter seit Ewigkeiten: 85 Der tödliche Frost (Thrymm Rotbart, 33.3S,58.4W)
+Nach 85 Ausritt für Harding: 85 Ein kühles Willkommen (Orks, um 33.9S,58.3W)
+Nach Annahme von 85 Der schlimmste Winter seit Ewigkeiten: 85 Heulen im kalten Wind (Barghest, um 35.0S,58.1W)
+Nach Annahme von 85 Der tödliche Frost: 85 Klemmbackes Zorn (Automatisch, um 33.6S,59.2W)
+Nach 85 Der tödliche Frost: 85 Der Sturm kommt (Thrymm Rotbart, 33.3S,58.4W) -> 85 Hilfe für den Than und seine Tochter (Cynegar, 33.4S,59.7W)
+Nach Annahme von 85 Hilfe für den Than und seine Tochter: 85 Der edle Wächter (Cynegar, 33.4S,59.7W)
+Nach 85 Hilfe für den Than und seine Tochter und 85 Der edle Wächter: 85 Verteidigung von Scylfig (Cyneberg, 33.7S,59.9W) -> 85 Instanz: Scylfigs Verteidigung -> 85 Bitteres Tauwetter (Cyneberg, 33.5S,59.7W) -> 85 Die Suche nach Thrymm -> 85 Familiengeschichte, 85 In der Offensive (Gárwig, 37.8S,61.0W) -> 85 Trauer trübt das Urteilsvermögen -> 85 Der Zwischenfall am Tor -> 85 Instanz: Der Zwischenfall am Tor 
+Nach Annahme von 85 Die Suche nach Thrymm: 85 Blut im Schnee (Orks, um 33.0S,61.2W)
+Nach Annahme von 85 Familiengeschichte: 85 Gedenken an die Gefallenen (Automatisch, um 39.4S,59.2W)
+Nach Annahme von 85 Familiengeschichte: 85 Auf geweihtem Boden (Ork-Reiter, um 38.8S,58.5W)
+Nach Annahme von 85 Familiengeschichte: 85 Ruht in Frieden (Automatisch, um 37.4S,56.1W)
+Nach Annahme von 85 In der Offensive: 85 ...und der Körper wird sterben, 85 Die Entschlossenheit des Feindes schwächen (Automatisch, um 38.8S,57.1W)
+Nach Annahme von 85 In der Offensive: 85 Je größer sie sind... (Trolle, um 39.2S,56.8W)
+
+85 Der Kälte die Stirn bieten (Automatisch, um 35.3S,60.8W)
+85 Ein fernes Klagen (Glückloser Reisender, 33.1S,62.3W) -> 85 Die begrabene Wahrheit (Klagender Daegul, 34.5S,62.3W)
+Nach Annahme von 85 Ein fernes Klagen: 85 Zorn der Daegul (Automatisch, um 33.5S,62.4W)
+
+Nicht während ("Wildermark: Wiederaufbau") 85 Kampfgruppe II: Miesfittich (R): 85 Kampfgruppe: Miesfittich (R) (Automatisch, um 36.9S,57.5W)
+Nicht während ("Wildermark: Wiederaufbau") 85 Kampfgruppe II: Voz (R): 85 Kampfgruppe: Voz (R) (Automatisch, um 38.5S,58.1W)
+Nicht während ("Wildermark: Wiederaufbau") 85 Kampfgruppe II: Balcharan (R): 85 Kampfgruppe: Balcharan (R) (Automatisch, um 35.3S,60.6W)

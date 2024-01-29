@@ -1,0 +1,45 @@
+West-Rohan (85-95)
+
+Epos - Band III, Buch 11: Die Goldene Halle (Fortsetzung aus der Wildermark)
+86 Buch 11, Kapitel 3: Théoden, Sohn von Thengel (Háma, 62.3S,72.8W) -> 85 Instanz: Théoden, Sohn von Thengel -> 86 Buch 11, Kapitel 4: Gute und schlechte Nachrichten (Gandalf, 62.4S,72.8W) -> 86 Buch 11, Kapitel 5: Die Gemächer der Schlange (Háma, 62.3S,72.8W) -> 86 Buch 11, Kapitel 6: Der Käfig (Théoden, 62.4S,72.8W) -> 86 Buch 11, Kapitel 7: Die Befehle des Königs (Gandalf, 62.4S,72.8W) -> 85 Instanz: Die Befehle des Königs -> 86 Buch 11, Kapitel 8: Die Bewohner von Edoras (Éowyn, 62.0S,72.8W) -> 86 Buch 11, Kapitel 9: Die Saat des Verrats -> 86 Buch 11, Kapitel 10: Der König reitet gen Westen -> 85 Instanz: Der König reitet nach Westen
+
+Epos - Band III, Buch 12: Krieg in der West-Emnet
+88 Buch 12, Kapitel 1: Eine Nachricht für Hargtal (Éowyn, 62.0S,72.8W) -> 88 Buch 12, Kapitel 2: Zu nahe an Dunharg (Ellen Fremedon, 67.4S,73.7W) -> 89 Buch 12, Kapitel 3: In Éomers Abwesenheit (Horn, 66.9S,73.8W) -> 89 Buch 12, Kapitel 4: Die Verschwundenen (Arcil, 69.5S,64.0W) -> 89 Instanz: Die Verschwundenen -> 91 Buch 12, Kapitel 5: Die Augen von Edoras -> 89 Instanz: Die Augen von Edoras -> 91 Buch 12, Kapitel 6: Durch das Netz (Éowyn, 62.0S,72.8W) -> 91 Buch 12, Kapitel 7: Brennende Geheimnisse (Fríthild, 49.6S,70.4W) -> 92 Buch 12, Kapitel 8: Hügelstämme und Pferdeherren -> 92 Buch 12, Kapitel 9: Die Wahrsagerin (Herubrand, 46.9S,79.2W) -> 93 Instanz: Die Wahrsagerin -> 93 Buch 12, Kapitel 10: Gerüchte über den Krieg
+
+Epos - Band III, Buch 13: Die Schlacht um die Hornburg
+94 Buch 13, Kapitel 1: Landeskunde (Gamling der Ältere, 60.8S,88.8W) -> 94 Buch 13, Kapitel 2: Letzte Vorbereitungen (Aragorn, 64.0S,89.8W) -> 94 Buch 13, Kapitel 3: Eine lange Nacht -> 95 Buch 13, Kapitel 4: Helms Damm (Gamling, 68.9N,47.5W) -> 95 Buch 13, Kapitel 5: Eine notwendige Ermunterung (Aragorn, 68.9N,46.4W) -> 95 Instanz: Notwendige Worte -> 95 Buch 13, Kapitel 6: Auf dem Wall -> 95 Buch 13, Kapitel 7: Die Verteidigung der Klamm (Éomer, 69.2N,47.3W) -> 95 Buch 13, Kapitel 8: Geheime Wege (Aragorn, 68.9N,32.7W) -> 95 Instanz: Geheimwege -> 95 Buch 13, Kapitel 9: Die Glitzernden Grotten (Gimli, 73.1S,142.6W) -> 95 Buch 13, Kapitel 10: Die Hornburg (Aragorn, 68.9N,32.7W) -> 95 Buch 13, Kapitel 11: Der Morgen graut (Thurketel, 68.9N,18.8W)
+Während 95 Buch 13, Kapitel 4: Helms Damm oder während 95 Sagenhafte Geschichten von Helms Klamm: 95 Sagenhafte Geschichte: Helms Damm (Thenca, 68.9N,47.5W oder Cenric, 70.5N,17.4W)
+Während 95 Buch 13, Kapitel 6: Auf dem Wall oder während 95 Sagenhafte Geschichten von Helms Klamm: 95 Sagenhafte Geschichte: Der Klammwall (Thurketel, 68.8N,46.4W oder Cenric, 70.5N,17.4W)
+Während 95 Buch 13, Kapitel 7: Die Verteidigung der Klamm oder während 95 Sagenhafte Geschichten von Helms Klamm: 95 Sagenhafte Geschichte: Das Klammtal (Háma, 68.9N,32.7W oder Cenric, 70.5N,17.4W)
+Während 95 Buch 13, Kapitel 9: Die Glitzernden Grotten oder während 95 Sagenhafte Geschichten von Helms Klamm: 95 Sagenhafte Geschichte: Die Glitzernden Grotten (Éomer, 73.1S,142.6W oder Cenric, 70.5N,17.4W)
+Während 95 Buch 13, Kapitel 10: Die Hornburg oder während 95 Sagenhafte Geschichten von Helms Klamm: 95 Sagenhafte Geschichte: Die Hornburg (Cenric, 68.9N,32.7W oder Cenric, 70.5N,17.4W)
+Nach 95 Buch 13, Kapitel 11: Der Morgen graut: 95 Zwischenspiel: Der Torwächter (Gléowine, 69.2N,18.0W) -> 95 Zwischenspiel: Der Torwächter
+Nach 95 Buch 13, Kapitel 11: Der Morgen graut: 95 Sagenhafte Geschichten von Helms Klamm (Cenric, 70.5N,17.4W)
+
+Epos - Band III, Buch 14: Die Wasser von Isengart
+95 Buch 14, Kapitel 1: Die Schlacht ist gewonnen (Gandalf, 71.0N,17.5W) -> 95 Buch 14, Kapitel 2: Unerwartete Verbündete (Déorwine, 68.9N,18.3W) -> 95 Instanz: Unerwartete Verbündete -> 95 Buch 14, Kapitel 3: Der geflutete Ring (Aragorn, 54.4S,91.4W) -> 95 Buch 14, Kapitel 4: Tuk und Brandybock (Pippin, 47.7S,89.7W) -> 95 Buch 14, Kapitel 5: Haltet den Zauberer im Zaum (Aragorn, 47.7S,89.7W) -> 95 Buch 14, Kapitel 6: Die gefluteten Gruben (Gandalf, 45.6S,89.1W) -> 95 Buch 14, Kapitel 7: Lothrandir (Golodir, 70.4S,34.6E) -> 95 Instanz: Lothrandir -> 95 Buch 14, Kapitel 8: Verbündete des Königs (Halbarad, 44.5S,90.5W)
+Nach 95 Buch 14, Kapitel 4: Tuk und Brandybock: 95 Zwischenspiel: Die Versammlung (Merry, 47.7S,89.7W) -> 95 Zwischenspiel: Die Versammlung
+Nach 95 Buch 14, Kapitel 5: Haltet den Zauberer im Zaum: 95 Zwischenspiel: Der letzte Marsch der Ents (Baumbart, 45.6S,89.1W) -> 95 Zwischenspiel: Der letzte Marsch der Ents
+
+Epos - Band IV, Buch 1: Die Reise nach Gondor
+95 Buch 1, Kapitel 1: Die Heerschau von Rohan (Éowyn, 70.1S,71.3W) -> 95 Buch 1, Kapitel 2: Die Zügellosen Schatten (Radwine, 70.1S,71.2W) -> 95 Instanz: Die Zügellosen Schatten -> 95 Buch 1, Kapitel 3: Das Flüstern des Todes (Éowyn, 70.1S,71.3W) 
+
+Die Ballade von Bingo Boffin (Fortsetzung aus der Wildermark)
+90 Instanz: Personenverwechslung -> 92 Ein Pferd im Heuhaufen (Egwylf, 47.5S,79.2W) -> 93 Heimweh (Bingo Boffin, 53.9S,84.2W) -> 93 Willem Wollhaar und die weite Welt (Bingo Boffin, 63.2S,82.5W) -> 93 Eine Pechsträhne (Bingo Boffin, 83.6S,20.7W) -> 93 Schatz verloren, Schatz gefunden (Bingo Boffin, 83.5S,20.7W) -> 93 Instanz: Schatz verloren, Schatz gefunden -> 93 Natürlich mehrere Gänge! (Bingo Boffin, 66.9S,16.8W) -> 93 Heimweh und andere Krankheiten (Bingo Boffin, 62.2S,22.8W) -> 93 Durch die Blockade -> 93 Instanz: Durch die Blockade -> 93 Bingos Heimkehr (Bingo Boffin, 34.8S,51.7W) -> 93 Handgeschrieben, persönlich überbracht (Bingo Boffin, 33.0S,75.1W) -> 93 Das perfekte Rezept
+
+Nur bis Abschluss von ("Königsstatt") 88 Der Weg nach Dunharg: Edoras
+Nach ("Königsstatt") 86 Die Wogen glätten: 87 Edoras: Unter Herrin Éowyns Leitung (Éowyn, 62.0S,72.8W) -> 86 Instanz: Unter Herrin Éowyns Leitung -> 87 Edoras: Umzug einer Stadt -> 87 Edoras: Königliche Unordnung, 87 Edoras: Ein letzter Blick (Witwyn, 62.3S,72.8W) -> 87 Edoras: Eine trostlose Aussicht -> 87 Edoras: Ermunterung tut Not -> 86 Instanz: Ermunterung tut Not 
+Nach 87 Edoras: Unter Herrin Éowyns Leitung: 87 Edoras: Das verschwundene Kind (Théolac, 61.3S,73.6W) -> 87 Edoras: Geliebtes Tier (Fuchs, 63.4S,71.7W) -> 87 Edoras: Wagenreparatur (Théolac, 61.3S,73.6W)
+Nach 87 Edoras: Unter Herrin Éowyns Leitung: 87 Edoras: Ein letztes Auswerfen (Théolac, 61.3S,73.6W)
+Nach Annahme von 87 Edoras: Ein letztes Auswerfen: 87 Edoras: Der Alte Flusskönig (Alter Flusskönig, geangelt um 62.7S,74.7W)
+Nach 87 Edoras: Unter Herrin Éowyns Leitung: 87 Edoras: Das Brot des Wanderers (Léodferth, 61.5S,71.4W)
+Nach 87 Edoras: Unter Herrin Éowyns Leitung: 87 Edoras: Land- und Stadtflucht (Hektischer Bauer, z.B. 61.4S,71.4W)
+Nach 87 Edoras: Unter Herrin Éowyns Leitung: 87 Edoras: Poesie der Verzweiflung (Melancholischer Stadtbewohner, z.B. 60.9S,73.2W) -> 87 Edoras: Der melancholische Barde (Atwald, 60.7S,74.3W)
+Während 87 Edoras: Der melancholische Barde Objective #2: 87 Edoras: Eine unglückliche Last (Céolthyrth, 60.8S,74.1W)
+Nach Annahme von 87 Edoras: Umzug einer Stadt: 87 Edoras: Zwei Brüder (Britred, 61.1S,72.8W) -> 87 Edoras: Ein unbewohnbares Haus (Sigun, 61.1S,72.5W)
+Nach 87 Edoras: Zwei Brüder: 87 Edoras: Die letzten Gedanken eines Vaters (Schubladen, 61.0S,72.5W)
+Während 87 Edoras: Die letzten Gedanken eines Vaters Objective #12: 87 Edoras: Das Kästchen (Schatulle, 61.0S,72.5W) [rot, grün, violett, blau]
+Nach 87 Edoras: Umzug einer Stadt: 87 Edoras: Gewebte Geschichte (Wandteppiche, 62.3S,72.8W)
+
+("Epische Schlachten - Die Verteidigung Rohans")
+94 Epische Schlachten: Grundtraining (R) (Gamling, 68.9N,47.5W) -> 10 Epische Schlachten: Grundtraining

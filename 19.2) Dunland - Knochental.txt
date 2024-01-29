@@ -1,0 +1,17 @@
+Knochental (66-67)
+
+Erkundungstat (Echad Naeglanc, 77.3S,15.8W - Der Knochenbruch, 76.7S,15.0W - Plas-maru, 76.0S,14.4W - Lhan Goghled, 75.7S,17.7W - Lhan Bach, 76.6S,18.3W)
+
+66 Beunruhigende Kunde (Geheimnisvolle Notiz, 74.6S,17.7W)
+66 Niedertracht (Drop von Unholden, um 74.5S,16.8W)
+66 Geheimnisvolle Geschehnisse (Bledhun, 74.4S,16.6W) -> 66 Verstreute Gefährten (Caron, 74.1S,18.3W) -> 66 Die Dievlig aufstöbern, 66 Gesendete Botschaft, 66 Kleine Verschnaufpause (Bledhun, 74.4S,16.6W)
+Nach 66 Gesendete Botschaft: 66 Auferstehung der Vorfahren, 66 Ruhestätte (Bledhun, 74.4S,16.6W)
+Nach 66 Gesendete Botschaft und 66 Niedertracht: 66 Freunde und Feinde (Bledhun, 74.4S,16.6W) -> 66 Vermisste Personen (Haul, 77.3S,15.8W) -> 66 Instanz: Vermisste Personen -> 66 Blutige Nase (Naeglanc, 77.4S,15.9W) -> 66 Die Flut, 66 Ruhe finden -> 66 Werft das Joch ab (Ilar, 76.0S,14.9W)
+Nach Annahme von 66 Vermisste Personen: 66 Taten und Worte (Drop von Dievlig-Wachen um 75.7S,17.7W)
+Nach 66 Instanz: Vermisste Personen: 66 So sieht der Fall aus (Drop von Untoten, um 76.7S,15.0W) -> 66 Kettenglied (Ilar, 76.0S,14.9W)
+Nach 66 Werft das Joch ab und 66 Kettenglied: 66 Bringt Neuigkeiten (Ilar, 76.0S,14.9W) -> 66 Übles Spiel (Naeglanc, 77.4S,15.9W) -> 66 Instanz: Übles Spiel, 66 Instanz: Den Weg freiräumen -> 66 Letzte Ruhe, 66 Verstreut die Asche
+Nach 66 Instanz: Übles Spiel: 66 Gefäß zerbrochen (Zerschmettertes Gefäß, 76.7S,13.8W) -> 66 Neue Hoffnung (Mair, 76.9S,14.2W) -> 66 Holt die Banner ein (Lhucu, 76.2S,18.0W) -> 66 Durchbrecht die Wachen, 66 Erbeutet die Vorräte -> 66 Aufstieg und Fall -> 66 Instanz: Aufstieg und Fall
+Nach 66 Neue Hoffnung: 66 Bringt Hoffnung, 66 Bezwingt die Aufseher (Lhucu, 76.2S,18.0W)
+Nur während 66 Instanz: Aufstieg und Fall: 66 Rückkehr zu den Hügelgräbern, 66 Hebt den Einfluss auf (Automatisch)
+Nach 66 Aufstieg und Fall: 67 Nach Trum Dreng (Lhucu, 76.2S,18.0W)
+Bis Abschluss von ("Dunland: Pren Gwydh") 67 Die blockierten Zuleitungen und nach 66 Aufstieg und Fall: ("Dunland: Pren Gwydh") 67 Vom Knochental nach Galtrev (Lhucu, 76.2S,18.0W)

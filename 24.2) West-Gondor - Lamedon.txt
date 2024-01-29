@@ -1,0 +1,35 @@
+West-Gondor: Lamedon (97-98)
+
+Dínadab
+Erkundungstat (Dínadab, 63.6S,59.3W - Banditen-Lager, 63.9S,61.6W - Tathrendalf, 62.4S,56.8W)
+Bezwingertat (Banditen, um 63.9S,61.6W - Korsaren, um 62.4S,56.8W)
+97 Ein Tag Arbeit gegen Kost und Logis (Gladion, 63.2S,59.8W) -> 97 Ein hart erarbeitetes Mahl -> 97 Instanz: Ein hart erarbeitetes Mahl -> 97 Die Hilfe der Heilerin (Heilerin, 63.5S,59.1W) -> 97 Eine Tasche voller Geheimnisse (Limril, 63.3S,59.8W) -> 97 Wachsende Verzweiflung (Fuirion, 63.3S,59.8W) -> 98 Gefahr von der Küste (Stadtbewohner, 63.4S,59.6W) -> 98 Vermisst (Limril, 63.1S,59.3W) -> 98 Ein Leben hängt an einem seidenen Faden (Fuirion, 62.1S,56.9W) -> 98 Instanz: Ein Leben hängt an einem seidenen Faden -> 98 Lothgobel und Berichte von Korsaren (Limril, 63.3S,59.8W)
+Nach Annahme von 97 Ein Tag Arbeit gegen Kost und Logis: 97 Bedrohliche Nähe (Automatisch, um 63.3S,59.7W)
+Nach Annahme von 97 Eine Tasche voller Geheimnisse: 97 Keine Zuflucht für Banditen, 97 Gewalt in Lamedon (Automatisch, um 63.9S,61.6W)
+Während 97 Eine Tasche voller Geheimnisse: 97 Der Brief (Automatisch, um 63.8S,61.6W)
+Während 97 Wachsende Verzweiflung: 97 Túmirs großes Abenteuer (Túmir, 63.3S,59.8W)
+Während 97 Wachsende Verzweiflung: 97 Die Sorge einer Nichte (Míreth, 63.3S,59.8W)
+Nach 98 Gefahr von der Küste: 97 Bootsmänner in den Reihen, 97 Waffenlager der Korsaren (Automatisch, um 62.4S,56.8W)
+Nach 98 Gefahr von der Küste: 97 Rauben und Plündern (Korsaren, um 62.4S,56.8W)
+98 Kampfgruppe: Corugwen die Gerissene (R) (Automatisch, um 62.2S,57.7W)
+
+Lothgobel
+Erkundungstat (Lothgobel, 64.0S,56.8W)
+Nach 98 Lothgobel und Berichte von Korsaren Objective #2: 98 Ein gewaltiger Rausch, 98 Im Rausch des Chaos' (Automatisch, 64.0S,57.5W)
+Nach 98 Lothgobel und Berichte von Korsaren Objective #2: 98 Jajax' Marken (Korsaren, 64.0S,57.5W oder 64.4S,56.8W)
+Nach 98 Lothgobel und Berichte von Korsaren Objective #2: 98 Geifernde Kriegsmeute (Automatisch, 63.9S,56.7W)
+Nach 98 Lothgobel und Berichte von Korsaren Objective #2: 98 Haus der Fäulnis (Verdorbenes Fleisch, 63.9S,56.7W)
+Nach 98 Lothgobel und Berichte von Korsaren Objective #2: 98 Gefangene der Korsaren, 98 In den Fängen der Freibeuter (Automatisch, 64.4S,56.8W)
+Nach 98 Lothgobel und Berichte von Korsaren: 98 Eine Sache des Respekts (Jajax, 64.3S,57.1W) -> 98 Verhandlungen -> 98 Instanz: Verhandlungen
+Während 98 Eine Sache des Respekts Objective #2: 98 Das Wetttrinken (Damkalb, 64.3S,57.1W)
+
+Calembel
+Erkundungstat (Calembel, 67.2S,56.0W - Gefallenes Leuchtfeuer, 71.1S,54.5W - Maegond, 72.8S,58.4W)
+98 Kopfgeld: Candúrs Flucht (Kopfgeld: Candúrs Flucht, 67.0S,56.0W)
+98 Kopfgeld: Hühnerdieb (Kopfgeld: Hühnerdieb, 67.0S,55.8W)
+98 Kopfgeld: Rettung eines Vermögens (Kopfgeld: Banküberfall, 67.3S,56.2W)
+Nach 98 Verhandlungen: 98 Die Heimat wartet (Laindir, 67.1S,55.9W) -> 98 Eine ungewöhnliche Bitte
+Während 98 Eine ungewöhnliche Bitte Objective #3: 98 Jajax' Rache (Jajax, herbeibeschworen)
+Nach 98 Jajax' Rache: 98 Nachricht von Lamedon (Jajax, 69.7S,58.3W)
+98 Kampfgruppe: Alter Schnapper (R) (Automatisch, 65.5S,55.1W)
+98 Kampfgruppe: Der Große Bulle (R) (Automatisch, 67.2S,57.6W)

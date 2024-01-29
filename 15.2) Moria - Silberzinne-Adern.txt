@@ -1,0 +1,26 @@
+Silberzinne-Adern (52)
+
+Der Tiefe Abgrund
+Erkundungstat (Der Tiefe Abgrund, 9.8S,112.6W - Gamil Filik, 10.4S,111.2W)
+52 Feinde des Tiefen Abgrunds (Thettmárr, 9.8S,112.7W)
+52 Erzproben I: Der Tiefe Abgrund (Styrr, 9.9S,112.7W)
+52 Verlorener Zwerg (Styrr, 9.9S,112.7W) -> 52 In der Klemme (Flík, 10.9S,112.2W)
+52 Gesetzlosigkeit unter den Bilwissen, 52 Rüstungen aus der Tiefe (Stíling, 10.4S,111.9W) -> 52 Steinfalle -> 52 Die gewundene Straße entlang (Thettmárr, 9.8S,112.7W)
+52 Der zerbrochene Kristall (Kristallfragment, Drop von Bilwissen um 10.3S,111.3W)
+Nach 52 Der Tiefe Abgrund wartet: ("Durins Weg") 52 Zur Kammer des Scheidewegs (Thettmárr, 9.8S,112.7W)
+
+Menem-berej und die alte Silberzinne-Stadt
+Erkundungstat (Menem-berej, 11.0S,112.8W - Grubensprung, 11.0S,112.9W - Die alte Silberzinne-Stadt, 11.9S,111.2W)
+52 Die Minenbauer von Menem-berej, 52 Rückeroberung der Plattform (Thalfar, 10.6S,113.3W) -> 52 Erleuchtet die Grube
+52 Glänzende Aussichten, finstere Schienen (Gufi, 10.7S,113.3W) -> 52 Zu schnell gegraben -> 52 Instanz: Zu schnell gegraben
+Nach 52 Zu schnell gegraben und 52 Erleuchtet die Grube: 52 Soris Erkundung (Thalfar, 10.6S,113.3W)
+52 Neues Licht auf den Gleisen (Moria-Spiegel, 11.3S,112.5W)
+52 Leuchtender Schleim (Sori, 11.8S,113.0W)
+Nach 52 Erzproben I: Der Tiefe Abgrund: 52 Erzproben II: Der Minenschacht (Sori, 11.8S,113.0W) -> 52 Erzproben III: Der Tunnel
+Nach 52 Leuchtender Schleim und 52 Erzproben III: Der Tunnel: 52 Ein Minenbauer wird vermisst (Sori, 11.8S,113.0W) -> 52 Öndótt folgen
+52 Die Farben der Kristalle, 52 Unerwünschte Tunnelbauer (Öndótt, 11.9S,110.9W) -> 52 Erzproben IV: Die alte Silberzinne-Stadt -> 52 Der Tiefe Abgrund wartet
+52 Zwergdrachen in der alten Silberzinne-Stadt (Öndótt, 11.9S,110.9W)
+
+
+
+

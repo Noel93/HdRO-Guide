@@ -1,0 +1,232 @@
+Moria (50-60)
+
+Epos - Band II, Buch 2: Echo in der Dunkelheit (Fortsetzung aus Eregion)
+53 Vorwort - Buch 2: Echo in der Dunkelheit (Tulk, 8.0S,116.1W) -> 53 Buch 2, Kapitel 1: Neue Bewohner (Bósi, 5.1S,112.1W) -> 53 Kapitel 2: Die Lagerhäuser der Westlichen Hallen -> 53 Kapitel 3: Zigilburk die Unvergleichliche -> 53 Kapitel 4: Feinde in der ewigen Finsternis (Bori, 5.1S,111.9W) -> 53 Kapitel 5: Ein halbes Rätsel -> 54 Kapitel 6: Bilwisse in den westlichen Hallen (Brogur, 5.1S,111.9W) -> 54 Kapitel 7: Der leere Gang (Bósi, 5.1S,112.1W) -> 54 Instanz: Der leere Gang -> 54 Kapitel 8: Die einundzwanzigste Halle
+
+Epos - Band II, Buch 3: Der Herr von Moria
+56 Buch 3, Kapitel 1: Ein übereifriger Entdecker (Brogur, 6.5S,105.4W) -> 56 Kapitel 2: Fern der Heimat -> 56 Kapitel 3: Die Kammer von Mazarbul -> 56 Kapitel 4: Ein Groll gegen Bilwisse (Bósi, 5.1S,112.1W) -> 56 Kapitel 5: Warnende Worte -> 57 Kapitel 6: Genug Ehre für Beide (Brogur, 6.5S,105.4W) -> 57 Kapitel 7: Die Weiße Hand in der Finsternis (Bori, 6.5S,105.4W) -> 57 Instanz: Die Weiße Hand in der Finsternis -> 57 Kapitel 8: Mazogs langer Arm (Brogur, 6.5S,105.4W) -> 57 Kapitel 9: Wir können nicht hinaus (Bósi, 5.1S,112.1W) -> 57 Instanz: Wir können nicht hinaus
+Während 57 Kapitel 6: Genug Ehre für Beide: 57 Kapitel 6: Die Planung des weisesten Angriffs, 57 Kapitel 6: Die Furchtlosesten aller Zwerge, 57 Kapitel 6: Die Schärfsten aller Waffen (Bori, 6.5S,105.4W)
+
+Epos - Band II, Buch 4: Feuer und Wasser
+58 Buch 4, Kapitel 1: Vorbereitungen für die westlichen Hallen (Bósi, 5.1S,112.1W) -> 58 Kapitel 2: Bósis Empfehlung -> 58 Kapitel 3: Vorbereitungen für das Feuerherz (Stóthkell, 11.0S,112.9W) -> 58 Kapitel 4: Eilt zur Einundzwanzigsten Halle -> 58 Kapitel 5: Ins Feuer (Brogur, 6.5S,105.4W) -> 59 Kapitel 6: Boris Verdacht -> 59 Kapitel 7: Die Versunkene Schatzkammer (Bori, 6.5S,105.4W) -> 59 Instanz: Die Versunkene Schatzkammer -> 59 Kapitel 8: Bróins Geschichte
+Während 58 Buch 4, Kapitel 1: Vorbereitungen für die westlichen Hallen: 58 Kapitel 1: Aufrechterhaltung der Versorgungslinien (Slóthi, 5.2S,112.2W)
+Während 58 Buch 4, Kapitel 1: Vorbereitungen für die westlichen Hallen: 58 Kapitel 1: Auf dem Grund des Brunnens (Thálfi, 5.1S,112.0W)
+Während 58 Buch 4, Kapitel 1: Vorbereitungen für die westlichen Hallen: 58 Kapitel 1: Das Auskundschaften der Zugangswege (Sigdan, 5.2S,112.0W)
+Während 58 Kapitel 3: Vorbereitungen für das Feuerherz: 58 Kapitel 3: Läufer in den Tiefen (Rink Starkhammer, 11.0S,112.9W)
+Nach Annahme von 58 Kapitel 3: Vorbereitungen für das Feuerherz: 58 Kapitel 3: Auf der Suche nach Waffen (Wafi, 11.0S,112.9W)
+
+Epos - Band II, Buch 5: Trommeln in der Tiefe
+59 Buch 5, Kapitel 1: Mazogs Vermächtnis (Bróin, 2.9S,107.2W) -> 59 Kapitel 2: Eine größere Macht (Glúmur, 9.1S,101.5W) -> 59 Kapitel 3: Mazog -> 59 Instanz: Mazog -> 59 Kapitel 4: Die Sorgen von Khazad-dûm (Brogur, 13.6S,112.0W) -> 59 Kapitel 5: Trommeln in der Tiefe (Bósi, 5.1S,112.1W)
+Während 59 Kapitel 5: Trommeln in der Tiefe: 59 Kapitel 5: Der Kampf um den Tiefweg (Brogur, 13.6S,112.0W) -> 59 Kapitel 5: Der Kampf um den Weg der Schmiedemeister (Stóthkell, 11.0S,112.9W) -> 59 Kapitel 5: Der Kampf um die Einundzwanzigste Halle (Wíli, 6.2S,105.8W)
+
+Epos - Band II, Buch 6: Die Schattenkluft
+60 Buch 6, Kapitel 1: Verzweifelte Zeiten (Bósi, 5.1S,112.1W)
+
+Die Ballade von Bingo Boffin (Fortsetzung aus Eregion)
+53 Willem übernimmt die Führung (Spalvi Starkherz, 8.1S,112.3W) -> 56 Bingos zerstreute Gedanken (Spalvi Starkherz, 3.4S,103.3W) -> 58 Ein Lebewohl (Bingo Boffin, 5.5S,105.0W) -> 60 Ein Kapitel über Elben (Bingo Boffin, 11.6S,79.7W) -> 60 Instanz: Ein Kapitel über Elben
+
+Die Großbinge
+54 Die Ausbildungshalle (R) (Fastarr, 8.5S,112.3W) -> 54 Instanz: Die Ausbildungshalle
+57 Die Geisterschmiede (R) (Fastarr, 8.5S,112.3W) -> 57 Instanz: Die Geisterschmiede
+60 Das Spinnennest (R) (Fastarr, 8.5S,112.3W) -> 60 Instanz: Das Spinnennest (R)
+54 Die Mithril-Sklaven (R) (Mundgeirr, 8.5S,112.3W) -> 54 Instanz: Die Mithril-Sklaven (R)
+57 Die Ausgestoßenen der Merrevail (R) (Mundgeirr, 8.5S,112.3W) -> 57 Instanz: Die Ausgestoßenen der Morroval
+60 Das Stahlarchiv (R) (Mundgeirr, 8.5S,112.3W) -> 60 Instanz: Das Stahlarchiv
+51 Rätsel in der Bibliothek (Falgeirrs Papiere, 7.0S,111.2W)
+
+Silberzinne-Adern
+Nach 51 Rätsel in der Bibliothek: 52 Ein Rätsel in einer alten Stadt (Rätsel, 11.6S,111.0W) -> 52 Rätsel im Stein (Rätsel, 12.1S,111.1W)
+
+Durins Weg
+Nicht während 57 Mekeb-farak: Die Bücher werden geschlossen (R), 53 Bult-kâr: Die Wurzel des Übels (R), 57 Sejer-tharâkh: Ende gut, Ahlen gut (R), 53 Tumun-ghâr: Unser rechtmäßiger Besitz (R), 57 Fulz-zahar: Schutz für die Mine (R): 53 Mekeb-faham: Buchende (R) (Darri, 5.5S,108.9W)
+Während 53 Mekeb-faham: Buchende (R): 53 Mekeb-faham: Erfreuliche Worte (R), 53 Mekeb-faham: Wenn Gelehrte in den Kampf ziehen (R) (Darri, 5.5S,108.9W)
+Nicht während 53 Mekeb-faham: Buchende (R), 53 Bult-kâr: Die Wurzel des Übels (R), 57 Sejer-tharâkh: Ende gut, Ahlen gut (R), 53 Tumun-ghâr: Unser rechtmäßiger Besitz (R), 57 Fulz-zahar: Schutz für die Mine (R): 57 Mekeb-farak: Die Bücher werden geschlossen (R) (Orvar Stahlauge, 5.5S,108.9W)
+Während 57 Mekeb-farak: Die Bücher werden geschlossen (R): 57 Mekeb-farak: Ein gutes Buch (R), 57 Mekeb-farak: Lesen und Durchsuchen (R) (Orvar Stahlauge, 5.5S,108.9W)
+
+Zelem-melek
+Nach ("Epos - Band II, Buch 2: Echo in der Dunkelheit") 54 Kapitel 8: Die einundzwanzigste Halle und vor Beendigung von ("Epos - Band II, Buch 1: Die Mauern von Moria") 50 Der Untergang Morias: 50 Der Untergang Morias (Skygni, 5.7S,105.5W) -> 60 Instanz: Der Untergang Morias
+("Steinfundament") 59 Etwas Niederträchtiges (Veúlfur, 5.7S,105.3W)
+60 Albträume im Abgrund (Veúlfur, 5.7S,105.3W)
+60 Feinde Lothlóriens (Narfi, 5.7S,105.4W)
+Nach 51 Rätsel in der Bibliothek: 55 Rätsel in der Gruft (Rätsel, 5.9S,105.5W)
+55 Ein Schimmer in der Finsternis (Darri, 5.9S,105.2W) -> 55 Schwach, aber wild
+("Handwerkskunst") 1+ Handwerk gegen Staub (R) (Staub- und Funkenhändler, 5.8S,105.1W)
+Nicht während 53 Mekeb-faham: Buchende (R), 57 Mekeb-farak: Die Bücher werden geschlossen (R), 57 Sejer-tharâkh: Ende gut, Ahlen gut (R), 53 Tumun-ghâr: Unser rechtmäßiger Besitz (R), 57 Fulz-zahar: Schutz für die Mine (R): 53 Bult-kâr: Die Wurzel des Übels (R) (Burkni, 7.2S,104.7W)
+Während 53 Bult-kâr: Die Wurzel des Übels: 53 Bult-kâr: Allein auf weiter Flur (R), 53 Bult-kâr: Scharfe Begleitung (R) (Burkni, 7.2S,104.7W)
+Nicht während 53 Mekeb-faham: Buchende (R), 57 Mekeb-farak: Die Bücher werden geschlossen (R), 53 Bult-kâr: Die Wurzel des Übels (R), 53 Tumun-ghâr: Unser rechtmäßiger Besitz (R), 57 Fulz-zahar: Schutz für die Mine (R): 57 Sejer-tharâkh: Ende gut, Ahlen gut (R) (Torfi, 7.2S,104.7W)
+Während 57 Sejer-tharâkh: Ende gut, Ahlen gut: 57 Sejer-tharâkh: Eine hölzerne Geschichte (R), 57 Sejer-tharâkh: Spalten und Zerhacken (R) (Torfi, 7.2S,104.7W)
+
+Rothorn-Adern
+Nicht während 53 Mekeb-faham: Buchende (R), 57 Mekeb-farak: Die Bücher werden geschlossen (R), 53 Bult-kâr: Die Wurzel des Übels (R), 57 Sejer-tharâkh: Ende gut, Ahlen gut (R), 57 Fulz-zahar: Schutz für die Mine (R): 53 Tumun-ghâr: Unser rechtmäßiger Besitz (R) (Alwar, 13.1S,105.6W)
+Während 53 Tumun-ghâr: Unser rechtmäßiger Besitz (R): 53 Tumun-ghâr: Zurückgelassene Gegenstände (R), 53 Tumun-ghâr: Überfall im Steinbruch (R) (Alwar, 13.1S,105.6W)
+Nicht während 53 Mekeb-faham: Buchende (R), 57 Mekeb-farak: Die Bücher werden geschlossen (R), 53 Bult-kâr: Die Wurzel des Übels (R), 57 Sejer-tharâkh: Ende gut, Ahlen gut (R), 53 Tumun-ghâr: Unser rechtmäßiger Besitz (R): 57 Fulz-zahar: Schutz für die Mine (R) (Hersiir, 13.1S,105.7W)
+Während 57 Fulz-zahar: Schutz für die Mine (R): 57 Fulz-zahar: Break Through (R), 57 Fulz-zahar: A Miner's Companion (R) (Hersiir, 13.1S,105.7W)
+
+Die Lodernden Tiefen
+Nach 51 Rätsel in der Bibliothek: 57 Rätsel in den Flammen (Rätsel, 13.3S,108.1W) -> 57 Rätsel in der Wand (Rätsel, 15.4S,106.8W)
+
+Nud-melek
+55 Instructions in the Map (Truhe, 8.5S,103.9W) -> 57 Flame and Shadow (Geirfast, 5.9S,105.5W) -> 57 Instanz: Flamme und Schatten -> 58 The Secret of the Council -> ("Zelem-melek") 58 Instanz: Die innerste Kammer [Handschuhe > Ring > Fußspuren > Fluss > Sanduhr > Blatt > Karte]
+
+
+Der Kampf um den Tiefweg
+("Scharmützel") 55+ Scharmützel: Der Kampf um den Tiefweg (R)
+Nach einem Angriff: Spaltzunge (Ein Zischen nahe dem südlichen Bollwerk deutet auf Flüchtlinge aus dem Wasserwerk hin ...)
+Nach einem Angriff: Die vollgefressene Königin (Ein schreckliches Geräusch ertönt aus der nordwestlichen Ecke des zentralen Lagers ...)
+Nach dem ersten oder zweiten Angriff: Erdbrecher (Ein Grollen von jenseits des nördlichen Bollwerks kündigt einen Bruch in der Höhlenmauer an ...)
+Nach dem ersten oder zweiten oder vierten Angriff: Gâmûrz-ash (Undeutliches Gemurmel in der Schwarzen Sprache ertönt aus dem Tunnel jenseits des nördlichen Bollwerks ...)
+Nach dem ersten oder zweiten oder dritten Angriff: Brandschwanz (Die Temperatur jenseits des südlichen Bollwerks beginnt zu steigen, als Brandschwanz aus dem Wasserwerk herüberkommt ...)
+Nach dem ersten oder dritten Angriff: Verrückter Quaker (Ein kräftiges Quaken erschallt von jenseits des südlichen Bollwerks und kündigt das Erscheinen des verrückten Quakers an ...)
+Nach dem zweiten oder dritten oder vierten Angriff: Lhenathronil (Ein Gelege Spinneneier im Tunnel zum südlichen Bollwerk ist kurz vor dem Schlüpfen ... es muss zerstört werden.)
+Nach dem dritten Angriff: Faulschaum (Ein widerwärtig fauler Geruch geht von der südwestlichen Ecke des zentralen Lagers aus ...)
+
+Der Kampf um den Weg der Schmiede
+("Scharmützel") 55+ Scharmützel: Der Kampf um den Weg der Schmiedemeister (R)
+Nach dem ersten oder dem zweiten Angriff: Feuerherz (Stóthkell ruft: 'Die Feuer der östlichen Schmiede sind erloschen. Entfacht sie mit den Blasebälgen neu!')
+Nach dem ersten oder zweiten Angriff: Eisherz (Stóthkell ruft: 'Die Feuer der westlichen Schmiede sind erloschen. Entfacht sie mit den Blasebälgen neu!')
+Nach dem ersten oder dem zweiten Angriff: Durbrennil (Ein schrecklicher Gestank und ein fürchterliches Geräusch kündigen das Erscheinen der großen Spinne Durbrennil unterhalb der Plattform des Aufsehers an.)
+Nach dem zweiten Angriff: Fikûhom (Ein lauter Fluch in der Schwarzen Sprache von unterhalb der Plattform des Aufsehers kündigt das Erscheinen des Uruk-hai Fikûhom an, der das Feuerherz für Saruman beansprucht.)
+Nach dem dritten Angriff: Schattenherz (Stóthkell ruft: 'Die Feuer der nördlichen Schmiede sind erloschen. Entfacht sie mit den Blasebälgen neu!')
+Nach dem dritten Angriff: Celebarch (Die schlagenden Flügel und das Zischen von Schlangen unter der Plattform des Aufsehers deuten auf Zwergdrachen hin ...)
+Nach dem dritten Angriff: Sadâuk (Sadâuk lässt einen gurgelnden Schrei ertönen, als er in die Eingangshalle stürmt.)
+
+Der Kampf um die Einundzwanzigste Halle
+("Scharmützel") 55+ Scharmützel: Der Kampf um die Einundzwanzigste Halle (R)
+Während dem ersten Angriff: Morûrz-kala (Wíli ruft: 'Sammelt die Waffen der getöteten Orks und bringt sie in die Handwerkshalle!')
+Während dem ersten Angriff: Swangeir Golddieb (Ein Zwerg stürzt mit einem Murmeln durch die Tür der Auktionshalle und trägt eine Kiste gestohlener Güter. Haltet ihn auf, eher er entfliehen kann!)
+Nach dem ersten Angriff: Feuertöpfe der Bilwisse (Der Geruch von Schwefel und Gemurmel in der Schwarzen Sprache deuten auf Bilwisse hin, die in das Gewölbe eindringen wollen!)
+Während dem zweiten Angriff: Kalus (Ork-Bogenschützen auf dem Wall über der Süd-Barrikade greifen die Verteidiger an!)
+Nach dem zweiten Angriff: Throqûm (Ein feindlicher Späher wurde jenseits der Süd-Barrikade erblickt!)
+Nach dem dritten Angriff: Fodhroval (Ein schreckliches Kreischen erklingt jenseits der West-Barrikade!)
+Nach dem vierten Angriff: Helchnaeth (Ein kalter Luftzug strömt aus der südöstlichen Ecke der Kammer von Mazarbul!)
+Nach dem vierten Angriff: Der Schatten aus dem Herz der Welt (Ein schreckliches Poltern und das Geräusch schleifenden Steins schallt wie ein Donner aus der nordöstlichen Ecke der Kammer von Mazarbul!)
+
+
+Die Vergessene Schatzkammer
+Erkundungstat (Großer Edelstein, Drop von Orks - Haufen Goldmünzen, Drop von Orks - Kleine Schatztruhe, südöstlicher Schatzhaufen - Alte Vase, westlicher Schatzhaufen)
+Bezwingertat (Gegner - Bosse)
+56 Die vergessene Schatzkammer: Ein Relikt lang vergangener Zeiten (Falgir, 9.8S,112.8W) -> 56 Die vergessene Schatzkammer: Kenne deinen Feind -> 56 Dunkle Saboteure
+Nach 56 Die vergessene Schatzkammer: Kenne deinen Feind: 56 Verbrauchte Kristalle (Garthar, 9.8S,112.8W)
+Nach 56 Die vergessene Schatzkammer: Kenne deinen Feind: 56 Relikte und Münzen, 56 Skûm und Urauth (Hafberg, 9.8S,112.8W)
+56 Eine leere Klinge (Drop von den sechs ersten Bossen)
+
+Die Große Treppe
+Erkundungstat (Hochspitz-Zuchtstätten, 71.2N,137.6W - Nardurs Stellung, 71.8N,137.8W - Gothghaashs Posten, 71.9N,138.6W - Höhle der schlummernden Bestie, 71.8N,139.0W - Thron des Igash, 72.6N,138.2W - Schrift "Trommeln und die Bestie", Drop - Bericht der Hochspitz-Zuchtstätten, Drop - Gesuch der Getreuen, Drop - Schrift von Igash, Drop von Igash)
+Bezwingertat (Orks - Trolle - Bilwisse - Warge - Bosse)
+60 Die Große Treppe - Das Zeichen des Meisters (R) (Eilíefr, 5.7S,105.4W)
+60 Die Große Treppe - Igashs Peitsche (R) (Eilíefr, 5.7S,105.4W)
+60 Die Große Treppe - Großkampftag (R) (Geirr, 5.7S,105.3W)
+Während 60 Feinde Lothlóriens: 58 Stufen der Großen Treppe (Avar, 11.0S,106.8W)
+Während 58 Stufen der Großen Treppe: 58 Mazogs Lakaien (Avar, 11.0S,106.8W)
+Während 58 Mazogs Lakaien: 58 Der Eiferer und sein Ergebener, 58 Die versammelten Kriegsstreitkräfte (Avar, 11.0S,106.8W)
+Während 58 Stufen der Großen Treppe: 58 Die Warg-Reiter, 58 Ein Strich durch die Rechnung der Weißen Hand (Thithrand, 11.0S,106.8W)
+Während 58 Die Warg-Reiter: 58 Der Reiter und sein Reittier, 58 Hochspitz-Pirscher und -Ausbilder (Thithrand, 11.0S,106.8W)
+Während 58 Ein Strich durch die Rechnung der Weißen Hand: 58 Streitkräfte aus dem Süden, 58 Verräter unter uns (Thithrand, 11.0S,106.8W)
+Während 58 Stufen der Großen Treppe: 58 Die Feuer-Orks, 58 Die Trommeln (Ossur, 11.2S,106.7W)
+Während 58 Die Feuer-Orks: 58 Die lodernden Tiefen, 58 Herr der Flammen (Ossur, 11.2S,106.7W)
+Während 58 Die Trommeln: 58 Die Bestie war einmal, 58 Troll-Bändiger (Ossur, 11.2S,106.7W)
+("Verliese von Moria") 60 Herausforderung: Igash (täglich) (R) (Automatisch)
+("Zelem-melek") 58 Eine vertrocknete Hülle: Die Geschichte des Eiferers (Drop von Igash)
+
+Die Schmieden von Khazad-dûm
+Erkundungstat (Kette aus Khazad-Stahl, Drop von Uruks - Hammer aus Khazad-Eisen, Drop von Uruks - Verkohlter Schubkarren, neben Narkû - Zerschundener Pickel, neben Kranklûk)
+Bezwingertat (Orks - Bilwisse - Trolle - Bosse)
+60 Die Schmieden von Khazad-dûm - Kranklûks Zeichen (R) (Eilíefr, 5.7S,105.4W)
+60 Die Schmieden von Khazad-dûm - Befreiung der Schmieden (R) (Geirr, 5.7S,105.3W)
+Während 60 Feinde Lothlóriens: ("Die Lodernden Tiefen") 59 Eroberung der Vergangenheit (Pálmar, 13.4S,108.1W)
+Während ("Die Lodernden Tiefen") 59 Eroberung der Vergangenheit: ("Die Lodernden Tiefen") 58 Der schwarze Uruk von Moria (Pálmar, 13.4S,108.1W)
+Während ("Die Lodernden Tiefen") 59 Eroberung der Vergangenheit: ("Die Lodernden Tiefen") 59 Der schwarze Uruk der Schmiede (Raf, 13.4S,108.1W)
+Während ("Die Lodernden Tiefen") 59 Eroberung der Vergangenheit: ("Die Lodernden Tiefen") 59 Reste der Ruinen, ("Die Lodernden Tiefen") 59 Werkzeug vergangener Tage (Sigir, 13.4S,108.1W)
+("Verliese von Moria") 60 Herausforderung: Kranklûk (täglich) (R) (Automatisch)
+60 Die Illusion der Führung (Drop von Kranklûk)
+
+Fil Gashan
+Erkundungstat (Ork-Brustpanzer, Drop von Orks - Ork-Schulterplatte, Drop von Orks - Ork-Streitkolben, in der Küche - Ork-Axt, im Gang vorm letzten Boss links hinterm Eingang)
+Bezwingertat (Nahkampf-Orks - Fernkampf-Orks - Bosse)
+60 Fil Gashan - Der Ring des Generals (R) (Eilíefr, 5.7S,105.4W)
+60 Fil Gashan - Schwächung der Kriegstruppen (R) (Geirr, 5.7S,105.3W)
+Während 60 Feinde Lothlóriens: 60 Behinderung der Moria-Orks (Teitur, 13.4S,108.1W)
+Während 60 Behinderung der Moria-Orks: 60 Pläne einsammeln (Úlfur, 13.4S,108.1W)
+Während 60 Behinderung der Moria-Orks: 60 Fort mit der rechten Hand (Yngvi, 13.4S,108.1W)
+Während 60 Behinderung der Moria-Orks: 60 Besiegt die Leutnants, 60 Glocken zum Schweigen bringen (Vagun, 13.4S,108.1W)
+("Verliese von Moria") 60 Herausforderung: General Talug (täglich) (R) (Automatisch)
+60 Angst vor der Dunkelheit? (Drop von General Talug)
+
+Die Sechzehnte Halle
+Erkundungstat (Probe der bösartigen Sporen, Drop von Orks - Probe der schädlichen Sporen, Drop von Globsnaga - Probe der ansteckenden Sporen, Drop von Insekten - Probe der verseuchenden Sporen, Drop von dem Verlorenen)
+Bezwingertat (Orks - Globsnaga - Insekten - Bosse)
+60 Sechzehnte Halle - Das Fleisch des Verlorenen (R) (Eilíefr, 5.7S,105.4W)
+60 Sechzehnte Halle - Die Säuberung der Halle (R) (Geirr, 5.7S,105.3W)
+Während 60 Albträume im Abgrund: 60 Seuchenwind (Mallas, 12.9S,100.7W)
+Während 60 Seuchenwind: 60 Der Fungus unter uns (Glorelloth, 12.9S,100.7W)
+Während 60 Seuchenwind, nach Annahme von 60 Albträume im Abgrund: 60 Infizierte Proben (Pentlenn, 12.9S,100.7W)
+Während 60 Seuchenwind: 60 Der Anführer der Heere (Odmar, 13.1S,101.2W)
+Während 60 Seuchenwind: 60 Die abscheulichen Infizierten (Ymar, 13.2S,101.2W)
+Während 60 Seuchenwind: 60 Das Geheimnis in der Tiefe (Lar, 13.2S,101.2W)
+("Verliese von Moria") 60 Herausforderung: Der Verlorene (täglich) (R) (Automatisch)
+
+Schattenbinge
+Erkundungstat (Funkelnder Runenstein, Drop von Namenlosen - Gemeißelter Runenstein, Drop von Namenlosen - Trüber Runenstein, im Raum des zweiten Bosses - Uralter Runenstein, im Gang hinterm letzten Boss)
+Bezwingertat (Glühwürmchen - Namenlose - Bosse)
+60 Die Schattenbinge - Gegen das Böse (R) (Eilíefr, 5.7S,105.4W)
+60 Die Schattenbinge - Ein Licht in der Dunkelheit (R) (Geirr, 5.7S,105.3W)
+Während 60 Albträume im Abgrund: 60 In die wilde Dunkelheit (Gelirwen, 12.9S,100.7W)
+Während 60 In die wilde Dunkelheit: 60 Herr der Finsternis (Glorelloth, 12.9S,100.7W)
+Während 60 In die wilde Dunkelheit: 60 Zerbrochen und zerschmettert (Pentlenn, 12.9S,100.7W)
+Während 60 In die wilde Dunkelheit: 60 Ein grausames Glühen (Ymar, 13.2S,101.2W)
+Während 60 In die wilde Dunkelheit: 60 Was im Dunkel wartet (Moggi, 13.2S,101.2W)
+("Verliese von Moria") 60 Herausforderung: Gurvand (täglich) (R) (Automatisch)
+60 Kranke Drüse (Drop von Gurvand)
+
+Skúmfíl
+Erkundungstat (Zerfressenes Langschwert, gegenüber der Grube am Eingang - Besudelte Klinge, Drop von Kergrim - Sekretbedeckter Helm, Drop von Gredbyg - Abgenutzter Zwergenschild, im letzten Raum)
+Bezwingertat (Kergrim - Tiefenklauen - Gredbyg - Spinnen - Bosse)
+60 Skûmfil - Der Panzer der Grodbog-Königin (R) (Eilíefr, 5.7S,105.4W)
+60 Skûmfil - Der Zahn des Kergrim-Königs (R) (Eilíefr, 5.7S,105.4W)
+60 Skûmfil - Säubern der Kadaver (R) (Geirr, 5.7S,105.3W)
+Während 60 Albträume im Abgrund: 60 Totenschmaus (Throstur, 13.1S,101.2W)
+Während 60 Totenschmaus, nach Annahme von 60 Albträume im Abgrund: 60 Kergrim-Anführer (Odmar, 13.1S,101.2W)
+Während 60 Totenschmaus: 60 Befreiung von möglicher Krankheit (Ymar, 13.2S,101.2W)
+Während 60 Totenschmaus: 60 Infizierte Kergrim-Proben (Glorelloth, 12.9S,100.7W)
+Während 60 Albträume im Abgrund: 60 Leben von den Toten (Mallas, 12.9S,100.7W)
+Während 60 Leben von den Toten: 60 Eisenmagen (Pentlenn, 12.9S,100.7W)
+Während 60 Leben von den Toten: 60 Ein nützliches Gift (Lar, 13.2S,101.2W)
+Während 60 Leben von den Toten: 60 Schwarm-Verstand (Moggi, 13.2S,101.2W)
+("Verliese von Moria") 60 Herausforderung: Hwandrin (täglich) (R) (Automatisch)
+60 Das übelriechende Artefakt (Drop von Brúmbereth oder Grimmschnitter)
+60 Insekten bei den Sterbenden (Drop von Brúmbereth)
+
+Der Abscheuliche Schlund
+Erkundungstat (Verschimmelter Abenteurer, oben hinter der Treppe - Durchweichter Kaufmann, am Anfang des Wassers - Gefallener Krieger, links im großen Raum - Ertrunkener Minenbauer, hinten rechts im großen Raum)
+Bezwingertat (Tentakel - Boss)
+Nach ("Das Wasserwerk") 54 Bericht über die Ergebnisse: 60 Ein letzter Vorstoß (Kaldi, 17.6S,116.9W)
+
+
+Die Spiegelhallen von Lumul-nar
+Erkundungstat (Große Spiegelscherbe, im Gang hinterm ersten Spiegel - Gesprungene Spiegelscherbe, im Gang hinter Frostschwanz - Kleine Spiegelscherbe, im Hauptraum rechts vom Eingang - Zerbrochene Spiegelscherbe, im Gang hinterm Hauptraum - Zerschmetterte Spiegelscherbe, in Ergoths Raum)
+Bezwingertat (Merrevail, die weibliche im letzten Raum spawnt bei jedem Spiegel immer wieder männliche - Bosse)
+Während ("Lothlórien") 60 Der gute Wille der Galadhrim: ("Verliese von Lothlórien") 60 Halle der Spiegel: Zum verpesteten Lumul-nar (Hrólfur, 5.2S,112.0W)
+("Verliese von Lothlórien") 60 Lumul-nar: Der Fluch der Erleuchtung, 60 Lumul-nar: Die Sonne verdecken, 60 Lumul-nar: Die niederen Ringe (Frár, 5.2S,112.0W)
+("Verliese von Lothlórien") 60 Herausforderung: Ergoth (täglich) (R) (Automatisch)
+
+Die Wasserräder: Nalâ-dûm
+Erkundungstat (Farbenfrohe Pflanze, am Ende der ersten Wendeltreppe - Abnormale Pflanze, auf dem Gang in der zweiten Ebene - Seltsame Pflanze, hinterm Tor, welches sich nur zeitweise öffnet - Ungewöhnliche Pflanze, hinter einem Gitter im Westen, was sich mit einem der vorherigen Hebel öffnen lässt - Große Pflanze, im doppelten Treppenhaus die erste nach oben)
+Bezwingertat (Echsen, der erste Boss spawnt immer wieder welche - Bosse)
+Während ("Lothlórien") 60 Der gute Wille der Galadhrim: ("Verliese von Lothlórien") 60 Die Wasserräder: In das still stehende Nalâ-Dûm (Hrólfur, 5.2S,112.0W)
+("Verliese von Lothlórien") 60 Nalâ-dûm: Bedrohung von Nalâ-dûm, 60 Nalâ-dûm: Eine große Menge Schmutz, 60 Nalâ-dûm: Panzerrüstung (Dór, 5.2S,112.0W)
+("Verliese von Lothlórien") 60 Herausforderung: Caeryg (täglich) (R) (Automatisch)
+
+Hallen der Handwerkskunst
+Erkundungstat (Übervolle Vorratskiste, im Raum von Âmbal - Seltsam geformte Vorratskiste, auf der Steinbrücke rechts - Undichte Vorratskiste, am Anfang der dritten Ebene - Aufgebrochene Vorratskiste, hinten rechts im großen Raum der dritten Ebene - Abgedeckte Vorratskiste, im Raum von Thaguzg)
+Bezwingertat (Ork-Nahkämpfer - Ork-Fernkämpfer - Bosse)
+("Verliese von Lothlórien") 60 Hallen der Handwerkskunst: Abscheuliche Tränke, 60 Hallen der Handwerkskunst: Rettenswerte Vorräte (Gornellon, 16.9S,109.4W)
+("Verliese von Lothlórien") 60 Hallen der Handwerkskunst: Handwerker des Bösen, 60 Hallen der Handwerkskunst: Schmiedemeister (Baranglim, 16.9S,109.4W)
+("Verliese von Lothlórien") 60 Herausforderung: Thaguzg (täglich) (R) (Automatisch)
+
+Dâr Narbugud
+Erkundertat (Übelriechender roter Pilz, im Raum von Rung und Blagh - Seltsamer blauer Pilz, im Gang nach unten - Andersartiger Pilz, im Raum von Zholuga - Farbenfroher Pilz, hinterm mittleren Portal - Unterschiedlicher Pilz, im Gang zur Fürstin der Plagen)
+Bezwingertat (Orks - Trolle - Namenlose - Bosse)
+("Verliese von Lothlórien") 60 Dâr Narbugud: Bastionen des Verderbens (Donfuin, 16.2S,96.8W) -> 60 Dâr Narbugud: Waffenmeister mit Ansteckungsgefahr -> 60 Dâr Narbugud: Die Tiefen der Welt
+("Verliese von Lothlórien") 60 Dâr Narbugud: Eine eingedämmte Seuche (Donfuin, 16.2S,96.8W) -> 60 Dâr Narbugud: Reinigung von der Fungus-Verseuchung
+("Verliese von Lothlórien") 60 Dâr Narbugud: Giftige Dämpfe (Donfuin, 16.2S,96.8W)
+("Verliese von Lothlórien") 60 Dâr Narbugud: Die verwirrende Inschrift (Drop von Namenlosen)

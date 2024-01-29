@@ -1,0 +1,93 @@
+Forochel (44-50)
+
+(Fortsetzung aus Evendim)
+Band 1, Buch 13: 50 Die Gunst des Häuptlings (Lassi, 19.5N,72.0W) -> {50 Geschenk der Ausdauer, 50 Geschenk der Stärke, 50 Geschenk der Weisheit} -> 50 Die Hand Angmars -> 50 Instanz: Die Hand Angmars -> 50 Der Mythos des Monsters -> 50 Die Zwergenminen -> 50 Der verschollene Seemann -> 50 Ein düsterer Sturm -> {50 Eine eisige Prüfung, 50 Geister von Angmar} -> 50 Auf Aearils Spur -> 50 Instanz: Auf Aearils Spur -> 50 Triumphale Rückkehr -> 50 Gen Süden auf der Suche nach Narchuil
+Band 1, Buch 14: 50 Der lange Weg nach Süden (Laerdan, 29.8S,3.4W) -> {50 Viele Vorräte, 50 Das Ross Arel, 50 Die Wappen von Lindon -> 50 Instanz: Die Wappen von Lindon} -> 50 Laerdans Spur -> 50 Suche nach Motiven -> 50 Der Gefangene von Sammath Baul -> 50 Instanz: Der Gefangene von Sammath Baul -> 50 Laerdans Untergang -> 50 Laerdans Schicksal -> 50 Instanz: Laerdans Schicksal -> 50 Der Zahn der Zeit -> 50 Die Hügelgräber von Haudh Iarchith -> 50 Auf Angmars Spuren -> 50 Der große Blasebalg von Mirobel -> 50 Bregmors Haut -> 50 Instanz: Bregmors Haut -> 50 Zerschlagene Hoffnungen -> 50 Die schwere Last
+
+Kauppa-kohta / Taur Orthon
+44 Gewandt bleiben (Mainio, 2.4N,58.1W) -> 44 Rohstoffe (Eija, 3.0N,58.2W) -> 44 Der Schlittenbau
+Nach 44 Rohstoffe: 44 Eine klitzekleine Bedrohung (Mainio, 2.4N,58.1W)
+44 Tägliche Verteidigung (Santtu, 2.8N,58.0W) -> 44 Wölfe vor der Tür (Urho, 4.1N,59.9W) -> 45 Das Muttertier
+44 Der Rabe (Cenlieg, 3.0N,58.1W) -> 44 Hungriger Bärenfreund -> 45 Das beste Stück
+44 Eine Probejagd (Valtteri, 3.5N,58.2W) -> 44 Die Jagd hat begonnen -> 45 Vertreiben der Bestien
+Nach 44 Die Jagd hat begonnen: 45 Ein Starren aus der Wildnis (Mirja, 3.5N,58.2W)
+Nach 44 Der Schlittenbau, 45 Das Muttertier oder 45 Vertreiben der Bestien: 45 Vormarsch (Santtu, 2.8N,58.0W oder Eija, 3.0N,58.2W oder Valtteri, 3.5N,58.2W)
+
+Pynti-peldot / Itä-mâ
+Erkundungstat (Pynti-leiri, 8.8N,70.5W - Das Einsame Gemäuer, 13.6N,74.4W)
+Bezwingertat (Säbelzahntiger, um 6.8N,73.3W)
+45 Das Schwert meiner Schwester (Déornyd, 11.4N,69.8W) -> 47 Ein zersplittertes Schwert
+45 Widerwillige Anerkennung (Ora, 11.4N,69.5W) -> 46 Zwerge und Mammuts
+Während 45 Widerwillige Anerkennung: 45 Ein ehrenhaftes Ritual (Kaj, 11.4N,69.5W) -> 46 Bindende Bande -> 46 Instanz: Bindende Bande -> 46 Der Tau der Wintersonnenwende (Pinja, 8.9N,73.4W)
+Während 45 Widerwillige Anerkennung: 45 Rauch am Horizont (Lauri, 11.3N,69.5W) -> 46 Rückeroberung der Siedlung (Ida, 10.0N,69.6W)
+Während 45 Widerwillige Anerkennung: 44 Auf leisen Sohlen (Niko, 7.5N,75.4W) -> 45 Wieder ein magerer Winter -> 46 Die längsten Zähne
+Nach Annahme von 45 Widerwillige Anerkennung: 46 Eis am Ufer (Kimmo, 11.5N,69.9W) -> 46 Gravierter Tigerzahn
+Nach Annahme von 45 Widerwillige Anerkennung: 46 Überfälle durch die Gauredain (Heikki, 11.7N,69.8W)
+46 Erz für die Esse (R) (Turkka, 9.0N,70.8W) [wenn die Freien Völker Pynti-leiri halten]
+46 Heranschleichender Kilpa-Kita (R) (Átos, 9.0N,70.7W) [wenn die Freien Völker Pynti-leiri halten]
+
+Zigilgund / Länsi-mâ
+Erkundungstat (Norsu-leiri, 8.0N,79.9W - Zigilgund, 9.3N,81.1W - Eisbrecherminen, 8.9N,81.9W - Floid und Dewitt, 13.9N,82.1W)
+Bezwingertat (Grimmhands, Eisbrecherminen 8.9N,81.9W - Würmer, um 10.3N,82.6W - Grimmige, um 13.0N,79.6W)
+47 Drei Blätter im Wind (Burgthryth, 7.5N,75.5W) -> 48 Überspannte Saiten
+47 Vertreibt sie! (R) (Sampo, 8.0N,79.0W) [wenn die Freien Völker Norsu-leiri halten]
+47 Eine einfache Lösung (R) (Väinö, 8.0N,79.0W) [wenn die Freien Völker Norsu-leiri halten]
+47 Ungestörte Ruhe (Mika, 7.5N,80.5W)
+Nur bis Annahme von 47 Von großer Hilfe: 46 Ein Jäger auf Abwegen (Tero, 9.4N,81.0W)
+47 Von großer Hilfe (Juhani, 5.6N,79.2W)
+47 Wo die Norsu sterben (Sigrík, 9.3N,81.1W) -> 47 Weiß Mika mehr -> 47 Der Schutz der Norsu (Mika, 7.5N,80.5W	) -> 47 Angmarim-Zauberei
+47 Verlorene Murmeln (Warstang, 9.3N,81.1W) -> 47 Welcher Schurke raubt Schurken aus?
+47 Streugut auf dem Friedhof (Thórth, 9.4N,81.1W) -> 47 Der Schlüssel zu ihrer Gier -> 47 Arnmórth der Unerbittliche
+47 Ein heißes Pflaster (Weth, 9.4N,81.2W) -> 47 Die Ursache des Problems
+47 Nahrung für die Hungrigen (Ríki, 9.4N,81.2W)
+47 Grässliche Viecher (Keli, 9.4N,81.2W) -> 47 Die Mutter der Schneekreaturen
+Nach 47 Die Mutter der Schneekreaturen und 47 Nahrung für die Hungrigen: 47 Die Stadt im Eis (Fotri, 9.3N,81.1W)
+
+Sûri-kylä / Jä-rannit
+Erkundungstat (Karhu-leiri, 12.9N,66.3W - Der Eisenspan, 17.0N,59.3W - Sâri-surma, 19.5N,73.8W [Boot nehmen])
+Bezwingertat (Angmarim, um 17.0N,59.3W)
+48 Finstere Aussichten (R) (Raija, 12.9N,66.3W) [wenn die Freien Völker Karhu-leiri halten]
+48 Die Plünderung der Plünderer (R) (Oiva, 12.9N,66.2W) [wenn die Freien Völker Karhu-leiri halten]
+48 Fischers Feind, 48 Fischers Freund (Olavi, 17.5N,64.5W)
+47 Die Hirvi-Herde (Ilmo, 19.4N,70.2W) -> 47 Der Schutz der Herde -> 48 Der entlaufene Bulle
+47 Bedrohung aus dem Süden (Pasi, 19.0N,70.7W) -> 47 Schmerzliche Kälte -> 48 Eiswind
+48 Ein Held ohne Herold (Reginald Schutzler, 19.1N,70.8W) -> 48 Fallende Flaggen (Reginolds Beschützer, 14.8N,65.3W)
+47 Steine für das Dampfbad (Kaleva, 19.2N,70.9W)
+47 Der beste Schild im ganzen Land (Nef, 19.4N,71.3W) -> 48 Zeit für einen neuen Schild
+47 Leuchtfeuer im Schnee (Matti, 19.4N,71.3W) -> 47 Nachschub für das Leuchtfeuer -> 48 Angegriffen
+47 Leere Kühlkammer (Nôra, 19.5N,71.4W)
+47 Gegen die Kälte (Nôra, 19.5N,71.4W) -> 47 Ein wärmerer Winter -> 48 Winterkehraus
+48 Rituale aus uralten Zeiten (Jalmari, 19.4N,71.5W)
+48 Das Eisjuwel (Menikko, 19.5N,72.0W) -> 48 Angmars Lösegeld (Esko, 11.4N,69.7W) -> 49 Dem Juwel auf der Spur -> 49 Der Schatz der Lossoth
+49 Sklaven des Eises (Launo, 19.5N,72.0W) -> 49 Verbannte des Winters (Arre, 19.6N,83.8W) -> 50 Kalt wie der Tod (Nicca, 12.3N,79.4W)
+48 Der eisige Krieg (Vämmä, 19.5N,72.0W) -> 48 Jäger im blendenden Weiß -> 49 Der Anführer
+50 Geheimnisvolles Relikt in Forochel (Geheimnisvolles Relikt, 16.9N,59.5W)
+
+Kuru-leiri / Talvi-mûri
+Erkundungstat (Hylja-leiri, 18.2N,81.3W - Kibilzahar, 20.2N,85.0W)
+Bezwingertat (Gauredain, um 12.0N,82.8W)
+46 Meeresbeute (R) (Tapio, 18.2N,81.2W) [wenn die Freien Völker Hylje-leiri halten]
+50 Wurmsorgen (R) (Jyrki, 18.2N,81.3W) [wenn die Freien Völker Hylje-leiri halten]
+49 Thurmaers Glückspfeil (Thurmaer, 19.3N,83.7W) -> 49 Schicksalsschläge
+Nach Abschluss der Tat "Die verlorenen Gefährten": 50 Held der Verlorenen (Jeder der Gefährten)
+
+("Scharmützel") Die Eisige Kluft
+40+ Die Eisige Kluft (R)
+Nach Eroberung der ersten Schlucht: Mahti (Aus dem Süden ist ein Knurren zu hören.)
+Nach Eroberung der ersten Schlucht: Coflúg (Aus dem Nordwesten ist ein leises Schnarchen zu hören.)
+Nach Verteidigung der zweiten Schlucht: Crantok (Mehrere Gauradan-Totems stoßen in der zweiten Schlucht durch den Boden!)
+Nach Verteidigung der zweiten Schlucht: Veri-torvi (Aus dem Augenwinkel bemerkt Ihr kurz ein Fell im Norden.)
+Nach Eroberung der dritten Schlucht: Kôkas-joku (Aus der Schlucht im Norden hallt ein Grollen wider.)
+Nach Eroberung der dritten Schlucht: Mîthalagos (Jede Menge Klingen und Eisstürme im Westen.)
+Nach Eroberung der dritten Schlucht: Lapa-kita (Ein Rudel Säbelzähne lungert im Süden herum.)
+Nach Verteidigung der dritten Schlucht: Túgarch (Der Gestank einer verwesenden Leiche macht sich in der Schlucht breit.)
+
+Agoroth, die Schmale Senke
+Nach 50 Triumphale Rückkehr: 50 Der noch verweilt (Aragorn, 30.7S,6.2W) -> 50 Instanz: Dúnedain der Vergangenheit und Gegenwart -> 50 Wettlauf nach Agoroth (Lothrandir, 18.8N,81.3W) -> 50 Instanz: Die Macht von Schwüren -> 50 Agoroth, die Schmale Senke (Lothrandir, 7.2N,66.3W)
+Nach Agoroth, the Narrowdelve und ("Allegiance: The Kingdom of Gondor") 110 The King and the Stewart: 110 A King's Rest
+
+"Umherziehende Bedrohungen"
+Bosstat (20.6N,69.4W - 17.7N,67.0W - 12.3N,66.7W - 10.6N,72.7W - 14.2N,74.4W - 5.5N,74.5W - 7.9N,77.0W - 10.8N,79.5W - 12.6N,80.4W - 16.7N,86.3W - 18.7N,85.2W)
+Schatzspeicher (20.2N,74.1W - 15.7N,68.1W - 10.4N,65.7W - 12.6N,69.7W - 9.0N,70.8W - 13.9N,75.4W - 4.9N,77.3W - 6.2N,79.7W - 8.1N,78.9W - 9.2N,82.2W - 15.6N,88.2W - 20.1N,85.2W)
+100 Die umherziehenden Bedrohungen von Forochel (Automatisch, um 19.1N,70.6W)
+100 Umherziehende Bedrohung: Gronkerna, der versklavte Koloss (R), 100 Umherziehende Bedrohung: Krevchal, der grausame Häuptling (R), 100 Umherziehende Bedrohung: Mustarka, der heimtückische Unhold (R), 100 Umherziehende Bedrohung: Ukko Surma, der unsterbliche Riese (R) (Gellamiel, 14.5S,50.9W)

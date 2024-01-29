@@ -1,0 +1,23 @@
+Die Lodernden Tiefen (57)
+
+Anazârmekhem & Durins Hof
+Erkundungstat (Anazârmekhem, 13.3S,108.1W - Hadâd-mezer, 14.7S,107.6W - Hurmulkezer, 17.0S,107.1W)
+57 Einzige Überlebende (Bensi, 15.2S,106.1W oder Markthor, 16.2S,109.5W) -> 57 Überbringer schlechter Nachrichten (Toter Zwerg, 14.7S,107.9W) -> 57 Tiefste Tiefen (Hysing, 13.4S,108.1W) -> 57 Ein schwacher Hoffnungsschimmer (Feggi, 14.2S,109.6W) -> 57 Den Weg beleuchten (Gúthi, 16.2S,107.4W) -> 57 Das Treffen am Tor (Automatisch)
+Während 57 Einzige Überlebende: 57 Überschattete Hoffnung (Automatisch, um 14.7S,107.6W)
+Nach Annahme von 57 Tiefste Tiefen: 57 Orks von Ânghumu-ru, 57 Schmieden voraus, 57 Spaltet die Reihen (Automatisch, um 14.4S,109.1W)
+Nach Annahme von 57 Den Weg beleuchten: 57 Die Dezimierung, 57 Ihren Kampfgeist brechen (Automatisch, um 17.0S,107.1W)
+Während 57 Widersprüche in den Reihen: 57 Die Samen aussäen (Automatisch, um 15.8S,109.6W)
+57 Teile für einen listigen Plan (Gapi, 13.3S,108.1W oder Gerüststück, um 15.0S,106.4W)
+57 Grimmig und tödlich (Endrith, 13.3S,108.1W oder Feuergrimmige, z.B. um 15.0S,106.8W)
+("Handwerkskunst") 57 Handwerk: Metallspuren (R) (Myndil, 13.3S,108.1W)
+57 Widerschein der Flamme (Moria-Spiegel, 15.0S,107.8W)
+57 Helgi Bilwissfluchs Schulter (Statue - Schulterstück, 17.0S,107.3W)
+
+Aschenkreuzung
+Erkundungstat (Tor der Sieben Väter, 15.8S,108.6W - Die Aschenkreuzung, 15.8S,109.6W - Die Brennende Treppe, 15.8S,110.6W - Hudnul-meden, 16.8S,109.6W - Fil Gashan, 17.1S,109.6W - Die Schmieden von Khazad-dûm, 17.0S,109.7W)
+Nach 57 Das Treffen am Tor: 57 Widersprüche in den Reihen (Gúthi, 16.2S,109.7W) -> 57 Unreines Wissen -> 57 Beendet den Widerstand -> 57 Instanz: Den Widerstand einstellen -> 57 Die Tiefen verlassen
+57 Zu wenig Eisen (Ulfied, 16.3S,109.5W)
+57 Erhaltung der Brücken (Ulfied, 16.3S,109.5W oder Schutt, um 15.4S,109.6W)
+57 Da liegt unser Problem (Ölfun, 16.3S,109.7W)
+("Hauptmann") 58 Der Pfad der Heilenden Hände: Hilfe in der Not (R) (Waden, 16.4S,109.6W)
+("Kundiger") 58 Der Pfad des Uralten Meisters: Hilfe in der Not (R) (Hugi, 16.4S,109.6W)

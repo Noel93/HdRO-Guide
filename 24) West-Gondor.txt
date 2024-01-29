@@ -1,0 +1,41 @@
+West-Gondor (95-100)
+
+Pfade der Toten
+Erkundungstat (Kêr Izel, 44.8S,75.9W - Die Schatten-Wache, 44.1S,75.0W - Lenn Dûskud, 45.5S,75.4W - Kêr Bras, 44.8S,76.3W)
+Bezwingertat (Eidbrecher, um 45.5S,75.8W)
+
+"Epos - Band IV, Buch 1: Die Reise nach Gondor (Fortsetzung aus West-Rohan)"
+96 Buch 1, Kapitel 4: Auf Erech (Celegdal, 56.9S,67.6W) -> 96 Buch 1, Kapitel 5: Ein steiniger Weg (Rovalang, 58.1S,64.6W) -> 96 Buch 1, Kapitel 6: Der Kaufmann (Galengam, 67.2S,56.2W) -> 97 Buch 1, Kapitel 7: Die verlassene Zuflucht -> 97 Buch 1, Kapitel 8: Dorthaneth (Lathlorn, 71.8S,66.1W) -> 98 Buch 1, Kapitel 9: Eine Botschaft für Lothíriel (Dorthaneth, 74.3S,68.0W) -> 98 Buch 1, Kapitel 10: Bewahrer der Geschichte (Lothíriel, 74.4S,72.2W) -> 99 Buch 1, Kapitel 11: Die Schwanenritter -> 100 Buch 1, Kapitel 12: Der Schatten in Morthond (Rovalang, 58.1S,64.6W) -> 100 Instanz: Der Schatten im Morthond
+Nach 96 Buch 1, Kapitel 4: Auf Erech: 96 Zwischenspiel: Jene, die tot sind (R) (Rovalang, 58.1S,64.6W) -> 95 Instanz: Jene, die tot sind
+
+"Epos - Band IV, Buch 2: Tag ohne Morgen"
+100 Buch 2, Kapitel 1: Die Schiffe Gondors (Lothíriel, 74.4S,72.2W) -> 100 Buch 2, Kapitel 2: Zwei Boten (Kapitän Cirnaith, 75.5S,69.4W) -> 100 Buch 2, Kapitel 3: Balakhôr die Geißel (Lothíriel, 74.4S,72.2W) -> 100 Instanz: Balakhôr die Geißel
+
+"Umherziehende Bedrohungen"
+Bosstat (60.1S,70.9W - 60.3S,64.4W - 62.8S,61.1W - 62.2S,55.8W - 65.8S,53.9W - 76.8S,73.1W - 78.7S,69.0W - 77.0S,68.7W - 71.2S,64.6W - 71.4S,61.0W)
+Schatzspeicher (59.2S,68.5W - 61.8S,69.5W - 60.1S,66.9W - 60.6S,66.1W - 60.6S,64.1W - 57.2S,62.5W - 60.5S,57.7W - 62.5S,60.6W - 65.2S,61.0W - 65.6S,59.4W - 67.4S,54.5W - 72.9S,57.5W - 75.4S,59.4W - 76.5S,62.8W - 73.6S,64.8W - 77.2S,69.4W - 78.9S,69.4W - 76.5S,73.6W)
+100 Die umherziehenden Bedrohungen von West-Gondor (Automatisch, überall)
+100 Umherziehende Bedrohung: Amorchant, der geflügelte Tod (R), 100 Umherziehende Bedrohung: Haldalona, der abscheuliche Mornen (R), 100 Umherziehende Bedrohung: Mota, die Geißel von Umbar (R), 100 Umherziehende Bedrohung: Skorkaz, der herzlose Tote (R), 100 Umherziehende Bedrohungen: Gundlag, der Todestroll (R) (Aelnir, 75.5S,71.8W)
+
+"West-Gondor: Tarlangs Krone"
+100 Ein großer Feind (Elaglar, 75.2S,71.2W)
+100 Die Stärke des Feindes (Harnion, 70.5S,66.6W) -> 100 Die Suche nach den Erben -> 100 Der Plan der Geißel (Anweisungen von Azruthor, 67.5S,69.0W)
+Nach Annahme von 100 Die Stärke des Feindes: 100 Eine entwaffnende Strategie (Korsaren, um 69.0S,66.9W) -> 100 Hunde des Krieges (R) (Korsaren, um 69.0S,66.9W)
+Nach Annahme von 100 Die Suche nach den Erben: 100 Misslungene Täuschung (Harnion, 70.5S,66.6W) -> 100 Im Dienste der Erben (Gondren, 67.8S,68.6W) -> 100 Truchsess der Toten
+Nach Annahme von 100 Truchsess der Toten: 100 Die Dunkelheit von Númenor (Gondren, 67.8S,68.6W)
+Nach Annahme von 100 Truchsess der Toten: 100 Der Ursprung der Angst (R) (Eidbrecher, um 67.1S,69.1W) -> 100 Ein immerwährender Fluch (R)
+Nach 100 Der Plan der Geißel: 100 Die nördliche Front (Harnion, 70.5S,66.6W) -> 100 Tödliche Strömung (Melril, 63.2S,70.7W)
+Nach 100 Der Plan der Geißel: 100 Reineres Blut (R) (Umbarrim, um 67.7S,68.7W)
+Nach Annahme von 100 Deadly Torrents: 100 Gefahr im Schatten (Melril, 63.2S,70.7W) -> 100 Hungert sie aus (R) (Beutel mit Lebensmittel, um 67.2S,69.0W)
+Nach Annahme von 100 Deadly Torrents: 100 Gefangene des Tals (Melril, 63.2S,70.7W)
+Nach 100 Truchsess der Toten und 100 Die Dunkelheit von Númenor: 100 Der Erste unter den Erben (Harnion, 70.5S,66.6W) -> 100 Instanz: Der Erste unter den Erben [benötigt Tat "Aufgaben von Tarlangs Krone"]
+
+"Die Totensümpfe"
+100 Weit weg von der Heimat (Dorthaneth, 74.3S,68.0W) -> 100 Die Befehle der Orks (Artamir, 30.2S,11.4W) -> 100 Gefahr in den Sümpfen -> 100 Die Früchte ihrer Arbeit -> 100 Verschollen in den Sümpfen (Schlafsack, 30.3S,11.4W) -> 100 Instanz: Verschollen in den Sümpfen -> 100 Zwischenspiel: Der Weg durch die Sümpfe (R) (Vorräte, 30.3S,11.4W) -> 100 Instanz: Der Weg durch die Sümpfe
+100 Orks im Sumpf (Orks, um 30.4S,11.7W)
+100 Summen im Schilf (Nerbyg, um 30.4S,11.7W)
+100 Sumpfgeister (Geister, um 29.2S,11.6W)
+100 Blumen der Hoffnung (Automatisch, z.B. um 30.7S,12.5W)
+100 Die Toten von Dagorlad (Automatisch, z.B. um 28.6S,15.0W)
+100 Kampfgruppe: Der einsame Jäger (R) (Automatisch, um 27.4S,11.4W)
+100 Kampfgruppe: Der Schleifer (R) (Automatisch, um 27.8S,17.9W)

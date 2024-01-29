@@ -1,0 +1,25 @@
+Wildermark: Hohe Hügel (85)
+
+Erkundungstat (Die hungrigen Pfade, 33.6S,68.0W - Floid und Dewitt, 32.9S,64.1W - Einsame Höhe, 32.2S,68.2W - Scheunenhöhe, 33.6S,65.6W - Bergspitz, 31.4S,64.8W - Wilder Fingerhut, 30.3S,64.6W - Oreald, 32.3S,63.6W - Grimnesberg, 31.6S,61.9W)
+Bezwingertat (Schnee-Wildkatzen, um 33.6S,68.0W)
+
+Nach ("Wildermark: Weißhag") 85 Neuigkeiten, die der Greve hören muss: 85 Ein ungewisses Schicksal (Gárwig, 37.8S,61.0W) -> 85 Was Euch in Scheunenhöhe erwartet -> 85 Der Schnee kommt zurück (Frostige Luft, 33.4S,65.6W) -> 85 Instanz: Der Schnee kommt zurück -> 85 Vater, Ehemann, Sohn (Aldstan, 31.4S,64.8W)
+Nach 85 Ein ungewisses Schicksal, während 85 Was Euch in Scheunenhöhe erwartet: 85 Lebt noch irgendjemand (Automatisch, um 33.6S,65.6W)
+Nach 85 Ein ungewisses Schicksal: 85 Eroberer aus Isengard (Orks, um 33.6S,65.6W)
+Nach 85 Ein ungewisses Schicksal: 85 Ohne ordentliches Begräbnis (Leiche eines Dorfbewohners, um 33.6S,65.6W)
+Nach 85 Vater, Ehemann, Sohn: 85 Schafgarbe im Schnee (Céolflad, 31.4S,64.8W)
+Nach 85 Vater, Ehemann, Sohn: 85 Winterliche Nächte sind kalt (Edhild, 31.4S,64.8W)
+Nach 85 Vater, Ehemann, Sohn: 85 Vordringendes Eis (Automatisch, um 31.4S,64.8W)
+Nach 85 Schafgarbe im Schnee und 85 Winterliche Nächte sind kalt: 85 Aldstans Verschlechterung (Aldstan, 31.4S,64.8W) -> 85 Zeit zum Nachdenken (Ránmald, 31.4S,64.8W) -> 85 Isolation unter den Überlebenden -> 85 Instanz: Isolation unter den Überlebenden
+Nach 85 Isolation unter den Überlebenden: 85 Eine verstreute Herde (Edhild, 31.4S,64.8W)
+Nach 85 Isolation unter den Überlebenden: 85 Bewaffnet für den Fall der Fälle (Frithwyn, 31.4S,64.8W)
+Nach 85 Isolation unter den Überlebenden: 85 Die Einrichtung (Céolflad, 31.4S,64.8W)
+Nach 85 Eine verstreute Herde, 85 Bewaffnet für den Fall der Fälle und 85 Die Einrichtung: 85 Nach Westen versprengt (Ránmald, 31.4S,64.8W) -> 85 In den düsteren Wald, 85 Hungern im Schnee (Ecglaf, 33.0S,67.8W)
+Nach 85 Nach Westen versprengt: 85 Spione auf dem Kamm (Automatisch, um 33.0S,67.8W)
+
+Nach ("Wildermark: Bundwald") 85 Die Weiße Hand brechen: 85 Die Suche nach Cyneberg (Húna, 32.8S,70.2W) -> 85 In den Klammern der Verzweiflung (Cyneberg, 31.7S,62.0W) -> 85 Eine merkwürdige Spur -> 85 Eine Spur der Rache (Cyneberg, 31.2S,62.4W) -> 85 Instanz: Ein Pfad der Rache -> ("Wildermark") 85 Letztes Gefecht (Thrymm Rotbart, 37.8S,61.0W) -> ("Wildermark") 85 Instanz: Das letzte Gefecht
+Nach 85 Die Suche nach Cyneberg: 85 Ruhe für eine erschöpfte Schildmaid (Tote Orks, um 31.6S,61.9W)
+
+85 Hungrig nach Beute (Automatisch, um 33.5S,67.6W)
+Nicht während ("Wildermark: Wiederaufbau") 85 Kampfgruppe II: Schneesturm der Hohen Hügel (R): 85 Kampfgruppe: Der Schneesturm der Hohen Hügel (R) (Automatisch, um 34.4S,67.2W)
+Nicht während ("Wildermark: Wiederaufbau") 85 Kampfgruppe II: Karkas (R): 85 Kampfgruppe: Karkas (R) (Automatisch, um 30.9S,62.8W)

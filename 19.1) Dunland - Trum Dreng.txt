@@ -1,0 +1,18 @@
+Trum Dreng (65-66)
+
+Erkundungstat (Lhan Tarren, 75.2S,22.8W - Der Nordpass, 74.3S,22.2W - Unheilshöhle, 76.8S,23.0W - Die Herdenlande, 79.2S,24.0W - Der Wachturm, 76.2S,21.4W - Außenposten der Weißen Hand, 78.3S,21.1W)
+
+Nach ("Epos - Band III, Buch 4: Der Aufstieg Isengarts") 66 Der Weg nach Dunland: 66 Die Hirschsippe von Trum Dreng (Ältester Riagán, 75.2S,23.0W)
+Nach 66 Die Hirschsippe von Trum Dreng: 66 Fleisch für eine hungrige Sippe (Hav, 75.3S,22.7W)
+Nach 66 Die Hirschsippe von Trum Dreng: 66 Das Feuer entfachen (Ivor, 75.3S,22.7W) 
+Nach 66 Fleisch für eine hungrige Sippe und 66 Das Feuer entfachen: 66 Die Geweihe zählen (Ältester Riagán, 75.2S,23.0W) -> 66 Von Crebain geladen
+Nach 66 Von Crebain geladen: 66 Auf den Spuren eines alten Feindes (Elain, 75.2S,22.8W)
+Nach 66 Von Crebain geladen: 66 Mit jedem Tag etwas dreister (Guto, 75.3S,22.7W)
+Nach 66 Von Crebain geladen: 66 Aus Angst vor Hungersnot (Grigor, 75.1S,22.6W)
+Nach 66 Auf den Spuren eines alten Feindes, 66 Mit jedem Tag etwas dreister und 66 Aus Angst vor Hungersnot: 65 Das Fest des Rennenden Hirsches (Ältester Riagán, 75.2S,23.0W) -> 65 Instanz: Das Fest des Rennenden Hirschs -> 66 Was ist mit dem Weideland? -> 66 Plünderung der Plünderer (Drop von Dunländern, um 78.0S,24.0W)
+Nach 65 Das Fest des Rennenden Hirsches: 66 Diebstahl der gestohlenen Vorräte (Ceri, 77.7S,25.0W) -> 66 Was wurde aus dem Bauern? (Dunländer, 77.7S,25.0W) -> 66 Ein Reh im Nest des Drachen (Dilwun, 79.2S,24.5W) -> 66 Keine Hoffnung, keine Zukunft, 66 Raus mit den Angreifern, 66 Stehlen und Kreischen, 66 Unschuldige Treue (Blodwen, 79.6S,24.3W) -> 66 Eine Invasion braut sich zusammen -> 66 Die letzte Hoffnung einer Witwe -> 66 Erobert den Wachturm zurück (Ältester Riagán, 75.2S,23.0W) -> 66 Verdunkelung der Spitze, 66 Verteidigung dessen, was ihnen nicht gehört (Elain, 75.7S,21.6W) -> 66 Abstieg aus dem Turm -> 66 Gutos eigene Untersuchungen -> 66 Die Quelle der Drachen (Guto, 76.9S,20.8W) -> 66 Kranke Feinde sind schwache Feinde -> 66 Vertreibung des Bösen aus Trum Dreng -> 66 Instanz: Dinge berichtigen in Trum Dreng -> 66 Folgen wir ihnen (Ältester Riagán, 75.2S,23.0W) -> 66 Der schlimmste Feind der Hirschsippe, 66 Die verschleppten Männer, 66 So etwas wie Rache (Anführer Guto, 75.3S,23.0W)
+Nach Die Quelle der Drachen: 66 Drachen mit weißen Händen (Guto, 76.9S,20.8W)
+Während 66 Folgen wir ihnen: 66 Die Wunden müssen behandelt werden (Elain, 75.3S,22.9W)
+Während 66 Folgen wir ihnen: 66 Das Dorf brennt, 66 Getötete Hirsche (Guto, 75.3S,23.0W)
+Nach 66 Die verschleppten Männer: ("Dunland: Knochental") 66 Zum Knochental (Elain, 75.3S,23.0W)
+Bis Abschluss von ("Dunland: Pren Gwydh") 67 Die blockierten Zuleitungen und nach 66 Die verschleppten Männer: ("Dunland: Pren Gwydh") 67 Von Trum Dreng nach Galtrev (Elain, 75.3S,23.0W)

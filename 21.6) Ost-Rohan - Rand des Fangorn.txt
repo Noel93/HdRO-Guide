@@ -1,0 +1,28 @@
+Rand des Fangorn (82-83)
+
+Erkundungstat (Heilspalt, 41.5S,73.4W - Nebelwasser, 38.4S,72.2W - Süßaue, 38.0S,73.2W - Die Seidenfeste, 36.6S,71.7W - Das Schwarze Herz, 37.6S,75.2W)
+Bezwingertat (Spinnen, um 36.6S,71.7W)
+
+82 In den Fangorn (Friedrich, 42.5S,70.6W)
+82 Merkwürdige Passanten (Eschenscheit, 41.3S,70.9W) -> 82 Instanz: Merkwürdige Passanten -> 82 Auf der Spur einiger Hobbits -> 82 Freunde fern voneinander (Gandalf, 38.9S,74.6W) -> 82 Instanz: Freunde fern voneinander -> 82 Aufkommende Neugierde -> 82 Im Fangorn verlaufen (Baillas, 40.4S,69.9W) -> 82 Instanz: Im Fangorn verlaufen -> 82 Erstickende Ruhe
+Nach 82 Merkwürdige Passanten: 82 Passt auf, wo Ihr hintretet (Verdrehte Wurzel, um 42.2S,71.2W)
+Nach 82 Merkwürdige Passanten: 82 Erkundung macht ganz schön durstig (Automatisch, um 41.5S,73.4W)
+Nach 82 Erstickende Ruhe: 82 Mit leerem Magen (Leerer Proviantsack, 40.1S,70.7W)
+Nach 82 Erstickende Ruhe: 82 Ein verlässlicher Test (Beeren-Busch, um 40.1S,70.7W)
+Nach 82 Erstickende Ruhe: 82 Ganz schön lästig (Fangorn-Fledermaus, um 40.1S,70.7W)
+Nach 82 Mit leerem Magen und 82 Ein verlässlicher Test: 82 Nun wach schon auf (Baillas, 40.4S,69.9W)
+Nach 82 Nun wach schon auf: 82 Ein Fluch für einen Feigling, 82 Ein leerer Köcher (Léofmar, 39.6S,72.4W)
+Nach 82 Nun wach schon auf: 82 Auf der Suche nach dem Gegengift (Heilkraut, um 39.6S,72.4W)
+Nach 82 Ein Fluch für einen Feigling und 82 Auf der Suche nach dem Gegengift: 82 Dem Tode nahe (Léofmar, 39.6S,72.4W) -> 82 Der Schmerz der Reue -> 82 Instanz: Der Schmerz der Reue -> 82 Bisse und Brennen (Weisholz, 38.8S,70.6W) -> 82 Ein Freund im Fangorn (Huorn, 39.4S,70.3W) -> 82 Ein gut gemeinter Rat (Alter Mann, 38.6S,70.4W) -> 82 Tiefer in den Fangorn (Weisholz, 38.8S,70.6W) -> 82 Wurzeln im Netz (Huorn, 37.1S,71.8W) -> 83 Gefangene Bäume, 82 Spinnenbrut
+Während 82 Bisse und Brennen: 82 Flammen im Wald, 82 Orks im Fangorn I (Weisholz, 38.8S,70.6W)
+Während 82 Ein Freund im Fangorn: 82 Trauern um gefällte Freunde (Gefällter Baum, 39.3S,70.1W)
+Während 82 Ein Freund im Fangorn: 82 Orks im Fangorn II (Plünderer der Weißen Hand, um 39.2S,70.4W)
+Während 82 Ein Freund im Fangorn: 82 Den Feinden keine Ruhe lassen (Zelt, um 39.2S,70.4W)
+Nach 82 Wurzeln im Netz: 82 Spinnen des Fangorn I (Fangorn-Spinner, um 36.6S,71.7W) -> 83 Spinnen des Fangorn II (Automatisch, um 36.6S,71.7W)
+Nach 82 Wurzeln im Netz: 83 Nestwächterinnen (Automatisch, um 36.6S,71.7W)
+83 Eine liebenswürdige Rettung (Automatisch, um 36.6S,71.7W) -> 83 Wohin das Licht nicht durchdringt (Grünwurz, 37.3S,73.7W) -> 83 Verrottung am Rande -> 83 Was könnte der Auslöser sein? (Automatisch, um 37.0S,73.5W)
+Nach 83 Wohin das Licht nicht durchdringt: 83 In der Dunkelheit umherschwirrend (Stechmücken, um 37.0S,73.5W)
+Nach 83 Verrottung am Rande: 83 Die geschwärzten Herzen der Bäume -> 83 Was im Inneren wächst (Automatisch, um 37.6S,75.2W) -> 83 Das Licht hineinlassen (Automatisch, 37.0S,75.7W) -> 83 Vermisster Freund (Altherz, 38.6S,76.1W) -> 83 Instanz: Vermisster Freund -> 83 Vogelbeobachtung -> 83 Der Ursprung des Nebels
+Nach 83 Verrottung am Rande: 83 Herzen des Schattens (Drop von Huorns, um 37.6S,75.2W)
+Nach 83 Vogelbeobachtung: 83 Der lange Arm der Weißen Hand (Orks und Uruks der Weißen Hand, um 38.4S,76.8W) -> 83 Endlich erwacht (Altherz, 38.6S,76.1W) -> 83 Instanz: Endlich erwacht -> ("Die Suthofen") 83 Stille Ernte (Léofmar, 42.6S,70.5W)
+Nach 83 Vogelbeobachtung: 83 Rache für den Wald (Automatisch, um 38.4S,76.8W)

@@ -1,0 +1,20 @@
+Nan Curunír (75)
+
+Erkundungstat (Die Säule der Weißen Hand, 84.9S,3.0W - Dagoras' Lager, 84.8S,3.5W - Bau des Fangzahnreiters, 81.6S,4.8W - Die Tore von Isengart, 81.2S,2.5W - Flinkbaums Hain, 82.0S,0.7E - Schwarzmark-Festung, 84.4S,1.6W - Kaufmannslager der Ochsensippe, 79.9S,0.2E)
+Bezwingertat (Torwächter-Trolle, 81.2S,2.5W)
+
+75 Erkundung des Weges (Grimbold aus Grimslade, 87.4S,3.9W)
+75 Am Wegesrand zurückgelassen (Gefallener Rohirrim, 83.3S,4.3W)
+75 Wachen der Weißen Hand (Dagoras, 84.8S,3.5W) -> 75 Bote der Weißen Hand -> 75 Scharfrichter von Isengard -> 75 Verlorene Pferde -> 75 Eine Prise Unheil (Unheilvolles Rezept, 82.9S,4.1W) -> 75 Das ist nicht das Werk eines richtigen Kochs (Ondor, 82.7S,4.0W) -> 75 Gar nicht nett
+Nach Annahme von 75 Verlorene Pferde ab Objective #3: 75 Ein seltener Schnitt (Fleischermesser, 82.9S,4.1W)
+Nach 75 Scharfrichter von Isengard: 75 Zusammenkunft bei den Höhlen -> 75 Knirschende Fangzähne (Ondor, 82.7S,4.0W) -> 75 Rudelführer -> 75 Der Beherrscher der Bestien
+75 Listige Augen (Ondor, 82.7S,4.0W)
+Nach 75 Der Beherrscher der Bestien und 75 Listige Augen: 75 Fangzahnhauptmann (Ondor, 82.7S,4.0W) -> 75 Wieder unterwegs -> 75 Den Weg frei machen (Dagoras, 82.1S,3.0W) -> 75 Die Tore von Isengard -> 75 Instanz: Die Tore von Isengard -> 75 Aufkeimende Hoffnung -> 75 Ein paar Äxte weniger, 75 Eine brennende Wut, 75 Praktische Grundlagen (Flinkbaum, 81.9S,0.7E)
+Nach 75 Ein paar Äxte weniger: 75 Die Ursache des Problems, 75 Ein guter Trank (Flinkbaum, 81.9S,0.7E)
+Nach 75 Die Ursache des Problems: 75 Der verborgene Weg (Flinkbaum, 81.9S,0.7E) -> 75 Aufseher von Isengard (R), 75 Ein Knirschen im Getriebe (R), 75 Flügel von Isengard, 75 Üble Vorhaben (R) (Dagoras, 79.8S,1.0W)
+Nach 75 Flügel von Isengard: 75 Sarumans Diener (R) (Dagoras, 79.8S,1.0W)
+
+("Der Aufstieg Isengarts") 75 Ein Dorn in der Hand, 75 Zeichen der Vergangenheit, Symbol der Zukunft (Andras, 79.9S,0.2E)
+Während 75 Ein Dorn in der Hand Objective #1: ("Der Aufstieg Isengarts") 75 Dargnákhs Wut, 75 In die Grube der Abscheulichkeiten, 75 Der Schutz des Waldes
+Während 75 Ein Dorn in der Hand Objective #3: ("Der Aufstieg Isengarts") 75 The Ringing of the Hammer
+Während 75 Ein Dorn in der Hand Objective #5: ("Der Aufstieg Isengarts") 75 The Rings of Isengard

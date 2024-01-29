@@ -1,0 +1,53 @@
+Die Fernen Auen (20-23)
+20 Zu den Fernen Auen (Hildifons Tuk II, 24.8S,89.7W, oder Grenzer Pausbacken, 28.2S,75.8W)
+
+Neuhausen
+Erkundungstat (Neuhausen, 27.0S,79.0W)
+20 Leinwand des Trotzes (Fredegar Bolger, 27.7S,78.7W) -> 20 Umstrittene Grenze -> 20 Lager von Langkleve (Fredegar Bolger, 24.2S,80.7W) -> 20 Rennen nach Neuhausen -> Der Duft des Aufstands (Fredegar Bolger, 27.7S,78.7W) -> 20 Instanz: Der Duft des Aufstands
+20 Route: Neuhausen - Langkleve, 20 Route: Neuhausen - Reepfeld (Briefträger Gruber, 27.6S,78.8W)
+20 Machenschaften bei der Post (Briefträger Gruber, 27.6S,78.8W) -> 20 Eine Nachricht für den Postmeister -> 20 Verpatzte Post (Postmeister Stolzfuß, 33.4S,75.0W) -> 20 Unwohl in Nadelhohl (Briefträger Zwiefuß, 32.8S,73.0W) -> 20 Ein Weg nach drüben (Bürgermeister Willi Weißfuß, 33.3S,75.0W)
+20 Hubo Lehmhänger und seine wundersamen Geschichten (Hubo Lehmhänger, 27.2S,78.9W) -> 20 Hubo vollendet sein Buch -> 20 Hubo Lehmhängers Museum der Wunder
+20 Von Neuhausen nach Langkleve (Salga Grüngras, 26.7S,79.0W)
+20 Vom Feld ins Glas (Bloda Hopfblüte, 27.0S,80.2W)
+20 Ein Besuch der Fernen Auen (Bingo Boffin, 26.6S,77.6W) -> 20 Honigweinweg 9 -> 20 Dinodas in Not (Dinodas Boffin, 27.4S,79.1W) -> 20 Eine Trickserei im Honigweinweg -> 20 Instanz: Eine Trickserei im Honigweinweg -> 20 Prisca ist beunruhigt (Camellia Boffin, 27.4S,79.0W) -> 20 Versteckte Beweise (Camellia Boffin, 27.4S,79.0W), 20 Boffins außer Rand und Band (Dinodas Boffin, 27.4S,79.0W) -> 20 Einzugsfest nach Boffin-Art (Prisca Boffin, 27.4S,79.1W) -> 20 Instanz: Einzugsfest nach Boffin-Art
+
+Langkleve
+Erkundungstat (Langkleve, 22.3S,78.4W)
+20 Route: Langkleve nach Neuhausen (Briefträger Nordtuk, 22.5S,78.2W)
+22 Der Lohn der Mühen (Gruffo Knotenweste, 22.2S,78.4W)
+20 Helfende Hufe, helfende Pfoten (Prunella Goldwert, 22.1S,78.9W) -> 20 Die schreckliche Gans
+Nach Annahme von 20 Von Reepfeld nach Gamwich oder 20 Von Neuhausen nach Langkleve: 20 Lieferung für Meregrot Nordtuk (Rosalinda Nordtuk, 21.9S,78.9W) -> 20 Fruchtig, nussig, köstlich (Meregrot Nordtuk, 22.1S,78.0W) -> 20 Diamantenjagd (Rosalinda Nordtuk, 21.9S,78.9W) -> 20 Diamants großer Plan (Adamanda Nordtuk, 26.2S,77.8W) -> 20 Knoten binden -> 20 Fernkeiler-Apfelpastete -> 20 Ein einzigartiges Reittier -> 20 Instanz: Ein großer Plan wird wahr -> 20 Die Geschichte von Aschenfell -> 20 Patrouille an der Mauer der Fernen Auen (Rosalinda Nordtuk, 21.9S,78.9W)
+
+Feste Lagorath & Thaerhad & Bâr Faroth
+Erkundungstat (Feste Lagorath, 21.8S,82.3W - Thaerhad, 21.6S,74.4W - Bâr Faroth, 20.0S,77.1W)
+20 Eine Meinungsverschiedenheit (Mal Fetzenholz, 21.0S,74.5W)
+Nach Annahme von 20 Eine Meinungsverschiedenheit: 20 Rauchzeichen (Mal Fetzenholz, 21.0S,74.5W)
+20 Halborks auf den Höhen (Halborks um 21.6S,74.4W)
+20 Bilwisse an den Quellsteinen (Bilwisse um 20.0S,77.1W)
+20 Der Geist von Bâr Faroth (Erschlagener Bilwiss, 19.6S,77.8W)
+
+Reepfeld
+Erkundungstat (Reepfeld, 26.3S,82.5W - Tam Amothir, 27.3S,86.4W)
+20 Verzögerte Reaktion (Lassa Braunlock, 26.4S,82.0W) -> 21 Lagerkoller (Klotilde Pott, 23.7S,82.3W)
+20 Das perfekte Geschenk (Tílsa Hartschritt, 26.5S,82.2W)
+22 Versteckspiel in den Fernen Auen (Gildor Inglorion, 26.5S,82.3W) -> 22 Ein Kind auf Abwegen -> 22 Rettung in Tham Amothir (Gildor Inglorion, 27.2S,86.7W)
+20 Von Reepfeld nach Gamwich, 20 Hinweise auf Spitzmäuse (Frothard Tuk, 26.5S,82.4W)
+23 Der Pechvogel-Abenteurer (Frothard Tuk, 26.5S,82.4W) -> 23 Verloren und wiedergefunden (Reginard Stechdorn, 19.4S,88.8W) -> 23 Freunde und Glück (Reginard Stechdorn, 25.9S,88.7W)
+20 Das hat Geschmack (Henepa Wirrknoten, 26.1S,82.4W)
+20 Gartenarbeiten für Großmutter (Morna 'Alte Mutter' Goldwert, 27.4S,81.6W)
+Nach Annahme von 20 Route: Neuhausen - Langkleve: 20 Route: Reepfeld - Neuhausen (Briefträger Hartklee, 26.3S,82.2W)
+Nach Annahme von 20 Route: Reepfeld - Neuhausen: 20 Route: Reepfeld - Gamwich (Briefträger Hartklee, 26.3S,82.2W)
+
+Gamwich
+Erkundungstat (Gamwich, 24.1S,82.6W)
+20 Route: Gamwich nach Reepfeld (Briefträger Ahornstamm, 24.1S,82.6W)
+20 Großwildjäger von Gamwich (Gytha Hiebpinsel, 24.1S,82.5W)
+20 Ein ungewöhnlicher Fang (Maggo Bunce, 23.9S,82.6W)
+20 Gerichte aus alten Zeiten (Wingard Platschfuß, 23.6S,82.4W) -> 20 Rezepte aus alten Zeiten (Wingard Platschfuß, 22.1S,81.7W) -> 20 Der Geschmack von Gerichten aus alten Zeiten
+23 Das Kartoffelmysterium (Imbert Graberer, 23.4S,82.8W) -> 23 Kartoffelgerechtigkeit (Adro Untererz, 23.3S,83.1W)
+
+Lhúngobel
+Erkundungstat (Lhúngobel, 19.1S,88.7W)
+Bezwingertat (Bilwisse um 19.1S,88.7W - Bären um 23.4S,85.6W - Insekten um 25.1S,88.1W)
+20 Eine drohende Gefahr (Avorthal, 24.9S,88.6W) -> 20 Die Kopfgeldjäger von Lhúngobel (Athal, 24.9S,88.6W), 20 Ein gescheitertes Geschäft (Erfith, 24.9S,88.6W)
+20 Eindringlinge aus den Ered Luin (Bilwisse um 19.1S,88.7W)

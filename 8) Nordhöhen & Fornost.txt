@@ -1,0 +1,194 @@
+Nordhöhen (24-30)
+
+(Fortsetzung aus den Einsamen Landen)
+Band 1, Buch 3: 30 Waldläufer der Felder -> 30 Die Tore von Fornost -> 30 Erneut gefallen
+Nach 30 Erneut gefallen: 30 Aufruf an die Zwerge -> 30 Die Befreiung von Dori -> 30 Die Zwerge werden teilnehmen
+Nach 30 Erneut gefallen: 30 Aufruf an die Elben -> 30 Zur Lichtung -> 30 Die Macht der Elben
+Nach 30 Erneut gefallen: 30 Aufruf an die Menschen -> 30 Die Verteidigung von Schragen -> 30 Instanz: Die Verteidigung von Schragen -> 30 Die freien Völker von Schragen
+Nach 30 Die Zwerge werden teilnehmen, 30 Die Macht der Elben und 30 Die freien Völker von Schragen: 30 Die Zusammenkunft des Rates
+
+Schragen / Nan Wathren
+Erkundungstat (Nan Wathren, Westpass, 15.1S,50.4W - Nan Wathren, Ostpass, 16.2S,45.9W - Hîgropor, 18.6S,46.3W)
+Bezwingertat (Orks, um 17.0S,48.0W)
+Versteckte Tat (Einen Eber für den Eriador-Eberbezwinger, um 12.7S,52.8W)
+Nur von Lv.11 bis 19: 15 Zur Einsamen Grenze (Hauptmann Trotter, 17.7S,53.9W)
+24 Ein scharfer Verstand (Hauptmann Trotter, 17.7S,53.9W) -> 24 Ein gewaltiger Knall in der Nacht (Aggy Grabgras, 17.2S,53.8W) -> 24 Das schwarze Feuer (Hauptmann Trotter, 17.7S,53.9W)
+Nach 24 Ein scharfer Verstand: 24 Ein armer Wächter (Talbot Hinton, 17.4S,53.9W) -> 24 Talbots Unschuldsbeweis -> 24 Der Pass von Nan Wathren (Hauptmann Trotter, 17.7S,53.9W)
+Nach 24 Ein gewaltiger Knall in der Nacht: 24 Die Verstärkung der Verteidigungsanlagen (Elsie Waldmeister, 17.3S,53.8W) -> 24 Bäume fällen -> 24 Bergt ein Rad (Matze Waldmeister, 14.6S,54.5W) -> 24 Alles wird gut
+Nach 24 Das schwarze Feuer und 24 Talbots Unschuldsbeweis: 24 Halbork-Intrigant (Aggy Grabgras, 17.2S,53.8W) -> 25 Osten, niemals Norden
+24 Die Tarkrip-Orks (Automatisch, 16.0S,53.0W)
+24 Umherziehende Schreckenschnäbel (Umherziehender Schreckenschnabel, zB. 15.9S,52.8W)
+24 Ein zerrissenes Buch (Orks, um 15.1S,51.7W)
+24 Schätze aus Schragen (Gestohlene Waren, um 15.1S,51.7W)
+25 Der Saboteur von Schragen (Automatsch, 15.2S,50.7W)
+25 Eine neue Belagerung Schragens (Tarkrîp-Saboteur, 15.9S,48.0W)
+25 Nach Hîgropor (Tarkrîp-Belagerungsmeister, 16.0S,46.8W)
+25 Die Orks von Nan Wathren (R) (Orks, zB. 15.0S,50.3W)
+25 Wachsame Augen, dunkle Schwingen (R) (Schreckenschnabel-Wächter, zB. 15.5S,50.0W)
+25 Relikte aus Meluinen (R) (Bilwisse, zB. 16.0S,47.6W)
+25 Die wachsende Stärke der Tarkrip-Orks (R) (Signatur-Tarkrîp, zB. 16.0S,47.6W)
+Nach 25 Eine neue Belagerung Schragens: 25 Die Warg-Gehege von Hîgropor (R) (Automatisch, 17.6S,47.1W)
+Nach 25 Eine neue Belagerung Schragens: 25 Die Orks von Nan Wathren (R) (Elite-Tarkrîp, zB. 16.5S,46.7W)
+
+Felder von Fornost
+Erkundungstat (Tham Lorn, 11.2S,59.2W)
+Bezwingertat (Schatten, zwischen 11.7S,58.4W und 11.7S,59.5W)
+25 Exzentrische Gesellschaft (Mincham, 13.0S,55.3W) -> 25 Die Stimme im Wind -> 25 Die Jagd auf Olnathron -> 25 Olnathrons Festung -> 25 Zum Amon Raith
+25 Naethír der Kalte (Automatisch, um 11.1S,56.8W)
+25 Achassoth der Blutdürstige (Automatisch, um 11.0S,57.7W)
+25 Ein tödlicher Schimmer (Automatisch, um 10.5S,57.5W)
+25 Graben nach Relikten (Automatisch, um 10.2S,57.0W)
+25 Gurthagar, Lebenszehrer (Automatisch, um 10.5S,52.3W)
+26 Blutauges Rudel (R) (Automatisch, um 12.1S,54.4W)
+Nach 25 Olnathrons Festung: 25 Die Schätze auf den Feldern (Colbert der Verrückte, 13.0S,55.3W) -> 25 Die Geschichte des Verrückten (Colbert der Verrückte, 10.7S,52.8W) -> 25 Colbert der Schatzsucher
+Nach 25 Die Stimme im Wind: 24 Die Schatten vergangener Tage (Eidbrecher, zB. 11.9S,56.6W)
+Nach 25 Die Stimme im Wind: 24 Die Schattenmeute (Barghests, zB. 11.8S,56.7W)
+Nach 25 Die Jagd auf Olnathron: 25 Wolken der Verderbtheit (Automatisch, 11.2S,58.9W)
+Nach 25 Olnathrons Festung: 25 Die erwachten Hüter von Amon Amrûn (Automatisch, um 10.3S,52.6W)
+Nach 25 Die Geschichte des Verrückten und 25 Die erwachten Hüter von Amon Amrûn: 25 Eidbrecher (Mincham, 13.0S,55.3W)
+
+Fornost (außen)
+Erkundungstat (Norburg-Tor, 8.8S,55.2W - Glírost, 9.4S,59.3W - Falkenturm, 8.7S,53.4W - Feste Nuaran, 8.0S,53.2W)
+26 Felswürmer (Elsie Weißmann, 7.9S,55.9W)
+26 Eliminierung der Kreaturen (Reynold Potts, 7.9S,56.1W) -> 26 Ursachenforschung, 26 Überraschungsangriff (Gareth Copp, 7.9S,56.0W)
+26 Der Tod des Ältesten (Erl Fischer, 7.9S,56.1W)
+26 Das Ende der Belagerung (Teile von Belagerungswaffen, zB. 6.4S,53.6W)
+
+Amon Raith / Annúndir
+Erkundungstat (Amon Raith, 12.6S,52.8W - Minas Vrûn, 11.4S,51.2W - Feste Lagoros, 9.6S,47.6W - Steinhöhe, 9.5S,50.1W)
+26 Geringe Nahrungsvorräte (Amarion, 12.5S,52.8W) -> 26 Spionageaktion (Kemp Radmacher, 12.2S,50.4W) -> 26 Der Kundschafter wird zum Jäger -> 25 Ein einsamer Wächter
+Nach 26 Geringe Nahrungsvorräte: 25 Nathan Feldwerks Hof (Nathan Feldwerk, 12.5S,52.8W)
+25 Die Ruinen von Minas Vrûn (Statue Arnors, 11.2S,52.0W)
+26 Der Steinlager-Anführer (Automatisch, 12.3S,50.3W)
+25 Blutbad in Feldwerks Feldern (Kaputter Zaun, zB. 11.3S,50.5W)
+26 Feuerholz für kalte Nächte (Orthonn, 9.4S,47.3W) -> 26 Zukunftspläne, 26 In den Händen der Warge -> 27 Othrikar, die Zwergenfestung des Nordens
+26 Die Warge von Annúndir (Warge, zB. 10.0S,48.3W)
+
+Othrikar / West-Nan-Amlug
+Erkundungstat (Feste Galumar, 7.2S,47.0W)
+29 Heilkräuter und andere Pflanzen (Immergrün/Pestwurz/Mädesüß, zB. 6.2S,43.5W)
+27 Die Suche nach dem Brutplatz (Automatisch, 6.0S,43.2W)
+27 Winterhandschuhe (Quartiermeister Orgrin, 6.9S,44.9W)
+27 Bärenjäger (Hornbori, 7.0S,45.0W)
+Nach 27 Winterhandschuhe und 27 Bärenjäger: 27 Erschöpft (Regin, 7.1S,45.1W) -> 27 Runenkenner -> 27 Die verlorene Karte -> 27 Die Hauptader -> 28 Getreidekäufer (Quartiermeister Orgrin, 6.9S,44.9W)
+Nach 27 Runenkenner: 27 Ein Vogel in der Hand (Hlája Sagenlied, 7.1S,45.1W)
+Nach 27 Runenkenner: 27 Die Kundschafter (Hannar, 7.2S,44.9W)
+Nach 27 Runenkenner: 27 Bärtezupfen (Automatisch, um 5.0S,45.6W)
+Nach 27 Runenkenner: 27 Minenarbeiter in Thurûm (Grimmhand-Minenbauer, um 5.0S,45.6W)
+Nach 27 Runenkenner: 27 Gestohlene Moral (Beutel mit Hefe, um 5.0S,45.6W)
+
+Königsfalltal
+27 Gilmars Erbe (Markierungsstein, 9.3S,46.3W)
+30 Geheimnisvolles Relikt in den Nordhöhen (Geheimnisvolles Relikt, 10.2S,46.9W)
+27 Die Ork-Bedrohung (Gatson, 10.3S,45.6W) -> 27 Getreidejäger -> 28 Londrandirs Nachricht
+27 Langhörner (Gilmar, 10.3S,45.6W) -> 27 Die Verteidigung der Herde (Gatson, 10.3S,45.6W)
+27 Abstumpfen des Speers (Automatisch, 11.7S,46.1W)
+27 Der Überfall der Plünderer (Orks, zB. 11.7S,46.1W)
+
+Meluinen / Taur Gon Waith
+Erkundungstat (Merenost, 15.2S,43.2W - Dol Nendír, 13.5S,42.6W)
+Bezwingertat (Trolle, 16.6S,42.1W)
+28 Verstreute Habseligkeiten, 28 Vorräte für die Lichtung (Aglardir, 13.7S,44.6W)
+Nach 28 Verstreute Habseligkeiten: 28 Wächter der Lichtung (Medlichen, 13.6S,44.6W)
+Nach 28 Verstreute Habseligkeiten: 28 Vom Verderben berührt (Gandelin, 13.7S,44.7W)
+Nach 28 Verstreute Habseligkeiten: 28 Ork-Ausfälle (Brethilwen, 13.8S,44.9W)
+Nach 28 Verstreute Habseligkeiten(?) oder 28 Vorräte für die Lichtung: 28 Bedrohliche Insekten (Sichelfliegen, zB. 14.7S,44.4W)
+Nach 28 Wächter der Lichtung, 28 Vom Verderben berührt und 28 Ork-Ausfälle: 28 Die Entwaffnung des Tals (Baranwen, 13.6S,44.9W)
+Nach 28 Wächter der Lichtung, 28 Vom Verderben berührt und 28 Ork-Ausfälle: 28 Das gestohlene Ornament (Thaliollang, 13.7S,44.6W)
+Nach 28 Wächter der Lichtung, 28 Vom Verderben berührt und 28 Ork-Ausfälle: 28 Der unberechenbare Gefährte (Thaliollang, 13.7S,44.6W) -> 28 Rettung und Rache (Lagorlam, 14.2S,41.5W)
+Nach 28 Wächter der Lichtung, 28 Vom Verderben berührt und 28 Ork-Ausfälle: 28 Die Trolle von Taur Gonwaith (Trolle, zB. 14.3S,41.8W)
+Nach 28 Wächter der Lichtung, 28 Vom Verderben berührt und 28 Ork-Ausfälle: 28 Der Troll-Hüter (Automatisch, 16.6S,42.1W)
+Nach 28 Rettung und Rache: 28 Informiert Esteldín (Aglardir, 13.7S,44.6W)
+
+Esteldín
+29 Spinnenedelsteine (Holger Gerber, 9.7S,42.2W)
+29 Warg-Bezwinger (Dagoras, 9.6S,42.1W) -> 29 Überrumpelt
+30 Auf den Markt gehen (Ferrif, 9.6S,42.1W)
+28 Ork-Jäger (R) (Jagauftrag: Orks, 9.7S,41.7W)
+28 Warg-Jäger (R) (Jagauftrag: Warge, 9.7S,41.7W)
+28 Spinnen-Jäger (R) (Jagauftrag: Spinnen, 9.7S,41.6W)
+30 Jäger der Ork-Plünderer (R) (Rückeroberungsauftrag, 9.7S,41.6W)
+28 Ruinen von Arthedain ("Von Arthedain und seinen Siedlungen", 9.4S,41.2W)
+29 Eine Bitte an die Erdsippe (Malenfang, 9.7S,40.8W)
+29 Die Falle (Spinnen, um 10.8S,42.8W)
+27 Spinnenkönigin (Automatisch, 10.9S,43.1W)
+("Ruf") 35 Die Hüter von Annuminas (Arohir, 9.6S,41.4W)
+Nach Buch 6, Kapitel 6: 46 Herausforderung des Steins: ("Ruf") 45 Der Rat des Nordens (Arohir, 9.6S,41.4W)
+Ab Bekannter der Waldläufer von Esteldín: ("Ruf") 45 Feldzugmedaillons der Orks - Einleitung (Nethûr, 9.7S,40.8W)
+Nach Band 1, Buch 6, Herausforderung des Steins: ("Ruf") 45 Der Rat des Nordens (Arohir, 9.6S,41.4W)
+60 Níels Jagdauftrag: Räudeschlund der Wolf (R), 60 Níels Jagdauftrag: Marrafn, die Flamme des Hasses (R), 60 Níels Jagdauftrag: Dhìt der Troll (R), 60 Níels Jagdauftrag: Rothlúg, der Sturmdrache (R), 60 Níels Jagdauftrag: Farathlúg der Eiswurm (R) (Níels, 9.6S,42.0W)
+(Umherziehende Bedrohungen)
+
+Rusfold / Ost-Nan-Amlug
+Erkundungstat (Rusfold, 9.3S,39.9W - Fashat Laug, 8.8S,33.6W - Kar Lak, 11.0S,33.5W - Feste Crithlanc, 7.6S,35.0W - Lehmä-Koti, 3.0S,39.1W)
+Bezwingertat (Würmer, um 5.0S,41.0W)
+29 Rückforderung (Iivari, 9.2S,39.9W) -> 29 Die Bitte eines Bruders
+29 Mantel der Schatten (Mauno, 9.3S,40.0W)
+29 Fleisch für die Hungernden (Ältester Tahvo, 9.4S,40.0W)
+29 Fall der Erdsippe (Erdsippe, zB. 8.8S,39.4W)
+30 Das eiserne Halsband (Drop von Wargen, zB. 8.2S,36.8W)
+Nach 29 Rückforderung: 29 Die Säuberung der Ebenen (Mauno, 9.3S,40.0W)
+Nach 29 Rückforderung: 29 Die Techniken des Meisters (Asikko, 9.4S,39.9W)
+Nach 29 Rückforderung: 29 Ein Zeichen der Wertschätzung (Ragnar Hornklang, 9.3S,39.9W) -> 29 Eine wiederhergestellte Erbschaft
+Nach 29 Die Säuberung der Ebenen und 29 Eine wiederhergestellte Erbschaft: 29 Esteldíns Augen (Asikko, 9.4S,39.9W)
+Nach 29 Rückforderung: 29 Esteldíns Vorbereitung (Melthindir, 10.2S,39.2W) -> 29 Erkundung von Ram Dúath -> 29 Bergmenschen des Nordens, 30 Das Bündnis wird zerschmettert, 30 Das Tal der Würmer
+Nach 29 Erkundung von Ram Dúath: 29 Unterbrechung des Nachschubs (Automatisch, 8.4S,35.3W)
+Nach 29 Erkundung von Ram Dúath: 29 Krieg und Hungersnot (Nahrungsmittel-Kiste, Waffen- oder Schildständer der Bergmenschen, zB. 7.9S,35.0W) -> 29 Die Seuchenbringerin des Nordens
+Nach 29 Erkundung von Ram Dúath: 30 Mutter des Tals (Automatisch, 5.7S,40.8W)
+Nach 29 Erkundung von Ram Dúath: 30 Die Schuppen der erdgebundenen Feinde (Würmer, zB. 5.4S,40.7W)
+Nach 29 Erkundung von Ram Dúath: 30 Den Brutplatz zerstören (Dracheneier, zB. 4.9S,41.5W)
+Nach 29 Erkundung von Ram Dúath: 30 Lederschwingen der Drachen (Automatisch, 4.6S,41.3W)
+Nach ?: 35 Die Besiegelung des Pakts (Iivari, 9.2S,39.9W)
+
+Dol Dínen
+Erkundungstat (Hîsuk, 16.0S,36.8W - Tûmat, 16.8S,36.0W)
+Bezwingertat (Bilwisse, um 13.4S,38.2W - Warge, um 12.9S,37.4W)
+29 Ein Symbol der Hoffnung, 30 Die Hauptleute der Schwarzen Flut, 30 Zum Dienst gezwungen (Elúr, 10.4S,38.9W)
+Nach Annahme von 30 Zum Dienst gezwungen: 30 Durchbruch durch die Frontlinien (Automatisch, 13.5S,37.3W)
+30 Meister der Schwarzen Belagerung (Automatisch, 14.4S,38.8W)
+30 Warg-Meister (Automatisch, 15.0S,37.4W)
+30 Die Orks der Blutberge (Elite-Orks, zB. 14.7S,38.9W)
+30 Die Schwächung der Flut (Knochenflüsterer, zB. 16.2S,39.1W)
+30 Belagerungskunst (Trébuchet, zB. 16.2S,39.1W)
+30 Belagerungsmeister, 30 Meister der Schwarzen Flut (Automatisch, 15.6S,36.9W)
+
+Fornost
+26 Fornost: Die Dunkelheit im Inneren (Halbarad, 9.4S,41.2W)
+26 Fornost: Hauptmann Riamul (Emma Schlauwerk, 8.0S,55.9W)
+26 Fornost: Haltet die Invasion auf (Arnd Widdup, 8.1S,56.0W)
+26 Fornost: Tötet die Trolle (Will Widdup, 8.0S,56.0W)
+26 Fornost: Ein Anführer wird enthüllt (Daisy Harbrook, 8.0S,56.0W)
+26 Fornost: Abwehr der Toten (Maedhrusc, 8.0S,56.0W)
+Nach 30 Das eiserne Halsband: 30 Fornost: Ein Halsband für den König (Will Widdup, 8.0S,56.0W)
+
+Wassergeist
+Automatisch: 20 Fornost: Megoriath, der Wassergeist (R), 26 Fornost: Die vergessene Gruppe (R), 20 Fornost: Das Brackwasser (R)
+25 Fornost: Eichenherzens Flucht (R) (Sara Eichenherz, 5.0S,55.3W)
+Herausforderung: Der tiefe Grund (R)
+
+Erdgeist
+Automatisch: 20 Fornost: Rhavameldir, der Erdgeist (R), 20 Fornost: Kriegswaffen (R), 20 Fornost: Der Jern-Elyg (R)
+Herausforderung: Säulen der Erde (R)
+
+Feuergeist
+Automatisch: 20 Fornost: Brogadan, der Feuergeist (R), 20 Fornost: Götzenbilder Saurons (R), 20 Fornost: Anführer der Orks (R)
+Herausforderung: Ins Feuer (R)
+
+Schattengeist
+Automatisch: 20 Fornost: Remmenaeg, der Schattengeist (R), 20 Fornost: Befreiung der Gefallenen (R), 20 Fornost: Botschafter von Angmar (R)
+Herausforderung: Licht im Dunklen (R)
+
+Angriff bei Morgengrauen
+("Scharmützel") 30+ Angriff bei Morgengrauen (R)
+Nach der Verteidigung des mittleren Tors: Tharb (Tharb ist erschienen, um das östliche Tor zurückzuerobern.)
+Nach der Verteidigung des mittleren Tors: Zímarp (Zímarp ist erschienen, um das westliche Tor zurückzuerobern.)
+Nach der zweiten Verteidigung des mittleren Tors (erscheint nur, wenn anfangs nur eins der beiden äußeren Tore erobert wurde!): Krampum (Krampum ist erschienen, um die westliche Flanke zurückzuerobern.)
+Nach der zweiten Verteidigung des mittleren Tors (erscheint nur, wenn anfangs nur eins der beiden äußeren Tore erobert wurde!): Pugh (Pugh ist an der östlichen Flanke erschienen, um den Hof zu verstärken.)
+Nach Besiegen der Feinde vorm Eingang zu Graugs Lager: Fríb (Unten im Hof ist ein wütender Schrei zu vernehmen.)
+Nach dem Verteidigen der Katapulte: Kaushar (Unten im Hof ist ein mächtiges Brüllen zu vernehmen.)
+
+"Umherziehende Bedrohungen"
+Bosstat (13.8S,53.1W - 12.2S,57.9W - 11.4S,58.4W - 9.7S,56.2W - 7.0S,53.6W - 9.6S,52.3W - 11.0S,47.3W - 5.8S,46.3W - 8.1S,37.5W - 8.7S,36.2W - 8.5S,33.0W)
+Schatzspeicher (16.4S,53.8W - 13.7S,51.6W - 9.9S,58.4W - 6.7S,53.3W - 6.9S,47.9W - 6.0S,43.5W - 8.6S,40.1W - 11.2S,33.7W - 15.4S,36.2W - 16.6S,37.5W - 16.3S,41.0W - 19.1S,46.3W)
+100 Die umherziehenden Bedrohungen der Nordhöhen (Automatisch, um 10.1S,47.6W)
+100 Umherziehende Bedrohung: Dúrlum der Rastlose (R), 100 Umherziehende Bedrohung: Faulspeichel der Verderbte (R), 100 Umherziehende Bedrohung: Valikas der Fehlgeleitete (R) (Othwen, 9.5S,41.4W)

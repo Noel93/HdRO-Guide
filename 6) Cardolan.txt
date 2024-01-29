@@ -1,0 +1,125 @@
+Cardolan (15-32)
+
+(Fortsetzung aus dem Schwanenfleet)
+Vor dem Schatten, Buch 2
+17 Buch 2, Kapitel 1: Etwas schleicht in Tharbad umher (Egfrith, 55.8S,38.2W) -> 18 Buch 2, Kapitel 2: Boromir, Sohn Gondors (Boromir, 56.0S,39.3W) -> 19 Buch 2, Kapitel 3: Fern von Gondor (Meneldir, 55.9S,38.3W) -> 19 Instanz: Fern von Gondor -> 20 Buch 2, Kapitel 4: Bregoleths Worte (Boromir, 55.9S,38.3W) -> 21 Buch 2, Kapitel 5: Kreuzungsherberge (Meneldir, 55.3S,40.1W) -> 22 Buch 2, Kapitel 6: Die lauernde Nacht (Aberthol, 49.4S,44.8W) -> 22 Instanz: Die lauernde Nacht -> 22 Buch 2, Kapitel 7: Fragen (Meneldir, 50.2S,44.8W) -> 23 Buch 2, Kapitel 8: Eine Reise allein (Boromir, 55.4S,48.0W)
+
+Vor dem Schatten, Buch 3
+23 Buch 3, Kapitel 1: Meneldirs Sippe (Meneldir, 50.2S,44.5W) -> 23 Buch 3, Kapitel 2: Die Leiche im Gebüsch (Meneldir, 46.1S,47.8W) -> 24 Buch 3, Kapitel 3: Halbarad von den Dúnedain (Halbarad, 48.1S,55.7W) -> 24 Buch 3, Kapitel 4: Es wird Nacht an der Sarnfurt -> 24 Instanz: Die Nacht in Sarnfurt -> 25 Buch 3, Kapitel 5: Die Südhöhen -> 25 Buch 3, Kapitel 6: Gefahren in allen Richtungen (Malenfang, 43.3S,33.6W) -> 26 Buch 3, Kapitel 7: Der Untergang Arnors (Meneldir, 43.2S,33.5W) -> 27 Buch 3, Kapitel 8: Die letzten Tage von Cardolan (Meneldir, 42.9S,49.0W) -> 28 Buch 3, Kapitel 9: Tod auf den Hügelgräberhöhen (Meneldir, 40.6S,50.5W) -> 30 Buch 3, Kapitel 10: Der Geist der Grauen Furcht (Halbarad, 40.6S,50.4W) -> 30 Instanz: Der Geist der Grauen Furcht -> 32 Buch 3, Kapitel 11: Ein Freund der Dúnedain -> 32 Buch 3, Kapitel 12: In einem Tal im Norden (Candaith, 30.1S,37.9W) -> 32 Instanz: In einem Tal im Norden
+
+Tharbad
+Erkundungstat (Tharbad, 56.4S,38.0W - Damm-Tafel, 56.7S,37.4W - Schatzspeicher, 55.7S,36.9W - Mauerpfeffer-Lager, 54.3S,40.1W - Schatzspeicher, 51.1S,36.7W - Schatzspeicher, 49.0S,36.1W - Nímbarth, 48.9S,31.6W - Nagensteine, 47.4S,32.0W)
+Bezwingertat (Orks, um 55.4S,38.1W - Halborks, um 48.9S,31.6W)
+16 Borke, nicht Orke (Holzfäller Huel, 57.2S,37.5W) -> 16 Verdammte Axt
+16 Eine sehr lebhafte Vorstellungskraft, 16 Nur Schmutz und Tand? (Caron, 57.6S,40.2W)
+15 Ein Bürgermeister auf Abwegen (Rhiangar, 54.3S,40.3W) -> 17 Die Reinigung von Tharbad (Cadwallon, 55.4S,39.9W)
+20 Wolfskamms Bogen (Hal Wolfskamm, 54.3S,40.2W)
+Nach Annahme von 20 Wolfskamms Bogen: 20 Jagd für Hal (Hal Wolfskamm, 54.3S,40.2W)
+15 Was isst Etta? (Tam Eibenbeere, 54.4S,40.2W)
+17 Felle für Etta (Etta Eibenbeere, 54.3S,40.2W)
+20 Auge um Auge (Mellia Waldgeißbart, 54.2S,40.1W)
+20 Mauerpfeffers Vorräte (Berl Mauerpfeffer, 54.3S,40.2W) ->  20 Reiter von Nímbarth -> 20 Besondere Befehle (Saeloril, 47.8S,32.4W)
+16 Die Suche nach den Kundschaftern (Riderch, 54.3S,40.1W) -> 16 Ein zweiter Plan (Meriona, 48.4S,31.8W)
+Nach 16 Die Suche nach den Kundschaftern: 16 Eine Erinnerung an Zuhause (Drop von Halborks, um 48.9S,31.6W)
+18 Ein guter Dolch verschwendet (Tesni, 47.8S,31.7W)
+17 Geteiltes Kopfgeld (Melona, 52.3S,39.9W) -> 17 Halborks an der Brücke
+
+Herne
+Erkundungstat (Schatzspeicher, 54.7S,45.8W - Herne, 49.8S,45.0W - Wylvenzehe, 46.3S,48.9W - Schatzspeicher, 46.2S,49.9W)
+20 Das Rotmoor-Wolfsrudel (Maddoc, 50.3S,44.9W)
+20 Ein Auge für solche Dinge (Gangur Farwend, 50.3S,44.9W)
+20 Das Mindeste (Edhan, 50.2S,45.0W)
+22 Pflegen, was übrig bleibt (Cadi, 50.2S,45.1W) -> 22 Bescheidene Anfänge
+22 Schlimmer, als einen Sack Schafe zu hüten (Hulfryn, 50.2S,45.3W) -> 22 Das verlorene Schaf
+21 Schlecht fürs Geschäft (Alwena, 49.6S,45.1W)
+Nach 17 Halborks an der Brücke und 21 Schlecht fürs Geschäft: 21 Raufbolde in Rotweite (Alwena, 49.6S,45.1W)
+20 Sicheln in Schilf (Aerona, 49.5S,44.9W)
+20 Die Straßen bei Herne (Brioc, 49.4S,44.6W)
+Nach 15 Ein Bürgermeister auf Abwegen: 20 Der Nevit-Familieneintopf (Rhiangar, 49.7S,44.6W) -> 20 Das Bett des Bürgermeisters -> 22 Der zwielichtige Gast -> 24 Luilloth, Prinzessin-Regentin von Cardolan (Rhiangar, 50.3S,44.9W)
+Nach 22 Der zwielichtige Gast Objective #6: 20 Falkenwurz sammeln (Tangwen, 50.3S,44.9W) -> 20 Eine kurze Pause vom Grauen
+Nach 22 Der zwielichtige Gast Objective #6: 22 Das verschwundene Kind von Herne (Wenna, 50.3S,44.9W) -> 23 Von Irrlichtern und Nebel (Gurthern, 50.3S,44.9W)
+Nach Annahme von 23 Von Irrlichtern und Nebel: 23 Die Elhudan von Tyrn Gorthad (Gurthern, 47.0S,49.2W)
+Nach 23 Von Irrlichtern und Nebel und 23 Die Elhudan von Tyrn Gorthad: 25 Die jammernde Frau (Gurthern, 47.0S,49.2W)
+16 Das Geheimnis des Anglers (Medwyn, 48.2S,43.1W)
+Nach 25 Die Geheimnisse von Sarch Vorn und 30 Das Unheil von Sarch Vorn: 25 Das Werk der Halskette (Rhiangar, 50.3S,44.9W)
+("Mission: Vor dem Schatten") 20+ Mission: Belagerungsbruch (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Belagerungsbruch (R)
+("Mission: Vor dem Schatten") 20+ Mission: Der Hof des Turms von Tharbad (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Der Hof des Turms von Tharbad (R)
+Nach 20+ Mission: Der Hof des Turms von Tharbad: ("Mission: Vor dem Schatten") 20+ Mission: Aufstieg im Turm von Tharbad (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Aufstieg im Turm von Tharbad (R)
+("Mission: Vor dem Schatten") 20+ Mission: Die Hand beißen (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Die Hand beißen (R)
+("Mission: Vor dem Schatten") 20+ Mission: Die Ruinen von Gaervarad (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Die Ruinen von Gaervarad (R)
+("Mission: Vor dem Schatten") 20+ Mission: Durchsieben der Zeit (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Durchsieben der Zeit (R)
+("Mission: Vor dem Schatten") 20+ Mission: Eine Seuche der Menschen (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Eine Seuche der Menschen (R)
+("Mission: Vor dem Schatten") 20+ Mission: Gerichtete Führung (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Gerichtete Führung (R)
+("Mission: Vor dem Schatten") 20+ Mission: Jorthkyn und Hunde (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Jorthkyn und Hunde (R)
+("Mission: Vor dem Schatten") 20+ Mission: Raus mit der Hand! (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Raus mit der Hand! (R)
+("Mission: Vor dem Schatten") 20+ Mission: Schatten in der Grauflut (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Schatten in der Grauflut (R)
+Nach 20+ Mission: Schatten in der Grauflut: ("Mission: Vor dem Schatten") 20+ Mission: Sorgenvolle Wasser (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Sorgenvolle Wasser (R)
+Nach 20+ Mission: Sorgenvolle Wasser: ("Mission: Vor dem Schatten") 20+ Mission: Die verfluchte Flamme (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Die verfluchte Flamme (R)
+("Mission: Vor dem Schatten") 20+ Mission: Zeichen und Siegel (R) (Hithriel, 50.1S,44.7W) -> ("Mission") Mission: Zeichen und Siegel (R)
+
+Sarnfurt
+Erkundungstat (Sarnfurt, 47.8S,56.2W - Schatzspeicher, 49.5S,54.5W - Gaervarad, 53.6S,53.6W - Eid-Tafel, 53.5S,53.5W)
+23 Ein Übel kommt selten allein, 23 Steine gesucht (Rothavron, 48.0S,55.6W)
+23 Die Wacht über das Auenland, 23 Ein Wahnsinn verbreitet sich (Thornegil, 47.8S,56.2W)
+23 Fräulein Gutherz (Eilian Gutherz, 53.1S,53.5W)
+22 Trophäenjäger: Drugodechs Pfote (Drop von Drugodech, um 46.8S,50.3W)
+23 Trophäenjäger: Tarangarns Hörner (Drop von Tarangarn, um 54.3S,52.8W oder 53.6S,52.1W)
+
+Caranost
+Erkundungstat (Sírlond, 45.2S,39.5W - Caranost, 45.3S,41.8W - Schatzspeicher, 46.0S,42.1W - Gond Orchal, 41.7S,45.5W)
+Nach 25 Die jammernde Frau: 25 Verschwunden in Caranost (Grethron, 45.1S,39.5W) -> 27 Ein Steckenpferd der Hoffnung (Mellanion, 45.1S,39.5W) -> 27 Das Steckenpferd stolzierte nach Herne
+23 Ungewöhnliche Bekannte (Rendal, 45.2S,39.6W) -> 23 Watcyns Bitte (Watcyn, 45.2S,39.5W) -> 23 Enthüllte Vergangenheit (Rendal, 45.2S,39.5W) -> 23 Überraschende Freunde (Rendal, 53.9S,53.3W)
+25 Der Aussichtspunkt des Feindes (Maedhril, 45.2S,39.5W) -> 25 Zerbrochene Pfeile, verbrannte Bögen
+25 Caranost, zurzeit Wohnstatt der Orks (Sirvellon, 45.2S,39.5W)
+24 Die verfallenen Türme von Caranost (Automatisch, um 45.3S,41.8W)
+20 Weihrauch für die Entweihten (Nan Mabli, 42.5S,45.0W)
+27 Letzte Wünsche (Delun, 42.0S,45.2W)
+
+Scurloc-Hof
+Erkundungstat (Scurloc-Hof, 43.3S,33.6W - Hove-Bauernhof, 42.1S,36.6W - Haudh Nirui, 41.1S,31.4W - Schatzspeicher, 40.5S,31.0W - Amon Firn, 44.5S,29.1W - Totenberg-Obelisk, 44.3S,29.2W - Immerstatt, 46.3S,28.7W - Schatzspeicher, 45.9S,27.4W - Schatzspeicher, 38.3S,40.1W)
+Bezwingertat (Bilwisse, um 41.1S,31.4W)
+20 Fluch der Hügelgräber (Arnail, 43.4S,34.7W)
+20 Bilwisse in Haudh Nirui (Taeras, 43.3S,33.6W)
+25 Die Rettung der Scurlocs (Edrud, 43.3S,33.5W)
+Nach Annahme von 25 Die Rettung der Scurlocs: 20 Bauer Hoves Werkzeuge (Cendrew, 43.3S,33.5W)
+20 Brennender Bauernhof (Erina, 43.3S,33.5W)
+25 Der Bilwiss-Bauer (Bethan, 43.3S,33.5W)
+21 Trophäenjäger: Skrizugs' Dolch (Drop von Skrizugs, um 42.5S,34.4W oder 41.6S,33.5W)
+24 Die Blogmal müssen bezwungen werden, 24 Vorräte auf den Südhöhen (Haerandir, 41.0S,31.8W)
+20 Feind auf Feind (Merruth, 46.2S,29.1W)
+20 Trophäenjäger: Turchs Hauer (Drop von Turch, um 46.4S,28.5W)
+Nach 20 Feind auf Feind: 20 Die Ausbreitung aufhalten (Merruth, 47.9S,33.0W) -> 20 Nachrichten an Calargyl (Maeriel, 47.8S,32.8W) -> 25 Der Totenberg (Calargyl, 45.2S,28.6W) -> 20 Ein Bericht für Taeras
+24 Trophäenjäger: Borhashats Köcher (Drop von Borhashat, um 49.2S,34.0W)
+
+Andrath
+Erkundungstat (Gerwyns Karawane, 37.7S,49.8W - Denkmal des Aschenbergs, 44.1S,51.7W - Schatzspeicher, 45.0S,53.0W - Dol Ernil, 40.0S,50.7W - Der steinerne Sitz, 39.6S,50.6W - Schatzspeicher, 39.7S,50.5W - Sarch Vorn, 37.6S,52.0W - Sarch Vorn, das Schwarze Grab, 37.7S,52.2W - Schatzspeicher, 37.3S,55.5W - Netzlichtung, 42.0S,54.5W - Schriftrolle von Luilloth, 20 Die entschlüsselte Schriftrolle)
+Bezwingertat (Tote, um 40.0S,50.7W)
+26 Grausame und schreckliche Geister (Faradan, 43.7S,51.2W) -> 28 Zwei leere Gräber
+Nach 20 Fluch der Hügelgräber: 25 Ein anhaltender Fluch (Arnail, 42.5S,48.5W)
+25 Die Aridmanen von Dol Ernil (Medi, 37.7S,49.8W)
+25 Unholde von rechts, Unholde von links (Coel, 37.7S,49.8W)
+25 Die Megalithen von Tyrn Gorthad, 27 Düsternetze sammeln (Hafren, 37.6S,49.8W)
+28 Wilde Räuber auf dem Grünweg (Meister Gutherz, 36.8S,50.7W)
+Nach 17 Halborks an der Brücke und 23 Fräulein Gutherz und 28 Wilde Räuber auf dem Grünweg: 28 Der Anführer der Räuber (Meister Gutherz, 36.8S,50.7W)
+Nach 24 Luilloth, Prinzessin-Regentin von Cardolan: 20 Die Schriftrolle entschlüsseln (Rhiangar, 42.3S,48.2W) -> 25 Die Grünweg-Räuber (Gerwyn, 37.7S,49.8W) -> 20 Die entschlüsselte Schriftrolle (Melynis Bragreg, 37.6S,49.8W) -> 25 Die Hexe des Alten Waldes (Rhiangar, 37.6S,49.8W) -> 27 Familienangelegenheiten (Henbran, 37.5S,55.4W) -> 27 Die uralte Truhe (Cedrach, 41.4S,56.5W) -> 29 Luilloth auf der Spur (Henbran, 37.5S,55.4W) -> 30 Das Unheil von Sarch Vorn (Rhiangar, 37.6S,49.8W)
+Nach Annahme von 25 Die Hexe des Alten Waldes: 26 Geräucherter Bäreneintopf (Henbran, 37.5S,55.4W)
+Nach 27 Die uralte Truhe Objective #2: 28 Der Fremde im blauen Umhang (Derwen, 41.4S,56.5W)
+Nach Annahme von 30 Das Unheil von Sarch Vorn: 25 Die Geheimnisse von Sarch Vorn (Rhiangar, 37.6S,49.8W)
+25 Trophäenjäger: Welkfausts Fingerknochen (Drop von Welkfaust, um 41.8S,49.4W)
+26 Trophäenjäger: Penthúls Schädel (Drop von Penthúl, um 42.3S,52.0W)
+28 Trophäenjäger: Crúgauls Klauen (Drop von Crúgaul, um 37.7S,52.9W)
+27 Trophäenjäger: Agerbráths Mundwerkzeuge (Drop von Agerbráth, um 42.1S,54.4W)
+("Mission: Vor dem Schatten") 20+ Mission: Belagerung von Sírlond (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Belagerung von Sírlond (R)
+("Mission: Vor dem Schatten") 20+ Mission: Caranost-Hof (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Caranost-Hof (R)
+("Mission: Vor dem Schatten") 20+ Mission: Caranost-Kommandoposten (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Caranost-Kommandoposten (R)
+("Mission: Vor dem Schatten") 20+ Mission: Das Grab der Tränen (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Das Grab der Tränen (R)
+("Mission: Vor dem Schatten") 20+ Mission: Der Spuk von Dol Ernil (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Der Spuk von Dol Ernil (R)
+("Mission: Vor dem Schatten") 20+ Mission: Die Brücke von Caranost (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Die Brücke von Caranost (R)
+("Mission: Vor dem Schatten") 20+ Mission: Die Gräber von Gond Orchal (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Die Gräber von Gond Orchal (R)
+("Mission: Vor dem Schatten") 20+ Mission: Die Krone von Caranost (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Die Krone von Caranost (R)
+("Mission: Vor dem Schatten") 20+ Mission: Die Netzlichtung (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Die Netzlichtung (R)
+("Mission: Vor dem Schatten") 20+ Mission: Die Ruinen von Amon Firn (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Die Ruinen von Amon Firn (R)
+("Mission: Vor dem Schatten") 20+ Mission: Die Treppe von Caranost (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Die Treppe von Caranost (R)
+("Mission: Vor dem Schatten") 20+ Mission: Ein Hof auf den Höhen (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Ein Hof auf den Höhen (R)
+("Mission: Vor dem Schatten") 20+ Mission: Erwachen der Geister (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Erwachen der Geister (R)
+("Mission: Vor dem Schatten") 20+ Mission: Räuber in Nímbarth (R) (Baglan, 37.6S,49.8W) -> ("Mission") Mission: Räuber in Nímbarth (R)

@@ -1,0 +1,72 @@
+Norhofen (78-80)
+
+Elthengels
+Erkundungstat (Elthengels, 48.9S,52.9W - Die Roten Felder, 46.5S,54.8W - Außenposten des Händlers, 48.6S,55.3W - Uralte Gruft, 49.9S,52.6W - Kufuzg, 51.4S,52.7W - Gut Quellblick, 49.5S,56.6W - Minas Rant, 51.3S,59.1W - Caddabrands Lager, 51.4S,55.8W - Âmbal's Bau, 51.8S,57.6W)
+Bezwingertat (Uruks, um 51.4S,52.7W - Kreaturen, um 51.8S,57.6W)
+78 Die Bewohner von Elthengels (Mildrith, 48.9S,52.2W) -> 78 Plötzlicher Abschied -> 78 Eine gefährliche Straße (Runald, 49.1S,53.0W) -> 78 Instanz: Eine gefährliche Straße
+Während 78 Die Bewohner von Elthengels: 78 Ein überwältigender Befehl (Baldthorne, 48.7S,52.8W)
+Während 78 Die Bewohner von Elthengels: 78 Eine Landwehr zusammenrufen (Wuscrad, 48.7S,52.8W)
+Während 78 Die Bewohner von Elthengels: 78 Wunden heilen (Elfwyn, 48.5S,53.0W)
+Während 78 Die Bewohner von Elthengels: 78 Der widerspenstige Hengst (Adnoth, 48.8S,52.9W)
+Nach Annahme von 78 Die Bewohner von Elthengels: 78 Rache für Elthengels (R) (Berittene Orks, z.B. um 47.1S,52.6W)
+78 Überreste der Gefallenen (Helm des Thans, 46.6S,53.1W)
+79 Kampfgruppe: Haglob (R) (Automatisch, um 46.4S,53.7W)
+
+78 Ein fairer Handel (Ofrith, 48.7S,55.3W) -> 78 Eine andauernde Gefahr -> 78 Ärger gen Westen
+Während 78 Ein fairer Handel: 78 Eine Gemeinheit (Léodrim, 48.7S,55.3W)
+Nach 78 Ein fairer Handel: 78 Der verschwundene Kaufmann (Ofrith, 48.7S,55.3W)
+Nach 78 Ein fairer Handel: 78 Mauhúrs Kriegslager (R) (Uruk-hai, um 51.4S,52.7W)
+78 Ein hinderlicher Feind (Guthléod, 48.6S,55.4W)
+Nach 79 Athelwards Kopfgeld: 79 Jagd auf die Kampfgruppen (R) (Léodrim, 48.7S,55.3W)
+79 Kampfgruppe: Skútog (R) (Automatisch, um 50.0S,54.5W)
+78 Erforschung des uralten Grabs (Automatisch, 49.9S,52.6W)
+79 Säuberung des uralten Grabs (Automatisch, 49.9S,52.6W)
+
+78 Versteckspiel (Cyneswith, 49.4S,56.5W) -> 78 Rausgeschmissen (R)
+Nach 78 Versteckspiel: 78 Da stinkt doch was (Ork-Saboteure und -Aasfresser, um 49.9S,57.6W) -> 78 Der Turm am Strom (Cyneswith, 49.4S,56.5W) -> 78 Ein Assistent mit Köpfchen
+Nach Annahme von 78 Der Turm am Strom: 78 Wilde Eindringlinge (Automatisch, um 51.1S,59.0W)
+78 Ein vertrautes Andenken (Mattes Goldmedaillon, 50.1S,57.4W)
+78 Der arrogante Jägersmann (Caddabrand, 51.4S,55.8W) -> 79 Ein Ende für Âmbal -> 79 Athelwards Kopfgeld -> 79 Ein famoser Verdienst
+Nach 78 Der arrogante Jägersmann: 78 Die Arbeit eines Jägersmanns (Wölfe, um 52.0S,57.4W)
+Nur während 79 Athelwards Kopfgeld: 79 Klingen der Rebellen (Automatisch, 52.3S,56.8W)
+
+
+Stadt des Waldmeisters
+Erkundungstat (Stadt des Waldmeisters, 43.3S,56.7W - Randgars Hof, 44.1S,53.8W - Übungsgelände der Rohirrim, 42.5S,53.7W - Wachturm von West-Waldmeister, 44.8S,59.6W)
+79 Leichtsinnige Streitigkeiten (Frithelm, 43.4S,56.5W)
+Während 79 Leichtsinnige Streitigkeiten: 79 Silberne Zunge (Ordwacer, 43.1S,56.2W)
+Während 79 Leichtsinnige Streitigkeiten: 79 Ein liebloses Fest (Isenyd, 43.9S,56.9W)
+Nach 79 Leichtsinnige Streitigkeiten: 79 Verliebt und verloren (Inhild, 43.3S,56.4W) -> 78 Verteidigung des Hofs (Randgar, 44.3S,53.8W) -> 78 Herz oder Gold -> 79 Was noch bleibt (Inhild, 43.3S,56.4W) -> 78 Instanz: Alles, was verbleibt -> 80 Die reine Wahrheit oder 80 Inhilds Anliegen (Hwitmon, 43.3S,56.4W)
+79 Die hinterhältige Phiole (Walnoth, 43.3S,56.5W) -> 79 Den Hauptmann der Wache befragen, 79 Den Koch befragen, 79 Die Nachbarin befragen -> 79 Die Verdächtigen verhören -> 79 Eldora festnehmen oder 79 Swithorne festnehmen oder 79 Wigfugol festnehmen -> 79 Im Dienste des Greven Athelward (Walnoth, 43.1S,55.4W) -> 79 Evakuierung (Athelward, 43.0S,55.5W) -> 79 Zorn des Greven -> 79 Instanz: Zorn des Greven -> 79 Wie der Vater, so die Tochter -> 79 Ein würdiger Trainer (Edwulf, 42.6S,53.6W) -> 79 Die Ausbildung der Schildmaid (Ides, 41.7S,54.4W) -> 78 Instanz: Die Ausbildung der Schildmaid -> 79 Mehr Verlangen als Stärke -> 78 Instanz: Mehr Verlangen als Stärke -> 79 Eine unbeantwortete Aufforderung
+Nach 79 Im Dienste des Greven Athelward: 79 Die Roten Felder, 79 Warnschilder aufstellen (Athelward, 43.0S,55.5W)
+Nach 79 Im Dienste des Greven Athelward und ("Die Steppe") 76 Das Schicksal herausfordern: 79 Der Greve der Norhofen (Burnoth, Sohn von Baldeg, 42.9S,55.9W) -> 79 Argwöhnische Reiter -> 79 Instanz: Wachsame Reiter
+
+79 Kampfgruppe: Dahámab (R) (Automatisch, um 44.9S,57.4W)
+78 Ein unangenehmer Gastgeber (Automatisch, um 45.9S,58.1W)
+78 Die Verbreitung der Horde (Ork-Reiter, um 45.8S,58.1W)
+78 Totems und Banner (Garmund, 44.8S,59.7W) -> 78 Geschworene Eide -> 78 Instanz: Geschworene Eide -> 78 Athelwards Urteil
+
+
+Feldheim
+Erkundungstat (Feldheim, 54.5S,57.4W - Tal des Láthbärs, 54.4S,52.7W - Kriegslager der Nink-hai, 55.9S,55.0W - Die Hofwache, 54.3S,59.0W)
+Bezwingertat (Berittene Feinde, um 53.4S,57.3W)
+79 Die Elf-Gefolgschaft (Elfmar, 54.4S,57.5W) -> 80 Der Sturm kommt -> 80 Die Flut zurückhalten (Norbald, 53.8S,56.8W) -> 80 Die Verteidigung von Feldheim (Elfmar, 54.4S,57.5W) -> 80 Instanz: Die Verteidigung von Feldheim -> 80 Nach Ohrenburg
+Während 79 Die Elf-Gefolgschaft Objective #1: 79 Von einem anderen Volke (Nothwulf, 54.4S,57.5W) -> 79 Harmonische Furcht (Inhere, 53.3S,53.9W) -> 79 Die verderbten Muttertiere
+Nach 79 Von einem anderen Volke: 79 Beunruhigte Kräfte (Láthbären, um 53.7S,53.7W)
+Nach 79 Von einem anderen Volke: 79 Wertvolle Güter (Getric, 54.2S,57.0W)
+Nach 79 Harmonische Furcht: 79 Überdurchschnittlich klug (Automatisch, 54.7S,52.4W)
+Während 79 Die Elf-Gefolgschaft Objective #3: 79 Felder der Ungewissheit (Osin, 54.4S,57.3W)
+Während 79 Felder der Ungewissheit: 79 Verbarrikadierte Heime (Thurgyr, 54.8S,57.3W)
+Während 79 Felder der Ungewissheit: 79 Ein Ende der Ausleihe (Déorun, 54.5S,56.7W)
+Während 79 Felder der Ungewissheit: 79 Befreiung der Rösser (Haligmar, 54.4S,56.2W)
+Während 79 Felder der Ungewissheit: 79 Schnelle Rache (Enswith, 54.0S,56.6W)
+Während 79 Die Elf-Gefolgschaft Objective #5: 80 Von allen Seiten bedrängt (Langfrith, 54.6S,57.6W)
+Während 79 Die Elf-Gefolgschaft Objective #5, nach Annahme von 80 Von allen Seiten bedrängt, nur bis Abschluss von ("Klagehügel") 71 Die Wahrheit kommt ans Tageslicht: 80 Anführer der Nink-hai (Langfrith, 54.6S,57.6W)
+Während 79 Die Elf-Gefolgschaft Objective #5, nach Annahme von 80 Von allen Seiten bedrängt, nach Abschluss von ("Klagehügel") 71 Die Wahrheit kommt ans Tageslicht: 80 Der Gefangene kehrt zurück (Langfrith, 54.6S,57.6W)
+Nach Annahme von 80 Von allen Seiten bedrängt: 80 Umgekehrte Sabotage (Automatisch, um 55.6S,55.2W)
+Nach Annahme von 80 Von allen Seiten bedrängt: 80 Eine bereits bekannte Taktik (Ork-Saboteure, um 55.6S,55.2W)
+79 Kampfgruppe: Schwertríper (R) (Automatisch, um 53.8S,54.5W)
+
+Nach 79 Swithorne festnehmen, 79 Eine unbeantwortete Aufforderung und ("Hytbold") 85 Der Witan: 85 Treason Uncovered (Ides, 57.3S,55.9W)
+Nach 79 Eldora festnehmen, 79 Eine unbeantwortete Aufforderung und ("Hytbold") 85 Der Witan: 85 Treason Exposed (Ides, 57.3S,55.9W)
+Nach 79 Wigfugol festnehmen, 79 Eine unbeantwortete Aufforderung und ("Hytbold") 85 Der Witan: 85 Aufgedeckter Verrat (Ides, 57.3S,55.9W)

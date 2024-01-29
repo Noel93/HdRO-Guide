@@ -1,0 +1,80 @@
+Nebelgebirge (40-45)
+
+(Fortsetzung aus den Trollhöhen)
+Band 1, Buch 5: 42 Ins Nebelgebirge (Elrond, 29.8S,3.4W) -> 42 Lästige Bilwisse -> 43 Die Hohe Festung -> 43 Der Zutrittsstein -> 43 Die letzte Zuflucht -> 43 Instanz: Die letzte Zuflucht -> 43 In den Fussstapfen des Bösen -> 43 Schlechte Nachrichten -> 43 Feuer und Eis -> 43 Instanz: Feuer und Eis
+
+Die Ballade von Bingo Boffin (Fortsetzung aus den Trollhöhen): 42 Ein verschneiter Aufstieg -> 43 Ein gefährlicher Umweg -> 43 Instanz: Ein gefährlicher Umweg -> 45 Ein kühner Plan -> 46 Ein abwesender Autor -> 48 Eine neue Jagd
+
+Bruchtal (nördlich)
+40 Das Nebelgebirge (Glorenglir, 29.4S,5.7W)
+45 Weg in die Dunkelheit (Bilbo Beutlin, 29.8S,3.4W) -> 45 Meine Zwergenfreunde -> 45 Vorbereitung auf die Finsternis -> 45 Der unentdeckte Pfad
+
+Glóins Lager / Westlicher Bruinenquell
+Erkundungstat (Cirith Imladris, 25.4S,3.5W - Glóins Lager, 24.9S,4.0W - Iskelds Ausguck, 21.6S,4.5W)
+Bezwingertat (Bären, zwischen 23.2S,4.1W und 23.0S,3.2W - Schneekreaturen, um 22.4S,4.4W)
+40 Wild gewordene Kreaturen (Automatisch, 25.4S,3.5W) -> 40 Verborgen durch Pelz und Schnee (Malthenor, 24.9S,4.1W)
+40 Unwissentliche Plünderer (Automatisch, 24.8S,3.3W) -> 40 Deluros von Bruchtal (Glorenglir, 29.4S,5.7W) -> 40 Die fehlenden Fragmente (Deluros, 29.8S,3.4W) -> 40 Die Lektion eines Gelehrten
+Nach 40 Verborgen durch Pelz und Schnee (und anderen?): 41 Die Hohe Klippe (Glóin, 24.9S,4.1W)
+40 Bären des Nordens (Automatisch, 23.5S,3.1W)
+40 Alte Schätze (Automatisch, 22.8S,3.7W)
+
+Hohe Klippe / Östlicher Bruinenquell / Riesenhall
+Erkundungstat (Wittkluft, 23.4S,0.2E - Cirith Daur, 23.3S,3.4E - Der Bittersteg, 17.9S,2.2W - Gabilazan, 28.0S,0.8E - Hríthurs Zuflucht, 24.9S,1.9E, Rakhâs-Bizar, 27.1S,2.7E - Die Nadel des Riesen, 30.4S,3.6E - Grauzweigesend, 31.4S,3.4E - Der Lornstein, 30.3S,2.7E - Iorbar, 30.6S,5.7E)
+Bezwingertat (Riesen, um 30.6S,5.7E - Trolle, um 31.7S,0,6E)
+40 Achtung: Böse Menschen (Vighar Strassenläufer, 24.6S,1.3E) -> 42 Achtung: Böse Zwerge -> 45 Achtung: Böse Riesen
+Nach 40 Alte Schätze: 41 Bis zum letzten Barren (Larus Scharfscherbe, 24.6S,1.3E) -> 42 Die andere Kiste -> 42 Der letzte Barren (Halmur Steinformer, 28.3S,0.2E) -> 42 Ein wahrer Schatz (Larus Scharfscherbe, 24.6S,1.3E)
+41 Arktische Jäger (Automatisch, 22.7S,0.2E)
+Nach 42 Achtung: Böse Zwerge: 45 Die Herren der Mammuts, 45 Riesenhafte Waffenmeister (Golhador, 24.6S,1.3E)
+Nach 42 Der letzte Barren: 43 Zum Hohen Pass (Vighar Strassenläufer, 24.6S,1.3E)
+Nach 38 Riesige Fußspuren(?): 45 Land der Riesen (Automatisch, 28.8S,0.2E)
+Nach 39 Von den Bergen herab?(?) und 45 Land der Riesen: 45 Donner in den Bergen (Automatisch, 28.8S,0.2E)
+
+Vindurhal / Nördlicher Hoher Pass
+Erkundungstat (Akûltot, 21.5S,4.5E - Starkhath, 20.9S,8.0E - Dómstoll, 22.0S,8.6E)
+Bezwingertat (Warge, um 20.7S,7.9E)
+43 Bilwiss-Feuer (Eywind, 23.3S,4.3E) -> 43 Gandalfs Geheimrezept (Nogmeldir, 23.3S,4.3E) -> 43 Flammendes Inferno (Eywind, 23.3S,4.3E)
+43 Bilwiss-Jagd (Eywind, 23.3S,4.3E)
+43 Glorwens Schicksal (Nogmeldir, 23.3S,4.3E) -> 43 Der Pfad des Rudels -> 43 Schwarzzahn -> 45 In die tiefsten Tiefen des Bilwiss-Dorfs
+43 Gegen das Rudel (Nogmeldir, 23.3S,4.3E)
+
+Hrimbarg / Südlicher Hoher Pass
+Erkundungstat (Hrimbarg, 24.3S,6.9E - Krummtiefen, 26.6S,9.0E - Erforgh-Kluft, 29.6S,9.1E)
+Bezwingertat (Würmer, um 26.6S,9.0E)
+44 Spuren verwischen, 44 Thorkell ist gefallen (Thorgest, 24.5S,7.0E)
+Nach Annahme von 44 Spuren verwischen: 44 Vor Kälte erstarrt (Thorgest, 24.5S,7.0E)
+Nach Annahme von 44 Vor Kälte erstarrt: 44 Thorgests letzte Hoffnung (Afwald, 24.5S,7.0E)
+44 Erst da Geschäft, dann die Rache (Würmer, um 25.1S,7.5E)
+44 Den Wurm beim Schwanz packen (Automatisch, 26.4S,8.5E)
+
+Bilwissdorf
+Erkundungstat (Der schwarze Riss, 20.3S,5.4E - Floid und Dewitt, 21.1S,5.7E [nahe dem schwarzen Riss bei 20.9S,5.1E nach Osten springen] - 1. Knopf, hinter der ersten Hängebrücke rechts vom Hauptstollen - Sklavenpferche, ganz im Nordosten des südlichen Tunnels - Kriegsstätten, ganz im Nordwesten des südlichen Tunnels - 2. Knopf, im nordöstlichen Tunnel der Kriegsstätten - 3. Knopf, im westlichen Teil der Kriegsstätten - Donnergrotte, im Westen des nördlichen Tunnels - 4. Knopf, am Grund der Donnergrotte - Die Feuertiefe, im Osten des nördlichen Tunnels - 5. Knopf, im Raum von Zagh und Matuga - Eglanúr, im Raum vorm Thronsaal - Gollums Höhle, östlich des Thronsaals - Der Bau des Grossen Bilwisses, ganz im Norden)
+45 Bilwisse am Tor (Glóin, 21.4S,5.9E) -> 45 Befehl aus der Dunkelheit -> 45 Erinnerungen an Warge -> 45 Gerüchte aus dem Norden -> 45 Nicht zu entziffern -> 45 Ein grosser Bilwiss
+Nach 45 Erinnerungen an Warge: 45 Die Anführer in der Tiefe, 45 Hüter der Trommeln (Vighar Strassenläufer, 21.4S,5.9E)
+Nach 45 Nicht zu entziffern: 45 Aklash, der Anführer der Soldaten, 45 Die Abgesandte, 45 Rakothúrz und Horm (Tralli Steinfinder, 21.4S,5.9E)
+45 Ein verschwundener Kundschafter (Glóin, 21.4S,5.9E)
+Nur bis Annahme von ("Angmar") 45 Die verlorenen Gefährten: 45 Entfernte Verwandte (Glóin, 21.4S,5.9E)
+45 Andere Gefangene (Aeglas, Sklavenpferche) -> 45 Unruhe stiften -> 45 Die Ausführung des Plans
+45 Wächter und Bewachte (Oghûk der Grobian, Sklavenpferche) -> 45 Trommler in der Tiefe
+Nach 45 Die Ausführung des Plans und 45 Trommler in der Tiefe: 45 Matuga und der Schlüssel des Gefängniswärters (Oghûk der Grobian, Sklavenpferche) -> 45 Die grosse Flucht (Aeglas, Sklavenpferche)
+
+Helegrod
+Nach ? (43 Feuer und Eis?): ("Nebelgebirge") 45 Aufruhr in Helegrod (Anornaneth, 28.9S,5.6W) -> 45 Durins Taten (Elrond, 29.8S,3.4W) -> 45 Im Angesicht des Bitterstegs (Glóin, 21.4S,5.9E) -> 45 Spinnenfluchs uralte Feinde, 45 Die Klagen des Wurmjägers, 45 Das Ausmaß der Bedrohung, 45 Alte Freundschaften (Sigrun, 19.1S,2.9W)
+Nach 45 Im Angesicht des Bitterstegs, nicht während 45 Das Ausmaß der Bedrohung: 50 Schlachtzug: Diener Angmars (Elrond, 29.8S,3.4W)
+Nur bis Annahme von 50 Schlachtzug: Die Corcur von Helegrod, nach 45 Im Angesicht des Bitterstegs: ("Nebelgebirge") 45 Aufstand der Corcur (Elrond, 29.8S,3.4W)
+Nach 45 Im Angesicht des Bitterstegs, nicht während 45 Aufstand der Corcur: 50 Schlachtzug: Die Corcur von Helegrod (Elladan, 31.6S,15.2W)
+Nur bis Annahme von 50 Raid: Giants in Service of Angmar und 50 Schlachtzug: Storvâgûn der Verräter, nach 45 Im Angesicht des Bitterstegs: ("Trollhöhen") 45 Rettet Arifael (Elrond, 29.8S,3.4W)
+Nach 45 Im Angesicht des Bitterstegs, nicht während 45 Rettet Arifael: 50 Schlachtzug: Storvâgûn der Verräter (Arifael, 35.2S,8.1W)
+Nach 45 Im Angesicht des Bitterstegs, nicht während 45 Alte Freundschaften: 50 Schlachtzug: Die Bergung von Eregions Geschenk (Gonediad, 29.9S,4.7W)
+Nach 45 Im Angesicht des Bitterstegs, nicht während 45 Spinnenfluchs uralte Feinde: 50 Schlachtzug: Eine neue Königin für die Tiefen von Helegrod (Atli Spinnenbann, 24.9S,43.9W)
+Nach 45 Im Angesicht des Bitterstegs und 50 Schlachtzug: Reißzähne für Ehrenlohn, nicht während 45 Die Klagen des Wurmjägers: 50 Picks for Delivery (Ormulf Wurmjäger, 7.2S,45.0W)
+50 Schlachtzug: Riesen-Bezwinger (R), 50 Schlachtzug: Riesen in Angmars Diensten (R), 50 Schlachtzug: Bestien des Schnees (R) (Automatisch, Riesen-Trakt) [Instanzlevel >= Level - 8]
+50 Raid: Spider Squasher (R), 50 Raid: An Evil Place, Crawling with Spiders (R), 50 Raid: Zaudru's Brood (R) (Automatisch, Spinnen-Trakt) [Instanzlevel >= Level - 8]
+50 Schlachtzug: Drachentreiber (R), 50 Schlachtzug: Hindert sie am schlüpfen (R) (Automatisch, Drachenbrut-Trakt)
+50 Schlachtzug: Reißzähne für Ehrenlohn (R) (Automatisch, Drachenbrut-Trakt) [Instanzlevel >= Level - 8]
+50 Schlachtzug: Thorog besiegt (R) (Automatisch, Drachen-Trakt) [Instanzlevel >= Level - 8]
+
+"Umherziehende Bedrohungen"
+Bosstat (25.4S,0.1E - 22.7S,1.2E - 22.5S,4.1E - 21.9S,4.4E - 22.0S,7.4E - 23.5S,7.2E - 24.4S,6.2E - 27.9S,8.1E - 28.1S,7.2E - 31.1S,3.3E)
+Schatzspeicher (23.8S,2.3W - 23.4S,4.3W - 20.5S,3.4W - 25.1S,0.5W - 23.0S,2.6E - 20.8S,5.1E [langem Pfad bei 22.8S,3.7E folgen] - 21.8S,8.7E - 23.9S,7.4E - 26.1S,9.6E - 28.3S,6.7E - 28.5S,4.1E - 31.4S,0.3E)
+100 Umherziehende Bedrohungen des Nebelgebirges (Automatisch, um 24.5S,6.9E)
+100 Umherziehende Bedrohng: Gróthurs der Steinriese (R), 100 Umherziehende Bedrohung: Hrimdyr, der König der Bestien (R), 100 Umherziehende Bedrohung: Krabakam, der Meisterjäger (R), 100 Umherziehende Bedrohung: Sútmoth der Eisriese (R) (Gellamiel, 14.5S,50.9W)

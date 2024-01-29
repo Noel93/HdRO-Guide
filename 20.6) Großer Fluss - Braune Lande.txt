@@ -1,0 +1,19 @@
+Braune Lande (74-75)
+
+Erkundungstat (Etheburg, 31.3S,52.1W - Lashkarg, 33.2S,51.9W - Helstor, 28.9S,50.5W - Einöde der Gärten, 32.8S,47.9W - Das Steinloch, 32.0S,47.8W)
+
+75 Genug Ärger (Céola, 31.1S,52.2W) -> 75 Der verräterische Hauptmann, 75 Herren der Einöde, 75 Schatze aus Path Celebrant
+Während 75 Genug Ärger: 75 Trolle in den Braunen Landen, 75 Verstecken spielen (Céola, 31.1S,52.2W)
+Während 75 Genug Ärger: 75 Wilde Katzen der Braunen Lande (Twiga, 31.3S,52.3W)
+Nach Annahme von 75 Genug Ärger: 75 Ein schwarzer Wind aus dem Osten (Dagbert, 31.5S,52.2W) -> 75 Das Auge verbrennen, 75 Klinge des Ostens [nach 75 Söldner und Verräter von Céola]
+75 Katzenhalsbänder (Drop von Kampfkatzen, z.B. um 33.2S,51.9W) -> 75 Das Auge des Löwen, 75 Fangzähne aus dem Osten (Twiga, 31.3S,52.3W)
+75 Die Blaue Kaste (Drop von Zauberer der Blauen Kaste, z.B. um 33.2S,51.9W) -> 75 Bruderschaft der Seele, 75 Bruderschaft des Geistes (Céola, 31.1S,52.2W)
+Nach 75 Bruderschaft der Seele, 75 Bruderschaft des Geistes und entweder 75 Das Auge verbrennen oder 75 Klinge des Ostens: 75 Ein Sturm zum Sonnenuntergang (Céola, 31.1S,52.2W) -> 75 Instanz: Ein Sturm zum Sonnenuntergang -> 75 Ein Sturm zum Sonnenuntergang (Wiederholbar) (R) -> 75 Instanz: Ein Sturm zum Sonnenuntergang (R)
+Nach 75 Ein Sturm zum Sonnenuntergang: 74 Lichter über dem Land (Céola, 31.1S,52.2W) -> 74 Instanz: Lichter über dem Land -> 75 Lichter über dem Land (Wiederholbar) (R) -> 74 Instanz: Lichter über dem Land (R)
+
+75 Söldner und Verräter (Drop von Hafoc, 28.6S,50.1W)
+75 Wo sind Pferd und Reiter? (Statue von Pferd und Reiter, 28.6S,50.1W)
+
+75 Ent sucht Entfrauen (Knarzstumpf, 32.5S,48.4W) -> 75 Bewegliche Steine, 75 Einen Stein treten, 75 Spötterei für ein Denkmal
+Nach Annahme von 75 Ent sucht Entfrauen: 75 Ein zurückgelassener Schatz (Einsame Blume, 32.7S,48.1W)
+75 Eine wunderschöne Waffe (Zerbrochene Waffe des Zweiten Zeitalters, 31.9S,47.8W)

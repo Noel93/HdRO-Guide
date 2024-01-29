@@ -1,0 +1,23 @@
+Wildermark: Die Brachen (85)
+
+Erkundungstat (Wildkraut, 39.8S,59.2W - Thrymms Hof, 40.3S,58.5W - Gárferths Hof, 42.3S,58.8W - Gársigs Hof, 40.6S,55.9W - Cuthbalds Hof, 41.5S,57.7W - Edsigs Hof, 43.3S,59.3W - Gárnoths Hof, 42.4S,61.1W)
+Bezwingertat (Uruk-hai, um 43.8S,58.6W)
+
+Nach ("Wildermark: Die Krummhöhen") 85 Der Zwischenfall am Tor: 85 Begräbnis in Forlach (Gárwig, 37.8S,61.0W) -> 85 Instanz: Begräbnis in Forlach -> 85 Zeit zur Besinnung (Cyneberg, 39.5S,60.6W) -> 85 Höfe der Brachen
+Nach 85 Höfe der Brachen: 85 Die Suche auf Gársigs Hof (Siric, 40.2S,58.3W)
+Nach 85 Höfe der Brachen: 85 Die Suche auf Gárferths Hof (Torwulf, 40.1S,58.3W)
+Nach 85 Die Suche auf Gársigs Hof und 85 Die Suche auf Gárferths Hof: 85 Die Rettung von Cuthbalds Hof (Oter, 40.1S,58.3W) -> 85 Rache für die Bauern
+Nach Annahme von 85 Zeit zur Besinnung: 85 Beschäftigung der Waisen, 85 Edsigs Witwe, 85 Gársigs Witwe, 85 Gárferths Witwe (Cyneberg, 39.5S,60.6W)
+Nach Annahme von 85 Rache für die Bauern: 85 Bergung für ein höheres Gut, 85 Mutter des Rudels, 85 Nachhaltige Spuren hinterlassen, 85 Zur Grausamkeit erzogen (Automatisch, um 43.3S,59.3W)
+Nach Annahme von 85 Rache für die Bauern: 85 Einen Gefallen zurückgeben (Giftfässer, um 43.3S,59.3W)
+Nach 85 Bergung für ein höheres Gut und 85 Mutter des Rudels: 85 Eine Zeit des Wiederaufbaus (Oter, 40.1S,58.3W) -> 85 Thrymms Hof -> 85 Instanz: Thrymms Hof -> 85 Gelähmt von Trauer (Gárwig, 37.8S,61.0W) -> 85 Nächste Stufen der Trauer (Cyneberg, 37.8S,61.0W)
+Nach 85 Thrymms Hof: 85 Brúlk, Schlächter von Gárnoth (Edda, 38.9S,60.9W)
+Nach Annahme von 85 Nächste Stufen der Trauer: 85 Befreiung der Rindviecher, 85 Ein besseres Schicksal, 85 Vorbereitung auf eine Belagerung (Automatisch, um 42.4S,61.1W)
+Nur während 85 Nächste Stufen der Trauer: 85 Núrzums Pfad (Automatisch, um 42.4S,61.1W)
+Während 85 Nächste Stufen der Trauer Objective #3: 85 Laudh, der Leutnant von Núrzum (Automatisch, um 42.4S,61.1W)
+Nach 85 Nächste Stufen der Trauer, 85 Ein besseres Schicksal und 85 Vorbereitung auf eine Belagerung: 85 Zum Gedenken an Thrymm (Cyneberg, 37.8S,61.0W) -> 85 Instanz: Zum Gedenken an Thrymm -> 85 Die Ankunft von Thrymms Kriegsross (Gárwig, 37.8S,61.0W)
+
+Nicht während ("Wildermark: Wiederaufbau") 85 Kampfgruppe II: Shaguk (R): 85 Kampfgruppe: Shaguk (R) (Automatisch, um 41.5S,56.1W)
+Nicht während ("Wildermark: Wiederaufbau") 85 Kampfgruppe II: Arataus (R): 85 Kampfgruppe: Arataus (R) (Automatisch, um 41.5S,56.1W)
+Nicht während ("Wildermark: Wiederaufbau") 85 Kampfgruppe II: Shum (R): 85 Kampfgruppe: Shum (R) (Automatisch, um 42.4S,57.6W)
+Nicht während ("Wildermark: Wiederaufbau") 85 Kampfgruppe II: Zovarr (R): 85 Kampfgruppe: Zovarr (R) (Automatisch, um 43.6S,61.1W)

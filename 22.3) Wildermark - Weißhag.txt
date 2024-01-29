@@ -1,0 +1,37 @@
+Wildermark: Weißhag (85)
+
+Erkundungstat (Die nördlichen Eisnadeln, 37.6S,63.4W - Die südlichen Eisnadeln, 40.2S,64.2W - Die westlichen Eisnadeln, 39.9S,65.6W - Die Hütte in den Ebenen, 38.9S,65.9W - Wilde Wasserlilie, 38.9S,65.9W - Dunfast, 37.7S,66.4W - Die Eisnadeln bei Dunfast, 37.4S,67.1W - Die Hütte im Norden, 36.1S,64.9W - Der Dünnwald, 36.4S,69.1W - Die Hütte in den Wäldern, 36.9S,67.4W)
+
+Nach ("Wildermark: Die Brachen") 85 Die Ankunft von Thrymms Kriegsross: 85 Eine Suche nach Antworten (Gárwig, 37.8S,61.0W) -> 85 Ein seltsamer Anblick am Horizont (Cyneberg, 39.2S,63.0W) -> 85 Leer (Cyneberg, 37.7S,66.3W) -> 85 Ein weiteres seltsames Gebilde -> 85 Eine Suche nach Überlebenden -> 85 Zeugenaussagen (Cyneberg, 38.7S,67.1W)
+Nach Annahme von 85 Ein seltsamer Anblick am Horizont: 85 Ein schreckliches Stück Winter (Automatisch, um 37.6S,63.4W)
+Nach Annahme von 85 Ein seltsamer Anblick am Horizont: 85 Ein unerledigter Auftrag (Halb aufgefressenes Pferd, 40.2S,64.2W)
+Nach Annahme von 85 Ein seltsamer Anblick am Horizont: 85 Ein argloser Feind, 85 Núrzums Schatten (Automatisch, um 39.9S,65.6W)
+Nach 85 Leer: 85 Ein günstiger Überfall (Automatisch, um 37.7S,66.4W)
+Nach 85 Eine Suche nach Überlebenden: 85 Reißzähne im Schnee (R) (Wölfe, um 38.4S,67.3W)
+Nach 85 Zeugenaussagen: 85 Das Schicksal des Viehs (Herethryth, 38.7S,67.1W)
+Nach 85 Zeugenaussagen: 85 Schutz gegen die Kälte (Léofburg, 38.7S,67.1W)
+Nach 85 Zeugenaussagen: 85 Hoffnung auf die Ernte (Gifemund, 38.7S,67.1W)
+Nach 85 Das Schicksal des Viehs, 85 Schutz gegen die Kälte und 85 Hoffnung auf die Ernte: 85 Der Tag, an dem der Riese kam (Gifemund, 38.7S,67.1W) -> 85 Instanz: Der Tag, an dem der Riese kam -> 85 Die Suche nach dem vermissten Mann -> 85 Ein Hinweis auf das Relikt (Iothete, 36.9S,67.4W) -> 85 Die Geschichte eines seltsamen Steins -> 85 Instanz: Die Geschichte eines merkwürdigen Steines -> 85 Neuigkeiten, die der Greve hören muss
+Nach 85 Die Suche nach dem vermissten Mann: 85 Patrouille durch die gefrorenen Wälder (Automatisch, 36.9S,67.4W)
+Nach 85 Die Suche nach dem vermissten Mann: 85 Anführer der Belagerung (Orks, um 36.9S,67.4W)
+
+Nur bis Abschluss von 85 Neuigkeiten, die der Greve hören muss, nach Annahme von 85 Die Suche nach dem vermissten Mann: 85 Die Fischer: Der Gefahr unbewusst (Gifemund, 38.7S,67.1W)
+85 Die Fischer: Ein ruhiges Leben (Angelrute, 36.1S,64.9W)
+Nach 85 Die Fischer: Ein ruhiges Leben: 85 Die Fischer: Peinigende Reiter (Mordcar, 35.5S,63.7W)
+Nach 85 Die Fischer: Ein ruhiges Leben: 85 Die Fischer: Die Netze einholen (Smala, 35.5S,63.7W)
+Nach 85 Die Fischer: Peinigende Reiter und 85 Die Fischer: Die Netze einholen: 85 Die Fischer: Fleisch für das Ende einer kalten Reise (Mordcar, 35.5S,63.7W)
+Nach 85 Die Fischer: Peinigende Reiter und 85 Die Fischer: Die Netze einholen: 85 Die Fischer: Für einen anderen Tag graben (Smala, 35.5S,63.7W)
+85 Eine tägliche Jagd (R) (Warg-Reiter, um 35.5S,64.1W)
+
+Nicht während ("Wildermark: Wiederaufbau") 85 Kampfgruppe II: Gîmtog (R): 85 Kampfgruppe: Gîmtog (R) (Automatisch, um 37.2S,62.9W)
+Nicht während ("Wildermark: Wiederaufbau") 85 Kampfgruppe II: Conog (R): 85 Kampfgruppe: Conog (R) (Automatisch, um 40.6S,63.6W)
+
+
+
+
+
+
+
+
+
+

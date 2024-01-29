@@ -1,0 +1,63 @@
+Westfold (93-95)
+
+Helms Damm & Marton
+Erkundungstat (Martonfelder, 56.8S,87.2W oder 56.0S,84.0W - Marton, 56.2S,85.6W)
+Bezwingertat (Orks, um 56.2S,85.6W)
+Nach ("Epos - Band III, Buch 11: Die Goldene Halle") 86 Buch 11, Kapitel 10: Der König reitet gen Westen: 93 Die Westfold: Dem König zu Hilfe (Gandalf, 60.1S,76.9W) -> 93 Das letzte große Bollwerk (König Théoden, 60.8S,88.8W) -> 93 Instanz: Das letzte große Bollwerk
+Nach 93 Das letzte große Bollwerk: 93 Helms Tor: Das scharfe Auge des Bogenschützen (Legolas, 60.7S,88.8W)
+Nach 93 Das letzte große Bollwerk: 93 Helms Tor: Zu Junge und zu Alte (Aragorn, 60.8S,88.8W)
+Nach 93 Das letzte große Bollwerk: 93 Helms Tor: Sachkenntnisse eines Zwerges (Gimli, 60.8S,88.8W)
+Nach 93 Helms Tor: Das scharfe Auge des Bogenschützen, 93 Helms Tor: Zu Junge und zu Alte und 93 Helms Tor: Sachkenntnisse eines Zwerges: 93 Die versprengten Fürsten der Westfold (Gamling der Ältere, 60.8S,88.8W) -> 93 Die Suche nach Erkenbrand (König Théoden, 60.8S,88.8W)
+Nach Annahme von 93 Die Suche nach Erkenbrand: 93 Marton: Rösser ihres Gefallens, 93 Martonfelder: Feuer auf den Feldern (Automatisch, um 57.1S,86.2W)
+Nach Annahme von 93 Die Suche nach Erkenbrand: 93 Martonfelder: Hässliche Heuhaufen (Banner der Weißen Hand, um 56.6S,86.3W)
+Nach Annahme von 93 Die Suche nach Erkenbrand: 93 Martonfelder: Feindliche Patrouille (Wargreiter, um 56.6S,86.3W)
+Nach Annahme von 93 Die Suche nach Erkenbrand: 93 Marton: Flucht mit Hindernissen, 93 Herausforderung: Der neue Than von Marton (Automatisch, um 56.6S,85.5W)
+Nach Annahme von 93 Die Suche nach Erkenbrand: 93 Marton: An die Orks gefallen (Orks, um 56.2S,85.6W)
+Nach Annahme von 93 Die Suche nach Erkenbrand: 93 Marton: Zeugnisse des Gemetzels (Abgetrennte Köpfe, 65.0S,85.6W)
+95 Kampfgruppe: Bethan, Priesterin von Isengart (R) (Automatisch, um 56.9S,88.1W)
+95 Kampfgruppe: Foraud (R) (Automatisch, um 54.7S,87.2W)
+
+Martons Flüchtlinge
+Erkundungstat (Flüchtlinge aus Marton, 53.8S,85.5W - Shatorthum, 53.6S,87.2W)
+Bezwingertat (Warge, 58.0S,85.7W - Trolle, um 53.6S,87.2W)
+Nach 93 Die Suche nach Erkenbrand: 93 Eine unwillige junge Anführerin (Agelwyn, 53.9S,85.5W) -> 93 Instanz: Eine unwillige junge Anführerin -> 93 Erste Entscheidungen einer neuen Thanin -> 93 Agelwyns erster Befehl -> 94 Vorbereitung auf die Flucht -> 94 Reise nach Helms Klamm -> 94 Instanz: Reise nach Helms Klamm -> 94 Auf nach Grimslade, Grimbolds Heimat (Gamling der Ältere, 60.8S,88.8W)
+Wähend 93 Erste Entscheidungen einer neuen Thanin: 93 Taktik I: Starke Führung oder 93 Taktik II: Der Wille des Volkes oder 93 Taktik III: Weisheit des Ratschlags (Agelwyn, 53.9S,85.5W)
+Nach Annahme von 93 Erste Entscheidungen einer neuen Thanin: 94 Den kleinen Fluss entlang (Automatisch, um 55.6S,83.2W)
+Nach Annahme von 93 Agelwyns erster Befehl: 93 Der östliche Weg (Automatisch, um 56.0S,84.6W)
+Nach Annahme von 93 Agelwyns erster Befehl: 93 Mörder auf Streifzug (Automatisch, um 55.9S,84.5W)
+Nach Annahme von 93 Agelwyns erster Befehl: 93 Die Westroute (Automatisch, um 55.4S,86.2W) -> 93 Auf dem Kriegspfad (Automatisch, um 53.6S,87.2W)
+Nach Annahme von 93 Agelwyns erster Befehl: 93 Herausforderung: Trollkrieger (Troll-Rohlinge, um 53.6S,87.2W)
+Nach Annahme von 93 Agelwyns erster Befehl: 93 Lasttiere (Troll-Zieher, um 53.6S,87.2W)
+Nach Annahme von 93 Agelwyns erster Befehl: 93 Geschenk des Krieges (Belagerungsmaschinen, um 53.6S,87.2W)
+
+Grimslade
+Erkundungstat (Grimslade, 63.1S,82.4W - Fushum Raus, 63.3S,80.9W - Die Furten des Isen, 54.4S,89.6W)
+Bezwingertat (Halborks, um 63.3S,80.9W)
+Nach 93 Die Suche nach Erkenbrand: 94 Eine schroffe Begrüßung (Hildith, 63.2S,82.5W) -> 94 Hildiths Rat -> 94 Instanz: Hildiths Rat -> 94 Eine gefährliche Mission (Dunward, 63.2S,82.4W) -> 94 Unerwartete Kooperation (Hildith, 63.2S,82.5W) -> 94 Grimslade wird brennen -> 94 Instanz: Grimslade wird brennen -> 94 Der zerschmetterte Herr
+Nach Annahme von 94 Eine schroffe Begrüßung: 94 Schneller als der Blitz (Grimwald, 63.2S,82.4W) -> 94 Schneller als der Blitz II (Grimwald, 62.2S,82.0W) -> 94 Schneller als der Blitz III (Grimwald, 62.8S,82.7W) -> 94 Schneller als der Blitz IV (Grimwald, 63.2S,82.4W)
+Nach Annahme von 94 Eine schroffe Begrüßung: 94 Grimbolds altersschwache Mutter (Elgyth, 63.2S,82.2W)
+Nach Annahme von 94 Eine schroffe Begrüßung: 94 Jagd in letzter Minute, 94 Sammeln in letzter Minute (Éobert, 62.5S,82.1W)
+Nach Annahme von 94 Eine schroffe Begrüßung: 94 Pfeile in letzter Minute (Frithferth, 62.2S,82.0W)
+Nach Annahme von 94 Eine schroffe Begrüßung: 94 Herumschleichende Kundschafter (Spähende Halborks, um 61.6S,81.6W)
+Während 94 Eine gefährliche Mission: 94 Zum Verhör gesucht (Húnbrit, 62.7S,81.2W)
+Nach Annahme von 94 Eine gefährliche Mission: 94 Ein plötzlicher Auflauf von Halborks (Húnbrit, 62.7S,81.2W)
+Nach Annahme von 94 Eine gefährliche Mission: 94 Beutegut für Isengart (Halbork-Beute, um 63.1S,80.8W)
+Nach Annahme von 94 Eine gefährliche Mission: 94 Ein großer Friedhof, 94 Warge in der Westfold (Winmar, 60.2S,80.5W)
+Nach Annahme von 94 Eine gefährliche Mission: 94 Der erschlagene Kundschafter (Ordgar, 60.1S,82.0W)
+Während 94 Eine gefährliche Mission: 94 Überlebende von den Furten (Gandalf, 61.8S,84.5W) -> 94 Instanz: Die Furten sind verloren
+95 Kampfgruppe: Krûpû und die herumstreifenden Orks (R) (Automatisch, um 59.2S,78.3W)
+95 Kampfgruppe: Patarshan (R) (Automatisch, um 63.5S,79.0W)
+95 Kampfgruppe: Bosnauk und die herumstreifenden Trolle (R) (Automatisch, um 57.5S,82.5W)
+
+Die Furten des Isen
+Erkundungstat (Die Furten des Isen, 54.4S,89.6W - Lufût-mos, 53.7S,88.8W - Erkenbrands Zuflucht, 56.5S,90.5W)
+Bezwingertat (Dunländer, um 54.9S,88.8W - Uruk-hai, um 53.5S,88.8W)
+Nach Annahme von 94 Der zerschmetterte Herr: 94 Wilde Menschen an den Furten (Automatisch, um 54.9S,88.8W)
+Nach Annahme von 94 Der zerschmetterte Herr: 94 Geiseln und Helden, 94 Herausforderung: Der Uruk-Kriegsanführer, 94 Meister der Furten (Automatisch, um 54.0S,88.8W)
+Nach Annahme von 94 Der zerschmetterte Herr: 94 Eine Nachricht an die Weiße Hand (Uruks, um 54.0S,88.8W)
+Nach Annahme von 94 Der zerschmetterte Herr: 94 Plünderer und Schänder (Dunländer, um 54.5S,89.5W)
+Nach Annahme von 94 Der zerschmetterte Herr: 94 Die Soldaten der zweiten Schlacht (Automatisch, um 54.4S,89.6W)
+Nach 94 Reise nach Helms Klamm: 94 Gladsúnus Grab (Gladsúnu, 54.4S,89.8W) -> 94 Das Schicksal der Dissidenten (Agelwyn, 64.1S,89.4W)
+Nach 94 Der zerschmetterte Herr: 94 Der Appell (Grimbold, 54.1S,90.1W) -> 93 Instanz: Der Appell -> 94 Nach Helms Klamm (Gandalf, 56.5S,90.5W)
+
+Nach ("Epos - Band III, Buch 13: Die Schlacht um die Hornburg") 95 Buch 13, Kapitel 10: Die Hornburg: 95 Lasst uns die Hornburg stürmen! (Automatisch zugestelltes Questitem) -> 95 Instanz: Lasst uns die Hornburg stürmen!

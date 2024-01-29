@@ -1,0 +1,35 @@
+Fangorn (95)
+
+Isengart
+95 Zurück in die Wildnis (Fliehender Dunländer-Hauptmann, 50.4S,90.1W) -> 95 Die vielen Farben des Ruins (Flinkbaum, 47.5S,87.8W) -> 95 Die drei Bäume
+Nach Annahme von 95 Die vielen Farben des Ruins: 95 Die abgetrennte Hand (Banner der Weißen Hand, um 46.2S,90.4W)
+Nach Annahme von 95 Die vielen Farben des Ruins: 95 Eine niederdrückende Niederlage (Isengart-Trümmer, um 45.7S,90.4W)
+
+Entwald
+Nach 95 Die drei Bäume: 95 Ein baumgleicher Schlaf, 95 Der Fangorn steht auf dem Kopf (Flinkbaum, 42.1S,79.1W) -> 95 Letzte Gefälligkeit -> 95 Ein Wald ohne Grenzen
+Während 95 Ein Wald ohne Grenzen: 95 Hilfebedürftig (Huorn, z.B. um 42.5S,80.5W)
+Während 95 Ein Wald ohne Grenzen: 95 Die Stimmen des Fangorn (Huorn, um 43.2S,79.7W)
+Während 95 Ein Wald ohne Grenzen: 95 Vom Wasser angezogen (Huorn, um 41.8S,80.2W)
+Während 95 Ein Wald ohne Grenzen: 95 Wachstum im Schatten (Huorn, um 41.6S,80.0W)
+Während 95 Ein Wald ohne Grenzen: 95 Der Feind aus der Vergangenheit (Huorn, um 41.8S,82.1W)
+Während 95 Ein Wald ohne Grenzen: 95 Aufwecken des Waldes (Huorn, um 39.8S,79.8W)
+Während 95 Ein Wald ohne Grenzen: 95 Am Wald gütlich tun (Huorn, um 39.1S,79.6W)
+Während 95 Ein Wald ohne Grenzen: 95 Aufwühlender Ärger (Huorn, um 38.6S,79.1W)
+Während 95 Ein Wald ohne Grenzen: 95 Ein Astgewitter (Huorn, um 38.4S,81.4W)
+Während 95 Ein Wald ohne Grenzen: 95 Krumme Äste (Huorn, um 37.7S,82.0W)
+Während 95 Ein Wald ohne Grenzen: 95 Ein natürliches Heilmittel (Huorn, um 39.7S,83.0W)
+Während 95 Ein Wald ohne Grenzen: 95 Wo ist Baumbart hin? (Huorn, um 38.3S,85.2W)
+
+Wiederholbar
+Nicht während 95 Orofarnës Samen (R) oder 95 Lassemistas Samen (R), nach 95 Letzte Gefälligkeit: 95 Carnimíriës Samen (R) (Flinkbaum, 42.1S,79.1W)
+Nicht während 95 Carnimíriës Samen (R) oder 95 Orofarnës Samen (R), nach 95 Letzte Gefälligkeit: 95 Lassemistas Samen (R) (Flinkbaum, 42.1S,79.1W)
+Nicht während 95 Carnimíriës Samen (R) oder 95 Lassemistas Samen (R), nach 95 Letzte Gefälligkeit: 95 Orofarnës Samen (R) (Flinkbaum, 42.1S,79.1W)
+Nach 95 Letzte Gefälligkeit: 95 Ein zum Schweigen gebrachter Norden des Geheimnistals (R), 95 Ein zum Schweigen gebrachter Westen des Geheimnistals (R), 95 Ein zum Schweigen gebrachter Südosten von Quellhall (R), 95 Ein zum Schweigen gebrachter Nordosten von Quellhall (R), 95 Ein zum Schweigen gebrachter Süden der Friedlichen Aue (R), 95 Ein zum Schweigen gebrachter Westen der Friedlichen Aue (R) (Flinkbaum, 42.1S,79.1W) [fünf zufällige am Tag, auch doppelte]
+
+"Rohstoff-Instanzen für West-Rohan"
+Nach ("Fangorn") 95 Letzte Gefälligkeit: 95 Stangraf: In den Tunneln (R) (Flinkbaum, 42.1S,79.1W)
+Während 95 Stangraf: In den Tunneln (R): 95 Stangraf: Ein Schimmern in der Dunkelheit (R), 95 Stangraf: Minenbesetzer (R) (Automatisch, Stangraf)
+Nach ("Fangorn") 95 Letzte Gefälligkeit: 95 Direnfirel: Führer zu den Ufern des Waldflusses (R) (Flinkbaum, 42.1S,79.1W)
+Während 95 Direnfirel: Führer zu den Ufern des Waldflusses (R): 95 Direnfirel: Auf dem Holzweg (R), 95 Direnfirel: Gefahren lauern in den Schatten (R) (Automatisch, 51.7S,73.6W)
+Nach ("Fangorn") 95 Letzte Gefälligkeit: 95 Gemyndsted: Anführer der Vandalen (R) (Flinkbaum, 42.1S,79.1W)
+Während 95 Gemyndsted: Anführer der Vandalen (R): 95 Gemyndsted: Vandalen des verlorenen Wissens (R), 95 Gemyndsted: Verlorene Inschriften (R) (Automatisch, Gemyndsted)

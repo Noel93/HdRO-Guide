@@ -1,0 +1,147 @@
+Evendim (30-40)
+
+(Fortsetzung aus Angmar)
+Band 1, Buch 9: 50 Amarthiels Hoffnung (Calenglad, 12.7S,67.2W) -> 50 Instanz: Amarthiels Hoffnung
+Band 1, Buch 10: 50 Die Waffenmeisterin Angmars (Calenglad, 12.7S,67.2W) -> 50 Die Schlacht wendet sich -> 50 Der Kampf um Annúminas -> 50 Marschbefehle -> 50 Die Falle schnappt zu -> 50 Instanz: Die Falle -> 50 Das Geheimnis der Befehle -> 50 Abgesandte des Bösen -> 50 Die Nachricht des Gefangenen -> 50 Ein erneuter Angriff -> 50 Vertraut ihm nicht -> 50 Guldurchirs Zurückhaltung -> 50 Eine Frage des Transports -> 50 Ausführung des Plans -> 50 Das Auge Angmars -> 50 Instanz: Das Auge Angmars
+Band 1, Buch 11: 50 Straßenwacht (Calenglad, 12.7S,67.2W) -> 50 Mordrambor -> 50 Instanz: Mordrambor -> 50 Hügelgräber für die Gefallenen -> 50 Das Angedenken -> 50 Instanz: Das Angedenken -> 50 Der Weg nach Osten -> 50 Ein freudloses Land -> 50 Eine dunkle Ausstrahlung -> {50 Die Geheimnisse Eryn Singors, 50 Die Tür von Delossad} -> 50 Der eingestürzte Keller -> 50 Das Tagebuch von Sara Eichenherz -> 50 Ein Beutel voller Edelsteine für eine Schatulle voller Schlüssel -> 50 Die reparierten Schlüssel -> 50 Gefangene der Freien Völker -> 50 Instanz: Gefangene der Freien Völker -> 50 Laerdans Versagen
+Band 1, Buch 12: 50 Elronds Bitte (Elrond, 29.8S,3.4W) -> 50 Ungerechtes Schicksal -> 50 Barad Tironn -> 50 Instanz: Barad Tironn -> 50 Dem Feind auf den Fersen -> 50 Seltsame Wachen -> 50 Laerdans Flucht -> 50 Instanz: Laerdans Flucht -> 50 Neues über Narchuil -> 50 Ein unermüdlicher Feind -> 50 Die Waffen des Feindes -> 50 Instanz: Die Waffen des Feindes -> 50 Halbwahrheiten -> 50 Instanz: Halbwahrheiten
+Band 1, Buch 13: 50 Nach Norden (Elrond, 29.8S,3.4W) -> 50 Die Schneemenschen von Forochel
+
+Das geborstene Schwert
+Nur bis Annahme von 32 Calenglad blieb zurück: 32 Eine gefährliche Straße (Ferrod, 12.7S,67.2W)
+32 Eine folgenschwere Entscheidung (Aragorn, 30.7S,6.2W) -> 32 Ein Mann namens Estel -> 32 Die Stadt seiner Väter (Elrond, 29.8S,3.4W) -> 32 Calenglad blieb zurück (Aragorn, 30.7S,6.2W)
+Nach 32 Calenglad blieb zurück: 35 Loyalitätsbeweis (Calenglad, 12.7S,67.2W) -> 35 Ein Freund in der Feste Forod
+Während 35 Loyalitätsbeweis: 32 Angespült (Astiul, 12.6S,67.2W) -> 32 Sortiert die Stücke aus
+Während 35 Loyalitätsbeweis: 35 Der Spion aus den Höhen (Naethmunn, 12.7S,67.0W) -> 35 Die Verteidigung von Haus Brumbar
+Während 35 Loyalitätsbeweis: 34 Übel aus Fornost (Forchon, 12.6S,67.3W) -> 34 Reiberdrucke von Grabinschriften
+Nach 35 Ein Freund in der Feste Forod: 35 Unfreundliche Blicke in der Feste Forod (Rudolf Dunklei, 8.1S,64.3W) -> 36 Konflikt mit den Bären -> 36 Uralte Statue -> 36 Ein Heulen in den Hügeln -> 37 Die Gauredain von Emyn Uial -> 37 Nachricht von Calenglad
+Nach 37 Nachricht von Calenglad: 38 Ein Treffen mit der Blauen Dame (Calenglad, 12.7S,62.2W) -> 38 Verderbte Kreaturen von Nenuial (Gwindeth, 13.7S,76.0W) -> 38 Ein Freund der alten Könige -> 38 Mein wertvollstes Stück -> 40 Elendils Grab (Calenglad, 12.7S,62.2W) -> 40 Instanz: Elendils Grab -> 40 Der letzte Silithar -> 40 Das geborstene Schwert (Aragorn, 30.7S,6.2W) -> 40 Instanz: Das zerbrochene Schwert
+Während 38 Ein Freund der alten Könige: 38 Die verlorene Statue (Rudolf Dunklei, 8.1S,64.3W), 38 Die verderbte Statue (Lithuifin, 6.1S,72.0W)
+
+Hafergut
+Erkundungstat (Nordhüttinger-Hof, 22.8S,68.0W)
+("Auenland") 20 Geheimnisvolles Relikt im Auenland (Geheimnisvolles Relikt, 23.6S,66.7W)
+30 Nordhüttinger Hof (Hugo Gärtner, 23.1S,67.3W)
+30 Bauernmarkt auf dem Nordhüttinger-Hof (Albert Nordhüttinger, 22.2N,68.8W) -> 31 Der Bauernmarkt ist eröffnet
+Nur während 30 Bauernmarkt auf dem Nordhüttinger-Hof: 30 Lichter für den Markt [nachts] (Milo Langfurch, 22.5S,68.6W)
+Während 30 Bauernmarkt auf dem Nordhüttinger-Hof: 30 Geräte einsammeln (Milo Langfurch, 22.5S,68.6W) -> 30 Unkraut jäten -> 30 Vogelscheuchen aufstellen -> 31 Blumen pflanzen -> 31 Aufgaben erledigt
+Während 30 Bauernmarkt auf dem Nordhüttinger-Hof: 30 Schafe zusammentrommeln (Gerald Tiefloch, 23.4S,68.7W) -> 30 Hühner sammeln -> 30 Suhle für die Schweine -> 31 Füttern der Kühe -> 31 Tiere versorgt
+Während 30 Bauernmarkt auf dem Nordhüttinger-Hof: 30 Mehl besorgen (Rosa Dachsbau, 23.3S,69.1W) -> 30 Marmelade besorgen -> 30 Eier sammeln -> 31 Butter besorgen -> 31 Ausliefern der Pasteten
+Während 30 Bauernmarkt auf dem Nordhüttinger-Hof: 30 Pfeifenkraut ernten (Bella Gamdschie,23.1S,69.8W) -> 30 Pfeifenkraut sortieren -> 30 Trocknen des Pfeifenkrauts -> 31 Probiert das Pfeifenkraut -> 31 Das Pfeifenkraut ist fertig
+Während 30 Bauernmarkt auf dem Nordhüttinger-Hof: 30 Des Bauern Fluch (Sepp Pausbacken, 23.2S,66.5W) -> 30 Die Beute einsammeln -> 30 Die Falle aufstellen (Hal Gamdschie, 23.0S,67.2W) -> 31 Die Straße ist frei
+Nach Annahme von 30 Des Bauern Fluch: 30 Hafer für das Westviertel (Sepp Pausbacken, 23.2S,66.5W)
+
+Nachtschatten
+31 Nachtschattens Notlage (Hob Hügelbraue, 21.2S,64.5W) -> 31 Ärger in Nachtschatten -> 32 Eine formelle Beschwerde -> 32 Instanz: Eine formelle Beschwerde
+31 Verlorener Hund (Ronald Nachting, 21.2S,64.5W) -> 31 Suche nach dem verlorenen Blatt -> 31 Das verpasste Treffen
+31 Bilwisse und Spinnen (Hinz Grüntraufe, 21.2S,64.5W) -> 31 Der Ursprung der Bilwisse -> 32 Das Rezept der Halbkobolde
+31 Sand für die Flamme (Mundarik Sandheber, 21.2S,64.4W) -> {32 Ein Hauch Blau, 32 Ein Hauch Rot (Waldemar Hügelbau, 21.2S,64.4W), 32 Ein kleines Funkeln, 32 Eine Nuance Grün (Perla Gutleib, 21.2S,64.4W)} -> 32 Glasbläser (Mundarik Sandheber, 21.2S,64.4W)
+Nach Annahme von 32 Ein Hauch Rot: 32 Zahn und Schuppe (Mundarik Sandheber, 21.2S,64.4W)
+Nach Annahme von 32 Eine Nuance Grün: 32 Immer mehr Norbog (Mundarik Sandheber, 21.2S,64.4W)
+Nach 32 Eine formelle Beschwerde, 32 Das Rezept der Halbkobolde oder 32 Glasbläser: 32 Menschen des Nordens (Hob Hügelbraue, 21.2S,64.5W)
+
+Kreuzung des Hohen Königs
+32 Reparatur des Katapults (Sardan, 13.9S,64.1W) -> 32 Verteidigung des Katapults (Cudhaer, 14.4S,64.7W) -> 33 Krone des Kolosses (Sardan, 13.9S,64.1W)
+32 Altes Logbuch (Gealnarthan, 13.9S,64.1W) -> 33 Versunkenes Schiffswrack -> 33 Leuchtturm am Baranduin
+33 Eingänge von Barad Tharsír (Daerol, 13.9S,64.2W) -> 33 Relikte von Barad Tharsír -> 33 Schätze von Barad Tharsír
+33 Plünderer von Barad Tharsír (Adleithian, 13.9S,64.1W) -> 33 Räuber von Barad Tharsír -> 33 Störenfriede von Barad Tharsír
+Nach 33 Krone des Kolosses, 33 Leuchtturm am Baranduin, 33 Schätze von Barad Tharsír oder 33 Störenfriede von Barad Tharsír: 33 Tinnudir, letzte Zuflucht der Menschen (Sardan, 13.9S,64.1W)
+32 Am Boden verstecken, 32 Gefahr in den Dünen (Herthdûr, 13.8S,64.2W)
+32 Ein Haufen feuchtes Kraut (Drop von Sandlauerern, zb 16.5S,61.6W) -> 32 Kräuter des Flusses
+32 Schmuck eines Kriechers (Drop von Schlammkriechern, zb 16.0S,61.8W) -> 32 Schmuck aus Evendim
+
+Tinnudir / Parth Aduial
+Erkundungstat (Tham Nambarth, 12.1S,65.6W - Tham Varan, 12.1S,63.9W - Tham Ornen, 8.7S,66.7W - Barad Rath, 7.3S,66.6W - Tham Andalath, 9.5N,63.1W - Feste Heryn, 11.2S,61.6W)
+33 Barachens Lager, 40 Zuflucht der Elben, 40 Die Erdsippe von Lehmä-Koti (Orchalwë, 12.5S,67.4W)
+34 Anwesen der Dämmerung (Orchalwë, 12.5S,67.4W) -> 34 Torogethirs Angriff -> 34 Feste Heryn (Torogethir, 10.3S,60.0W) -> 34 Dämmerhallen -> 34 Festung des Nordens (Orchalwë, 12.5S,67.4W)
+Während 34 Anwesen der Dämmerung: 34 Tham Nambarth (Orchalwës Tagebuch auf den Dämmerhügeln) -> 34 Tham Varan -> 34 Tham Ornen -> 34 Tham Andalath
+Während 34 Feste Heryn: 34 Schriftstücke der Ehre, 34 Nicht erfüllte Pflichten, 34 Begleichen einer alten Schuld (Torogethir, 10.3S,60.0W)
+32 Die Schatzsuche (Culang, 12.2S,67.8W) -> 33 Die Suche geht weiter (Markierungsstein, 10.7S,64.8W) -> 35 Bestimmt fast am Ziel (Markierungsstein, 7.0S,63.8W) -> 38 Noch ein Markierungsstein (Markierungsstein, 5.9S,69.1W) -> 38 Hinter den Dämmerfällen (Markierungsstein, 9.3S,73.1W) -> 38 Hin und wieder zurück (Markierungsstein, 4.9S,73.8W)
+33 Die brennende Insel (Calatherdir, 12.2S,68.0W)
+34 Fäden der Vergangenheit (Uralter Wandteppich, 12.2S,65.3W)
+34 Gefäße der Geschichte (Beschädigte Vase, 11.8S,64.0W)
+34 Herren des Landes (Zerbröckelndes Siegel, 12.1S,63.8W)
+34 Angmars Absichten (Drop von Angmarim um 8.6S,66.4W)
+34 Stumpfe Klingen schneiden auch tief (Verzierte Klinge, 9.5S,63.5W)
+36 Ein alter Schatz (Drop von Jakob Grimmhain, 7.2S,66.6W)
+("Ruf") 35 Grabräuber-Schärpen - Einleitung (Cannuion, 12.1S,68.1W)
+("Ruf") 38 Die  Waldläufer von Esteldín (Calenglad, 12.7S,67.2W)
+("Nordhöhen") 32 Eine Insel im See (Torogethir, 10.3S,60.0W)
+(Umherziehende Bedrohungen)
+
+Tyl Ruinen
+Erkundungstat (Tollobel, 11.4S,71.9W - Floid und Dewitt, 14.2S,73.5W)
+Bezwingertat (Salamander, überall auf der Insel)
+Nach 33 Die brennende Insel: 33 Rummings alberne Anfrage (Humbrecht Rumming, 11.7S,72.0W) [Fledermaus, 12.7S,72.1W] -> 33 Rummings entschiedene Entschlossenheit [Warg, 12.4S,72.0W] -> 33 Rummings restliches Rätsel [Wurm, 12.0S,71.0W] -> 33 Das schreckliche Geheimnis der Salamander
+Nach Annahme von 33 Rummings alberne Anfrage: 33 Löschen der Flamme (Lúgethir, 11.7S,72.0W)
+Nach Annahme von 33 Rummings entschiedene Entschlossenheit: 33 Gewendete Spiegeleier (Lúgethir, 11.7S,72.0W)
+Nach Annahme von 33 Rummings restliches Rätsel: 33 Übers Wasser wandeln (Lúgethir, 11.7S,72.0W)
+
+Feste Forod / Tyrn Fornech
+Erkundungstat (Nan Orngon, 7.7S,61.8W - Tûm Fuin, 4.4S,65.2W - Rantost, 7.2S,69.6W)
+Bezwingertat (Bilwisse, um 4.2S,65.3W)
+35 Kopfgeld: Harald Hirschklippe, Todesauge (Steckbrief, 8.2S,64.5W)
+35 Kopfgeld: Thauk, Warg-Scheusal (Steckbrief, 8.2S,64.2W)
+35 Kopfgeld: Lutz Tippermann, Meister der Klingen (Steckbrief, 7.8S,64.5W)
+35 Kopfgeld: Andi Idden, Bilwiss-Freund (Steckbrief, 7.5S,64.5W)
+Nach den vier Kopfgeld-Quests: 35 Der Kopfgeldjäger (Basilius Gummitsch, 7.5S,64.4W) -> 35 Instanz: Der Kopfgeldjäger
+35 Ein unerklärliches Ausbleiben von Keilern (Paul Hackle, 8.1S,64.2W) -> 36 Eine merkwürdige Anzahl Bären
+35 Vorräte für den Winter (Basilius Gummitsch, 7.5S,64.4W) -> 35 Unmittelbare Gefahren -> 36 Spione und Räuber -> 36 Die Räuber von Rantost (Elliot Gutacker, 7.9S,68.9W) -> 36 Der Fluch des Diebesjägers (Elliot Gutacker, 7.9S,68.9W) -> 36 Instanz: Der Fluch des Diebesjägers -> 36 Ein erneuerter Eid -> 36 Freunde am Traufenspitz (Orchalwë, 12.5S,67.4W)
+Während 35 Vorräte für den Winter: 35 Decken aus Fellen (Rowena Hüter, 7.3S,64.3W), 35 Holzstücke für die Feuer (Magsame Sitzer, 7.2S,64.4W), 35 Räuber und Wilddiebe (Hubert Griffel, 8.0S,64.6W), 35 Fleisch für den Spieß (Bernhard Willmer, 8.0S,64.2W)
+Während 35 Unmittelbare Gefahren: 35 Eingespielte Schurkerei (Rowena Hüter, 7.3S,64.3W), 35 Bilwisse in der Höhle (Magsame Sitzer, 7.2S,64.4W), 35 Flucht aus der Dämmerschlucht (Hubert Griffel, 8.0S,64.6W), 35 Bernhard Willmer und der weiße Warg (Bernhard Willmer, 8.0S,64.2W)
+Während 36 Die Räuber von Rantost: 36 Die Diebesjäger (Elliot Gutacker, 7.9S,68.9W), 36 Kiste und Fass (Leon Kipps, 7.9S,68.9W), 36 Rauch über dem Wasser (Waldo Schäfer, 7.9S,68.9W)
+Nur während 35 Unmittelbare Gefahren: 37 Probleme in Cirith Rhíw (Dagmar Griffel, 7.7S,64.3W)
+
+Emyn Uial
+Erkundungstat (Der Traufenspitz, 6.0S,71.8W - Der Traufweiher, 5.8S,72.8W - Raschbach, 7.0S,74.5W - Der Ebenbach, 3.7S,69.5W - Der Krummhain, 11.0S,75.1W - Rauschbach, 13.7S,75.8W)
+Bezwingertat (Riesen, um 8.2S,74.7W - Gauredain, um 4.3S,72.3W)
+36 Aufwühlen des Bachs (Langzweig, 6.1S,72.0W)
+Während 36 Aufwühlen des Bachs: 36 Wolfsmenschen aus dem Norden (Lithuifin, 6.1S,72.0W), 36 Beutel mit Gift (Remmenylf, 6.0S,71.8W), 36 Tränen der Reinheit (Erchiel, 6.1S,71.9W)
+36 Bedrohung aus dem Norden (Langzweig, 6.1S,72.0W) -> 36 Unechte Totems (Erchiel, 6.1S,71.9W) -> 37 Verwirrte Titanen (Langzweig, 6.1S,72.0W) -> 37 Eine unangenehme Mahlzeit (Lithuifin, 6.1S,72.0W) -> 37 Verschlungener Wald (Langzweig, 6.1S,72.0W) -> 37 Das unredliche Herz (Langzweig, 6.1S,72.0W) -> 37 Instanz: Das unredliche Herz -> 37 Im Westen nichts neues -> 37 Architekten der Geschichte (Orchalwë, 12.5S,67.4W)
+Während 36 Bedrohung aus dem Norden: 36 Garadan-Relikte, 36 Jagd auf die Jäger (Erchiel, 6.1S,71.9W), 36 Totems der Gauredain (Remmenylf, 6.0S,71.8W)
+Während 37 Verwirrte Titanen: 37 Kopfnüsse (Erchiel, 6.1S,71.9W), 37 Früchte des Waldes (Lithuifin, 6.1S,72.0W), 37 Narrenkrone (Remmenylf, 6.0S,71.8W)
+Während 37 Verschlungener Wald: 37 Kahlschlag im Wald (Erchiel, 6.1S,71.9W), 37 Auf der Suche nach Antworten (Lithuifin, 6.1S,72.0W), 37 Da ist was im Wasser (Remmenylf, 6.0S,71.8W)
+
+Men Erain
+Erkundungstat (Haudh Eärendur, 16.0S,66.4W - Haudh Valandur, 16.4S,66.5W - Haudh Elendil, 16.7S,67.0W - Haudh Eldacar, 17.2S,66.8W - Haudh Arantar, 17.2S,66.3W - Haudh Tarcil, 17.1S,66.0W - Haudh Tarondor, 16.9S,66.1W - Haudh Elendur, 16.3S,66.0W)
+Bezwingertat (Grabräuber, so gut wie überall, zB um 15.5S,60.5W, 7.2S,69.6W oder 16.4S,66.2SW - Kergrim, in Haudh Valandur)
+38 Frühstück in den Ruinen (Helechír, 15.3S,66.2W) -> 39 Der Schatz in den Ruinen -> 39 Mord in den Ruinen -> 40 Rache in den Ruinen
+37 Blicke aus den Hügeln (Nimbellas, 15.3S,66.2W) -> 38 Die Straße der Könige (Nimbellas, 15.3S,66.2W) -> 38 Die Heiligkeit der Herrscher -> 38 Auge des Sturms (Nimbellas, 15.3S,66.2W)
+Während 37 Blicke aus den Hügeln: 37 Arthobel auskundschaften (Maladan, 15.3S,66.1W), 37 Die Spiegel von Tham Sarch, 37 Räuber von Tham Sarch (Nethrandir, 15.4S,66.1W), 37 Langbogen von Tham Laegamon, 37 Räuber von Tham Laegamon (Rodlam, 15.4S,66.2W)
+Während 38 Die Straße der Könige: 38 Die Schlüssel der Grabstätten, 38 Tore zur Vergangenheit (Maladan, 15.3S,66.1W), 38 Plünderer der Geschichte (Nethrandir, 15.4S,66.1W), 38 Verderbnis aus der Tiefe (Rodlam, 15.4S,66.2W), 38 Osttor von Annuminas (Nimbellas, 15.3S,66.2W)
+Während 38 Die Heiligkeit der Herrscher: 38 Räuber von Haudh Eärendur, 38 Begraben in Haudh Eärendur (Nimbellas, 15.3S,66.2W), 38 Kergrim von Haudh Valandur, 38 Valandurs Zepter (Maladan, 15.3S,66.1W), 38 Plünderer von Haudh Arantar, 38 Arantars Ring (Nethrandir, 15.4S,66.1W), 38 Die Suchenden von Haudh Eldacar, 38 Befehle der eisernen Krone (Rodlam, 15.4S,66.2W)
+
+Annúminas
+Erkundungstat (Minathranc, 17.6S,68.5W - Gwaelband, 17.8S,70.2W - Echad Garthadir, 19.0S,70.9W - Tafel von Echad Garthadir, 18.9S,70.8W - Gaerannon, 18.4S,71.4W - Menelband, 19.6S,70.1W - Clorhir, 19.2S,69.1W - Tafel von Clorhir, 19.0S,68.7W - Tirband, 18.5S,68.7W - Ariant, 17.4S,69.4W - Tafel von Ariant, 17.3S,69.4W)
+Bezwingertat (Angmarim, überall in Annúminas - Gertheryg, zwischen 18.0S,69.3W und 16.0S,69.6W)
+Bosstat (Siridán, 17.8S,70.2W oder 17.7S,69.6W - Valtair, 18.1S,70.6W - Guldurchir, 19.8S,70.1W - Unagh, 19.3S,69.1W oder 18.9S,69.0W - Agarochir, 18.6S,68.7W oder 18.3S,69.1W) [zum Spawnen hilft es, Mobs zu den Waldläufern zu ziehen]
+38 Orchalwës Auftrag (Adadhrond, 19.0S,70.9W) -> 40 Rückforderung (Adadhrond, 19.0S,70.9W)
+Während 38 Orchalwës Auftrag: 38 Denkmäler von Angmar, 38 Ungezügelte Wut (Orchalwë, Ruf durch Questitem), 39 Stürze von den Docks (Orchalwë, 17.1S,71.3W)
+Nur während 38 Orchalwës Auftrag: 39 Feuer am Himmel (Orchalwë, 17.7S,68.8W), 39 Klagelied der Gefallenen (Orchalwë, 17.5S,69.2W), 39 Offene Kanäle (Orchalwë, 17.5S,70.4W), 39 Feuer und Wasser (Orchalwë, 17.1S,70.8W), 39 Versunkene Urnen (Orchalwë, 17.7S,71.4W), 39 Säulen der Stärke (Orchalwë, 18.5S,71.4W), 39 Blick auf den Horizont (Orchalwë, 18.1S,71.0W), 39 Banner der Eisernen Krone (Orchalwë, 18.7S,70.5W), 39 Die Verteidigung stärken (Orchalwë, 19.1S,70.6W), 39 Rache für die Geschändeten (Orchalwë, 19.5S,69.8W), 39 Sternschnuppe (Orchalwë, 19.2S,69.2W), 39 Die Toten ehren (Orchalwë, 16.7S,69.4W), 39 Die Herrscher achten (Orchalwë, 16.5S,69.4W), 39 Titan von Tyl Annún (Orchalwë, 15.9S,69.4W)
+("Annúminas") 39 Große Verzweiflung (R) (Dannassel, 19.0S,70.9W)
+("Annúminas") 39 Agarochir, Wächter von Tirband (R) (Eirieniel, 19.1S,70.9W) [Quest wird nur vergeben, wenn Angmar Tirband hält]
+
+Glinghant
+Bosstat (Nengon)
+40+ Verderbtes Glinghant (R)
+40+ Die dunkelsten Wasser (R), 40+ Schmutzige Gewässer (R), 40+ Nicht für des Feindes Augen (R) [eine zufällige pro Durchlauf]
+MAX Herausforderung: Nengon (R)
+
+Haudh Valandil
+Bezwingertat (Limrafn [nach Knochenfetzer stehen bleiben] - zählen auch als Tote)
+Bosstat (Knochenfetzer - Dolvaethor)
+40+ Beendet Dolvaethors Bedrohung (R)
+40+ Die Kergrim in Haudh Valandil (R), 40+ Lichter in der Dunkelheit (R), 40+ Neue Lagerstätte für die Relikte aus alten Zeiten (R) [eine zufällige pro Durchlauf]
+MAX Herausforderung: Valandil und Dolvaethor (R)
+
+Feste Elendil
+Bosstat (Guloth - Balhest)
+40+ Balhest, Herr der Feste Elendil (R)
+40+ Böses in der Feste Elendil (R), 40+ Der Türhüter der inneren Kammer (R), 40+ Blutbefleckte Runen (R) [eine zufällige pro Durchlauf]
+MAX Herausforderung: Balhest (R)
+
+"Umherziehende Bedrohungen"
+Bosstat (16.7S,64.1W - 15.3S,64.4W - 18.6S,70.2W - 16.6S,69.7W - 16.1S,75.2W - 9.0S,74.1W - 6.1S,73.9W - 7.4S,72.8W - 5.0S,68.4W - 5.8S,61.4W)
+Schatzspeicher (20.2S,60.7W - 19.7S,64.6W - 17.2S,65.6W - 15.8S,69.9W - 13.8S,73.6W - 11.9S,72.3W -8.1S,75.3W - 7.5S,68.3W - 8.7S,67.0W - 4.2S,65.6W - 7.9S,61.8W - 9.4S,63.0W)
+100 Die umherziehenden Bedrohungen von Evendim (Automatisch, um 12.4S,67.1W)
+100 Umherziehende Bedrohung: Droghus der Häuptling (R), 100 Umherziehende Bedrohung: Súnath der Heimtückische (R), 100 Umherziehende Bedrohung: Tárlug der Diener (R) (Brangil, 12.8S,67.2W)

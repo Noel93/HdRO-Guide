@@ -1,0 +1,128 @@
+Einsame Lande (20-31)
+
+(Fortsetzung aus dem Breeland)
+Band 1, Buch 2: 22 Aufstieg der Orks (Candaith, 30.1S,37.9W) -> 22 Ein Ork-Bote -> 22 Oberanführer Uzorr -> 22 Licht in der Dunkelheit -> 23 Buch 2, Kapitel 5 (Solo): Die Rückeroberung der Wetterspitze oder 23 Buch 2, Kapitel 5 (Gefährten): Die Rückeroberung der Wetterspitze -> 23 Instanz: Die Rückeroberung der Wetterspitze -> 25 Unter dem Schutz der Eglain -> 27 Radagast der Braune -> 27 Der Rotsumpf -> 28 Die aufgedunsenen Toten -> 28 Züchter der Toten -> 29 Der Steinsprecher -> 29 Herausforderung eines Toten -> 30 Im Griff des Aridfürsten -> 30 Geschichte der Roten Maid -> {30 Buch 2, Kapitel 15 (Solo): Der Rotpass -> 30 Solo-Instanz 'Der Rotpass'} oder {30 Buch 2, Kapitel 15 (Gefährten): Der Rotpass -> 30 Instanz 'Der Rotpass'} -> 31 Agamaur gesichert
+Band 1, Buch 3: 30 Vorwort: Feuer im Norden
+
+Die Ballade von Bingo Boffin (Fortsetzung aus dem Breeland): 26 Der letzte Schatz -> 28 Gans und Ganter -> 32 Nun das Ende? -> 34 Eine erholsame Nacht
+
+Wetterberge
+22 Fleisch - zum Essen, 55 Orks und Halborks im Nordosten (R) (Sam Distelbur, 28.3S,41.5W)
+22 Wir wollen unsere Waffen zurück, 55 Ein trügerischer Anschein (R) (Aggie Geißblatt, 28.3S,41.5W)
+22 Pelze für den Handel, 55 Aufgerollte Banner der Weißen Hand (R) (Thal Salbeifurt, 28.3S,41.4W)
+Vor Band 1, Buch 2: 22 Vorwort: Hilfe für den Orden, nach 22 Fleisch - zum Essen, 22 Wir wollen unsere Waffen zurück oder 22 Pelze für den Handel: 22 Kennt Ihr... Candaith? (Thal Salbeifurt, 28.3S,41.4W)
+Vor 22 Ein fehlender Vorratswagen, nach 22 Fleisch - zum Essen, 22 Wir wollen unsere Waffen zurück oder 22 Pelze für den Handel: 23 Nachricht an Anlaf (Sam Distelbur, 28.3S,41.5W)
+
+Verlassene Herberge / Minas Eriol / Wetterspitze
+Erkundungstat (Düsterweihe, 30.1S,38.6W - Wetterfuß, 31.9S,38.6W - Wetterspitze, 31.2S,36.9W - Floid und Dewitt, 31.3S,36.6W - Echad Sûl, 29.5S,36.9W - Feste Laden, 34.4S,37.0W - Barad Iachiant, 35.8S,38.3W - Die Lornbrücke, 34.7S,35.5W - Naerfeste, 30.7S,33.9W)
+Bezwingertat (Bilwisse, um 35.8S,38.3W)
+22 Noble Taten (Bannwart Bram Eschenblatt, 34.0S,40.7W) -> 24 Mein Stellvertreter
+22 Decken aus Wolfsfellen, 22 Hufe und Gauner, 22 Kissen füllen (Arinora, 34.0S,40.7W)
+{23 Ein größerer Diebstahl, 23 Jäger werden zu Gejagten, 23 Rache für die Verlorenen (Gadaric Munk, 34.0S,40.7W)} -> 24 Mein Bruder Hunulf
+23 Jagdauftrag: Bilwiss-Waffenscheiden (R) (Gadaric Munk, 34.0S,40.7W)
+23 Falsters Bitte (Falster der Fuchs, 34.0S,40.7W)
+Nach 22 Candacs Verspätung (Auenland): 23 Candacs Verpflichtung (Candac Hellholz, 34.0S,40.7W)
+23 Jagdauftrag: Bilwiss-Wappenröcke (R) (Lieva Grimmlilie, 34.0S,40.7W)
+22 Ein fehlender Vorratswagen (Anlaf der Einsame, 34.0S,40.7W) -> 22 Bilwiss-Exile
+Nach 22 Ein fehlender Vorratswagen: 22 Den Feind schwächen, 23 Bilwiss-Rudelmeister (Lieva Grimmlilie, 34.0S,40.7W)
+23 Eine kühne Rettung (Leofwenna, 35.2S,38.3W)
+22 Ein polierter Anhänger (Drop von Bilwissen)
+22 Ein schlechtes Geschäft (Pengail, 32.0S,38.5W)
+22 Die kreisenden Augen des Feindes (Candaith, 30.1S,37.9W)
+Vor 22 Ein fehlender Vorratswagen und 23 Nachricht an Anlaf: 23 Verlassen und einsam (Candaith, 30.1S,37.9W)
+Nach 22 Ein Ork-Bote: 22 Ork-Diebe, 22 Vorbereitung auf die Zukunft (Candaith, 30.1S,37.9W)
+25 Eine passende Mahlzeit (Alter Labkraut, 34.3S,36.9W) -> 25 Die Warge reizen -> 25 Das Rudel
+25 Bessere Decken (Alter Labkraut, 34.3S,36.9W)
+Nach 22 Noble Taten: 25 Der Anführer der Bilwisse (Stellvertreter Osmann, 34.3S,36.9W)
+24 Die Toten verbrennen, 24 In ihren Netzen, 24 Weber jenseits der Ruine, 25 Unser bedeutendstes Fundstück (Hunulf Munk, 34.4S,36.9W)
+Nach 24 Weber jenseits der Ruine oder 25 Unser bedeutendstes Fundstück: 25 Eine rechtmäßige Rückholung, 25 Halbblutdiebe, 25 Kampf der Weißen Hand (Hunulf Munk, 34.4S,36.9W)
+Nach 25 Unser bedeutendstes Fundstück: 25 Die stämmigen Leute aus dem Westen (Hunulf Munk, 34.4S,36.9W)
+Nach 25 Kampf der Weißen Hand: 26 Verdientes Vertrauen (Hunulf Munk, 34.4S,36.9W)
+26 Ein ehrloses Volk (Drop von Halborks)
+
+Iorvinas / Nain Enidh
+Erkundungstat (Thandobel, 33.8S,32.7W - Feste Cyrn, 33.6S,30.9W - Mithren-Feste, 34.7S,34.4W)
+Bezwingertat (Orks, um 33.6S,30.9W)
+25 Mürrische Zwerge (Ratko Flinksilber, 32.8S,33.0W) -> 25 Die Pflicht eines Zwerges, 25 Feinde der Eglain
+26 Es liegt etwas in diesen Hallen (Henir, 32.8S,32.9W)
+26 Orks und Zwerge, 26 Zwerge mit Ork-Waffen (Logi, 32.8S,32.9W)
+Nach 26 Orks und Zwerge: 26 Zwerg, unterbrochen (Logi, 32.8S,32.9W) und 26 Ork, unterbrochen (Henir, 32.8S,32.9W)
+Nach beidem: 26 Zu den Eglain (Ratko Flinksilber, 32.8S,33.0W)
+
+Feste Guruth / Haragmar / Talath Gaun
+Erkundungstat (Feste Guruth, 31.8S,29.5W - Amon Ros, 30.9S,31.7W - Der Blutkreis, 31.2S,27.2W - Nan Dhelu, 30.5S,25.3W)
+Bezwingertat (Spinnen, um 30.9S,31.7W - Unholde, um 30.5S,25.3W - Warge, um 34.2S,25.3W - Crebains, um 34.2S,24.4W)
+Versteckte Tat (Einen Eber für den Eriador-Eberbezwinger, um 33.1S,25.5W)
+20 Von der Feste Guruth zur "Verlassenen Herberge", 30 Nach Agamaur (Frideric der Älteste, 31.5S,29.5W)
+28 Hanas Traum (Frideric der Älteste, 31.5S,29.5W) -> 28 Widerliche Nachbarn (Hana die Junge, 31.0S,29.5W)
+26 Gift der Ruinenpirscher (Stanric, 31.2S,29.7W) -> 27 Eine Seuche dräut -> 27 Schrecken aus der Luft, 29 Gut vorbereitet
+Nach Annahme von 27 Eine Seuche dräut: 27 Eisenkiefer, 27 Meister der Geißelung, 27 Menschen-Schlächter (Grimdeal, 31.3S,29.6W)
+26 Eine Spinnenplage, 26 Große Verluste, 26 Älteste in den Schatten (Tortwil, 31.2S,29.7W)
+30 Hafermehl-Probleme (Hana die Junge, 31.0S,29.5W)
+Nach 28 Hanas Traum oder 27 Eine Seuche dräut: 27 Ein Friedensangebot (Frideric der Älteste, 31.5S,29.5W) -> 28 Ein Friedensangebot, Teil 2 -> 29 Von der Vergangenheit eingeholt (Kekkonen, 33.8S,29.0W) -> 29 Ein arrangierter Frieden
+Nach 28 Ein Friedensangebot, Teil 2: 29 Der, der Galrip genannt wird, 29 Vergangenheit im Stein (Kekkonen, 33.8S,29.0W)
+Nach 28 Widerliche Nachbarn oder einer Quest von Grimdeal oder 27 Eine Seuche dräut(?): 29 Die Kundschafter unterstützen (Frideric der Älteste, 31.5S,29.5W)
+Nach 28 Züchter der Toten: 29 Der Steinsprecher (Frideric der Älteste, 31.5S,29.5W)
+29 Sauberes Wasser (Northrim, 32.6S,26.1W)
+28 Das Einkommen etwas aufbessern, 28 Die wandernden Toten, 29 Der Meister der Ruinen (Cwendreda, 32.6S,26.1W)
+("Hüter") 50 Die Weisheit der Hüter (Hrotha, 31.7S,29.4W) -> 50 Eine Waffe von Macht und Ruhm, 50 Der zweitbeste Verbündete des Hüters
+Nach 23 Buch 2, Kapitel 5 (Solo): Die Rückeroberung der Wetterspitze: 1 Die Rückeroberung der Wetterspitze (Gefährten) (Spiegelteich, 30.9S,29.3W)
+Nach 23 Buch 2, Kapitel 5 (Gefährten): Die Rückeroberung der Wetterspitze: 1 Die Rückeroberung der Wetterspitze (Solo) (Spiegelteich, 30.9S,29.3W)
+Nach 30 Buch 2, Kapitel 15 (Solo): Der Rotpass: 1 Der Rotpass (Gefährten) (Spiegelteich, 30.9S,29.3W)
+Nach 30 Buch 2, Kapitel 15 (Gefährten): Der Rotpass: 1 Der Rotpass (Solo) (Spiegelteich, 30.9S,29.3W)
+
+Harlog
+Erkundungstat (Feste Haer, 37.6S,28.0W - Nindor, 37.9S,29.6W)
+Bezwingertat (Trolle, um 37.0S,26.4W)
+29 Jagdauftrag: Feuchter Pilzauflauf (R), 29 Jagdauftrag: Knusprige Kriecher (R), 29 Jagdauftrag: Sichelfliegen-Delikatesse (R) (Glaednoth, 37.7S,28.1W)
+Nach 29 Herausforderung eines Toten: 30 Die Vergangenheit zurückstoßen, 30 Etwas, das noch gefunden werden muss, 30 Schließlich ruhen (Narthan, 37.6S,27.9W)
+
+Agamaur
+Bezwingertat (Sumpfschleicher, um 27.9S,28.2W)
+31 Angmars Tote, 31 Eine abgetrennte Hand, 31 Tote Gewässer (Eriac der Starke)
+Nach 30 Der Rotpass: 30 Auferstehung der Toten (Eriac der Starke)
+Nach 30 Der Rotpass: 30 Ein barmherziges Ende, 30 Gefallene Eiche, 30 Verderbtes Leben (Radagast der Braune, 29.8S,27.4W)
+Nach 30 Der Rotpass: 30 Die Rache kommt, 31 Verräter Rhudaurs (Dannasen, 29.7S,27.4W)
+
+Garth Agarwen
+Erkundungstat (Die äußeren Tore, 28.0S,25.2W)
+32 Temair die Schreckliche (Arienh, 28.0S,25.2W)
+Nicht während 29 Der Steinsprecher: 33 Die zerrüttete Vergangenheit (Aric der Steinsprecher, 37.5S,28.1W)
+Nach 30 Der Rotpass: 32 Bitterborkes Saat (Radagast der Braune, 29.8S,27.4W), 31 Gefäß der Reinheit (Dannasen, 29.7S,27.4W)
+Nach 31 Verräter Rhudaurs: 32 Arthedains verlorene Brüder (Dannasen, 29.7S,27.4W), 32 Relikte von Rhudaur (Arienh, 28.0S,25.2W)
+Nach 31 Verräter Rhudaurs und 30 Der Rotpass: 35 Die Ringe von Rhudaur (Radagast der Braune, 29.8S,27.4W)
+Nach 31 Gefäß der Reinheit: 32 Für die Liebe der Natur (Dannasen, 29.7S,27.4W) -> 35 Rettung der verlorenen Maid
+Nach 30 Die Rache kommt: 32 Lang überfällige Gerechtigkeit (Dannasen, 29.7S,27.4W)
+Nach 31 Angmars Tote: 32 Grausame Geister (Dannasen, 29.7S,27.4W)
+Nach 31 Eine abgetrennte Hand und 30 Der Rotpass: 32 Ivar Bluthand (Radagast der Braune, 29.8S,27.4W)
+
+Aboretum
+Zufällig: 32 Optionales Ziel: Unholde (R), 32 Optionales Ziel: Sumpflauerer (R), 32 Optionales Ziel: Mornen (R), 32 Optionales Ziel: Schlüsselorte (R)
+32 Herausforderung: Bitterborke (R)
+
+Festung
+Erkundungstat (Tor von Garth Agarwen, 28.8S,23.9W - Quelle der Roten Maid, 29.7S,23.2W)
+Zufällig: 32 Optionales Ziel: Unholde (R), 32 Optionales Ziel: Mornen (R), 32 Optionales Ziel: Créoth (R)
+32 Herausforderung: Dúnlang (R)
+32 Herausforderung: Naruhel (R)
+
+Hügelgräber
+Erkundungstat (Ivars Gruft, 28.1S,23.1W)
+32 Eichenherzens Notlage (Sara Eichenherz, 28.1S,22.9W)
+Zufällig: 32 Optionales Ziel: Créoth (R), 32 Optionales Ziel: Verweste (R), 32 Optionales Ziel: Unholde (R), 32 Optionales Ziel: Namenlose Gräber (R)
+32 Herausforderung: Ivar (R)
+
+20 Herberge der Verlassenen: Schlag Mitternacht (Anlaf der Einsame, 34.0S,40.7W) -> 20 Herberge der Verlassenen: Rätsel in der Dunkelheit (R), 20 Im Bann der Halskette (R) 
+	-> 20 Herberge der Verlassenen: Rätsel in der Dunkelheit (Stufe 2) (R), 20 Herberge der Verlassenen: Beendet das Wehklagen an seinem Ursprung (R), Max-Level-Herausforderung
+
+Das Gefecht am Amon Sûl
+("Scharmützel") 25+ Das Gefecht am Amon Sûl (R)
+Während dem ersten Angriff: Laimbenn (Über den Gipfel der Wetterspitze zieht ein unmenschliches Heulen.)
+Nach dem ersten Angriff: Norgol (Aus südöstlicher Richtung erscheint ein Flackern.)
+Während dem zweiten Angriff: Blutschwinge (Aus der Dunkelheit in östlicher Richtung ertönt Gekreische.)
+Während dem zweiten Angriff: Golnauk (Vom nördlichen Rand der Wetterspitze dringen Knurren und ein Grollen hervor.)
+Nach dem zweiten Angriff: Urkflagít (Von der nordwestlichen Ecke der Wetterspitze erschallt Schnarchen.)
+Nach dem zweiten Angriff: Gwathrengor (Euch fällt ein Funkeln im Hügelgrab ins Auge.)
+Nach dem zweiten Angriff: Mokum (Candaith ruft: "Das Athelas ist aufgeblüht. Sammelt es schnell ein.")
+Während dem dritten Angriff: Gûgaws Arm (In südlicher Richtung schlurfen Füße leise durch die Nacht.)
+Während dem dritten Angriff: Gwandir (Vom östlichen Rand der Wetterspitze dringt Gestöhn hervor.)

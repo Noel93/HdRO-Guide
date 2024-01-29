@@ -1,0 +1,112 @@
+Ered Luin (5-15)
+
+Prolog (Zwerge): 5 Auf Geheiß Unnarrs (Skógi, 13.8S,103.2W) -> 6 Der verschwundene Wächter -> 6 Jenseits des Tunnels -> 6 Dwalins schlechter Tag -> 8 Die Weisheit der Drosseln -> 9 Die alte Grimmhand-Stadt -> 9 Gondamon in den Tieflanden (Abschluss verhindert Elben-Reihe)
+Prolog (Elben): 5 Auf Geheiß Cardavors (Eilian, 28.6S,92.0W) -> 6 Untypisch für Avorthal -> 6 Avorthals Lieblingsplätze -> 7 Der Zorn der Elben -> 9 Der Meister der Zuflucht -> 11 Der Abgesandte -> 11 Das verdächtige Lager -> 11 Verbündete wider Willen (Abschluss verhindert Zwergen-Reihe)
+Prolog (Gemeinsam): 11 Gegenseitige Abneigung (Mathi, 20.3S,96.7W) -> 12 Abwendung eines Kriegs -> 12 Instanz: Abwendung eines Kriegs -> 12 Rettung im Mondlicht -> 12 Instanz: Rettung im Mondlicht -> 12 Vorbereitungen auf den Angriff -> 12 Angriff auf Rath Teraig -> 12 Instanz: Angriff auf Rath Teraig -> 15 Der Mann, der Streicher genannt wird
+
+Thorins Halle
+Erkundungstat (Frerins Platz, 15.0S,103.2W - Thorins Tor, 13.8S,103.2W - Silbertiefe-Mine, 14.3S,101.7W - Markierung der Zwerge, 13.7S,103.2W)
+5 Neuer Glanz (Halli Schimmerschild, 15.0S,103.2W)
+6 Das erste Zahnrad (Bávor, 13.7S,103.2W) -> 7 Das zweite Zahnrad -> 12 Das dritte Zahnrad -> 12 Das vierte Zahnrad -> 14 Das fünfte Zahnrad -> 14 Gewölbe der Rätsel [Mond, Axt, Sonne, Juwel]
+6 Das verlorene Werkzeug (Flosi, 14.1S,103.2W)
+6 Ein Riss im Kanal (Tindr, 14.9S,103.1W) -> 6 Rechtzeitig repariert -> 7 Der Fluss nach Noglond -> 7 Den Durst löschen (Geitir, 19.3S,100.5W) -> 9 Auf nach Gondamon -> 11 Den Weg freimachen (Otkell, 20.3S,97.1W)
+6 Gíslis Lieblingsessen (Ormr, 15.1S,103.1W)
+40 Dwalins Sorge (Dwalin, 13.7S,103.2W)
+("Handwerkskunst") 1 Einleitung in die Forstwirtschaft (Juliane Reisig, 28.8S,48.6W)
+("Handwerkskunst") 1 Einleitung in die Schneiderkunst (Juliane Reisig, 28.8S,48.6W)
+("Handwerkskunst") 1 Einleitung zum Schürfen (Juliane Reisig, 28.8S,48.6W)
+("Handwerkskunst") 1 Einleitung in die Waffenschmiedekunst (Juliane Reisig, 28.8S,48.6W)
+("Handwerkskunst") 1 Einleitung in die Gelehrtenkunde (Juliane Reisig, 28.8S,48.6W)
+("Handwerkskunst") 1 Einleitung in die Landwirtschaft (Juliane Reisig, 28.8S,48.6W)
+Nach den drei Einleitungs-Quests eines Berufszweigs: ("Handwerkskunst") 1 Übung macht den Meister (Juliane Reisig, 28.8S,48.6W) (bis zu 7x, für jeden Berufszweig)
+("Handwerkskunst") 6 Handwerken: Die Handwerkshalle (Bogi Tiefschürfer, 13.8S,103.2W)
+Für Goldschmiede: ("Handwerkskunst") 10 Handwerken: Nefis neue Kette (Nefi Juwelenschneider, 15.8S,103.4W)
+Für Schmiede: ("Handwerkskunst") 10 Handwerken: Eine Überhose für Gagi (Gagi Wolkenbraue, 15.0S,103.5W)
+Nur bis Annahme einer der anderen "Bau"-Quests: ("Unterkunft") 15 Bau der Siedlung Thorins Halle (Almar, 15.1S,103.5W, Nagli, 13.7S,103.2W)
+("Unterkunft") 15 Siedlungen Eriadors (Ísleif, 13.8S,103.2W)
+("Spezial") 5 Angelgeschichten (Refkell, 13.8S,103.2W) (nur bis Abschluss von "Ein Fisch, zwei Fische" im Auenland oder "Angellektion" in Bree)
+("Spezial") 5+ VIP-Belohnungen (R) (Wenda Storchschnabel, 15.0S,103.6W)
+("Spezial") 20+ VIP-Belohnung für "Der Krieg der Drei Gipfel" (Wenda Storchschnabel, 15.0S,103.6W)
+
+Noglond
+Erkundungstat (Noglond, 19.4S,100.6W)
+Bezwingertat (Bilwisse, 20.2S,102.3W)
+7 Das Säubern der Straße (Ketill, 19.3S,100.5W) -> 7 Eine gefiederte Gefahr
+7 Feuerholz sammeln (Grímkell Steinträger, 19.3S,100.5W) -> 7 Bilwisse jagen -> 7 Schurken im Tal -> 7 Bilwisse im Süden
+7 Katzen hüten (Óláfr, 19.3S,100.5W)
+
+Celondim
+Erkundungstat (Nen Hilith, 29.0S,94.1W - Tham Gelair, 27.5S,94.4W)
+Bezwingertat (Wölfe, 29.4S,95.3W)
+6 Verteidigung des Waldes (Laenin, 28.3S,92.1W)
+6 Ärger in Nen Hilith (Ovorlas, 29.4S,94.6W) -> 6 Holz für Wein (Glavrolnen, 29.5S,94.7W), 6 Wölfe in Nen Hilith (Helhathel, 29.5S,94.7W)
+6 Gefangen (Wolfdrop, 29.5S,95.0W) -> 6 Eine Warnung (Ovorlas, 29.4S,94.6W)
+Nach 6 Holz für Wein: 6 Der Böttcher und das Fass
+Nach 6 Holz für Wein: 7 Ein Fass wird gebraucht (Bregedúr, 28.2S,92.7W)
+7 Ein edler Tropfen (Brethilwen, 26.7S,94.9W)
+7 Erntehelfer (Brethilwen, 26.7S,94.9W) -> 7 Das Fass -> 9 Geschenk für eine Freundin (Bregedúr, 28.2S,92.7W)
+8 Geweihter Boden (Thinglaer, 27.9S,92.2W) -> 9 Calengils Mahnwache -> 9 Läuternder Trank (Calengil, 24.2S,93.0W) -> 9 Säuberung der Ruinen -> 14 Glamírs Mahnwache -> 14 Eine tödliche Aufgabe, 14 Heimgesuchte Lande (Glamír, 18.9S,95.2W)
+("Handwerkskunst") 6 Handwerken: Eine Terrasse in Celondim (Mibrethil, 28.3S,92.5W)
+Für Gelehrte: ("Handwerkskunst") 6 Handwerken: Das Studium der weissen Schiffe (Raindis, 27.8S,92.1W)
+Für Goldschmiede: ("Handwerkskunst") 10 Handwerken: Edelsteine für Guleneth (Guleneth, 27.9S,92.8W)
+("Spezial") 5+ VIP-Belohnungen (R) (Wenda Storchschnabel, 26.2S,92.1W)
+("Spezial") 20+ VIP-Belohnung für "Der Krieg der Drei Gipfel" (R) (Wenda Storchschnabel, 26.2S,92.1W)
+
+Duillont
+Erkundungstat (Limaels Weinberg, 26.6S,95.7W - Dol Ringwest, 24.9S,95.0W)
+Versteckte Tat (Einen Eber für den Eriador-Eberbezwinger, um 23.5S,93.7W)
+Nach 9 Läuternder Trank: 9 Grund zur Sorge (Calengil, 24.2S,93.0W)
+7 Ein edler Tropfen, 7 Erntehelfer (Brethilwen, 26.7S,94.9W) -> 7 Das Fass -> 9 Geschenk für eine Freundin (Bregedúr, 28.2S,92.7W)
+"Prolog: Der Zorn der Elben" muss beendet sein: 9 Abschied von Mittelerde (Toronn, 24.0S,92.6W) -> 9 Was verloren war (Bregar, 24.0S,92.6W) -> 11 Endlich gefunden -> 10 Was die Zukunft bringt
+Nach 9 Abschied von Mittelerde: 9 Das Böse in Dol Ringwest (Bregar, 24.0S,92.6W)
+Nur bis Annahme einer der anderen "Bau"-Quests: ("Unterkunft") 15 Bau der Siedlung Duíllont (Badennas, 24.2S,93.1W)
+("Unterkunft") 15 Siedlungen Eriadors (Badennas, 24.2S,93.1W)
+("Ferne Auen") 20 Zu den Fernen Auen (Hildifons Tuk II, 24.8S,89.7W, auch im Auenland bei Grenzer Pausbacken, 28.2S,75.8W)
+
+Gondamon
+Erkundungstat (Gondamon, 20.4S,97.1W - Ringthal, 17.6S,96.0W - Das Grimmwasser, 17.6S,94.8W - Turm von Kheledûl, 21.3S,92.0W - Anlegestellen von Kheledûl, 21.7S,91.4W)
+Bezwingertat (Räuber, 21.3S,92.0W)
+10 Der schimmernde Schild (Áskell, 20.3S,96.8W) -> 11 Racheschwur -> 12 Der geplünderte Hafen
+Nach 11 Racheschwur: 10 Die Sorgen eines anderen Bruders (Áskell, 20.3S,96.8W) -> 10 Rache üben (Sigurdór, 20.9S,93.0W)
+10 Nahrung für den Außenposten (Gafí, 20.2S,97.1W)
+10 Schutz bei der Jagd (Orlygr, 20.2S,97.1W)
+10 Wärmendes für die Garnison (Dorri, 20.2S,97.1W)
+13 Der Elbenstein (Gailthin, 20.4S,97.2W)
+Nur, wenn "10 Vom Auenland nach Bree" und "20 Von Bree nach Schragen" noch nicht angenommen: 15 Von Gondamon nach Bree (Áskell, 20.3S,96.8W)
+Klassenspezifische Quest: zb ("Barde") 15 Ein Lied für das Publikum (Galfi, 20.2S,97.0W)
+Für Gelehrte: ("Handwerkskunst") 10 Handwerken: Die Tieflanden nutzen (Solvi Pergamentträger, 20.4S,97.1W)
+Für Schmiede: ("Handwerkskunst") 10 Handwerken: Das Ausrüsten der Verteidiger (Efi Plattenformer, 20.3S,96.8W)
+Für Köche: ("Handwerkskunst") 10 Handwerken: Dampfbart hat Hunger (20.2S,97.0W)
+
+Thrasis Hütte
+Bezwingertat (Hendrovals, 20.8S,94.2W)
+10 Miau (Thrasi, 21.6S,94.2W) -> 10 Hungrige Mäuler -> 10 Distelmet -> 10 Die Genesung
+11 Ein bemerkenswerter Bogen (Celairant, 21.6S,94.1W) -> 13 Eines Geschenkes würdig -> 15 Das Elbenschwert (Penglir, 23.9S,92.6W)
+
+Glamírs Lager
+Erkundungstat (Der Wehrturm, 17.8S,90.1W)
+Bezwingertat (Spinnen, 19.2S,91.0W)
+12 Das vergiftete Land, 13 Netze des Kummers (Laergil, 18.9S,95.2W)
+Nach 13 Der Elbenstein und 13 Alte Knochen: 14 Eine beunruhigende Angelegenheit -> 14 Der Megalith (Glamír, 18.9S,95.2W)
+14 Der Koch am falschen Ort (Nithi, 18.9S,95.2W) -> 14 Verheddert (Bersi, 19.4S,90.8W)
+
+Rath Teraig
+Erkundungstat (Nördliche Befestigung, 22.1S,96.9W - Tum Agor, 21.6S,96.2W - Amon Thanc, 23.1S,96.7W - Süd-Barrikade, 24.6S,96.7W - Crookdell, 24.3S,98.4W)
+12 Bilwisse im Tal (Ingólfr, 22.1S,96.8W)
+12 Höhlenklauen in der Enge, 12 Spinnen des Tals (Tralli Hammerfaust, 22.1S,96.8W)
+
+Sarnur
+Bezwingertat (Grimmhands, Große Halle - Kreaturen, Große Halle - Schneetrolle, untere Große Halle)
+Bosstat (Nordpfot, getarnt in der Großen Halle - Latub, an verschiedenen Stellen in der Großen Halle oben oder auf der Treppe nach unten - Eisvergelter, untere Ebene der Großen Halle - Glûmir, untere Ebene im Bergfried - Gâdhûp, mittlere Ebene oder Gang zur unteren Ebene in den Höhlen - Brúllug, untere Ebene der Höhlen)
+Bezwingertat (Beherrscher der Bestien, Herr der Kreaturen, Trolltreter, Verräterfluch, 20.6S,103.3W)
+46 Das Streben nach Ruhm (Unnarr, Hauptmann der Wache, 15.0S,103.2W)
+50 Besiegt das Grauen in der Höhle, 50 Beseitigt die Schneetrolle (R), 50 Reinigt die Ruinen von Sarnûr (R) (Snár, 13.7S,103.2W))
+50 Bringt die Runenscherben zurück (R), 50 Findet die Grimmhands (R), 50 Uralte Schriftrollen sammeln (R) (Rútur, 13.7S,103.2W)
+
+Die Belagerung von Gondamon
+("Scharmützel") 20+ Die Belagerung von Gondamon (R)
+Während dem zweiten Angriff: Thrastar (Ein Kampfhorn ertönt aus dem Süden.)
+Nach dem zweiten Angriff: Sigurmar (Eine tiefe Stimme brüllt von außerhalb des Südtors: "Ich werde tanzen, während Gondamon brennt!")
+Während dem dritten Angriff: Hergill (Ein Kampfhorn ertönt aus dem Norden.)
+Während dem dritten Angriff: Agi Torbrecher (Ein Kampfhorn ertönt aus dem Westen.)
+Nach dem dritten Angriff: Ghashnâkh (Von außerhalb des Nordtors ertönt ein Kichern: "Gondamons Mauern werden bald nur noch kleine Bröckchen sein")

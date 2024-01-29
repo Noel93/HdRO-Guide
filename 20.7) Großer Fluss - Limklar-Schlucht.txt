@@ -1,0 +1,17 @@
+Limklar-Schlucht (75)
+
+Erkundungstat (Limklar-Torhaus, 25.4S,67.0W - Geheimnisvolle Ruinen, 27.0S,69.0W - Baracke des Schürfers, 27.0S,69.9W - Geweihte Ruinen, 27.4S,70.4W - Verfallene Ruinen, 25.9S,69.1W - Zerfallende Ruinen, 25.4S,71.0W - Gravierte Ruinen, 27.0S,71.2W - Die Grube, 27.3S,71.3W - Der gefallene Turm, 28.1S,68.6W - Uralte Ruinen, 28.1S,68.9W - Altes Sägewerk, 29.0S,69.7W - Limklar-Lichtung, 29.4S,72.1W - Limklar-Fälle, 28.5S,72.3W - Die Wurzeln des Fangorn, 28.7S,72.2W)
+Questtat (Geist der Erinnerungen, 27.2S,67.6W - Geist der Ehrerbietung, 28.0S,68.7W - Geist der Freundschaft, 26.3S,68.1W - Geist der Melodie, 26.4S,69.2W - Geist der Erleuchtung, 26.5S,70.5W - Geist der Vorsehung, 27.6S,71.7W) [Nach 75 Zerfallene Steine und vergessene Geschichten]
+
+75 Die Limklar-Schlucht (Wolfwin, 25.4S,63.8W) -> 75 Die Limklar-Mühle (Agelbrit, 25.5S,67.1W)
+75 Die Baracke des Schürfers (Agelbrit, 25.5S,67.1W) -> 75 Schlechte Aussichten: Wandernde Bedrohung (Brid, 27.0S,69.9W) -> 75 Schlechte Aussichten: Im Bau der Bestie -> 75 Schlechte Aussichten: Schmerzhafte Proben [Adern bei 26.2S,70.2W; 27.1S,68.3W; 26.3S,71.4W] -> 75 Haltet sie in Schach (R) (Agelbrit, 25.5S,67.1W)
+75 Die Wurzeln des Waldes (Agelbrit, 25.5S,67.1W oder Ordhrien, 29.4S,72.1W) -> 75 Eine giftige Übeltäterin (Erymeldir, 29.3S,72.1W) -> 75 Die Wurzeln des Fangorn (Dickborke, 29.4S,72.1W)
+Nach 75 Eine giftige Übeltäterin: 75 Huorn-Samen (R) (Dickborke, 29.4S,72.1W)
+Nach 75 Eine giftige Übeltäterin: 75 Schluchtenkrabbler (R) (Armund, 29.0S,69.7W)
+75 Ein verwickelter Schlamassel (Armund, 29.0S,69.7W)
+Während 75 Ein verwickelter Schlamassel Objective #1: 75 Finnvarth hat sich verirrt, 75 Bíli ist verschollen (Armund, 29.0S,69.7W)
+Während 75 Ein verwickelter Schlamassel Objective #3: 75 Gerfinn ist abhanden gekommen, 75 Darfi hat sich verlaufen, 75 Dolmund ist verschwunden (Armund, 29.0S,69.7W)
+Nach Tat "Die alten Limklar-Ruinen": 75 Zerfallene Steine und vergessene Geschichten (Erymeldir, 29.3S,72.1W)
+
+75 Instanz: Die Wurzeln des Fangorn (R) (Automatisch)
+75 Herausforderung: Wurzeln des Fangorn - Grüner Daumen (R) (Automatisch, Tier 2)

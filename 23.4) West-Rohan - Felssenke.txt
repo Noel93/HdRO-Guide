@@ -1,0 +1,43 @@
+Felssenke (91-93)
+
+Holzmühle
+Erkundungstat (Bärenhügel, 48.6S,76.2W - Holzmühle, 47.2S,80.0W - Weit-Isernerz, 47.9S,81.2W - Orlag Den, 47.5S,80.7W)
+Nach ("Epos - Band III, Buch 11: Die Goldene Halle") 86 Buch 11, Kapitel 10: Der König reitet gen Westen: 91 Ein wenig mehr für den Weg (Oter, 46.5S,76.3W)
+Nach Annahme von 91 Ein wenig mehr für den Weg: 91 Eine unerträgliche Straße (Stithwulf, 46.5S,76.3W)
+Nach Annahme von 91 Ein wenig mehr für den Weg: 91 Strangbera (Automatisch, um 47.3S,76.3W)
+Nach 91 Ein wenig mehr für den Weg und 91 Eine unerträgliche Straße: 91 Weiter nach Holzmühle (Oter, 46.5S,76.3W) -> 92 Untersuchung der Methalle (Calin, 46.9S,79.2W)
+Nach Annahme von 92 Untersuchung der Methalle: 92 Opfer des Angriffs (Automatisch, 47.1S,80.3W)
+Nach 92 Untersuchung der Methalle und 92 Opfer des Angriffs: 92 Der Rat von Herubrand (Herubrand, 46.9S,79.2W) -> 92 Instanz: Der Rat von Herubrand -> 91 Wechsel der Wache -> 91 Mangelnde Unterstützung (Thurferth, 47.3S,79.7W)
+Während 91 Wechsel der Wache Objective #2: 92 Zügelloser Zorn (Wache, 47.6S,79.2W)
+Während 91 Wechsel der Wache Objective #2: 91 Die früheren Wachen (Wache, 47.1S,78.9W)
+Nach 91 Die früheren Wachen: 92 Gifemund, der Minenbesitzer (Scurfa, 48.1S,79.8W) -> 91 Ein Angebot des Schutzes (Gifemund, 47.8S,79.6W) -> 91 Elda tritt zurück (Elda, 47.8S,79.6W) -> 92 Arbeit in der Mine (Minenaufseher, 47.9S,81.0W) -> 92 Hildegard und das Schicksal Holzmühles (Gifemund, 47.8S,79.6W) -> 91 Das Ultimatum für Hauptmann der Wache Thurferth
+Nach 91 Das Ultimatum für Hauptmann der Wache Thurferth und 91 Mangelnde Unterstützung: 92 Die Befreiung von Holzmühle (Herubrand, 46.9S,79.2W) -> 92 Instanz: Die Befreiung von Holzmühle -> 92 Hilfe für Bachbrück
+92 Kampfgruppe: Ognir (R) (Automatisch, um 49.6S,76.8W)
+92 Kampfgruppe: Neivion (R) (Automatisch, um 49.6S,76.8W)
+
+Bachbrück
+Erkundungstat (Bachbrück, 50.8S,77.7W - Riedfang, 53.6S,80.7W - Madh-fushaum, 54.4S,78.4W)
+Bezwingertat (Wölfe, um 56.2S,78.2W)
+Nach 92 Hilfe für Bachbrück: 92 Than Léoferth von Bachbrück (Herefara, 51.1S,77.9W) -> 92 Hungrige Verteidiger (Gewis, 51.0S,77.7W) -> 92 Bote der Belagerung von Bachbrück (Herefara, 51.1S,77.9W) -> 92 Die Schlinge zieht sich zu -> 92 Instanz: Ausweitung der Belagerung -> 92 Der Überlebende von Riedfang -> 92 Unbeschreibliche Arglist (Wilberth, 53.5S,80.9W) -> 92 Folgt der Spur
+Nach 92 Hungrige Verteidiger Objective #1: 92 Stumpf durch Verschleiß (Mula, 51.1S,77.5W)
+Nach Annahme von 92 Bote der Belagerung von Bachbrück: 92 Nágas, Aufseher der Belagerung von Bachbrück (Herefara, 51.1S,77.9W)
+Nach Annahme von 92 Bote der Belagerung von Bachbrück: 92 Feindes Leid ist unsre Freud (Dunländer, um 51.6S,77.7W)
+Nach Annahme von 92 Bote der Belagerung von Bachbrück: 92 Kriegsmaschinen in der Belagerung von Bachbrück (Belagerungsmaschinen, um 51.6S,78.1W)
+Nach Annahme von 92 Bote der Belagerung von Bachbrück, aktuell erst nach 92 Nágas, Aufseher der Belagerung von Bachbrück: 92 Pfeilregen aus der Belagerung von Bachbrück (Automatisch, um 51.2S,77.9W)
+Nach Annahme von 92 Unbeschreibliche Arglist: 92 Wachen außerhalb von Madh-fushaum (Automatisch, um 54.7S,79.6W)
+Nach ("Epos - Band III, Buch 11: Die Goldene Halle") 86 Buch 11, Kapitel 7: Die Befehle des Königs: 92 Eine "Grímmige" Begegnung (Automatisch, um 54.8S,79.2W) -> 92 Grímas Einfluss (Automatisch, um 54.4S,78.4W)
+Nach 92 Unbeschreibliche Arglist Objective #1: 92 Die Belagerungsbrecher von Madh-fushaum (Automatisch, um 54.3S,78.7W)
+Während 92 Unbeschreibliche Arglist Objective #2: 92 Die Streitmacht der Weißen Hand in Madh-fushaum, 92 Die Hauptmänner von Madh-fushaum, 92 Nahrungsvorräte in Madh-fushaum, 92 Die Augen und Ohren von Madh-fushaum, 92 Die Ballisten von Madh-fushaum (Automatisch, um 54.4S,78.4W)
+92 Kampfgruppe: Geralht (R) (Automatisch, um 53.5S,76.0W)
+92 Kampfgruppe: Macsen (R) (Automatisch, um 53.5S,76.0W)
+92 Kampfgruppe: Inras (R) (Automatisch, um 56.2S,78.2W)
+92 Kampfgruppe: Rog-votak (R) (Automatisch, um 56.2S,78.2W)
+
+Gapholt
+Erkundungstat (Nah-Isernerz, 50.2S,82.5W - Gapholt, 53.7S,84.6W)
+Nach 92 Folgt der Spur: 93 Die Felder von Holzmühle (Herubrand, 46.9S,79.2W) -> 93 Einladung zu einem Umtrunk -> 93 Instanz: Einladung auf ein Gläschen -> 92 Gapholt zur Hilfe bewegen -> 92 Der lange Weg nach Holzmühle (Nothmar, 53.7S,84.1W) -> 93 Verstärkung für Holzmühle (Herubrand, 46.9S,79.2W) -> 93 Holzmühle ist gefallen (Gifemund, 47.8S,79.6W) -> 93 Instanz: Der Fall von Holzmühle -> ("Westfold") 93 In die Westfold (Herubrand, 46.9S,79.2W)
+Nach Annahme von 92 Gapholt zur Hilfe bewegen: 92 Eine lange Reise für die Pferde (Toglos, 53.7S,83.8W)
+Nach Annahme von 92 Gapholt zur Hilfe bewegen: 92 Gebundene Hände (Hrothwaru, 53.7S,84.0W)
+Während 92 Gapholt zur Hilfe bewegen Objective #5: 92 Vorbereitung auf die Abreise (Nothmar, 53.7S,84.1W)
+Nach 92 Der lange Weg nach Holzmühle Objective #3: 93 Gestohlen ist so gut wie neu (Automatisch, um 50.4S,82.1W)
+Während 92 Der lange Weg nach Holzmühle Objective #4: 93 Der Feind hat Nah-Isernerz besetzt, 93 Neue Arbeiter für Nah-Isernerz (Automatisch, um 50.4S,82.1W)

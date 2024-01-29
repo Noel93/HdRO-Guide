@@ -1,0 +1,51 @@
+Weite Mark (89-91)
+
+Ostweide
+Erkundungstat (Schlotheim, 49.1S,70.0W - Ostweide, 45.4S,67.0W - Snagfen, 47.3S,65.9W)
+Bezwingertat (Crebain, um 47.1S,66.4W - Bilwisse, um 48.0S,67.9W)
+Nach ("Epos - Band III, Buch 11: Die Goldene Halle") 86 Buch 11, Kapitel 10: Der König reitet gen Westen: 90 Schlotheim sichern (Húlac, 49.8S,69.9W) -> 90 Die Einberufung überbringen, Teil I (Fríthild, 49.6S,70.4W) -> 89 Diebesgut (Ordlac, 45.2S,67.2W)
+Nach Annahme von 89 Diebesgut: 89 Ein Feld voller Diebe (Automatisch, um 45.6S,68.8W)
+Nach Annahme von 89 Ein Feld voller Diebe: 90 Gedungene Banditen? (Räuber, um 45.6S,68.8W) -> 90 Ein Verräter unter uns? (Dudsig, 45.9S,67.0W) -> 90 Sarumans Diener (Ordlac, 45.2S,67.2W)
+Nach Annahme von 90 Sarumans Diener: 90 Eine Plage ausmerzen (Automatisch, um 45.6S,67.6W)
+Nach Annahme von 90 Sarumans Diener: 90 Finger der Weißen Hand (Automatisch, um 46.4S,68.6W) -> 90 Üble Absichten (Cenulf, 45.5S,66.5W) -> 90 Der Beschützer der Herrin (Ordlac, 45.2S,67.2W) -> 90 Der Kummer der Herrin (Lúfa, 45.8S,67.0W) -> 90 Der Verteidiger der Herrin -> 90 Instanz: Der Verteidiger der Herrin (R) -> 90 Die Dankbarkeit der Herrin -> 90 Dreck und Verderbtheit (Dudsig, 45.9S,67.0W) -> 90 Eine Bedrohung beseitigt -> 90 Die Einberufung überbringen, Teil II (Ordlac, 45.2S,67.2W)
+Nach Annahme von 90 Dreck und Verderbtheit: 90 Die Verderbtheit reinigen (Automatisch, um 47.3S,65.9W)
+Nach Annahme von 90 Dreck und Verderbtheit: 90 Der Wahnsinn verbreitet sich (Krähen, um 47.3S,65.9W)
+Nach Annahme von 90 Die Einberufung überbringen, Teil II: 90 Der Gunstbeweis der Herrin (Automatisch, 45.2S,67.2W)
+
+Ost-Fangorn
+Erkundungstat (Ost-Fangorn, 43.4S,72.5W)
+Nur bis 90 Die Bewegung aufhalten fehlschlägt, nach 90 Die Einberufung überbringen, Teil II: 90 Die Bewegung aufhalten (Herehasen, 45.7S,72.2W)
+Nur wenn 90 Die Bewegung aufhalten fehlschlägt, nur bis 90 Schwarze Huorns fehlschlägt: 90 Schwarze Huorns (Automatisch, um 44.5S,71.7W)
+Nach Annahme von 90 Die Bewegung aufhalten: 90 Huorns in den Schatten (Automatisch, um 44.5S,71.7W)
+Nach 90 Huorns in den Schatten oder 90 Schwarze Huorns: 90 Schwarze Herzen (Schwarzdorn, 42.8S,71.6W) -> 90 Um Ast und Zweig -> 90 Das Ende der Dunkelheit
+Nur wenn 90 Schwarze Huorns fehlschlägt: 90 Das Ende der Dunkelheit (Automatisch, um 44.5S,71.7W)
+
+Torsburg
+Erkundungstat (Torsburg, 45.2S,73.2W - Tordags Lager, 45.7S,72.2W - Bardh-dorám, 48.8S,73.8W)
+Nach 90 Eine Bedrohung beseitigt: 90 Feinde im Überfluss (Tordag, 45.6S,72.3W) -> 90 Bericht erstatten (Torferth, 45.7S,72.1W) -> 90 Wie stark sind sie (Tordag, 45.6S,72.3W) -> 90 Der Mut von Torsburg -> 90 Vorwärts, Toringas -> 90 Instanz: Vorwärts, Toringas (R) -> 90 Niederlage in Torsburg (Torferth, 45.7S,72.1W) -> 90 Verzögerung in Torsburg
+Nach 90 Die Einberufung überbringen, Teil II: 90 Monster oder Wahnsinn? (Herehasen, 45.7S,72.2W)
+Nach Annahme von 90 Feinde im Überfluss: 90 Halbblut-Kavallerie (Automatisch, um 46.0S,73.7W)
+Nach Annahme von 90 Halbblut-Kavallerie: 90 Halbork-Abzeichen (Drop von Halborks, um 47.0S,73.6W)
+Nach Annahme von 90 Feinde im Überfluss: 90 Wargreiter in der Mark (Automatisch, um 46.4S,74.2W)
+Nach Annahme von 90 Wargreiter in der Mark: 90 Bilwiss-Abzeichen (Drop von Bilwissen, um 47.4S,73.1W)
+Nach Annahme von 90 Wie stark sind sie: 90 Brennende Barrikaden (Automatisch, um 45.6S,73.1W)
+Nach Annahme von 90 Wie stark sind sie: 90 Das Volk befreien (Automatisch, um 45.4S,73.3W)
+Nach Annahme von 90 Wie stark sind sie: 90 Die Hand lähmen (Automatisch, nach Befreiung einer der Gefangenen für 90 Das Volk befreien)
+Nur während 90 Instanz: Vorwärts, Toringas (R): 89 Vorwärts, Toringas: Die Hand soll brennen (Automatisch)
+Nur während 90 Instanz: Vorwärts, Toringas (R), nach 90 Das Ende der Dunkelheit [Schwarzdorns Version]: 89 Schwarzdorns Rache (Automatisch)
+Nur während 90 Instanz: Vorwärts, Toringas (R), Objective #3: 89 Vorwärts, Toringas: Das Urteil (Automatisch)
+
+Schlotheim
+Bezwingertat (Herdenkreaturen, um 52.1S,69.7W)
+Nach 90 Verzögerung in Torsburg: 91 Die Mark in Flammen (Fríthild, 49.6S,70.4W)
+Nach Annahme von 91 Die Mark in Flammen: 91 Die Schmieden Isengarts (Automatisch, um 49.0S,70.6W)
+Nach Annahme von 91 Die Schmieden Isengarts: 91 Wilde Menschen des Westens (Bilwiss-Reiter, um 47.5S,72.6W) -> 91 Der Krieg zieht auf (Fríthild, 49.6S,70.4W) -> 91 Der Rat von Schlotheim -> 91 Instanz: Der Rat von Schlotheim (R) -> 91 Trost spenden -> 91 Geschenke für die Kinder (Frithbert, 49.5S,69.9W)
+Während 91 Der Krieg zieht auf: 91 Die Eindringlinge aufspüren (Ordlac, 49.6S,70.4W)
+Während 91 Der Krieg zieht auf: 91 Vorbereitung auf die Finsternis (Grimmar, 49.6S,70.4W)
+Während 91 Der Krieg zieht auf: 91 Vorräte für die Belagerung (Baldmund, 49.1S,69.4W)
+Während 91 Der Krieg zieht auf: 91 Die Wölfe Isengarts (Dudsig, 48.5S,69.4W)
+Während 91 Der Krieg zieht auf, Objective #3: 91 Ordlacs Rat (Ordlac, 49.6S,70.4W)
+Nach Annahme von 91 Geschenke für die Kinder: 91 Gegen die Bilwisse reiten (Baldmund, 49.6S,70.4W) -> 91 Instanz: Gegen die Bilwisse reiten (R) -> 91 Räuber in der Wildnis (Grimmar, 49.6S,70.4W) -> 91 Der wilde Hauptmann (Dudsig, 49.6S,70.4W) -> 91 Angriff auf Bardh-dorám (Ordlac, 49.6S,70.4W) -> 91 Instanz: Angriff auf Bardh-dorám (R)
+Nach ("Epos - Band III, Buch 12: Krieg in der West-Emnet") 92 Buch 12, Kapitel 8: Hügelstämme und Pferdeherren, 91 Geschenke für die Kinder und 91 Angriff auf Bardh-dorám: 91 Siegesfeier (Ordlac, 49.6S,70.4W) -> 91 Instanz: Siegesfeier (R) -> 91 Schildmaid von Rohan -> 91 Instanz: Schildmaid von Rohan (R) -> 91 Wachen von Ostweide -> 91 Ein Spion unter uns -> 91 Aus Rache ausreiten -> 91 Ein Lehen braucht Hilfe (Lúfa, 48.6S,69.7W) -> 91 Betrug der Weiten Mark (Torferth, 45.7S,72.1W) -> 91 Instanz: Betrug der Weiten Mark (R)
+Nur bis Annahme von ("Felssenke") 92 Zur Felssenke [Edoras], nach 91 Betrug der Weiten Mark: 91 Hilfe für die Felssenke (Torferth, 49.6S,70.4W)
+90 Kampfgruppe: Cledwun - Dunländischer Kriegsanführer (R) (Automatisch, um 47.9S,71.6W)

@@ -1,0 +1,23 @@
+Pren Gwydh (67-68)
+
+Erkundungstat (Holzfällerlager von Galtrev, 78.9S,15.7W - Die heulenden Höhlen, 78.2S,13.8W - Siedlung der Drachensippe, 80.0S,19.7W - Krähenhütte, 79.6S,19.0W - Der Fangzahnbau, 79.2S,17.1W - Bau des Bluthauers, 80.1S,18.6W)
+
+67 Galtrev: Die große Siedlung (jeder Wächter von Galtrev, z.B. Skrupelloser Tom, 80.8S,17.2W) -> 67 Die blockierten Zuleitungen (Frank Eisenherz, 79.7S,16.5W) -> 67 Güter für Isengard (Gethin, 80.0S,16.5W) -> 67 Verzögerung entlang der Straße (Urien, 79.9S,16.4W) -> 67 Besser spät als nie (Fraid, 79.2S,16.3W) -> 67 Selbst ist der Mann (Mari, 80.3S,16.6W) -> 67 Ein kühner Anführer (Tomos, 80.5S,19.9W) -> 67 Die Bedeutung eines Bündnisses -> 67 Instanz: Die Bedeutung eines Bündnisses
+Während 67 Die blockierten Zuleitungen: 67 Ein sonderbarer Mangel an Nägeln (Rhianu, 79.8S,16.5W)
+Während 67 Die blockierten Zuleitungen: 67 Eine Übermenge Speere (Wunne, 79.9S,16.5W)
+Während 67 Die blockierten Zuleitungen: 67 Eine schwere Aufgabe (Gethin, 80.0S,16.5W)
+Nach 67 Güter für Isengard: 67 Nagende Sorge (Luned, 80.0S,16.4W) -> 67 Monster der Wildnis -> 67 Bestien als Rösser, 67 Das schludrige Werk des Skabies-Reiters (Goronu, 78.2S,13.6W)
+Während 67 Verzögerung entlang der Straße: 67 Diebe beim Holzfällerlager von Galtrev, 67 Gestohlene Holzstapel (Fraid, 79.2S,16.3W)
+Nach 67 Besser spät als nie: 68 Tägliche Holzlieferung (R) (Macsen, 80.2S,17.0W)
+Nach 67 Selbst ist der Mann: 67 Galtrevs unwillkommene Nachbarn (Tomos, 80.5S,19.9W)
+Nach 67 Die Bedeutung eines Bündnisses: 67 Jagd nach Wölfen (Hopcun, 80.3S,17.0W) -> 67 Eine Jagd beim Fangzahnbau, 67 Jagd auf Hartfang
+Nach 67 Die Bedeutung eines Bündnisses: 67 Gemeine, alte Keiler in Pren Gwydh (Louri, 80.4S,17.1W) -> 67 Gemeinere, ältere Keiler -> 67 Gemeiner alter Großer Bluthauer
+Nach 67 Die Bedeutung eines Bündnisses: 67 Die diebische Krähe (Envus, 80.0S,17.8W) -> 67 Ein Ring der Kraft? (Krähe, 79.5S,19.0W) -> 67 Ein mehrfarbiger Umhang -> 67 Der rätselhafte Schwund der Schar -> 67 Einst ein Diener, jetzt ein Zauberer
+Bis Abschluss von ("Dunland: Ödmoor") 69 Verstreute Lieferung und nach 67 Jagd auf Hartfang, 67 Gemeiner alter Großer Bluthauer und 67 Einst ein Diener, jetzt ein Zauberer: ("Dunland: Ödmoor") 69 Zum Ödmoor (Mari, 80.3S,16.6W)
+("Der Aufstieg Isengarts") 75 Es gibt Gold in den Hügeln (Ariene, 80.5S,16.4W) -> 75 Schatzkarte (Frithgeir, 65.6S,8.5W) -> 75 Eine Höhle in den Hügeln
+("Handwerkskunst") 1+ Handwerk gegen Staub (R) (Staub- und Funkenhändler, 80.2S,16.8W)
+("Der Aufstieg Isengarts") 75 Die Schmieden Isengarts (R) (Bron, 80.1S,16.7W) -> 75 Instanz: Die Schmieden Isengarts
+("Der Aufstieg Isengarts") 75 Die Verteidigung von Galtrev (R) (Bron, 80.1S,16.7W) -> 75 Instanz: Die Verteidigung von Galtrev
+("Der Aufstieg Isengarts") 75 Schimmern in vergessenen Gewässern (R) (Bron, 80.1S,16.7W) -> 75 Instanz: Schimmern in vergessenen Gewässern
+("Der Aufstieg Isengarts") 75 Der Weißen Hand durch die Lappen gehen (Gwin, 80.1S,17.1W)
+("Der Aufstieg Isengarts") 75 Hoffnung in der Not (Mabon, 80.1S,17.1W)

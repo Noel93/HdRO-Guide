@@ -1,0 +1,60 @@
+Königsstatt (85-88)
+
+Edoras
+Erkundungstat (Edoras, 60.8S,74.2W)
+Nur bis Abschluss von 86 Auf Geheiß des Königs, nach ("Epos - Band III, Buch 11: Die Goldene Halle") 86 Buch 11, Kapitel 10: Der König reitet gen Westen: 86 Die Verteidigung der Furt (Éowyn, 62.0S,72.8W)
+Nach ("Epos - Band III, Buch 11: Die Goldene Halle") 86 Buch 11, Kapitel 10: Der König reitet gen Westen und ("Suthofen") 84 Ein Durst nach Blut: ("Weite Mark") 85 Zu spät (Burnoth, 60.4S,72.7W)
+Während 85 Zu spät: ("Weite Mark") 85 Pfeile für Hutha (Hutha, 60.4S,72.7W)
+Während 85 Zu spät: ("Weite Mark") 85 Hufeisen für die Pferde (Léofdag, 60.4S,72.7W)
+Während 85 Zu spät: ("Weite Mark") 85 Eine Rüstung vom Schmied (Ulf, 60.4S,72.7W)
+Nur bis Annahme von ("Ostfold") 89 In die Ostfold [Dunharg], nach ("Epos - Band III, Buch 11: Die Goldene Halle") 86 Buch 11, Kapitel 10: Der König reitet gen Westen: ("Ostfold") 89 In die Ostfold (West-Emnet-Kundschafter, z.B. 60.6S,74.2W)
+Nur bis Annahme von ("Weite Mark") 89 Beantwortung des Rufs [Aldburg], nach ("Epos - Band III, Buch 11: Die Goldene Halle") 86 Buch 11, Kapitel 10: Der König reitet gen Westen: ("Weite Mark") 91 In die Weite Mark (West-Emnet-Kundschafter, z.B. 60.6S,74.2W)
+Nur bis Annahme von ("Weite Mark") 91 Hilfe für die Felssenke [Schlotheim], nach ("Epos - Band III, Buch 11: Die Goldene Halle") 86 Buch 11, Kapitel 10: Der König reitet gen Westen: ("Felssenke") 92 Zur Felssenke (West-Emnet-Kundschafter, z.B. 60.6S,74.2W)
+Nur bis Annahme von ("Westfold") 93 In die Westfold [Holzmühle], nach ("Epos - Band III, Buch 11: Die Goldene Halle") 86 Buch 11, Kapitel 10: Der König reitet gen Westen: ("Westfold") 93 In die Westfold (West-Emnet-Kundschafter, z.B. 60.6S,74.2W)
+Nach ("Epos - Band III, Buch 11: Die Goldene Halle") 86 Buch 11, Kapitel 10: Der König reitet gen Westen: ("Ostfold") 88 Nachricht aus Edoras (Gandalf, 60.6S,74.2W)
+
+Entfurt
+Erkundungstat (Entfurt, 56.0S,65.8W - Pendlacs Hof, 61.0S,67.8W)
+Nach ("Epos - Band III, Buch 11: Die Goldene Halle") 86 Buch 11, Kapitel 10: Der König reitet gen Westen: 86 Auf Geheiß des Königs (Edric, 56.1S,65.9W) -> 86 Auf das Schlimmste gefasst -> 86 Zu tief verstrickt (Edric, 56.2S,65.8W) -> 86 An Léoflads Seite -> 86 Harte Verhandlungen -> 85 Instanz: Harte Verhandlungen -> 86 Die Wogen glätten (Éowyn, 62.0S,72.8W) -> 85 Instanz: Die Wogen glätten
+Während 86 Auf Geheiß des Königs: 86 Stille Gefahr, 86 Verdorbene Länder, verdorbenes Erbe (Edric, 56.1S,65.9W)
+Während 86 Auf Geheiß des Königs: 86 Sicherheit für die Sanftmütigen (Léoflad, 56.1S,65.9W)
+Während 86 Zu tief verstrickt: 86 In unserer Obhut (Gifel, 56.2S,65.8W)
+Während 86 Zu tief verstrickt: 86 Laute in der Dunkelheit (Womar, 56.2S,65.8W)
+Während 86 Zu tief verstrickt: 86 Keine Bleibe in West-Emnet, 86 Ungeeignet für Orks (Magenred, 56.7S,65.3W)
+Während 86 Zu tief verstrickt: 86 Kein Wort aus Mittelaue (Kenbert, 56.1S,66.5W) -> 86 Ein Bruch in der Kette
+Während 86 Zu tief verstrickt, nach Annahme von 86 Kein Wort aus Mittelaue: 86 Unfairer Handel (Kenbert, 56.1S,66.5W)
+86 Ewiglich auf den Ebenen (Getötetes Pferd, um 57.0S,64.9W)
+86 Nachschub fordern (Kiste mit Königsstatt-Feldfrüchten, um 55.7S,66.8W)
+Während 86 An Léoflads Seite Objective #2: 86 Keine Ausnahmen (Agelman, beschworen)
+Während 86 An Léoflads Seite Objective #9: 86 Wehklage für die Gefallenen (Agelman, beschworen) -> 86 Schuldbeladen
+86 Kampfgruppe: Nûdît (R) (Automatisch, um 54.6S,65.8W)
+87 Kampfgruppe: Ora (R) (Automatisch, um 61.6S,64.9W)
+
+Mittelaue
+Erkundungstat (Mittelaue, 54.4S,72.8W - Bosas Hof, 53.7S,68.6W - Folcburs Gehöft, 56.0S,72.0W)
+Nur bis Abschluss von 87 Tausch der Schicksale, nach 86 Die Wogen glätten: 86 Eine Aufforderung an Mágla (Éowyn, 62.0S,72.8W)
+Nach 86 Die Wogen glätten: 86 Bereit, doch nicht willens (Mágla, 53.4S,73.0W) -> 86 Handelsangelegenheiten -> 86 Augen im Feld -> 86 Todgeweiht (Egbalth, 53.5S,68.5W) -> 87 Leere Stühle (Mágla, 53.4S,73.0W)
+Nach Annahme von 86 Augen im Feld: 86 Das Feuer anfachen, 86 Eine Machtdemonstration (Automatisch, um 53.7S,68.6W)
+Nach Annahme von 87 Leere Stühle: 87 Am letzten Faden (Mágla, 53.4S,73.0W) -> 87 Tricks der Branche (Hildulf, 54.0S,73.2W) -> 87 Nicht unsere Zukunft (Mágla, 53.4S,73.0W) -> 87 Tausch der Schicksale -> 86 Instanz: Tausch der Schicksale
+Während 87 Tricks der Branche: 87 Interessante Besorgungen (Déorwald, 54.0S,73.1W)
+Nach Annahme von 87 Interessante Besorgungen: 87 Pferdefrei (Déorwald, 54.0S,73.1W)
+Während 87 Tricks der Branche: 87 Ausverkauft (Béored, 53.9S,73.2W)
+Während 87 Tricks der Branche: 87 Keine Wort von Zuhause (Folcbur, 53.9S,73.1W)
+Nach Annahme von 87 Keine Wort von Zuhause: 87 Die Spreu vom Weizen trennen (Heuhaufen, um 56.0S,72.0W)
+Nach 87 Keine Wort von Zuhause Objective #2: 87 Ungebetene Gäste (Automatisch, 55.8S,72.0W)
+Nach Annahme von 87 Interessante Besorgungen: 87 Lauernde Mäuer (Beutehungrige Warge, um 56.3S,73.2W)
+Nach Annahme von 87 Ausverkauft: 87 Den Weg frei machen (Avanc-Kiefer-Falle, um 53.3S,73.8W)
+Nach 87 Ausverkauft Objective #5: 87 Den Feind entwaffnen (Dunländer-Angreifer, 53.0S,73.9W)
+87 Kampfgruppe: Glendower (R) (Automatisch, um 57.3S,73.9W)
+
+Unterharg
+Erkundungstat (Unterharg, 67.2S,73.7W - Hochborn, 65.5S,72.9W - Dunharg, 71.2S,71.2S - Dimholt, 72.5S,69.6W - Dunkles Tor, 73.3S,69.3W)
+Nach 86 Die Wogen glätten: 86 Die Bürde von Unterharg (Éowyn, 62.0S,72.8W) -> 87 Die Fiedel und die Trommel (Ellen Fremedon, 67.4S,73.7W) -> 86 Instanz: Die Fiedel und die Trommel -> 87 Zuflucht im Hargtal -> 87 Geister des Hargtals -> 87 Wächter der Straße -> 88 Jagd nach Toten, 88 Von Zuflucht zu Zuflucht -> 88 Nachricht aus dem Hargtal
+Nach 87 Zuflucht im Hargtal: 88 Kühnheit über Gebühr (Ellen Fremedon, 67.4S,73.7W)
+Nach 87 Geister des Hargtals: 87 Zusammenbau von Kriegern (Ellen Fremedon, 67.4S,73.7W)
+Nach 88 Jagd nach Toten Objective #2: 88 Schädelspalterei (Automatisch, 69.6S,71.8W)
+Nach 88 Jagd nach Toten Objective #3: 88 Von den Toten gefangen, 88 Etwas Böses weht heran (Automatisch, 69.6S,71.8W)
+Nach 88 Jagd nach Toten Objective #5: 88 Im Schatten des Todes (Automatisch, 69.6S,71.8W)
+Wähernd 88 Jagd nach Toten Objective #6: 88 Herr des Toten Volks (Automatisch, 69.6S,71.8W)
+Nach 87 Tausch der Schicksale und 88 Nachricht aus dem Hargtal: 88 Der Weg nach Dunharg (Éowyn, 62.0S,72.8W) [benötigt Abschluss von ("Edoras") 87 Edoras: Ermunterung tut Not und ("Epos - Band III, Buch 12: Krieg in der West-Emnet") 91 Buch 12, Kapitel 6: Durch das Netz] -> 86 Instanz: Der Weg nach Dunharg
+Nur bis Annahme von ("Ostfold") 89 In die Ostfold [Edoras], nach 88 Der Weg nach Dunharg: ("Ostfold") 89 In die Ostfold (Éowyn, 70.1S,71.3W)

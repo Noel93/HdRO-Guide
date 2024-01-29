@@ -1,0 +1,33 @@
+Rothorn-Adern (56)
+
+Die Ork-Wacht
+Erkundungstat (Die Ork-Wacht, 11.1S,106.7W - Malmezel, 12.5S,106.2W - Menem-mezel, 12.0S,105.7W - Die Grube, 10.3S,105.8W)
+56 Den Weg frei machen (Avar, 11.0S,106.8W) -> 56 Außer Rand und Band (Ingifast, 11.0S,106.5W) -> 56 Die herrschende Anarchie
+Nach Annahme von 56 Außer Rand und Band: 56 Eine frühere Expedition (Ingifast, 11.0S,106.5W)
+Nach Annahme von 56 Außer Rand und Band: 56 Erzkontrolle (Róarr, 11.1S,106.5W)
+Nach Annahme von 56 Außer Rand und Band: 56 Bericht des Kundschafters (Stammbericht: Moria-Orks, 11.2S,105.5W oder Stammbericht: Weiße Hand, 11.8S,105.5W)
+Nach Annahme von 56 Die herrschende Anarchie: 56 Die Überlegenheit der Weißen Hand, 56 Suche nach den Vermissten (Ingifast, 11.0S,106.5W)
+Nach Annahme von 56 Die herrschende Anarchie: 56 Einschätzung der Schmieden (Róarr, 11.1S,106.5W)
+Nach Annahme von 56 Die herrschende Anarchie: 56 Die Arbeit erschweren (Waschrinne, um 11.4S,105.4W)
+Nach Annahme von 56 Die herrschende Anarchie: 56 Für den Feind schmieden (Schmiede aus Moria und der Weißen Hand, um 11.7S,104.0W)
+
+Knakks Lager
+Erkundungstat (Grubensprung, 10.4S,103.7W - Das Tor der Zerstörung, 10.2S,103.9W - Ashpars Befehlsbereich, 11.4S,103.5W - Budkhul-beken, 10.8S,103.2W [erreichbar nur über Nud-Melek])
+Nach 56 Suche nach den Vermissten: 56 Verderbte Spinnen (Knakk, 11.0S,103.7W) -> 56 Wachsende Verderbtheit -> Züchter der Verderbnis -> 56 Wert, dafür zu sterben -> 56 Der nächste Angehörige
+Nach Annahme von 56 Verderbte Spinnen: 56 Untersuchung des Problems (Globsnaga-Spinnen, um 11.3S,103.0W)
+Nach Annahme von 56 Wachsende Verderbtheit: 56 Ein neuer Ork (Globsnaga-Orks, um 11.7S,103.0W)
+Nach Annahme von 56 Züchter der Verderbnis: 56 Leutnants der Verderbtheit (Knakk, 11.0S,103.7W)
+56 Helgi Bilwissfluchs Schulter und Arm (Statue - Schulter und Arm, 11.9S,104.0W)
+("Jäger") 58 Der Pfad des Fallenstellers: Hilfe in der Not (R) (Eniel, 10.3S,104.0W)
+
+Autis Lager
+Nach 56 Der nächste Angehörige: 56 Zu seinem Gedenken (Kúli, 13.3S,104.6W)
+56 Grodbog-Befall (Kúli, 13.3S,104.6W) -> 56 Das versteckte Quartier -> 56 Ausgebrütet durch die Lodernden Tiefen (Auti, 13.3S,104.6W)
+Nach Annahme von 56 Grodbog-Befall: 56 Gredbyg vor den Türen (Auti, 13.3S,104.6W)
+Nach Annahme von 56 Grodbog-Befall: 56 Höllisches Gezirpe (Grodbog-Krieger, um 14.0S,104.2W)
+Nach Annahme von 56 Das versteckte Quartier: 56 Grodbog-Aufzucht (Gredbyg, 14.3S,104.7W)
+Nach Annahme von 56 Das versteckte Quartier: 56 Kammer der Königin (Automatisch, 14.3S,104.7W)
+Nach Annahme von 56 Das versteckte Quartier: 56 Gredbyg in Nud-heden (Eingesponnene Larve, 14.3S,104.7W)
+56 Reflektor vom Rothorn (Moria-Spiegel, 12.5S,103.2W)
+
+

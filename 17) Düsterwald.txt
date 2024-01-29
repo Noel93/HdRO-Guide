@@ -1,0 +1,209 @@
+Düsterwald (60-65)
+
+Epos - Band II, Buch 9: Die Festung der Nazgûl (Fortsetzung aus Lothlórien)
+Während 60  Buch 9, Vorwort: Das dunkle Ufer: 61 Vorwort: Angriff auf die Tore, 61 Vorwort: Erschöpfte Vorräte, 61 Vorwort: Ohne Führung fallen sie (Fuirgams Gehilfe, 15.3S,61.6W) -> 61 Vorwort: Das Tor versperren, 61 Vorwort: Gerätschaften des Krieges, 61 Vorwort: Wilde Flankenläufer -> 61 Vorwort: Angriff auf dem Hügel -> 61 Instanz: Angriff auf dem Hügel
+61 Kapitel 1: Die Pläne des Goldenen Heeres (Alfirimbes, 15.0S,61.5W) -> 61 Instanz: Die Pläne des Goldenen Heeres -> 61 Kapitel 2: Das Gerücht um Mazog -> 61 Kapitel 3: Mitternacht in der Senkungshalde -> 61 Instanz: Mitternacht in der Senkungshalde -> 62 Kapitel 4: Erste Offensiven (Cúcheron, 13.3S,56.0W) -> 62 Kaptiel 5: Trügerische Lichter -> 63 Kapitel 6: Die Wegewahl (Bróin, 13.3S,56.1W) -> 63 Kapitel 7: Nervosität (Issuriel, 13.3S,56.1W) -> 63 Kapitel 8: Mazog im Netz -> 63 Instanz: Mazog im Netz -> 63 Kapitel 9: Umlaufendes Gift (Issuriel, 14.6S,51.4W) -> 64 Kapitel 10: Der Austausch (Gruingalas, 14.6S,51.4W) -> 63 Instanz: Der Austausch -> 64 Kapitel 11: Marsch auf Dol Guldur -> 64 Kapitel 12: Die Armeen von Gathbúrz (Ningloril, 13.1S,46.4W) -> 64 Kapitel 13: Die Schüler Gorothúls -> 64 Kapitel 14: Thangúlhad in Gefahr -> 65 Kapitel 15: Der Angriff auf Dol Guldur (Ellunen, 12.5S,46.5W) -> 65 Kapitel 16: Die Verliese von Dol Guldur (Ningloril, 13.1S,46.4W) -> 65 Instanz: Die Verliese von Dol Guldur -> 65 Kapitel 17: Erinnerungen an Mithrandir (Bori, 12.9S,46.3W) -> 65 Instanz: Erinnerungen an Mithrandir -> 65 Kapitel 18: Der Kampf im Turm (Ningloril, 13.1S,46.4W) -> 65 Instanz: Der Kampf im Turm
+Während 63 Kapitel 6: Die Wegewahl: 63 Kapitel 6: Die Erkundung von Emyn Lûm (Enedhel, 14.3S,51.5W)
+Während 63 Kapitel 6: Die Wegewahl: 63 Kapitel 6: Die Erkundung von Taur Morvith (Erymbes, 16.0S,51.2W)
+Während 63 Kapitel 6: Die Wegewahl: 63 Kapitel 6: Die Erkundung des Krabbeltals (Gladiel, 11.5S,49.3W)
+Nach 65 Kapitel 18: Der Kampf im Turm: 65 Band II, Epilog: Zigilburks Rückkehr (Goldagnir, 12.7S,46.1W) -> 65 Instanz: Zigilburks Rückkehr -> 65 Band II, Epilog: Gorothúl aus Dol Guldur (Bori, 6.5S,105.4W)
+Nach 65 Kapitel 18: Der Kampf im Turm: 65 Band II, Epilog: Sigileths Dolche (Ellunen, 12.5S,46.5W)
+Nach 65 Kapitel 18: Der Kampf im Turm: 65 Band II, Epilog: Ningloril (Ningloril, 13.1S,46.4W)
+Nach 65 Kapitel 18: Der Kampf im Turm: 65 Band II, Epilog: Laeglang (Laeglang, 14.5S,45.6W)
+Nach 65 Kapitel 18: Der Kampf im Turm: 65 Band II, Epilog: Achardors Schicksal (Gruingalas, 14.6S,51.4W)
+Nach 65 Kapitel 18: Der Kampf im Turm: 65 Band II, Epilog: Barvessain (Barvessain, 14.6S,51.5W)
+Nach 65 Kapitel 18: Der Kampf im Turm: 65 Band II, Epilog: Cúcherons Bogen (Cúcheron, 13.3S,56.0W)
+Nach 65 Kapitel 18: Der Kampf im Turm: 65 Band II, Epilog: Grauhammer (Lúth, 15.0S,61.5W)
+Nach 65 Kapitel 18: Der Kampf im Turm: 65 Band II, Epilog: Alfirimbes (Alfirimbes, 15.0S,61.5W)
+Nach 65 Kapitel 18: Der Kampf im Turm: 65 Band II, Epilog: Braiglinn (Braiglinn, 17.4S,63.8W)
+Nach 65 Kapitel 18: Der Kampf im Turm: 65 Band II, Epilog: Issuriels Blume (Issuriel, 11.9S,67.9W)
+
+Die Ballade von Bingo Boffin (Fortsetzung aus Lothlórien)
+66 Erst einmal Frühstück! (Bingo Boffin, 13.3S,56.1W) -> 68 Zweites Frühstück -> 70 Die Ufer des Großen Flusses (Bingo Boffin, 16.2S,67.2W)
+
+Dunkelsenke
+Erkundungstat (Durbúrz-stazg, 14.3S,61.6W - Amon Angened, 16.0S,60.0W - Die Windsteine, 16.0S,59.2W - Tirnhirion, 17.3S,61.7W)
+Bezwingertat (Gegner, überall)
+Nur bis Abschluss von 61 Vorwort: Angriff auf dem Hügel: 61 Expedition: Verständigungsproblem, 61 Expedition: Überbrückung (Ivorel, 15.1S,61.4W)
+Nur bis Abschluss von 61 Vorwort: Angriff auf dem Hügel: 61 Expedition: Pflege für die Gefallenen (Agorin, 15.1S,61.4W) -> 61 Expedition: Im Gefecht verloren gegangen -> 61 Expedition: Eine kühne Rettung
+61 Strandstreife (Falasgon, 15.1S,61.5W) -> 61 Der Feind auf der Schwelle
+Nach 61 Strandstreife: 61 Die Erkundung des Landstrichs (Aemeldir, 15.1S,61.4W) -> 61 Angriff auf den Feind -> 61 Ein Speer im Herzen
+Nach 61 Angriff auf den Feind: 61 Ein Troll läuft über den Hügel (Tethafnel, 15.1S,61.3W)
+61 Errichtung eines Stützpunktes (Tethafnel, 15.1S,61.3W)
+61 Die Augen von Dol Guldur (Faroniel, 15.3S,61.6W)
+61 Den Wolf töten, 61 Die Bändigung der Bändiger, 61 Ein Heulen im Wind (Goldínwen, 16.5S,60.3W)
+61 Verbranntes Essen (Nordan, 16.5S,60.3W)
+61 Die Falle schnappt zu (Glamodúd, 16.5S,60.3W) -> 61 Entfernen des Stachels, 61 Herausschneiden des Herzstücks, 61 Zerstörung ihrer Mittel
+Nach 61 Herausschneiden des Herzstücks: 61 'Der Feind ist überall!' (Glamodúd, 16.5S,60.3W)
+61 Herr der Bestien (Thindiel, 16.0S,59.9W)
+Nach 61 Herausschneiden des Herzstücks: 61 Pfeile der Malledhrim (Thindiel, 16.0S,59.9W)
+61 Ein furchterregender Keiler (Gaerfalas, 16.0S,59.9W)
+Nach 61 Herausschneiden des Herzstücks: 61 Das Leben nach dem Tod (Gaerfalas, 16.0S,59.9W)
+Nach 61 Herausschneiden des Herzstücks: 61 Auf den Spuren des Goldenen Heeres (Dannaswen, 15.9S,60.0W) -> 61 Auf der Suche nach Zeichen, 61 Die Pracht der Malledhrim
+Nach 61 Auf den Spuren des Goldenen Heeres: 61 Der letzte Rest (Rongal, 15.9S,60.0W)
+Nach 61 Ein furchterregender Keiler, 61 Herr der Bestien und 61 Die Pracht der Malledhrim: 61 Der Feind im Osten (Dannaswen, 15.9S,60.0W)
+
+Grimmlager
+Erkundungstat (Rudelheulerhügel, 15.4S,56.0W - Dannenglor, 11.9S,54.8W)
+62 Attercop, Attercop, 62 Das Rudel mundtot machen, 62 Eine Fledermauswolke (Lavanferon, 13.6S,58.1W)
+62 Deserteure (Mothelen, 13.5S,58.1W) -> 62 Ein Schatten über dem Lager -> 62 Unheil vertreiben -> 62 Gebrochene Eide
+Nach 62 Ein Schatten über dem Lager: 62 Den Widerstand zerschlagen (Dagorchiel, 13.6S,58.1W)
+62 Die gerissenen Bestien des Grimmlagers (Prestadír, 13.3S,56.1W) -> 62 Geheule auf dem Hügel
+63 Der verwässerte Wald, 63 Die Straße nach Emyn Lûm (Athradnir, 13.3S,56.1W)
+62 Ein sonderbares Grab (Idhrenfair, 13.3S,56.1W)
+Nach 62 Ein sonderbares Grab: 62 Nicht überzeugende Unschuld (Idhrenfair, 13.3S,56.1W) -> 62 Erbitterte Szenen in Audaghaim [14.1S,55.5W, 13.9S,54.9W, 13.2S,54.8W]
+Nach 62 Ein sonderbares Grab: 62 Münzen der Treue (Prestadír, 13.3S,56.1W) -> 62 Was sich zugetragen hat
+Nach 62 Erbitterte Szenen in Audaghaim und 62 Was sich zugetragen hat: 62 Die zerstreuten Geschichten von Audaghaim (Prestadír, 13.3S,56.1W) -> 62 Die verfluchte Stadt
+62 Die Sklavenhorde von Dannenglor (Puiguil, 13.3S,56.1W) -> 62 Der Meister des Lagers
+62 Die verlorenen Kundschafter (Fernachar, 13.3S,56.1W) -> 62 Grausame Flügel abschlagen -> 62 Schwindende Hoffnung
+62 Ein Wald voller Spinnen (Fernachar, 13.3S,56.1W) -> 62 Ein gefährliches Nest
+62 Fledermäuse in den Ruinen (Mírdirniel, 13.3S,56.1W)
+62 Schmutz und Reichtümer (Mírdirniel, 13.3S,56.1W) -> 62 Gieriges Geflattere -> 62 Die Diebin von Dannenglor
+
+Senkungshalde
+Erkundungstat (Sâd Meryrn, 18.8S,57.6W - Teich des schleichenden Todes, 16.8S,57.8W)
+63 Schatten auf der Pirsch (Laidhriel, 16.9S,54.7W) -> 63 Schrecken der Senkungshalde
+63 Sumpfgebiete des Süd-Düsterwaldes (Laidhriel, 16.9S,54.7W)
+63 Die finsteren Bäume der Senkungshalde (Nenedhel, 16.9S,54.7W) -> 63 Die gekrümmte Lichtung -> 63 Ein goldenes Geschenk (Nífdir, 18.3S,57.4W) -> 63 Die Schatten von Sâd Meryrn in Stücke reißen
+63 Leuchtende Gifte, 63 Ein Rauchfeuer (R) (Rocheledh, 16.9S,54.8W)
+63 Das rätselhafte Leiden (Nestawen, 16.8S,54.8W) -> 63 Die Suche nach einem Heilmittel -> 63 Die Boshaftigkeit der Lichter
+
+Emyn Lûm
+Erkundungstat (Minas Celebolf, 14.7S,51.3W->14.7S,51.5W - Minas Glórelloth, 14.7S,51.3W->14.3S,50.9W - Die wilde Ruine, 15.2S,51.2W)
+("Handwerkskunst") 65 Am seidenen Faden (R) (Legindir, 14.5S,51.5W)
+63 Alte Aufzeichnungen (Agorin, 14.4S,51.3W)
+63 Schutz des Schattens (Agorin, 14.4S,51.3W) -> 63 Alte Relikte, 63 Verderbte Erinnerungen -> 63 Sternenlicht und Schatten -> 60 Instanz: Sternenlicht und Schatten
+63 Bilwiss-Spione, 63 Natürliches Licht (Lomdognir, 14.4S,51.3W) -> 63 Eine wichtige Botschaft -> 63 Waldstreife (R) (Fuirgam, 14.5S,51.3W)
+63 Mord im Fluge, 63 Wilde Ruinen (Fuirgam, 14.5S,51.3W) -> 64 Die Schlacht um Dol Guldur
+Nach 63 Wilde Ruinen, 63 Mord im Fluge und 63 Alte Aufzeichnungen: 63 Zähnefletschen (Fuirgam, 14.5S,51.3W) -> 63 Die Jagd auf Gollum
+
+Krabbeltal
+Erkundungstat (Das kriechende Wasser, 11.1S,51.4W - Gorogrod, 8.8S,51.2W)
+Bezwingertat (Spinnen, um 8.6S,51.3W)
+64 Eingesponnene Elben
+Nach 63 Wilde Ruinen und 64 Eingesponnene Elben: 64 Stille Fußspuren (Miluimil, 12.4S,50.9W) -> 64 Ein umzingelter Feind -> 64 Instanz: Ein umzingelter Feind
+64 Schwarzes Gift I (Miluimil, 12.4S,50.9W) -> 64 Schwarzes Gift II
+64 Schwarze Flügel (Ivorel, 12.4S,50.9W)
+64 Unschuld in Gefahr (Ivorel, 12.4S,50.9W) -> 64 Angenagte Knochen -> 64 Rache für einen Unschuldigen
+64 Woher kommen die Toten? (Ivorel, 12.4S,50.9W) -> 64 Meister der Toten, 64 Versiegeln der Gräber
+
+Taur Morvith
+Erkundungstat (Sâd Morangol, 19.1S,48.7W)
+64 Ein Stich ins Auge (Iavassúl, 16.5S,50.6W) -> 64 Einen Kopf kürzer, 64 Kriegshunde
+64 Ein Bannertag (Iavassúl, 16.5S,50.6W) -> 64 König des Berges, 64 Die stachelige Peitsche -> 64 Der enge Weg -> 60 Instanz: Der enge Weg
+Nach 64 Der enge Weg: 64 Grausame Diener, 64 Scheiterhaufen des Grauens (Ianudirel, 18.0S,50.3W) -> 64 Dunkle Relikte -> 64 Der dunkle Lehrling
+
+Gathbúrz
+Erkundungstat (Búrzkala, 11.0S,46.4W - Der Baum des Leidens, 12.6S,47.4W)
+Bezwingertat (Orks/Uruks, um 11.8S,46.3W)
+65 Dunkle Götzen (Handelen, 12.7S,46.6W) -> 65 Wachen von Dol Guldur -> 65 Bewaffnete Aufklärung (R), 65 Ein Auge auf den Feind (R)
+65 Krieg der Zermürbung (Rodelleth, 12.7S,46.6W) -> 65 Abzeichen der Schande (R)
+65 Kommandeur Fikthrug (Rodelleth, 12.7S,46.6W) -> 65 Kommandeur Athdurub -> 65 General Tímurzgrat -> 65 Niederschmetternde Streitkraft
+Nach 65 Kommandeur Fikthrug: 65 Die heulende Herrschaft (Rodelleth, 12.7S,46.6W) -> 65 Symbole der Eroberung (R)
+Nach 65 Kommandeur Athdurub: 65 Die schwarzen Antreiber (Rodelleth, 12.7S,46.6W) -> 65 Zeichen der Malledhrim (R) (Handelen, 12.7S,46.6W)
+65 Schwarze Bolzen, 65 Zerborstene Maschinen (Vatnar, 12.6S,46.5W) -> 65 Teuflische Vorräte (Thyrnir, 12.6S,46.5W) -> 65 Tod aus der Erde (R) (Vatnar, 12.6S,46.5W) -> 65 Instanz: Tod aus der Erde
+65 Ein Verbündeter in Not (R) (Verwundeter Malledhrim, 10.8S,46.2W)
+
+Aschensenke
+Erkundungstat (Mithechad, 17.6S,48.2W - Garmadh-maudhûl, 16.6S,46.7W - Floid und Dewitt, 17.5S,46.2W - Ânghum-maudhûl, 19.8S,45.8W)
+Bezwingertat (Warge/Kreaturen, um 19.1S,47.9W)
+65 Auskundschaften der Vorräte (Eirien, 17.5S,48.2W) -> 65 Die Versorgungskette unterbrechen
+65 Tötet die Kundschafter (Eirien, 17.5S,48.2W) -> 65 Die Botschaft
+65 Der Rudelführer (Perindúr, 17.7S,48.3W) -> 65 Vertreibt sie (R)
+65 Schwächung des Rudels (Perindúr, 17.7S,48.3W)
+65 Die Wachen verwüsten, 65 Ânug-stazg erkunden (Perindúr, 17.7S,48.3W) -> 65 Den Aufmarsch stören -> Den Aufstand niederschlagen (R)
+Nach 65 Der Rudelführer, 65 Die Botschaft und 65 Den Aufmarsch stören: 65 Die Erzprobe, 65 Ein Schlag gegen Gâthlata, 65 Tötet den Boten (Eirien, 17.5S,48.2W)
+Nach 65 Der Rudelführer, 65 Die Botschaft und 65 Den Aufmarsch stören: 65 Reise nach Helethir (Perindúr, 17.7S,48.3W)
+Nach 65 Der Rudelführer, 65 Die Botschaft und 65 Den Aufmarsch stören: 65 Aufklärung in Ânghum-maudhûl, 65 Die Patrouillen stören (Harchador, 17.7S,48.3W) -> 65 Angriff auf Ânghum-maudhûl, 65 Den Holzvorrat zerstören
+Nach 65 Aufklärung in Ânghum-maudhûl: 65 Besiegt Darúk (Harchador, 17.7S,48.3W)
+Nach 65 Besiegt Darúk, 65 Angriff auf Ânghum-maudhûl und 65 Den Holzvorrat zerstören: 65 Die Verstärkungen zurückschlagen (R) (Harchador, 17.7S,48.3W)
+
+Helethir
+Erkundungstat (Sâd Doldúr, 18.6S,43.9W)
+Bezwingertat (Geister, um 18.6S,44.2W - Zauberer, um 18.7S,43.6W)
+Nach 65 Der Rudelführer, 65 Die Botschaft und 65 Den Aufmarsch stören: 65 Aufklärung bei Barad Angol (Danfennas, 16.1S,44.6W) -> 65 Die Gefallenen fällen, 65 Säulen aus einer anderen Zeit (Himeinior, 17.5S,44.6W) -> 65 Den Lauf der Dinge aufhalten -> 65 Aufhalten der Ausbreitung, 65 Vertreibung der Schatten (Faerchiril, 17.5S,44.5W)
+65 An der Oberfläche kratzen (Verderbter Zweig, um 16.6S,44.9W) -> 65 Das Problem an der Wurzel packen (Himeinior, 17.5S,44.6W) -> 65 Das Ritual unterbrechen (Faerchiril, 17.5S,44.5W)
+
+("Scharmützel") Der Schlag gegen Dannenglor
+60+ Der Schlag gegen Dannenglor (R)
+Nach Verteidigung des unteren Hofs: Rimdeloth ("Schreie und Kratzgeräusche hallen vom Haupthof wider.")
+Beim Betreten des nördlichen Aufgangs: Dunkelklaue ("Ein Crebain-Schwarm krächzt von einem Brutbaum, den Aufgang im Norden hinauf.")
+Nach Einnahme des südlichen Eingangs: Ruingalad ("Ein starker Windstoß löscht die Fackeln am südlichen Eingang.")
+Nach Einnahme der Westbrücke: Fiklúk ("Von der anderen Seite des Flusses ertönt das Kundschafterhorn eines Elben. Ihr solltet ein Horn suchen und antworten.")
+Nach Einnahme der Westbrücke: Gorogmúl ("Die Flammen der Fackeln erlöschen, als Ihr die Westbrücke einnehmt.")
+Beim Betreten der Ostterrasse: Geistfang ("Von oben hört Ihr Geräusche von Zähnen, die knirschen und an Knochen nagen.")
+Nach Einnahme der Ostterrasse(?): Seregruin ("Als Ihr die Kontrolle über den Hof erlangt, kehrt ein uralter Wächter zurück.")
+Nach Einnahme der Ostterrasse: Helchfaer ("Gesang erklingt aus dem Gebäude im Norden.")
+Beim Betreten des oberen Hofs: Gothling ("Spinneneier füllen den nächsten Raum aus.")
+
+("Scharmützel") Beschützer von Thangúlhad
+60+ Beschützer von Thangúlhad (R)
+Nach dem zweiten Angriff: Lapus ("Aus dem Norden ist ein Krachen zu hören. Die hinteren Belagerungsmaschinen wurden zerstört.")
+Nach dem zweiten Angriff: Golugthrug ("Aus dem Osten ist ein Krachen zu hören ... der Feind hat sich hinter die Linien geschlichen.")
+Nach dem zweiten Angriff: Torúglup ("Auf der Straße nach Westen entfernt sich ein Warg von Dol Guldur.") [Flieht innerhalb von ca. einer Minute nach Westen!]
+Während dem dritten oder vierten Angriff: Azrí (Azrí ruft eine Kampfherausforderung aus dem Osten: "Feuert die Balliste, falls Ihr es wagt!") [Östliche Ballisten müssen innerhalb von ca. 30 Sekunden abgeschossen werden!]
+Während dem dritten oder vierten Angriff: Frúzglob (Frúzglob schreit: "Wagt es nur nicht, diese Waffe abzufeuern!") [Mittlere Ballisten müssen innerhalb von ca. 30 Sekunden abgeschossen werden!]
+Während dem dritten oder vierten Angriff: Grudom (Grudom schreit: "Ich fordere dich heraus!") [Westliche Ballisten müssen innerhalb von ca. 30 Sekunden abgeschossen werden!]
+Nach dem dritten Angriff: Ruithroval ("Ein Kreischen erklingt von der Spitze des Turms.")
+Nach dem dritten Angriff: Borndol ("Ein Zauberer lacht und rennt zum Turm.") [Flieht innerhalb einer Minute in den Turm!]
+Nach dem dritten Angriff: Hokarul ("Eine Patrouille bewegt sich auf der Straße Richtung Osten auf Dol Guldur zu.") [Flieht innerhalb ca. einer Minute nach Osten!]
+
+("Scharmützel") Am Tor des Geisterbeschwörers
+60+ Am Tor des Geisterbeschwörers (R)
+Nach der Verteidigung des ersten Zwingers: Lavalúg ("Ein Stück Auerochsen-Fleisch brutzelt neben dem Feuer vor Euch.")
+Nach der Verteidigung des zweiten Zwingers: Gortag ("Der Schwefelgeruch brennender Laternen zieht von jenseits des zweiten Zwingers herüber.")
+Nach der Verteidigung des zweiten Zwingers: Firingúl ("Der Schwefelgeruch brennender Laternen zieht aus dem dritten Zwinger herüber.")
+Nach der Verteidigung des dritten Zwingers: Murúk ("Aus dem vierten Zwinger erschallt ein Knurren.")
+Nach der Verteidigung des vierten Zwingers: Thrângund ("Donnernde Schritte erschallen aus dem südlichen Gang.")
+Nach der Verteidigung des vierten Zwingers: Annoniel ("Die Flammen der Laternen vor Euch sollten gelöscht werden.")
+Nach der Verteidigung des vierten Zwingers: Agardúr ("Der Schwefelgeruch brennender Laternen zieht von jenseits des vierten Zwingers herüber.")
+Nach der Verteidigung des vierten Zwingers: Grishglok ("Aus dem Süden erschallt ein Knurren.")
+Nach der Verteidigung der Zauberersteige: Morgúr ("Aus dem Süden erschallt ein Heulen.")
+
+("Scharmützel") Das Versteck der Ringgeister
+60+ Das Versteck der Ringgeister (R)
+Nach der Verteidigung des äußeren Burghofs: Kúfit ("Aus westlicher Richtung bricht ein Brüllen hervor.")
+Nach der Verteidigung des äußeren Burghofs: Durnákh ("Donnernde Schritte erschallen aus östlicher Richtung.")
+Nach der Verteidigung des äußeren Burghofs: Faelathron ("Aus südlicher Richtung ertönt ein heiseres Kichern.")
+Nach der Verteidigung des äußeren Burghofs: Mazaukgrat ("Aus dem Süden ertönt ein barscher Schrei.")
+Nach der Verteidigung des inneren Burghofs: Gúlheryn ("Aus südwestlicher Richtung ertönt wütendes Gekreische.")
+Nach der Verteidigung des inneren Burghofs: Mornákh ("Aus nördlicher Richtung ertönt schrilles, raues Bellen.")
+Nach der Verteidigung des inneren Burghofs: Norchador ("Aus nördlicher Richtung steigt sengende Hitze auf.")
+Nach der Verteidigung des inneren Burghofs: Zánurz ("Ein Brüllen durchhallt den inneren Burghof.")
+Nach der Verteidigung des inneren Burghofs: Afglu ("Geschrei durchhallt den inneren Burghof.")
+
+("Scharmützel") Der Kampf im Turm
+60+ Der Kampf im Turm (R)
+Nach der Verteidigung des Audienzzimmers: Thangaran ("Die Flammen in den Kohlebecken sind seltsamerweise erloschen.")
+Beim Betreten der unteren Appellhalle: Múdku ("In diesem Zimmer befinden sich einige Waffenständer, deren Durchsuchung lohnenswert sein könnte.")
+Nach Eroberung der unteren Appellhalle: Schweinslohn (Aus den Tiefen der Halle ruft Schweinslohn: "Die Räuber von Breeland und Dol Guldur werden sich verbünden!")
+Beim Betreten der oberen Appellhalle: Blord ("Blord betritt den Turm durch das Zimmer unter Euch und brüllt.")
+Beim Betreten der oberen Appellhalle: Urbor ("Die Laternen vor euch sind seltsamerweise erloschen.")
+Beim Betreten der oberen Appellhalle: Gadhumúrz ("Vom anderen Ende der Halle ertönt Knurren. Gadhumúrz ist hungrig.")
+Nach Eroberung der oberen Appellhalle: Gundnákh ("Ein Brüllen dringt von unten herauf, als Gundnákh aus seinem Zimmer kommt.")
+Beim Betreten der Waffenkammer: Iaerien ("Von vorne erschallt irres Gelächter.")
+
+("Die Verliese von Dol Guldur") Die Schwerthalle von Dol Guldur
+65 Die Krieger von Dol Guldur, 85 Auf einen Schlag (Torist, 16.0S,44.5W)
+65+ Fledermaus-Götzen (R), 65+ Seltsame Asche (R), 65+ Uruk-Halsketten (R) (Automatisch, T2)
+
+("Die Verliese von Dol Guldur") Warg-Gehege von Dol Guldur
+65 Lass sie hungern (Maerwen, 16.1S,44.4W)
+65+ Die Bilwisse von Dol Guldur (R), 65+ Die Warge von Dol Guldur (R), 65+ Merkwürdiges Fleisch (R), 65+ Zeigt es ihnen (R) (Automatisch)
+
+("Die Verliese von Dol Guldur") Die Verliese von Dol Guldur
+65+ Unbekanntes Schicksal - Faenthír, 65+ Unbekanntes Schicksal - Hethulír, 65+ Unbekanntes Schicksal - Borihon, 65+ Unbekanntes Schicksal - Bregrochon, 65+ Unbekanntes Schicksal - Thimuil, 65+ Unbekanntes Schicksal - Glamrennel (Automatisch, zwei pro Durchlauf)
+65+ Unbekanntes Schicksal - Baingaleth, 65+ Unbekanntes Schicksal - Maediel
+
+("Die Verliese von Dol Guldur") Sammath Gûl
+65+ Die Rohlinge von Sammath Gûl (R), 65+ Der Turm von Tod und Verwesung (R), 65+ Die Schädel der Toten (R), 65+ Finstere Taten in Sammath Gûl (R) (Automatisch)
+
+("Die Verliese von Dol Guldur") Barad Guldur
+65+ Barad Guldur: Der tiefe Angriff (R) (Automatisch)
+65+ Barad Guldur: Garstige Relikte und Bücher (R) (Anglú, im Raum vom ersten Boss)
+
+"Umherziehende Bedrohungen"
+Bosstat (13.4S,59.0W - 15.8S,58.3W - 19.0S,56.3W - 16.1S,53.5W - 18.2S,48.7W - 19.3S,46.7W - 15.8S,46.5W [verbuggt, spawnt hier nicht] - 12.8S,43.7W)
+Schatzspeicher (17.3S,61.7W - 15.9S,59.3W - 19.1S,57.9W - 11.2S,56.2W - 12.4S,54.6W - 13.4S,52.6W - 8.7S,51.8W - 19.5S,48.4W - 19.3S,43.6W - 12.2S,45.4W - 16.4S,42.5W - 14.8S,41.7W)
+100 Die umherziehenden Bedrohungen des Süd-Düsterwalds (Automatisch, um 14.3S,51.2W)
+100 Umherziehende Bedrohung: Ghámgur, das große Grauen (R), 100 Umherziehende Bedrohung: Helchurth, der ewige Schatten (R), 100 Umherziehende Bedrohung: Leidensweber, die lautlose Angst (R), 100 Umherziehende Bedrohung: Thorang, die Geisterrüstung (R) (Gellamiel, 14.5S,50.9W)

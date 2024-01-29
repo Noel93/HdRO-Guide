@@ -1,0 +1,31 @@
+Der Bogen (40-45)
+40 Der Bogen von Mitheithel (Elrohir, 31.6S,15.2W)
+
+Gaerond
+Erkundungstat (Gaerond, 34.7S,22.1W - Eitheldir, 36.2S,22.7W - Feste Waeren, 38.4S,22.3W)
+Bezwingertat (Orks um 36.2S,22.7W)
+40 Betretet den Bogen. (Elladan, 34.7S,22.1W) -> 40 Die Ruinen von Eitheldir (Merileg, 35.9S,22.5W) -> 40 Eine Reise gen Osten -> 40 Verdorbenes Gold (Thalathril, 38.7S,17.2W)
+Nach Annahme von 40 Betretet den Bogen.: 40 Geisterwege (Elladan, 34.7S,22.1W) 
+40 Relikte verlorener Königreiche (Narnien, 34.7S,22.1W) -> 40 Die verlorenen Schätze der Haudh Erthaid (automatisch, um 38.4S,22.3W), 40 Die bröckelnden Hallen von Glynafon (Cedivor Heckenreihe, 39.6S,18.4W)
+42 Die letzte Freundschaft (Ravaedron, 35.2S,21.9W) -> 42 Ein Abschied (Ravaedron, 39.4S,17.4W) -> 42 Instanz: Ein Abschied -> 42 Wildnis und Leere -> 42 Dorf der Waldläufer (Ravaedron, 42.5S,23.2W) -> 42 Lange Erinnerungen (Ravaedron, 42.5S,23.5W) -> 42 Instanz: Lange Erinnerungen -> 42 Die Schönheit des Landes -> 42 Das Geschenk (Ravaedron, 44.6S,21.5W) -> 42 Dauerhafte Freundschaft (Ravaedron, 39.4S,17.4W) -> 42 Instanz: Dauerhafte Freundschaft
+40 Ein verlorener Talisman (Maervellon, 36.1S,22.5W)
+
+Tham Lumren
+Erkundungstat (Tham Lumren, 38.7S,17.3W - Adlerfarnhütte, 39.4S,17.4W - Glynafon, 40.0S,18.3W)
+Bezwingertat (Geister um 37.9S,16.9W - Kreaturen um 40.0S,18.3W)
+Nach Ziel #2 von 40 Verdorbenes Gold: 40 Flussufer-Avanc (Thalathril, 38.7S,17.2W)
+40 Heilung eines Heilers (Hal Hornbläser, 38.6S,18.5W) -> 41 Die Blüte der Liebe?
+Nach 40 Ein verlorener Talisman: 40 Jagd auf den Talisman (Maervellon, 39.9S,18.6W)
+40 Verzweifeltes Lagern (Onora, 40.7S,19.0W) -> 40 Bären und Beeren -> 40 Sichere Passage nach Gaerond (Rúdhan, 40.7S,19.0W)
+
+Tornhad
+Erkundungstat (Tornhad, 42.5S,23.3W - Thelgarth, 44.6S,22.9W - Zuflucht der Cuan Lûth, 41.6S,23.4W)
+Bezwingertat (Halborks um 44.6S,22.9W, zählen als Orks und als böse Menschen)
+Nach 40 Geisterwege: 40 Und weiter auf der geisterhaften Straße (Waldefried Maidorn, 40.2S,22.4W) -> 40 Die Ankunft der Maidorns (Garan Maidorn, 40.2S,22.4W)
+44 Verdächtige Spuren im Bogen (Lagordal, 42.2S,22.2W) -> 44 Eine zufällige Begegnung -> 44 Spiel auf Vertrauen (Cariad, 41.6S,23.3W) -> 44 Eine Audienz bei den Cuan-Lûth -> 44 Instanz: Eine Audienz bei den Cuan-Lûth -> 45 Letzte Pflichten -> 45 Ein letztes Glücksspiel (Cariad, 45.0S,22.9W) -> 45 Am Scheideweg (Erlys, 41.6S,23.4W) -> 45 Instanz: Am Scheideweg
+45 Faeron, Meister des Schleichens (Faeron, 43.0S,23.4W)
+45 Angwedh, Rüstungsmeister (Angwedh, 42.9S,23.0W)
+45 Mandan, der Kräutermeister (Mithrendan, 43.4S,23.4W)
+45 Helchon, vor kurzem eingeschworen (Helchon, 43.6S,23.7W)
+Nach 40 Jagd auf den Talisman: 40 Der gefundene Talisman (43.9S,22.8W)
+Nach ("Vor dem Schatten: Buch 3") 30 Buch 3, Kapitel 10: Der Geist der Grauen Furcht: ("Vor dem Schatten: Nachwort") 32 Nachwort: Im Andenken an die Gefallenen (Gorwen, 43.0S,24.0W)

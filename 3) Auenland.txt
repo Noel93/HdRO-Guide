@@ -1,0 +1,142 @@
+Auenland (5-15)
+
+Prolog (Hobbits): 7 Mundos Klage (Mundo Sackheim-Beutlin, 31.8S,76.8W) -> 7 Mehlkloss' Standpunkt -> 11 Macht euch nützlich -> 11 Viola Stollens Geschichte -> 12 Halros' Hilfe -> 12 Standort der Bilwisse -> 12 Ärger steht an -> 12 Der Steinbruch in Schären -> 12 Bullenrasslers Keule -> 12 Unter dem Grünfeld -> 12 Instanz: Unter dem Grünfeld -> 12 Das Auenland ohne Schutz
+
+Die Ballade von Bingo Boffin: 8 Das Abenteuer ruft (Bingo Boffin, 33.0S,75.1W) -> 9 Reisevorbereitungen -> 10 Wie ein Stein im Wasser -> 10 Instanz: Schwimme oder ertrinke -> 11 Missbilligende Boggs -> 12 Der Aufbruch fällt schwer -> 16 Die Boffin-Sippe
+
+Nadelhohl
+Bezwingertat (Schnecken, 29.3S,74.2W)
+-> 7 Verdorbener Kuchen aus Nadelhohl (Iris Pausbacken, 28.1S,75.9W)
+7 Tretet den Grenzern bei (jeder Questgeber, zb. 28.1S,76.0W)
+8 Post für Michelbinge (Briefträger Rotschmied, 28.1S,76.0W)
+9 Narzisschen wird vermisst (Filibert Bolger, 28.2S,75.8W) -> 9 Grenzer Pausbacken Bericht erstatten -> 9 Die Zwerge von Nadelhohl (Grenzer Pausbacken, 28.2S,75.8W) 
+	-> 10 Ein Geschenk für den Norden (Ulfar, 27.9S,75.9W) -> 10 Instanz: Ein Geschenk für den Norden
+("Ferne Auen") 20 Zu den Fernen Auen (Grenzer Pausbacken, 28.2S,75.8W, auch in Ered Luin bei Hildifons Tuk II, 24.8S,89.7W)
+
+Lützelbinge
+-> 5 Verdorbener Kuchen aus Lützelbinge (Wydo Boffin, 32.0S,76.6W)
+7 Post für Michelbinge (Briefträger Neubock, 31.8S,76.7W)
+("Handwerkskunde") 5 Handwerken: Die Handwerksmesse in Michelbinge (Alfred Gutklipp, 31.8S,76.7W)
+
+Michelbinge
+Erkundungstat (Südfelder, 34.4S,74.4W)
+5 Sorge um Wegscheid (Päonie Gruber, 34.2S,74.7W) -> 7 Rettet Doras Hühner (Dora Braunlock, 32.8S,73.0W) -> 7 Wölfe in Wegscheid -> 8 Der verbannte Wolf
+7 Der Kampf gegen die Spitzmaushöhlen (Rubinia Sauberstein, 34.2S,74.6W)
+6 Versteckspiel (Rollo Neubock, 33.4S,75.0W) -> 6 Das beste Versteck
+7 Gasthaus "Adler und Kind" (Karlo Schwarzhain, 33.4S, 75.3W)
+8 Der Gründungserlass (Wächter Brombard Fuchsschwanz, 33.4S,75.6W) -> 9 Die Alte Sally, 9 Ein Sack Futter, 9 Löcher in der Mauer (Belco Dachsbau, 32.8S,71.0W) -> 9 Belcos Erlass
+8 Die Renovierung der Stadthöhle (Assistent Falbhaut, 33.4S,75.0W)
+6 Post für Wegscheid (Postmeister Stolzfuß, 33.4S,75.0W) -> 8 Post für Buckelstadt
+Nach allen Postquests: 1 Ein wahrer Freund des Postschnelldienstes (Postmeister Stolzfuß, 33.4S,75.0W)
+-> 7 Verdorbener Kuchen aus Michelbinge (Hugo Breitgurt, 34.1S,75.1W)
+Nur, wenn "15 Von Gondamon nach Bree" und "20 Von Bree nach Schragen" noch nicht angenommen: 10 Vom Auenland nach Bree (Jeder Grenzer, zb 34.0S,75.0W)
+Nach 75 Quests im Auenland: 10 Ein(e) verdienstvolle(r) Grenzer(in) (Jeder Grenzer, zb 34.0S,75.0W)
+Für Gelehrte: ("Handwerkskunst") 10 Handwerken: Michelbinges jüngste Schneiderin (Goldblume Zweispitz, 33.6S,75.5W)
+Für Köche: ("Handwerkskunst") 10 Handwerken: Der grosse Pastetenkrusten-Raub (Hugo Gruber, 33.8S,74.5W) -> 10 Handwerken: Hugo sitzt in der Tinte
+("Spezial") 5+ VIP-Belohnungen (R) (Wenda Storchschnabel, 34.1S,75.0W)
+("Spezial") 20+ VIP-Belohnung für "Der Krieg der Drei Gipfel" (Wenda Storchschnabel, 34.1S,75.0W)
+("Unterkunft") 15 Siedlungen in Eriador (Graland Weissfuss, 34.0S,74.8W)
+("Spezial") 5 Ein Fisch, zwei Fische (Estmar Bolger, 33.4S, 75.3W) (nur bis Abschluss von "Angelgeschichten" in den Ered Luin oder "Angellektion" in Bree)
+
+Wegscheid / Sandsons Hof
+Erkundungstat (Dora Braunlocks Hof, 31.3S,72.7W)
+6 Die Runde machen (Bauer Sandson, 32.1S,74.3W) -> 6 Eier für Heide Hornbläser -> 8 Eier für Mütterchen Stollen
+6 Welches Nest zuerst? (Waldemar Sandson, 32.1S,74.3W) -> 6 Der frühe Vogel -> 1 Der frühe Vogel -> 6 Der Himmel fällt herab -> 1 Der Himmel fällt herab -> 6 Die Flucht aus dem Hühnerhaus -> 1 Die Flucht aus dem Hühnerhaus
+	-> {6 Die Flucht aus dem Hühnerhaus - Breeland, 6 Die Flucht aus dem Hühnerhaus - Einsame Lande, 6 Die Flucht aus dem Hühnerhaus - Ered Luin, 6 Die Flucht aus dem Hühnerhaus - Evendim, 6 Die Flucht aus dem Hühnerhaus - Nordhöhen, 6 Die Flucht aus dem Hühnerhaus - Trollhöhen} 
+	-> 1 Free Range -> 6 Returning to Wald -> 6 The Great Wide Open -> 6 There and Bawk Again
+7 Post für Nadelhohl (Briefträger Zwiefuß, 32.8S,73.0W)
+
+Buckelstadt
+Erkundungstat (Die Grosse Weide, 33.6S,70.4W)
+8 Adelards Kapitel (Petunia Tuk, 33.6S,71.1W)
+-> 8 Verdorbener Kuchen aus Buckelstadt (Edilina Stolzfuß, 33.5S,70.9W)
+9 Geist des alten Tuk (Adelard Tuk, 33.6S,71.1W) -> 9 Lieblingsspeisen des alten Tuk -> 9 Der letzte Feuerwerkskörper -> 9 Den Alten Tuk konfrontieren
+8 Gerebert verpasst eine Mahlzeit (Esilia Tuk, 33.0S,71.1W) -> 8 Longos Kräuterwagen -> 10 Ein Versteck (Longo Lochner, 33.1S,70.4W) -> 9 Kräuter in Waldhof (Esilia Tuk, 33.0S,71.1W) -> 10 Longos fehlender Wagen (Rollo Boffin, 33.4S,65.7W) -> 12 Der Krauthof des Alten Odo -> 12 Tuk und ein Turm (Esilia Tuk, 33.0S,71.1W)
+8 Post für Hobbingen (Briefträger Tuk, 33.0S,71.0W)
+9 Honigbären (Polo Stolzfuß, 33.5S,69.9W) -> 10 Eine Salbe gegen Stiche -> 10 Lang lebe die Königin (Mütterchen Boffin, 28.3S,70.2W)
+12 Das Mittagessen meines Enkels (Mütterchen Stollen, 33.0S,71.0W)
+
+Hobbingen
+7 Kuchen für das Gasthaus "Zum grünen Drachen" (Heide Hornbläser, 31.2S,71.1W) -> 7 Lobelias Kuchen -> Quests zur Rückholung der Kuchen
+Nach allen Kuchen-Quests: 10 Ein(e) wahre(r) Freund(in) von Heide Hornbläser (Heide Hornbläser, 31.2S,71.1W)
+8 Die Wache in Nadelhohl (Landbüttel Rudolf Kleinbau, 31.4S,71.1W)
+9 Post für Oberbühl (Briefträger Gruber, 31.3S,71.3W)
+
+Wasserau
+Erkundungstat (Methel-Bühne, 32.5S,69.9W)
+-> 6 Verdorbener Kuchen aus Wasserau (Gerd Weissfuss, 31.8S,69.7W)
+9 Gasthaus "Zum Grünen Drachen" (Berndt Wurzelknoten, 31.8S,69.7W)
+9 Sprecht Briefträger Krummfuss Mut zu (Briefträger Hüttinger, 31.8S,69.5W)
+
+Der Bühl
+Erkundungstat (Der Festbaum, 29.9S,71.5W - Affalters, 29.5S,72.0W)
+-> 6 Verdorbener Kuchen von der Festwiese (Opal Gutleib, 29.6S,71.6W)
+7 Fallobst (Ohm Gamdschie, 30.2S,71.5W)
+9 Lobelias Feuerwerk (Lobelia Sackheim-Beutlin, 29.4S,71.3W) -> 10 Salpeter wird benötigt (Hyazinthe Tuk, 33.4S,71.4W) -> 10 Räuberische Wölfe (Cam Platschfuß, 31.2S,65.5W) -> 9 Kohle wird benötigt (Hyazinthe Tuk, 33.4S,71.4W) 
+	-> 9 Der grosse schwarze Bär (Hart Lochmann, 28.1S,70.1W) -> 9 Funken und Schwefel (Hyazinthe Tuk, 33.4S,71.4W) -> 9 Mit allen Mitteln (Lobelia Sackheim-Beutlin, 29.4S,71.3W) 
+	-> 11 Gefährliche Leuchtkörper (Thain Paladin Tuk II, 33.6S,71.1W) -> 10 Ende der Angelegenheit
+
+Oberbühl
+10 Glücks-Schleuderstein (Eberhard Lochborn, 28.1S,70.2W)
+10 Die Spinnenplage (Otho Breitgurt, 28.2S,70.2W) -> 10 Das Nest finden -> 10 Ein Gewirr von Netzen (Landbüttel Rudolf Kleinbau, 31.4S,71.1W) -> 10 Netzlöser (Mütterchen Boffin, 28.2S,70.2W) 
+	-> 10 Den Baum befreien (Laufender Baum, 25.6S,72.8W)
+9 Post für Wasserau (Briefträger Boffin, 28.1S,70.1W)
+Nur bis Annahme einer der anderen "Bau"-Quests: ("Unterkunft") 15 Bau der Siedlung Michelbinge (Primula Gruber, 28.2S,70.1W)
+Für Köche: ("Handwerkskunst") 10 Handwerken: Vorbereitungen (Krokus Steinufer, 28.1S,70.0W)
+
+Dachsbauten
+Erkundungstat (Hobbit-Lampe, 27.2S,67.6W)
+Bezwingertat (Bilwisse, 24.7S,69.5W oder 24.7S,66.6W)
+Versteckte Tat (Einen Eber für den Eriador-Eberbezwinger, um 27.9S,67.5W)
+-> 10 Verdorbener Kuchen aus Dachsbauten (Ivo Dachsbauten, 27.6S,68.1W)
+11 Gefahr aus der Ferne (Ponto Hornbläser, 27.3S,68.1W)
+12 Bären im Grünfeld (Bodo Gutleib, 27.3S,67.7W)
+11 Gasthaus "Pflug und Sterne" (Herwarth Kahnwurz, 27.6S,68.1W)
+13 Raub eines Mutterschafes (Mungo Lochner, 24.8S,67.4W)
+
+Schären
+Erkundungstat (Der Steinbruch, 27.9S,65.7W)
+Bezwingertat (Spinnen, 27.9S,65.5W)
+-> 10 Verdorbener Kuchen aus Schären (Magsame Gruber, 27.8S,66.4W)
+13 Unruhiger Schlafplatz (Prisca Unterberg, 27.9S,66.7W)
+12 Spinnen im Steinbruch (Liliane Stolzfuß, 28.0S,66.2W)
+13 Das Schicksal von Prunella Boffin (Fosco Boffin, 27.7S,66.4W)
+12 Post für Dachsbauten (Briefträger Gutgrab, 27.8S,66.4W)
+
+Balgfurt
+Erkundungstat (Platschfußens Felder, 31.1S,64.2W - Brückengaus Mauer, 30.5S,64.1W)
+Bezwingertat (Wölfe, 30.5S,64.1W)
+-> 9 Verdorbener Kuchen aus Balgfurt (Sapphira Bolger, 31.0S,65.4W)
+10 Eine geheimnisvolle Gefahr (Wilimar Bolger, 30.9S,65.8W) -> 10 Ein paar Seiten fehlen -> 10 Konfrontation mit der Gefahr -> 10 Verbände für Callum
+10 Der Ärger mit den Erntefliegen (Bingo Bolger, 31.2S,65.9W)
+10 Schweine in Gefahr (Linda Bolger, 31.5S,65.6W) -> 10 Mitternächtliches Heulen (Milo Bolger, 30.7S,64.5W) -> 11 Das Geheimnis des Halsbandes (Linda Bolger, 31.5S,65.6W) -> 11 Der Warg von Balgfurt (Orthir, 33.4S,66.1W)
+10 Der schwarze Reiter (Odovacar Bolger, 31.1S,65.5W) -> 10 Umhang des schwarzen Reiters -> 10 Schicksal des schwarzen Reiters
+11 Post für Schären (Briefträger Bolger, 31.2S,65.4W)
+
+Froschmoorstetten
+-> 9 Verdorbener Kuchen aus Froschmoorstetten (Myrte Krummfuß, 31.7S,68.0W)
+10 Post für Waldhof (Briefträger Krummfuß, 32.1S,68.2W)
+10 Herzlichen Glückwunsch zum Geburtstag (Milo Hornbläser, 31.7S,67.9W)
+9 Gasthaus "Zum schwimmenden Balken" (Ponto Hopfenblüte, 31.7S,68.0W)
+Für Köche: ("Handwerkskunst") 10 Handwerken: Schmutzpöters hohe Massstäbe (Odo Schmutzpöter, 31.9S,68.1W)
+
+Waldhof
+Erkundungstat (Der Krauthof des Alten Odo, 33.8S,68.0W)
+Bezwingertat (Räuber, 35.2S,66.8W - Erntefliegen, 33.1S,65.0W)
+-> 9 Verdorbener Kuchen aus Waldhof (Margerite Hornbläser, 33.3S,65.6W)
+10 Post für Stock (Briefträger Dreher, 33.3S,65.7W)
+
+Stock
+Erkundungstat (Langfurch, 34.3S,64.4W - Stockturm, 33.0S,63.6W)
+10 Post für Balgfurt (Briefträger Kleinbau, 31.5S,63.4W)
+-> 9 Verdorbener Kuchen aus Stock (Primula Stolzfuß, 32.1S,63.8W)
+9 Das Wachsamkeits-Komitee (Malte Harfuß, 32.0S,63.8W) -> 11 Violetta in Gefahr (Bauer Maggot, 34.3S,64.4W),  10 Störende Rüpel (Hammy Maggot, 34.3S,64.4W)
+10 Gasthaus "Zum goldenen Barsch" (Gunderic Gruber, 32.0S,63.8W)
+
+Ärger in Buckelstadt
+("Scharmützel") 20+ Ärger in Buckelstadt (R)
+Nach Eroberung des westlichen Hügels (erreichbar erst nach Eroberung der ersten drei Gebiete): Ghâshfog (Ein Kichern rollt über die Groß-Smials: "Ich werde mir einen Weg hineingraben und Hobbits zum Abendessen verspeisen!")
+Nach Eroberung des südlichen Hügels (erreichbar erst nach Eroberung der ersten drei Gebiete): Murbarash (Ein Lachen bricht hervor: "Die Groß-Smials werden brennen!")
+Nach Eroberung des südlichen Hügels: Fíthrokh (Ein Knurren hallt von den westlichen Höfen wider)
+Nach Eroberung des südlichen Hügels (erreichbar erst nach Eroberung der ersten drei Gebiete): Altwurzel (Von der Großen Weide her hört man das leise Zirpen der Sichelfliegen)
+Nach Eroberung des östlichen Hügels: Grosser Schrecken (Aus der Nähe der Großen Weide ertönt ein Brüllen)

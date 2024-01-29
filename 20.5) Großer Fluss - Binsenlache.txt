@@ -1,0 +1,22 @@
+Binsenlache (74-75)
+
+Erkundungstat (Aculfs Lager, 29.1S,55.2W - Atburg, 30.9S,53.8W - Tik Botokh, 30.0S,53.2W - Der kriechende Schlamm, 28.3S,51.9W - Die Lindwurmsenke, 28.0S,54.6W - Der Klauengrund, 29.5S,52.8W)
+
+Nach 74 Zwielichtige Geschäfte: 74 Gestohlener Stolz, 74 Letzte Mahnung, 74 Schatten der Vergangenheit, 74 Schurken und Spitzbuben (Aculf, 29.1S,55.2W)
+Nach Annahme von 74 Gestohlener Stolz: 74 Der gestohlene Stolz der Dunländer (Drop von Räubern, um 30.9S,53.8W) -> 74 Verletzter Stolz (Bagmund, 29.1S,55.2W)
+74 Der gestohlene Stolz des Ostens (Drop von Räubern, um 30.9S,53.8W) -> 74 Wiederherstellen des Stolzes (Wynstan, 29.1S,55.3W)
+Nach 74 Schatten der Vergangenheit, nur bis zur Annahme von 74 Ruf der Ehre: 74 Entehrte Tote (Bagmund, 29.1S,55.2W) -> 74 Vertreiben der Entehrten (Eowils, 30.3S,54.4W)
+Nach 74 Schatten der Vergangenheit, nur bis zur Annahme von 74 Entehrte Tote: 74 Ruf der Ehre (Wynstan, 29.1S,55.3W) -> 74 Dem Ruf folgen (Eowils, 30.3S,54.4W)
+Nach 74 Gestohlener Stolz, 74 Letzte Mahnung, 74 Schurken und Spitzbuben und entweder 74 Vertreiben der Entehrten oder 74 Dem Ruf folgen: 74 Räuber und Gendarm (Aculf, 29.1S,55.2W) -> 74 Instanz: Bannwarte und Räuber -> 74 Räuber und Gendarm (Wiederholbar) (R) (Aculf, 29.1S,55.2W) -> 74 Instanz: Bannwarte und Räuber (R)
+Während 74 Instanz: Bannwarte und Räuber: 75 Jagdauftrag: Räuber und Gendarm (Automatisch)
+
+74 Gestrandete Waldmenschen (Amal, 28.8S,53.3W)
+Während 74 Gestrandete Waldmenschen: 74 Dämonen der Binsenlache, 74 Keine Diskussion (Amal, 28.8S,53.3W)
+Während 74 Gestrandete Waldmenschen: 74 Ausbessern der Behälter (Gisalic, 28.8S,53.3W)
+Während 74 Gestrandete Waldmenschen: 74 Überleben der Tüchtigsten (Frogildi, 28.8S,53.3W)
+Nach 74 Dämonen der Binsenlache: 74 A Dämonenbrut, 74 Ein wertvolles Gut (Amal, 28.8S,53.3W)
+Nach 74 Überleben der Tüchtigsten: 74 Auf rohen Eiern, 74 Die Schindkrötenplage (Frogildi, 28.8S,53.3W)
+Nach 74 Ausbessern der Behälter: 74 Ein Schwarm Schwierigkeiten, 74 A Swarm of Trouble (Gisalic, 28.8S,53.3W)
+Nach 74 Ausbessern der Behälter: 74 Königin der Königinnen (Großes Nest, 28.1S,51.9W) -> 74 Instanz: Königin der Königinnen -> 74 Königin der Königinnen (Wiederholbar) (R) -> 74 Instanz: Königin der Königinnen (R)
+Nach 74 Keine Diskussion: 74 Zeigt keine Angst (Amal, 28.8S,53.3W) -> 74 Instanz: Zeigt keine Angst -> 74 Warnt die Pferdeherren -> ("Braune Lande") 75 Die Khundolar (Aculf, 29.1S,55.2W)
+Während 74 Instanz: Zeigt keine Angst: 75 Jagdauftrag: Keine Angst zeigen (Automatisch)

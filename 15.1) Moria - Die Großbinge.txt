@@ -1,0 +1,27 @@
+Die Großbinge (51)
+
+Durins Schwelle
+Erkundungstat (Durins Schwelle, 8.0S,115.9W - Shemeldurj, 7.3S,114.5W - Der Palast von Náin, 6.6S,113.6W)
+51 Willkommen in Moria (Thormóth, 8.1S,116.1W) -> 51 Ein bedrohlicher Tunnel
+Während 51 Willkommen in Moria: 51 Bettwanzen (Gamli, 8.1S,116.1W)
+Während 51 Willkommen in Moria: 51 Ehrung der Gefallenen (Ráthulf, 7.9S,116.1W)
+Während 51 Willkommen in Moria: 51 Neueröffnung (Athils, 7.5S,115.8W)
+Nach 51 Willkommen in Moria: 51 Die Tiefe, 51 Ein tiefer Gedanke (Túbi Dickfaust, 8.0S,115.0W)
+Nach 51 Willkommen in Moria: 51 Verfolgungsjagd (Zwergenaxt, 8.0S,114.8W)
+Nach 51 Die Tiefe, 51 Ein tiefer Gedanke, 51 Verfolgungsjagd: 51 Ein wachsamer Blick (Túbi Dickfaust, 8.0S,115.0W)
+51 Die Versiegelung des Tores, 51 Gerüchte in den Tunneln, 51 Wiederbeschaffung (Jarmárr, 8.3S,114.3W) -> 51 Immer vorwärts (Wegil, 7.6S,114.0W)
+51 Eine alte Hoffnung (Swerthir, 7.5S,113.4W)
+51 Es riecht nach dem Stock, 51 Gredbyg-Geräusche (Thórhall, 7.5S,113.4W) -> 51 Die Stock-Königin -> 51 Zum Delfblick
+51 Neues Gewächs (Seltsamer Fungus, 6.4S,113.3W)
+
+Delfblick
+Erkundungstat (Delfblick, 8.5S,112.2W - Die Einsame Spanne, 7.6S,109.7W - Gazatmur, 7.6S,111.4W - Grubensprung, 6.8S,112.0W - Das Tor des Zwergenfürsten, 6.4S,112.0W - Der Steinrat, 9.1S,112.2W)
+51 Den Weg beleuchten (Moria-Spiegel, 7.0S,112.8W)
+51 Klauen der Tiefe (Wafri, 8.4S,111.9W)
+51 Die Straße gehört uns, 51 Tunnel räumen (Sót, 8.5S,111.9W
+Nach 51 Klauen der Tiefe, 51 Die Straße gehört uns, 51 Tunnel räumen: 51 Kundschaften (Slagvi, 8.2S,112.0W)
+51 Feinde auf ewig, 51 Und bleibt draußen! (Wigfast, 7.7S,111.8W) -> 51 Bilwiss-Aufseher, 51 Wackelige Fundamente -> 51 Ein langes Echo -> 51 Die Kühlkammer (Slagvi, 8.2S,112.0W) -> 51 Instanz: Die Kühlkammer
+Nach Annahme von 51 Feinde auf ewig: 51 Diener der Weißen Hand (Zeichen der Weißen Hand, Drop von Bilwissen um 7.6S,111.4W)
+Während 51 Ein langes Echo: 51 Die Sicherung der Bibliothek, 51 Öffnet die Wasserwege (Heruntergefallenes Tagebuch, 7.0S,112.1W)
+Nach 51 Ein langes Echo: ("Silberzinne-Adern") 52 Zum Tiefen Abgrund (Slagvi, 8.2S,112.0W)
+("Durins Weg") 53 Ein unerwarteter Schatz (Verschnörkeltes Bruststück, 6.0S,111.9W)

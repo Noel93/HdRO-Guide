@@ -1,0 +1,72 @@
+West-Gondor: Belfalas (98-100)
+
+Tadrent
+Erkundungstat (Tadrent, 74.4S,62.4W - Nendath, 75.2S,61.5W - Makham Mijann, 71.7S,62.4W)
+98 Kampfgruppe: Stillbruch (R) (Automatisch, um 73.5S,59.9W)
+Nach Annahme von ("West-Gondor: Lamedon") 98 Nachricht von Lamedon: 98 In den Wald, 98 Inventur (Haelam, 74.3S,62.7W)
+Nach ("West-Gondor: Lamedon") 98 Nachricht von Lamedon: 98 Der Blick von Nendath (Bruidis, 74.4S,62.7W) -> 98 Die Unterbrechung des Warenflusses -> 98 Der Kapitän von Makham Mijann -> 98 Zur Feste Lontir
+Nach 98 Der Blick von Nendath Objective #2: 98 Briefe des Feindes (Korsaren, um 75.2S,61.5W)
+Nach 98 Der Blick von Nendath: 98 Pilze im Sumpf, 98 Straßenpatrouille (Haelam, 74.3S,62.7W)
+99 Spitze Schnäbel in seichten Gewässern (Marschschindkröten, um 72.7S,61.7W)
+Nach 98 Die Unterbrechung des Warenflusses: 98 Brennt die Wachtürme nieder, 98 Dezimiert das Lager (Automatisch, um 71.7S,62.4W)
+
+Feste Lontir
+Erkundungstat (Feste Lontir, 75.0S,65.6W - Amon Lontir, 74.3S,66.2W)
+99 Die Verbliebenen (Gilanor, 75.1S,65.6W) -> 99 Befehle aus Umbar -> 99 Der verlorene Hafen -> 99 Die Hand der Geißel (Dolvir, 72.5S,66.4W) -> 99 Die Stadt des Prinzen (Gilanor, 75.1S,65.6W)
+Nach Annahme von 99 Die Verbliebenen: 99 Von Sicherheit weit entfernt (Mildir, 74.9S,65.5W)
+Nach Annahme von 99 Von Sicherheit weit entfernt: 99 Der angesäuselte Nasar (Othor, 75.0S,65.9W)
+Nach Annahme von 99 Die Verbliebenen: 99 Das letzte Leuchtfeuer (Boradan, 74.2S,66.3W)
+Nach Annahme von 99 Befehle aus Umbar: 99 Zu Lande und zur See (Gilanor, 75.1S,65.6W)
+Nach 99 Der verlorene Hafen: 99 Eindringlinge der Zufluchtsorte (Korsaren, um 72.4S,66.9W)
+Nach 99 Der verlorene Hafen: 99 Das Ende der Unsterblichkeit (Sterbender Elb, 72.6S,66.6W)
+Nach 99 Der verlorene Hafen: 99 Eine Bucht voller Fässer (Triefende Fässer, um 72.8S,67.3W)
+Nach Annahme von 99 Die Hand der Geißel: 99 Ein etwas anderer Schatz, 99 Historischer Diebstahl (Dolvir, 72.5S,66.4W)
+
+Dol Amroth
+Erkundungstat (Dol Amroth, 75.4S,72.1W - Hashadîr, 78.6S,72.8W - Abedecs Wache, 80.6S,68.9W)
+99 Die Stadt Dol Amroth (Torwächter von Dol Amroth, 76.1S,70.6W) -> 99 Verdächtige Personen in Dol Amroth (Lothíriel, 74.4S,72.2W) -> 99 Die Suche nach Abedec (Jajax, 75.8S,69.3W) -> 1+ Der letzte Kapitän (Jajax, 81.2S,69.1W)
+99 Fischlieferung, 99 Angeln am Kai (R) (Anírwen, 75.1S,70.3W)
+99 Aufstand am Brunnen (Beriadir, 73.4S,71.0W)
+100 Dol Amroth - Verstärkung für die Stadtwache (Beriaudur, 75.2S,71.4W)
+Während 100 Dol Amroth - Verstärkung für die Stadtwache: 100 Hashadîr - Ein Plätzchen für die Nacht, 100 Hashadîr - Fallen am Strand, 100 Hashadîr - Mannschaftskapitäne, 100 Hashadîr - Sklavenjäger (Tolrían, 75.2S,71.1W)
+99 Inspiration zu einem Liebesgedicht (Rhovendol, 75.8S,71.4W) -> 99 Wahre Kunst
+1+ Heimstätten in Gondor (Nothwen, 75.5S,72.4W oder 89.0S,66.1W oder 92.7S,62.4W oder in Minas Tirith oder Bree)
+99 Die fliegende Sinfonie (Torthol, 75.1S,73.0W)
+99 Kampfgruppe: Adîrjan das Untier (R) (Automatisch, um 77.9S,71.4W)
+99 Korsaren I: Feinde in Hashadîr, 99 Gelandet und gestrandet (Automatisch, um 78.6S,72.8W)
+99 Die Banner von Umbar (Banner von Umbar, um 78.6S,72.8W)
+99 Chaos auf See (Automatisch, um 78.9S,73.0W)
+99 Korsaren II: Seefahrer und Krieger (Korsaren, um 80.8S,74.0W)
+99 Die Korsaren von Abedecs Wache, 99 Kriegshunde und ihre Abrichter (Automatisch, um 80.6S,68.9W)
+99 Finstere Fässer (Pulverfässer, um 80.6S,68.9W)
+
+Kap von Belfalas
+1+ Das Kap von Belfalas (Falastír, 92.7S,62.4W)
+Nach Annahme von 1+ Das Kap von Belfalas: 1+ Holz vom Emyn Ernil (Falastír, 92.7S,62.4W)
+Nach Annahme von 1+ Das Kap von Belfalas: 1+ Die Reusen überprüfen, 1+ Fischen für die innere Ruhe (Haldil, 89.5S,65.5W)
+Nach Annahme von 1+ Das Kap von Belfalas: 1+ Küstenbeeren, 1+ Spaziergang mit Harnisch (Cranniel, 92.2S,62.4W)
+
+"West-Gondor: Dol Amroth"
+Nach 100 Dol Amroth - Verstärkung für die Stadtwache: 100 Hashadîr - Ein Plätzchen für die Nacht (R), 100 Hashadîr - Fallen am Strand (R), 100 Hashadîr - Mannschaftskapitäne (R), 100 Hashadîr - Sklavenjäger (R) (Tolrían, 75.2S,71.1W)
+Nach 100 Dol Amroth - Verstärkung für die Stadtwache: 100 Tarlangs Krone - Die Gewässer des Schwarzgrunds (R), 100 Tarlangs Krone - Diener der Erben (R), 100 Tarlangs Krone - Flussabwärts (R), 100 Tarlangs Krone - Gefährlicher Durst (R) (Elaglar, 75.2S,71.2W)
+Nach 100 Dol Amroth - Verstärkung für die Stadtwache: 100 Höhle von Emyn Ernil - Immer am Ruder (R), 100 Höhle von Emyn Ernil - Instabile Gerüstbohlen (R), 100 Höhle von Emyn Ernil - Kapitän ohne Schiff (R), 100 Höhle von Emyn Ernil - Zerschmetterte Kristalle (R) (Lhossil, 75.2S,71.2W)
+Nach 100 Dol Amroth - Verstärkung für die Stadtwache: 100 Tunnel von Emyn Ernil - Klauen in der Tiefe (R), 100 Tunnel von Emyn Ernil - Korsaren-Aufpasser (R), 100 Tunnel von Emyn Ernil - Kurvenlabyrinth (R), 100 Tunnel von Emyn Ernil - Verschollenes Erz (R) (Gelloth, 75.3S,71.2W)
+Nach 100 Dol Amroth - Verstärkung für die Stadtwache: 100 Tol Fennas - Im Käfig gefangen (R), 100 Tol Fennas - Neue Pflanzungen (R), 100 Tol Fennas - Rabenhorst (R), 100 Tol Fennas - Schlingfallen (R) (Dimlas, 75.3S,71.3W)
+Nach 100 Dol Amroth - Verstärkung für die Stadtwache: 100 Der Köder muss an den Haken (R), 100 Eine Kugel für den Köder (R), 100 Lachswanderung (R), 100 Schildkröten in der Tiefe (R) (Torchuil, 75.3S,71.3W)
+Nach 100 Dol Amroth - Verstärkung für die Stadtwache: 100 Tol Aduial - Drachenfest (R) (Rodwen, 75.2S,71.3W)
+Nach 100 Dol Amroth - Verstärkung für die Stadtwache: 100 Tol Aduial - Korsaren (R), 100 Tol Aduial - Rauchsignale (R), 100 Tol Aduial - Heldenmut eines Jägers (R) (Automatisch, 72.3S,73.5W)
+Nach 100 Dol Amroth - Verstärkung für die Stadtwache: 100 Tol Fennas - Jagd auf die Jäger (R), 100 Tol Fennas - Korsaren-Handwerker (R), 100 Tol Fennas - Korsaren-Krupp (R), 100 Tol Fennas - Schwimmendes Holz (R) (Glíreth, 75.1S,71.3W)
+Nach 100 Dol Amroth - Verstärkung für die Stadtwache: 100 Kêr Bras - Blühender Fäulnisling (R), 100 Kêr Bras - Die Gefallenen (R), 100 Kêr Bras - Die Zügellosen Schatten (R), 100 Kêr Bras - Eine beherzte Botschaft (R) (Avordur, 75.2S,71.5W)
+Nach 100 Dol Amroth - Verstärkung für die Stadtwache: 100 Kêr Izel - Die Schatten-Wache (R), 100 Kêr Izel - Die Zügellosen Schatten (R), 100 Kêr Izel - Gefallen und unvergessen (R), 100 Kêr Izel - Lenn Dûskud (R) (Golusel, 75.3S,71.5W)
+
+Stadtwache von Dol Amroth
+Nach 100 Dol Amroth - Verstärkung für die Stadtwache: 100 Dol Amroth - Trainingsübung (R) (Beriaudur, 75.2S,71.4W)
+Während 100 Dol Amroth - Trainingsübung (R): 100 Die Rückeroberung von Dol Amroth (R) (Automatisch)
+Nach 100 Die Rückeroberung von Dol Amroth (R), falls die Bibliothek ausgewählt wurde: 100 Dol Amroth - Die Bibliothek (R), 100 Die Vergangenheit bewahren (R), 100 Wissen in Asche (R), 100 Die Rettung der Gelehrten (R), 100 Gestohlene Freiheit (R), 100 Wächter von Dol Amroth (R), 100 Zerbrochenes Glas (R) (Automatisch)
+Nach 100 Die Rückeroberung von Dol Amroth (R), falls die Große Halle ausgewählt wurde: 100 Dol Amroth - Die Große Halle (R), 100 Eine Klippe erklimmen (R), 100 Fauliges Wasser (R), 100 Das Herz von Dol Amroth (R), 100 Es gibt immer einen... (R), 100 Garten aus Holz (R), 100 Gähnende Leere (R) (Automatisch)
+Nach 100 Die Rückeroberung von Dol Amroth (R), falls die Bank ausgewählt wurde: 100 Dol Amroth - Die Bank (R), 100 In Rauch aufgegangen (R), 100 Kein Zugang zum Hafen (R), 100 Reserven sichern (R), 100 Suche nach den Eindringlingen (R), 100 Stehlen und plündern (R), 100 Den Weg freimachen (R) (Automatisch)
+Nach 100 Die Rückeroberung von Dol Amroth (R), falls die Waffenkammer ausgewählt wurde: 100 Dol Amroth - Die Waffenkammer (R), 100 Hüter des Meeres (R), 100 Waffen und Rüstungen (R), 100 Die Suche nach Eindringlingen (R), 100 Die Verwundeten heilen (R), 100 Strafe für die Diebe (R), 100 Waffen der Wache (R) (Automatisch)
+Nach 100 Die Rückeroberung von Dol Amroth (R), falls das Lagerhaus ausgewählt wurde: 100 Dol Amroth - Das Lagerhaus (R), 100 Das Feuer anfachen (R), 100 Sehr hungrige Ratten (R), 100 Feuer und Wasser (R), 100 Sklave der See (R), 100 Wintervorräte (R), 100 Der Weg wird gesichert (R) (Automatisch)
+Nach 100 Die Rückeroberung von Dol Amroth (R), falls die Maurerei ausgewählt wurde: 100 Dol Amroth - Die Halle (R), 100 Mit Pfeilen übersät (R), 100 Unter Verschluss (R), 100 Abkommandierte Handwerker (R), 100 Menschenraub (R),  100 Kriegsmaterial (R),100 Das Handwerkszeug (R) (Automatisch)
+Nach 100 Die Rückeroberung von Dol Amroth (R), falls die Landungsbrücken ausgewählt wurde: 100 Dol Amroth - Die Hafenanlagen (R), 100 Die Flotte sinkt (R), 100 Das Schiff muss sinken (R), 100 Abgeriegelte Stadt (R), 100 Zuflucht gewährleistet (R), 100 Die Flotte von Gondor (R), 100 Vorräte aus der See (R) (Automatisch)
+Nach 100 Die Rückeroberung von Dol Amroth (R), falls die Schwanenritter ausgewählt wurde: 100 Dol Amroth - Die Schwanenritter (R), 100 Die Brücke entzweien (R), 100 Die Suche nach Versprengten (R), 100 Im Kampfeinsatz verwundet (R), 100 Die Rettung des Ritters (R), 100 Ein Schwan wird gerupft (R), 100 Tod von oben (R) (Automatisch)

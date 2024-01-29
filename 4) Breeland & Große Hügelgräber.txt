@@ -1,0 +1,172 @@
+Breeland (5-25)
+
+Prolog (Menschen): 5 Das Begraben der Toten (Jon Farnbach, 25.1S,48.9W) -> 8 Eine dringende Botschaft -> 8 Die Suche nach Amdir -> 10 Blattschneiders gute Absichten -> 10 Größere Verantwortung -> 11 Ein entscheidender Schlag -> 12 Das Versteck -> 10 Instanz: Das Versteck -> 14 Die Verfolgung Amdirs -> 14 Hilfe für einen Waldläufer -> 14 Instanz: Hilfe für einen Waldläufer
+Band 1, Buch 1: 15 Vorwort: Ein unerwünschter Gast (Gerstenmann Butterblume, 29.6S,51.3W) -> 15 Das Dunkel lichtet sich -> 15 Instanz: Das Dunkel lichtet sich -> 15 Hilfe für einen Bannwart -> 15 Niederlage der Schwarzwolds -> 15 Instanz: Niederlage der Schwarzwolds -> 15 Finstere Pläne -> 15 Die anderen Reiter -> 16 Den schwarzen Reitern auf der Spur -> 16 Hornsignal von Bockland -> 18 Meister des Waldes -> 18 Lilien für die Tochter des Flusses -> 19 In die Hügelgräberhöhen -> 21 Othongroth -> 21 Instanz: Othongroth -> 21 Pläne des schwarzen Reiters
+Band 1, Buch 2: 22 Vorwort: Hilfe für den Orden (Gandalf, 29.6S,51.3W)
+
+Die Ballade von Bingo Boffin (Fortsetzung aus dem Auenland): 18 Ringelblumen (Bingo Boffin, 31.7S,62.5W) -> 19 Unbeschreiblich -> 22 Synonyme für Schaurig -> 24 Die zwei Gasthäuser
+
+Archet
+Erkundungstat (Bronwes Zierbau, 27.1S,48.0W - Lager der Schwarzwolds, 26.7S,46.4W - Uraltes Hügelgrab, 27.1S,46.6W)
+Bezwingertat (Sichelfliegen, 25.3S,46.8W)
+5 Bedrohliche Spinnen (Atli Spinnenfluch, 24.9S,48.9W) -> 7 Ursachenfindung (Carl Schößling, 24.9S,48.9W) -> 9 Der Spinnenfluch (Atli Spinnenfluch, 24.9S,48.8W oder Iornaith, 24.8S,48.0W)
+6 Krankheit unter den Keilern (Bannwart Distelwolle, 25.0S,48.8W)
+8 Polier Earur (Polier Earur nach Prolog: Das Begraben der Toten, 25.1S,48.8W) -> 7 Nachricht an Theo Grün
+("Handwerkskunst") 7 Handwerken: Mit starkem Arm und wachem Verstand
+
+Schlucht / Nördlicher Chetwald
+Erkundungstat (Hauptquartier der Schwarzwolds, 26.7S,44.5W)
+Bezwingertat (Räuber, 26.7S,44.5W und generell fast überall)
+9 Trauer um die Toten (Gitta Schuldfang, 28.5S,49.5W)
+9 Wiederaufnahme von Beziehungen (Maida Holzmacher, 28.6S,49.4W)
+9 Die Wertsachen der Schwarzwolds (Bannwart Salbeifurt, 28.6S,49.2W) -> 8 Rurik Fenchel, Schlosser -> 10 Schwarzwold-Diebe
+9 Offene Rechnungen (Bannwart Salbeifurt, 28.6S,49.2W) -> 10 Mehr Schätze
+7 Unter dem Galgenbaum (Timm Stechdorn, 28.5S,49.0W) -> 8 Das Hauptbuch des Holzfällers -> 8 Stechdorns Schatz (Markus Dorn, 28.9S,47.3W)
+8 Wolfsbau (Theo Grün, 28.9S,47.1W)
+9 Poscos Onkel (Posco Lochner, 28.9S,47.0W)
+9 Der Hof vom Alten Baumann (Alter Baumann, 28.7S,47.0W)
+12 Erneuerte Freundschaften (Burl Bienenmann, 28.4S,49.5W) -> 12 Der weitgereiste Münzbeutel (Lolo Wendenweg, 30.2S,49.7W) -> 8 Auf nach Stadel, 8 Nach Bree
+("Handwerkskunst") 1 Einleitung in die Forstwirtschaft (Juliane Reisig, 28.8S,48.6W)
+("Handwerkskunst") 1 Einleitung in die Schneiderkunst (Juliane Reisig, 28.8S,48.6W)
+("Handwerkskunst") 1 Einleitung zum Schürfen (Juliane Reisig, 28.8S,48.6W)
+("Handwerkskunst") 1 Einleitung in die Waffenschmiedekunst (Juliane Reisig, 28.8S,48.6W)
+("Handwerkskunst") 1 Einleitung in die Gelehrtenkunde (Juliane Reisig, 28.8S,48.6W)
+("Handwerkskunst") 1 Einleitung in die Landwirtschaft (Juliane Reisig, 28.8S,48.6W)
+Nach den drei Einleitungs-Quests eines Berufszweigs: ("Handwerkskunst") 1 Übung macht den Meister (Juliane Reisig, 28.8S,48.6W) (bis zu 7x, für jeden Berufszweig)
+Für Schneider: ("Handwerkskunst") 10 Handwerken: Georg Praller hasst Splitter
+
+Stadel / Mückenwasser-Moore / Südlicher Chetwald
+Erkundungstat (Uralte Inschrift, 30.2S,49.1W - Feste Baranor, 33.5S,48.5W - Dúnedain-Statue, 33.4S,48.8W - Holzhang-Ruine, 29.6S,45.6W - Uralter Obelisk, 29.5S,45.8W - Marschwasserfestung, 31.0S,44.8W - Uralter Altar, 31.2S,44.9W - Bilwissloch-Ruine, 33.0S,43.2W)
+12 Gefährliche Keiler (Bannwartin Wirrsturm, 31.1S,49.5W)
+14 Kranker Hund (Longo Daegmund, 31.0S,49.4W) -> 12 Stille Wasser -> 12 Die weise Frau (Liliane Unterberg, 31.0S,47.8W) -> 12 Frische Blumen (Weidenlied, 32.3S,47.4W) -> 12 Brunnen gut, alles gut
+12 Gammie Boggs (Wachtmeister Rotwurz, 31.1S,49.4W)
+14 Zwei Häuptlinge (Wachtmeister Rotwurz, 31.1S,49.4W) -> 14 Bericht aus Stadel
+14 Das Auskundschaften der Moore (Wachtmeister Rotwurz, 31.1S,49.4W) -> 14 Die Bedrohung durch das Feuer (Willi Moosfuß, 32.5S,43.4W),  
+14 Die Zirper in den Mooren (Wachtmeisterin Schilf, 31.1S,49.4W) -> 14 Die Spinnen in den Mückenwassermooren (Edda Zweigler, 32.6S,43.5W)
+12 Nachricht für den Bannwart (Himloc Waldhuhn, 31.0S,49.3W) -> 12 Das gestohlene Pfeifenkraut (Bannwart Bolger, 32.0S,47.9W) -> 14 Die Nachtwache (Himloc Waldhuhn, 31.0S,49.3W)
+12 Sorge um einen Freund (Gammie Boggs, 31.0S,48.2W) -> 12 Die Augen von Stadel -> 11 Lilianes Geheimnis -> 12 Falcos Garten -> 14 Falcos Torheit (Falco Grünhand, 31.4S,48.6W)
+10 Knecht der Witwe (Eldo Mückenquetscher, 31.2S,47.1W) -> 10 Witwe Froschhorns Pfeifenkraut (Asphodel Froschhorn, 31.4S,48.0W) -> 10 Qualität und Charakter (Eldo Mückenquetscher, 31.2S,47.1W) -> 10 Bauernmarkt -> 10 Streitpunkt Wanetta (Asphodel Froschhorn, 31.5S,48.0W)
+14 Zirperfreund (Roderick Zirperfreund, 32.5S,43.5W)
+Nur bis Annahme einer der anderen "Bau"-Quests: ("Unterkunft") 15 Bau der Siedlung Bree (Sarah Seichtufer, 31.1S,49.4W)
+Für Goldschmiede: ("Handwerkskunst") 15 Barthold Tein hat seinen Ring verloren (Barthold Tein, 34.4S,42.1W)
+
+Bree
+Erkundungstat (Uraltes Wappen, 30.7S,52.6W)
+Bezwingertat (Zirperkirper, 32.7S,52.0W)
+Versteckte Tat (Einen Eber für den Eriador-Eberbezwinger, um 32.9S,51.1W)
+14 Keine Zeit für Stadtbesichtigungen! (Tal Grünspross, 31.1S,50.1W; Pari Büschelkraut, 31.9S,50.5W; Oberwachtmeister Heidestroh, 30.5S,51.2W; Wachmann Kardone, 29.6S,52.7W)
+9 Familienschätze (Berthold Dickdrossel, 30.3S,50.1W) -> 9 Pfeifenkrautlieferung -> 9 Heilvorräte
+14 Schindkröten in der Suppe (Angeklebtes Plakat, zb. 31.3S,51.3W) -> 14 Grobos Bitte (Sig Alraun, 31.2S,52.1W) -> 14 Doppelt so viele Schindkröten (Grobo Hundswurz, 31.1S,47.5W) -> 14 Das Losungswort (Benegar Langgrund, 26.7S,54.2W) -> 14 Die Überraschung der Eindringlinge (Otis Holzmann, 31.1S,51.7W) -> 14 Instanz: Die Überraschung der Eindringlinge
+20 Von Bree nach Schragen (Bürgermeister Gustav Zartlärche, 31.1S,51.2W)
+22 Candacs Verspätung (Liliane Sandheber, 29.4S,52.3W)
+30 Große Probleme (Elm Sandheber, 29.8S,51.4W) -> 30 Riesen-Probleme (Amlan, 29.6S,51.2W)
+20 Grabmoos sammeln (R), 20 Jagd auf die Dunkelheit (R) (Agathe Grüntal, 31.8S,51.4W)
+20 Bruchstücke sammeln (R), 20 Pirscher von Haudh Iarchith (R), 20 Uralte Texte sammeln (R) (Broderik Weidenau, 31.8S,51.4W)
+22 Distelwolles besudelter Name (Thomas Distelwolle, 30.2S,52.5W)
+("Ruf") 20 Hügelgräber-Schatz - Einleitung (Tad Blattschneider, 31.8S,51.4W) -> ("Ruf") 20 Tads Bitte (Thomas Distelwolle, 30.2S,52.5W)
+("Spezial") 5+ VIP-Belohnungen (R) (Wenda Storchschnabel, 30.3S,51.1W)
+("Spezial") 20+ VIP-Belohnung für "Der Krieg der Drei Gipfel" (Wenda Storchschnabel, 30.3S,51.1W)
+("Unterkunft") 15 Siedlungen in Eriador (Theodora Aschenmet, 31.2S,51.1W)
+("Königsstatt") 1+ Die Siedlungen von Rohan (Seleflad oder Burginda, 31.4S,51.2W)
+("West-Gondor: Belfalas") 1+ Heimstätten in Gondor (Nothwen, 30.3S,51.1W oder 31.4S,51.2W oder in Belfalas oder Minas Tirith)
+Für Köche: ("Handwerkskunst") 15 Handwerken: Sven Stolzfussens erstes Frühstück (Sven Stolzfuss, 29.8S,51.4W)
+Für Gelehrte: ("Handwerkskunst") 15 Handwerken: Wissen ist die beste Verteidigung (Klaas Kohl, 30.2S,50.1W)
+Für Goldschmiede: ("Handwerkskunst") 15 Handwerken: Vera Tein hat ihren Ring verloren (Vera Tein, 30.5S,51.0W)
+Für Schmiede: ("Handwerkskunst") 15 Handwerken: Bronze für Bree (Osur Starkhammer, 30.5S,51.0W)
+("Spezial") 5 Angellektion (Heinrich Eichenschott, 30.4S, 51.7W) (nur bis Abschluss von "Angelgeschichten" in den Ered Luin oder "Ein Fisch, zwei Fische" im Auenland)
+Nach Gandalfs Ankunft während 21 Pläne des schwarzen Reiters: ("Der Weg nach Erebor") 20 Der Weg zum Einsamen Berg (Gandalf, 29.6S,51.3W)
+
+Südliche Breefelder / Andrath
+Erkundungstat (Südgang-Ruinen, 35.7S,51.6W)
+14 Scharrers Mannen (Hauptwachmeister Grimmranke, 28.2S,53.3W) -> 14 Der Schatten der Weißen Hand -> 15 Galerie der Diebe -> 15 Scharrers Plan -> 15 Das Tal von Andrath -> {15 Räuber und Halborks, 16 Scharrers Leutnant (Wachtmeister Dürrblatt, 35.3S,51.3W)} -> 16 Die Benachrichtigung von Grimmranke -> 17 Entlang der großen Oststraße (wird nach 16 Das Treffen mit Herrn Heubank... nicht mehr angeboten)
+14 Eine nach Zwergenart geschmiedete Klinge (Lofar Eisenband, 28.1S,53.3W) -> 14 Wiederbeschaffung der Klinge (Kenton Distelweg, 26.4S,53.5W) -> 14 Das Schmieden einer neuen Klinge (Lofar Eisenband, 28.1S,53.3W) -> 15 Eine Klinge für ein Leben (Kenton Distelweg, 26.4S,53.5W)
+Nach 15 Galerie der Diebe: 15 Warenfluss (Wachtmeister Rosenstock, 28.2S,53.3W)
+Nach 15 Das Tal von Andrath: 16 Feindliche Südländer, 16 Muss man haben..., 16 Zirpertöter (Wachtmeister Eichenthal, 35.3S,51.3W)
+
+Bockland / Alter Wald
+Erkundungstat (Rhosthons Blume, 32.0S,61.0W - Neldorlas' Blume, 30.6S,57.3W - Dorollins Blume, 34.2S,60.1W - Cordofoneths Blume, 32.6S,59.3W - Lenhwests Blume, 33.3S,57.5W - Silloths Blume, 35.2S,56.9W - Braiglads Blume, 32.2S,58.4W - Merillifs Blume, 35.3S,58.3W - Feuerlichtung, 32.8S,60.7W - Kahler Hügel, 31.5S,59.0W - Goldbeeres Quelle, 31.1S,59.4W - Tom Bombadils Hütte, 32.7S,57.3W - Der Weberbau, 36.8S,57.6W)
+Bezwingertat (Huorns, um 31.0S,58.0W)
+14 Der Alte Wald (Celandine Brandybock, 31.7S,62.6W) -> ("Auenland") 15 Ungebetene Fremde (Wilmac Brandybock, 31.6S,62.6W) -> 15 Rollo und Doderic -> 15 Nachforschungen im Alten Wald (Saradoc Brandybock, 33.3S,62.4W)
+{15 Eine Mahlzeit für Menschen (Ella Lilienteich, 31.6S,62.6W), 15 Trophäen fürs Gasthaus (Timm Schilf, 31.6S,62.6W), 15 Der Neid der vier Viertel (Trumric Lumpwurz, 31.6S,62.6W)} -> 15 Verteilte Lasten -> 16 Das Treffen mit Herrn Heubank... 
+15 Die Geschichte des Holzfällers (Thorsten Dachsbau, 32.8S,61.6W) -> 16 Neuer Ärger im Alten Wald -> 16 Die Heimsuchung im Wald, 16 Das Böse auf acht Beinen, 16 Eine Königin in der Höhle (Gillemin Brandybock, 33.8S,59.3W)
+{15 Waldbären (Brumbald Stollen, 32.9S,61.7W), 15 Waldwölfe (Berangar Hochkupp, 32.9S,61.7W), 15 Waldfledermäuse (Hodric Straffgürtel, 32.9S,61.7W)} -> 16 Waldspinnen
+
+Arthurs Lager
+Erkundungstat (Hügelgau-Ruinen, 27.8S,58.7W)
+16 Arthurs Lieferung (Arthur Heubank, 29.1S,56.8W) -> 17 Abschlagszahlungen -> {17 Bedrohungen und was man dagegen tut, 17 Rechnungen begleichen} -> 17 Vollständige Bezahlung (Arthur Heubank, 29.1S,56.8W) -> 18 Saeradans Ruf (per Post)
+Nach 16 Arthurs Lieferung: 17 Angebot und Nachfrage (Bernt Schäfer, 29.2S,56.7W)
+Nach 16 Arthurs Lieferung: 17 Frisch auf den Tisch (Roger Falkner, 29.0S,56.8W) -> 17 Wolfsfelle
+Nach 17 Frisch auf den Tisch: 17 Auf der Suche nach der Quelle (Georg Lerchensporn, 29.0S,56.8W)
+Nach 17 Frisch auf den Tisch: 17 Gigantische Schatten (Bernt Schäfer, 29.2S,56.7W)
+Nach 17 Bedrohungen und was man dagegen tut oder 17 Rechnungen begleichen: 17 In Sachen Wärme (Roger Falkner, 29.0S,56.8W)
+Während dem "Talk like a Pirate" Day (Mitte September): 1+ Die Geschichte der schiffbrüchigen Seeleute (Argirion, 31.1S,62.7W)
+
+Nördliche Breefelder
+Erkundungstat (Die Alte Grünwegfestung, 24.0S,53.1W)
+Bezwingertat (Orks, 20.8S,54.9W)
+18 Dornlags Hof (Saeradan, 25.6S,52.9W) -> 18 Dornlags Rettung (Robbi Dornlag, 20.7S,53.3W) -> 19 Dornlags Rache (Rose Dornlag, 25.4S,53.7W)
+18 Der Ruf meiner Brüder (Saeradan, 25.6S,52.9W) -> 18 Vorreiter der Orks -> 19 Schmutzige Arbeit: Orks bezwingen -> 19 Bündnisse zerschlagen -> 19 Instanz: Das gebrochene Bündnis -> 19 Nachricht für den Süden -> 20 Hengstacker-Hof (Saeradan, 25.6S,52.9W)
+Nach 18 Der Ruf meiner Brüder: 18 Zeichen des Kampfes (Andreg, 23.7S,53.6W) -> 19 Üble Beute...
+18 Honig begehrende Bären (Rainer Distelbur, 25.4S,53.9W)
+18 Ein Bau voller Wölfe (Nathan Dürrblatt, 25.4S,54.1W)
+18 Keiler bereiten Schlafstätten (Ham Graudistel, 25.5S,54.1W)
+
+Östliche Breefelder / Weiter Chetwald
+Bis Annahme von 20 Der zerstreute Zwerg: 20 Pferde zu verleihen (Cam Apfelholz, 22.4S,52.3W)
+20 Wertbeweis (Éogar, Sohn von Hadogar, 22.2S,52.3W)
+21 Schindkrötensuppe (Emma Rosendorn, 22.2S,52.3W)
+20 In den Wald (Gild Sandheber, 22.2S,52.1W) -> 21 Durch Axt und Feuer (Walter Weißrose, 22.3S,44.0W)
+20 Der zerstreute Zwerg (Oddvarr, 23.0S,51.0W) -> 20 Gestohlene Notizen -> 21 Von nun an ging's bergab -> 21 Grenzkontrolle (Andreg, 23.7S,53.5W) -> 21 Der Fall der Nordhöhen
+20 Jagdauftrag: Schindkrötenpanzer (R) (Walter Weißrose, 22.3S,44.0W)
+20 Jagdauftrag: Groß genug für einen Läufer (R), 20 Jagdauftrag: Perfekt gekringelt (R) (Sonja Landei, 22.3S,44.0W)
+Nur tagsüber zu 33%: 5 Das Kuchenwettessen (Humbert Sandheber, 24.5S,51.4W)
+
+Hügelgräberhöhen
+Erkundungstat (Nördliche Hügelgräber, 30.3S,56.1W - Die Todesspitze, 32.1S,55.1W - Der Totensitz, 32.1S,53.8W - Feste Gorthad, 35.5S,53.9W - Großes Hügelgrab, 33.8S,55.7W)
+Bosstat (Gwigon, 30.9S,55.0W - Umnen, 31.2S,54.7W - Marrow, 31.5S,55.5W - Brishzel, 33.0S,55.3W - Faegfaer, 33.7S,53.9W - Fergandir, 35.1S,55.1W)
+Bezwingertat (Nemesis der Gefallenen, Totengräber, Unholde, 35.1S,55.1W - Brutjäger, Spinnen, 30.9S,55.0W - Barghest, überall in den Hügelgräberhöhen)
+18 Missglückte Lieferung (Bedauernswerter Reisender, 30.2S,54.9W)
+Bis Annahme von 18 Lalias sichere Heimkehr: 18 Die Suche nach Lalia (Hinz, 31.8S,56.2W)
+18 Buddeln im Dreck, 18 Die Todesspitze (Tobold Blattschneider, 31.7S,56.2W) -> 19 Schätze der Cardolan
+18 Lalias sichere Heimkehr (Laila, 31.0S,55.6W)
+18 Krankheitsüberträger (Sarah Heuwald, 31.8S,56.1W)
+18 Auf der Jagd, 18 Heulen, dass dem Geist das Fürchten lehrt (Reinold Sichelkraut, 31.7S,56.2W)
+Nach 18 Auf der Jagd oder 18 Heulen, dass dem Geist das Fürchten lehrt oder 19 Krankheitsüberträger: 19 Flucht gen Süden (Sarah Heuwald, 31.8S,56.1W)
+19 Ein Ring geht auf Reisen (Wandernder Schatten, nahe 32.1S,55.1W) -> 19 Schildbruder -> 20 Der Knochenmann -> 21 Ruhe sanft, mein Bruder -> 21 Gustavs Dank (Brief)
+20 Jagdauftrag: Barghest-Augen (R), 20 Jagdauftrag: Cardolan-Relikte (R), 20 Jagdauftrag: Unhold-Schädel (R) (Edith Süßrose, 32.1S,53.9W)
+20 Annes vermisste Söhne (Anne Weizler, 32.1S,53.9W) -> 20 Findet Lorgan -> 20 Eine letzte Chance (Edith Süßrose, 32.1S,53.9W)
+21 Am Rande des Waldes, 21 Unschöne Ernte, 21 Vom Tod kommt Leben (Hinz Rotdistel, 32.2S,53.9W)
+
+Große Hügelgräber
+Nach 19 Schätze der Cardolan: 23 Sammlung von Geschichten (Tobold Blattschneider, 31.7S,56.2W)
+24 Die Toten läutern (Hinz Rotdistel, 32.2S,53.9W)
+24 Richtung Westen (Aradia, 33.7S,55.5W)
+Weitere On-Level-Dailies bzw. Max-Level-Herausforderungen
+
+Klage der Weide
+20 Unnatürliche Wut (Landbüttel Hob Feldhüter, 31.5S,62.6W) -> 20 Wurzel und Fäulnis -> 20 Instanz: Wurzel und Fäulnis -> 20 Die Saat der Fäulnis (Tom Bombadil, 32.6S,57.4W)
+20+ Klage der Weide (Solo) (R)
+Weitere On-Level-Dailies bzw. Max-Level-Herausforderungen
+
+Dieberei und Unheil
+("Scharmützel") 30+ Dieberei und Unheil (R)
+Nach Eroberung der Auktionshalle: Gruglup (Aus nördlicher Richtung ertönen die Geräusche zerschellender Teller und leisen Kauens.)
+Nach Verteidigung der Auktionshalle: Hugo Eschenblatt (Eine Tür schlägt laut zu: "Ihr seid also auf einen Kampf aus, ja?")
+Nach Eroberung der heimgesuchten Gasse: Der Fischerfürst (Aus der Gasse in nordöstlicher Richtung bricht ein Brüllen hervor.)
+Nach Verteidigung der heimgesuchten Gasse: Túkar (In westlicher Richtung wird eine Tür aufgeworfen: "Das Zeitalter der Menschen ist vorbei!")
+Nach Verteidigung des Gefängnisses: Snagbúrz (Aus nordwestlicher Richtung ertönt eine raue Stimme: "Wo ist es? Wohin ist es gegangen?")
+Nach Verteidigung des Gefängnisses: Tom Graudistel (Hinter Euch schlägt eine Tür zu: "Ich wurde aus meinen Fesseln und dem Gefängnis befreit!")
+Nach Verteidigung des Gefängnisses: Ballenfuss (Ihr vernehmt ein leises Knurren aus östlicher Richtung.)
+Nach Verteidigung des Gefängnisses: Bluthauer (Aus nordöstlicher Richtung ertönen Schnaubgeräusche.)
+
+Die Verteidigung des "Tänzelnden Ponys"
+("Scharmützel") 35+ Die Verteidigung des "Tänzelnden Ponys" (R)
+Während dem ersten Angriff: Schwarzfeder (Aus südlicher Richtung ertönt ein krächzendes Kreischen.)
+Während dem ersten Angriff: Der Alte Jäger (Ein Brüllen aus westlicher Richtung hallt im Hof wider.)
+Nach dem ersten Angriff: Banosnákh (Aus südlicher Richtung ertönt ein Kichern: "Ihr werdet alle verbrennen!")
+Während dem zweiten Angriff: Ufglup (Aus dem Innenhof in östlicher Richtung ertönt ein Grollen.)
+Während dem zweiten Angriff: Südpfote (Aus südlicher Richtung ertönen Knurrgeräusche.)
+Während dem zweiten Angriff: Kamhont (Aus dem Inneren des "Tänzelnden Ponys" ruft eine Stimme: "Wir verhungern! Sammelt schnell das Brot dort ein!")
+Nach dem zweiten Angriff: Mukghashan (Aus südwestlicher Richtung schreit eine Stimme: "Bree ist unser!")
+Nach dem zweiten Angriff: Willi Rotdorn (Aus südlicher Richtung ertönt ein wilder Schrei: "Wenn das Pony nicht brennt, soll die Scheune es tun!")
+Während dem dritten Angriff: Rattenfänger (Aus westlicher Richtung ertönt ein Fauchen.)

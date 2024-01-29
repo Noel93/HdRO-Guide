@@ -1,0 +1,24 @@
+Zentrum von Gondor: Ringlótal (100)
+
+Erkundungstat (Ethring, 71.9S,50.0W - Gríshru, 70.4S,47.3W - Eilendoth, 73.3S,51.1W - Dâr Matum, 69.0S,52.0W)
+Bezwingertat (Orks, um 70.4S,47.3W)
+
+Nach ("West-Gondor: Lamedon") 98 Jajax' Rache: 100 Der Fang des Tages (Laerind, 72.0S,50.1W) -> 100 Die Ermittlung -> 100 Ein klarer Fall von ... Angst (Jajax, 72.0S,50.1W)
+Nach ("West-Gondor: Lamedon") 98 Jajax' Rache: 100 Kopfgeld: Korsaren am gefallenen Leuchtfeuer (R3) (Jajax, 72.0S,50.1W)
+100 Kopfgeld: Orks des Weißen Gebirges (R3) (Candúr, 71.9S,50.2W)
+
+100 Dunkelheit über Ethring (Candúr, 71.9S,50.2W) -> 100 Ein Hoffnungsschimmer (Borhador, 72.2S,49.5W) -> 100 Das schwindende Leuchtfeuer -> 100 Ein Wald aus Fäden (Authest, 73.6S,51.1W) -> 100 Ein lautes Klopfen (Borhador, 72.2S,49.5W) -> 100 Instanz: Ein lautes Klopfen
+100 Kampfgruppe: Skorneval (R) (Automatisch, um 71.7S,52.4W)
+
+100 Verteidiger des Tals (Candúr, 71.9S,50.2W) -> 100 Arvaethors Patrouille (Arvaethor, 73.3S,48.6W)
+Während 100 Arvaethors Patrouille: 100 Tal des Schattens (Arvaethor, herbeigerufen) -> 100 Zum Schutze Ethrings -> 100 Der orkische Weg -> 100 Plage aus dem Weißen Gebirge -> 100 Unter dem Weißen Gebirge -> 100 Instanz: Unter dem Weißen Gebirge
+
+Nach 100 Ein lautes Klopfen und 100 Unter dem Weißen Gebirge: 100 Der Überfall der Toten (Laerind, 72.0S,50.1W) -> 100 Ein Bündnis wider die Natur (Arvaethor, 69.3S,52.4W) -> 100 Das tiefe Dunkel -> 100 Ein Zügelloses Ende (Arvaethor, 68.8S,51.8W) -> 100 Instanz: Ein zügelloses Ende
+Nach 100 Unter dem Weißen Gebirge: 100 Kopfgeld: Zügellose Schatten (R3) (Candúr, 71.9S,50.2W)
+
+Nach 100 Ein Zügelloses Ende, nur bis Annahme von ("Zentrum von Gondor: Dor-en-Ernil") 100 Blood for Blood: 100 Kampf in Dor-en-Ernil (Arvaethor, 72.0S,50.1W)
+Nach 100 Ein Zügelloses Ende: 100 Streunende Korsaren (R), 100 Umherziehende Bedrohung: Sensenkiefer, die Schreckensspinne (R) (Candúr, 71.9S,50.2W)
+Nach 100 Ein Zügelloses Ende: 100 Die Abwehr der Toten (R), 100 Umherziehende Bedrohung: Du-kalon, der erbarmungslose Schatten (R) (Arvaethor, 72.0S,50.1W)
+Nach 100 Ein Zügelloses Ende: 100 Erstarkte Orks (R), 100 Umherziehende Bedrohung: Gundash, die Gefahr aus dem Weißen Gebirge (R) (Laerind, 72.0S,50.1W)
+
+Nach 100 Ein Zügelloses Ende und ("Zentrum von Gondor: Dor-en-Ernil") 100 Schwester der Gilrain und (Tat) Freund vom Ringlótal: 100 Epilog: Ruhelose Seelen (Arvaethor, 72.0S,50.1W)

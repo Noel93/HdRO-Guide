@@ -1,0 +1,13 @@
+Thinglad (70)
+
+Erkundungstat (Haldirith, 21.5S,63.4W - Ûngund, 19.8S,63.4W - Die Alten Höhlen, 23.0S,63.8W - Hîs-urdan, 23.7S,62.1W - Faulschlunds Bau, 24.4S,60.8W)
+
+70 Unruhe in Thinglad (Noriel, 19.0S,62.9W) -> 70 Ein sanftes Drängen, 70 Zu weit flussaufwärts -> 70 Noch ein Wink mit dem Zaunpfahl (Noriel, 21.5S,63.5W) -> 70 Ein vermisster Eindringling (Wynmar, 20.4S,63.8W) -> 70 Begegnung der Nachbarn (Dunstan, 20.8S,63.2W) -> 70 Instanz: Nachbarschaftstreffen -> 70 Feinde der Elben und Menschen, 70 Keine Waffe zu viel (Wynmar, 20.4S,63.8W)
+Nach 70 Unruhe in Thinglad: 70 Wonach stinkt es hier? (Noriel, 19.0S,62.9W)
+Nach 70 Ein sanftes Drängen und 70 Zu weit flussaufwärts: 70 Grausame Fallen (Noriel, 21.5S,63.5W)
+70 Altherz (Drop von Altherz, 20.6S,64.3W)
+Nach Annahme von 70 Feinde der Elben und Menschen und 70 Keine Waffe zu viel: 70 Blumen für eine Dame (Wynmar, 20.4S,63.8W)
+Nach 70 Feinde der Elben und Menschen, 70 Keine Waffe zu viel und 70 Blumen für eine Dame: 70 Eine verständliche Bitte (Wynmar, 20.4S,63.8W) -> 70 Instanz: Eine verständliche Bitte -> 70 Mehr Ungemach (Limfind, 21.4S,63.5W) -> 70 Abwehrmittel gegen Warge, 70 Warge am Rand von Thinglad (Renfaer, 23.7S,62.8W) -> 70 Baumschneider und Fleischspalter, 70 Schatullen plündern
+Nach 70 Eine verständliche Bitte: 70 Eine nachbarschaftliche Geste (Renfaer, 23.7S,62.8W)
+Nach 70 Baumschneider und Fleischspalter und 70 Eine nachbarschaftliche Geste: 70 Ein wärmendes Geschenk (Renfaer, 23.7S,62.8W) -> 70 Kundschafter unterwegs (Wynmar, 23.8S,59.8W) -> 70 Wappnet euch (Rothulf, 23.9S,59.9W) -> 70 Die Orks greifen an -> 70 Instanz: Angriff der Orks -> 70 Ein schmerzlicher Verlust -> ("Eorlsaue") 70 Auf nach Stangard (Noriel, 24.9S,59.3W)
+70 Faulschlund (Drop von Faulschlund, 24.3S,60.8W)

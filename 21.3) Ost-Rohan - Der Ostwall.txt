@@ -1,0 +1,22 @@
+Der Ostwall (75-77)
+
+Erkundungstat (Mansigs Lager, 52.1S,51.4W - Floid und Dewitt, 49.5S,47.2W - Die Nordwache, 55.0S,51.1W - Die zischende Grube, 58.9S,50.3W - Die Südwache, 60.7S,52.5W)
+Bezwingertat (Orks, um 49.5S,48.1W)
+75 Reiter auf Reisen (Léomund, 47.2S,49.8W oder Adnoth, 52.3S,51.3W)
+Nach 75 Reiter auf Reisen: 76 Bögen aus schrecklicher Fertigung (Utlac, 52.2S,51.3W) -> 76 Aussichtslose Flucht -> 76 Unter der Erde
+Nach 75 Reiter auf Reisen: 76 Verlorene Freunde (Radwulf, 52.1S,51.3W) -> 76 Hunger und Durst
+Nach 75 Reiter auf Reisen: 76 Expedition zum Ostwall (Mansig, 52.1S,51.3W) -> 76 Sucher
+Nach 75 Reiter auf Reisen: 76 Ein Auge für den Feind (Wilferth, 52.0S,51.2W) -> 76 Zu gut für ihn -> 76 Neuerlicher Ruhm
+77 Seitengänge (Isteron, 55.0S,51.1W)
+Nach 77 Seitengänge und 76 Unter der Erde: 77 Ein Leuchten in den Ecken (Isteron, 55.0S,51.1W) -> 77 Anführer aus Moria -> 77 Isterons Freunde
+
+Erkundungstat (Lichtung der toten Orks, 56.6S,49.8W - Parth Galen, 58.7S,47.8W - Der Zinnenfels, 59.5S,45.9W - Befestigung der Suthofen, 60.9S,53.6W - Amon Hen, 61.3S,46.6W - Raurosfälle, 60.7S,46.0W)
+76 Pfeile aus Elbenfertigung (Elbenpfeil, z.B. 56.2S,50.1W)
+76 Blutbefleckter Baum (Blutfleck auf einem Baum, 56.6S,49.7W)
+77 Stärkender Grog (Zerlúk, 56.7S,49.7W) -> 77 Reichweite des Grabes -> 77 Eine Erzählung
+76 Zurückgelassene Gegenstände (Verstecktes Boot, 58.6S,48.2W)
+77 Für Ruhm und Reichtum (Rodwen, 58.7S,47.8W) -> 77 Ein gefangener Freund (Hestil, 58.8S,47.7W) -> 77 Klein von Gestalt, groß in Taten -> 77 Instanz: Wenn kleine Leute Großes vollbringen -> 77 Hestils Vorschlag
+Während 77 Ein gefangener Freund, nach 77 Für Ruhm und Reichtum: 77 Die Hunde des Bösen (Cúfaron, 58.8S,47.7W) -> 77 Der westliche Weg
+Während 77 Ein gefangener Freund, nach 77 Für Ruhm und Reichtum: 77 Gemeinsame Sache (Ramdir, 58.7S,47.7W) -> 77 Die Hänge des Amon Hen -> 77 Ein lang erwarteter Anblick
+Während 77 Ein gefangener Freund, nach 77 Für Ruhm und Reichtum: 77 Hinaus ins Freie (Maedal, 60.2S,47.7W) -> 77 Ermutigende Worte
+Nach 77 Für Ruhm und Reichtum und 76 Zu gut für ihn: 77 Eine Wiedervereinigung (Rodwen, 58.7S,47.8W)

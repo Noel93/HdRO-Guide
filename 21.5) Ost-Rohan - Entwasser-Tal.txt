@@ -1,0 +1,62 @@
+Entwasser-Tal (80-82)
+
+Erkundungstat (Ohrenburg, 47.7S,63.6W - Die Lindwurmgrotte, 45.0S,61.7W - Zuchtstätten der Lindwurmgrotte, 45.0S,61.5W - Die Reißzahnhöhe, 44.6S,61.5W - Der Wódfen, 45.1S,65.8W - Kammern von Byrgenstock, 44.7S,66.5W - Rattenwurz, 49.1S,62.7W - Dornenwarte, 41.4S,67.1W - Thrug-unur, 40.1S,68.6W - Wildpferdeherde, 43.3S,68.8W)
+Bezwingertat (Uralte böse Mächte, 44.7S,66.5W)
+
+80 Familienzwist (Adalmód, 47.7S,64.0W)
+Wähernd 80 Familienzwist: 80 Beruhigende Worte (Botulf, 47.5S,63.9W)
+Wähernd 80 Familienzwist: 80 Vorbereitung auf die Belagerung (Goldwine, 47.5S,64.0W)
+Nach 80 Vorbereitung auf die Belagerung: 80 Der Gehilfe des Rüstungsschmieds (Goldwine, 47.5S,64.0W)
+Wähernd 80 Familienzwist: 80 Mut aus dem Fass (Pedwin, 47.1S,63.9W)
+Wähernd 80 Familienzwist: 80 Eine Stadt unter Belagerung (Offram, 47.1S,63.9W)
+Nach 80 Eine Stadt unter Belagerung: 81 Der Gehilfe des Vorratshändlers (Offram, 47.1S,63.9W)
+Während 81 Der Gehilfe des Vorratshändlers: 80 Decken für den Winter, 80 Fleischpastetenherstellung, 80 Hörner für die Schlacht (Offram, 47.1S,63.9W)
+
+80 Gestörte Freundschaft (Getfleda, 47.3S,63.9W) -> 80 Instanz: Gestörte Freundschaft -> 80 Ärger aufspüren -> 80 Ärger in Bewegung (Automatisch, 48.1S,64.0W) -> 80 Ärger auf Patrouille (Automatisch, 50.3S,63.1W) -> 80 Raus aus den Schwierigkeiten (Automatisch, 50.3S,62.2W) -> 80 Freundschaften flicken (Automatisch, um 51.1S,64.3W oder 49.6S,60.0W)
+80 Bullen zuhauf (R) (Automatisch, um 51.1S,64.3W oder 49.6S,60.0W)
+80 Kampfgruppe: Besengan (R) (Automatisch, um 50.5S,61.1W)
+80 Kampfgruppe: Dâl (R) (Automatisch, um 50.4S,61.5W)
+80 Kampfgruppe: Furchthorn (R) (Automatisch, um 50.1S,61.9W)
+81 Kampfgruppe: Urgai (R) (Automatisch, um 50.6S,62.0W)
+
+81 Das Nest aufstören (Drop von Drachen, 45.0S,61.5W) -> 81 Lindwurm-Vater (Automatisch, am Ende der Lindwurmgrotte)
+80 Haltet die Horde auf (R), 81 Tod von oben (R) (Drachen, 45.0S,61.5W)
+Nach 81 Lindwurm-Vater: 81 Lindwurm-Vater - Wiederholbar (R) (Drachen, 45.0S,61.5W)
+
+81 Der Wahnsinn folgt auf dem Fuße (Wódfen-Krähen, um 45.1S,65.8W)
+Nach Annahme von 81 Der Wahnsinn folgt auf dem Fuße: 81 Die Ursache des Wahnsinns (Automatisch, um 45.1S,65.8W)
+Nur während 81 Die Ursache des Wahnsinns: 81 Häuptling der Toten (Automatisch, 44.7S,66.5W)
+81 Der abscheulichste Übeltäter (R) (Automatisch, 44.7S,66.5W)
+81 Dunkler Talisman (R) (Drop von Draugar, 44.7S,66.5W)
+
+Nach 81 Der Gehilfe des Vorratshändlers und 80 Familienzwist: 80 Güte zählt mehr (Botulf, 47.5S,63.9W) -> 80 Die Ängste einer Herrin (Tóla, Gattin Ingmars, 47.2S,63.8W) -> 80 Die Ängste überwinden (Adalmód, 47.7S,64.0W) -> 80 Instanz: Den Ängsten stellen -> 80 Der Berater von Ohrenburg (Ingbert, Greve des Entwasser-Tals, 47.7S,64.0W) -> 80 Die beste Verteidigung -> 80 Eine schicksalhafte Entscheidung (Ingmar, Sohn von Ingbert, 47.7S,64.0W) -> 80 Die Verteidigung von Ohrenburg (Góda, Ingberts Mutter, 47.7S,64.0W) -> 81 Instanz: Die Verteidigung von Ohrenburg -> 81 Verrat (Ingbert, Greve des Entwasser-Tals, 47.7S,64.0W) -> 81 Reue und Trost -> 81 Hoffnung für Dornenwarte?
+Während 80 Der Berater von Ohrenburg: 80 Unterstützt Ingmar oder 80 Unterstützt Góda (Ingbert, Greve des Entwasser-Tals, 47.7S,64.0W)
+Während 80 Die beste Verteidigung: 80 Das Auskundschaften des Tals (Góda, Ingberts Mutter, oder Ingmar, Sohn von Ingbert, 47.7S,64.0W)
+Während 80 Die beste Verteidigung: 80 Blendung des Feindes (Automatisch, um 48.1S,63.4W)
+Während 80 Die beste Verteidigung: 80 Chaos verbreiten, 80 Der Erweis des Bösen (Automatisch, um 49.1S,62.7W)
+Nach 81 Verrat: 81 Die Freude einer Herrin (Goldwine, 47.5S,64.0W)
+Nach 81 Verrat und ("Norhofen") 79 Argwöhnische Reiter: 81 Der Greve des Entwasser-Tals (Burnoth, Sohn von Baldeg, 47.7S,63.9W) -> 81 Instanz: Der Greve des Entwasser-Tals -> 81 Ohrenburg unter Belagerung -> 81 Instanz: Die Belagerung von Ohrenburg
+
+80 Kampfgruppe: Mâthum (R) (Automatisch, um 44.3S,63.9W)
+81 Kampfgruppe: Mirz (R) (Automatisch, um 44.5S,63.7W)
+Nach Annahme von 81 Hoffnung für Dornenwarte?: 81 Schatten von Moria (Automatisch, um 47.1S,63.6W)
+Nach 81 Hoffnung für Dornenwarte?: 81 Ein gemarteter Verstand (Than Béortnoth, Sohn von Wulfrad, 42.2S,66.7W) -> 81 Mazogs Vermächtnis, 81 Träume von Feuer und Riesen
+Nach Annahme von 81 Träume von Feuer und Riesen: 81 Das Schwert der Väter (Than Béortnoth, Sohn von Wulfrad, 42.2S,66.7W)
+Nach Annahme von 81 Träume von Feuer und Riesen: 81 Orks eines anderen Schlags (Orks, um 41.4S,67.1W)
+Nach Annahme von 81 Träume von Feuer und Riesen: 81 Die Toten ehren (Automatisch, um 41.4S,67.1W)
+Nach Annahme von 81 Träume von Feuer und Riesen: 81 In Dienst gezwungen (Moria-Bilwisse, um 41.4S,67.1W)
+Nach Annahme von 81 Träume von Feuer und Riesen: 81 Die Zusammenarbeit von Hand und Auge (Uruk-hai, um 41.4S,67.1W)
+Nach Annahme von 81 Träume von Feuer und Riesen: 81 Eine verzweifelte Mutter (Automatisch, 41.7S,67.3W) -> 81 Verlust (Agela, 42.2S,66.6W)
+Nach Annahme von 81 Träume von Feuer und Riesen: 81 Ein trauernder Vater (Automatisch, 41.6S,67.4W) -> 81 Tod dem Mäher (Wendelin, 42.2S,66.7W)
+Nach Annahme von 81 Träume von Feuer und Riesen: 81 Ein verängstigtes Kind (Automatisch, 41.4S,67.3W) -> 81 Ein kleiner Trost (Léofrun, 42.2S,66.6W)
+Nach Annahme von 81 Träume von Feuer und Riesen: 81 Eine schlaue Magd (Automatisch, 41.2S,67.1W) -> 81 Schätze des Meisters (Máthild, 42.2S,66.6W)
+Nach Annahme von 81 Träume von Feuer und Riesen: 81 Ein unbehaglicher Edelmann (Automatisch, 41.4S,67.0W) -> 81 Das Unterfangen eines Edelmanns (Frána, Sohn von Orm, 42.2S,66.6W)
+Nach Annahme von 81 Träume von Feuer und Riesen: 81 Ein verwundeter Soldat (Automatisch, 41.6S,66.9W) -> 81 Die Rache des Pferdeherren (Éorpwald, 42.2S,66.7W)
+Nach 81 Die Toten ehren, 81 Das Schwert der Väter und 81 Ein trauernder Vater: 82 Zügelloser Zorn (Than Béortnoth, Sohn von Wulfrad, 42.2S,66.7W) -> 82 Instanz: Zügelloser Zorn -> 82 Hoffnung aus Dornwarte -> 82 Rauch und Asche
+Nach 82 Zügelloser Zorn: 82 Zügelloser Zorn - Wiederholbar (R) (Than Béortnoth, Sohn von Wulfrad, 42.2S,66.7W)
+Nach Annahme von 82 Hoffnung aus Dornwarte: 82 Eine berittene Bedrohung (Ork-Reiter, um 42.6S,65.2W)
+
+Nach 82 Hoffnung aus Dornwarte: 82 Ein geheimnisvoller alter Mann (Geheimnisvoller alter Mann, 41.8S,69.5W)
+Nach Annahme von 82 Ein geheimnisvoller alter Mann: 82 Helfer von Moria (Bilwisse, um 40.1S,68.6W)
+Nach Annahme von 82 Ein geheimnisvoller alter Mann: 82 Reißzähne zuhauf (Warge, um 40.1S,68.6W)
+Nach 82 Ein geheimnisvoller alter Mann und 82 Reißzähne zuhauf: 82 Der Schatz von Rohan (Geheimnisvoller alter Mann, 41.8S,69.5W) -> 82 Instanz: Der Schatz von Rohan -> 82 Am Rande des Fangorn (Than Béortnoth, Sohn von Wulfrad, 42.2S,66.7W)

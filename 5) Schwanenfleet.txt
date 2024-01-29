@@ -1,0 +1,111 @@
+Schwanenfleet (1-20)
+
+Vor dem Schatten, Prolog
+(Bei Auswahl des "Vor dem Schatten"-Intros) 1 Instanz: Mooshang, das Grenzdorf
+Während 1 Instanz: Mooshang, das Grenzdorf Objective #22: 1 Eine größere Welt (Meneldir, 60.7S,34.2W)
+2 Prolog, Kapitel 1: Etwas anderes (Meneldir, 60.7S,34.3W) -> 2 Prolog, Kapitel 2: Die Fertigkeiten eines Abenteurers (Tegwyn, 60.7S,34.6W) -> 4 Prolog, Kapitel 3: Auf der alten Südstraße (Meneldir, 60.7S,34.2W) -> 6 Prolog, Kapitel 4: Ein zähes Völkchen (Briallen Wynbuch, 64.9S,29.3W) -> 7 Prolog, Kapitel 5: Zeichen der Weißen Hand (Flam Helur, 65.1S,29.3W) -> 7 Instanz: Zeichen der Weißen Hand -> 7 Prolog, Kapitel 6: Beunruhigende Kunde (Malmagod Torlan, 65.1S,29.3W)
+
+Vor dem Schatten, Buch 1
+8 Buch 1, Kapitel 1: In den Diensten des Zauberers (Meneldir, 60.5S,34.8W) -> 9 Buch 1, Kapitel 2: Der Beginn eines großen Abenteuers (Skardí Krummklinge, 60.7S,34.6W) -> 10 Buch 1, Kapitel 3: Im Feuchten und im Schlamm (Merion, 60.7S,34.1W) -> 11 Buch 1, Kapitel 4: Uruk-hai in der Elbenstadt (Tegwyn, 53.9S,34.4W) -> 12 Buch 1, Kapitel 5: Bregoleth (Bregoleth, 53.5S,21.9W) -> 13 Buch 1, Kapitel 6: Celebrimbors Zitadelle -> 13 Buch 1, Kapitel 7: Der Herr der Geschenke -> 13 Instanz: Der Herr der Geschenke -> 14 Buch 1, Kapitel 8: Die gierende Hand (Meneldir, 53.5S,21.9W) -> 15 Buch 1, Kapitel 9: Die Halle des flinken Flusses (Bregoleth, 47.2S,19.0W) -> 15 Buch 1, Kapitel 10: Die nahende Gefahr -> 16 Buch 1, Kapitel 11: Der Übergang bei Tharbad (Skardí Krummklinge, 60.7S,34.6W)
+
+Mooshang
+Erkundungstat (Mooshang, 60.6S,34.6W - Heulsteine, 61.5S,33.4W - Schatzspeicher, 61.7S,33.3W - Verrosteter Dolch, 58.7S,34.5W - Schatzspeicher, 54.9S,35.2W)
+3 Das Leben einer Wache (Merion, 60.7S,34.1W) -> 3 Quietschende Türen
+5 Ein Warg unter Wölfen (Cledd, 60.7S,34.2W)
+5 Die Pflege der Herde (Seren, 60.6S,34.3W)
+5 Die Mutprobe (Alla, 60.5S,34.4W) -> 5 Eine zweite Mutprobe
+Nach 3 Quietschende Türen und 5 Eine zweite Mutprobe: 5 Die letzte Mutprobe (Bevan, 60.4S,34.6W)
+4 Erkundung jenseits der Heulsteine (Eleri, 60.7S,34.4W) -> 4 Ausspähen der Alten Südstraße -> 4 Erkundet die Tore von Tharbad.
+8 Das Dorf im Himmel (Mal Bettelstrahl, 60.6S,34.4W)
+5 Geralt hat einen Stiefel verloren (Wenna, 60.8S,34.5W) -> 6 Geralt hat keinen Stiefel verloren (Geralt, 60.5S,34.6W)
+5 Speisen für die Spähposten (Rhedyn, 60.6S,34.7W)
+5 Nach Lhan Garan (Negesúr, 60.4S,34.6W)
+4 Vielfältig anwendbar (Bevan, 60.4S,34.6W) -> 5 Der Herbst währt nicht ewig
+Nach Objective #2 von 4 Prolog, Kapitel 3: Auf der alten Südstraße: 5 Das Königskraut der Wölfe (Iach, 60.7S,34.3W)
+("Einleitung") 1 Ein bisschen mehr schadet nie - Teil 2 (Skardí Krummklinge, 60.7S,34.6W)
+
+Clegur
+Erkundungstat (Clegur, 65.1S,29.1W - Radlau, 59.6S,29.6W)
+Bezwingertat (Räuber, um 59.6S,29.6W)
+10 Hinter den Fällen (Drudwen, 64.9S,28.6W)
+10 Delyths flinker Flitzepfeil (Delyth Saethur, 64.9S,29.0W)
+5 Bestellungen der Woche (Cunedda Moltgig, 64.7S,29.4W)
+7 Ein Ruf zum Essen (Rosentyl Flutch, 64.8S,29.7W)
+NUR während Objective #2 von 8 Das Dorf im Himmel: 10 Verlorener Müßiggang (Rhuna Torlan, 64.6S,29.3W), 10 Die Bitte eines Kaufmanns (Einfacher Kaufmann, 65.0S,29.3W)
+("Mission: Vor dem Schatten") 20+ Mission: Ein Tag auf dem Bauernhof (R) (Irvo Curch, 65.0S,29.3W) -> ("Mission") Mission: Ein Tag auf dem Bauernhof (R)
+("Mission: Vor dem Schatten") 20+ Mission: Gefährliche Lieferungen (R) (Irvo Curch, 65.0S,29.3W) -> ("Mission") Mission: Gefährliche Lieferungen (R)
+("Mission: Vor dem Schatten") 20+ Mission: Geheimnisse und Pläne (R) (Irvo Curch, 65.0S,29.3W) -> ("Mission") Mission: Geheimnisse und Pläne (R)
+("Mission: Vor dem Schatten") 20+ Mission: Kein Bund mit dem Rudel (R) (Irvo Curch, 65.0S,29.3W) -> ("Mission") Mission: Kein Bund mit dem Rudel (R)
+("Mission: Vor dem Schatten") 20+ Mission: Kiefer des Todes (R) (Irvo Curch, 65.0S,29.3W) -> ("Mission") Mission: Kiefer des Todes (R)
+("Mission: Vor dem Schatten") 20+ Mission: In die Gruben (R) (Irvo Curch, 65.0S,29.3W) -> ("Mission") Mission: In die Gruben (R)
+("Mission: Vor dem Schatten") 20+ Mission: Mutter der Wölfe (R) (Irvo Curch, 65.0S,29.3W) -> ("Mission") Mission: Mutter der Wölfe (R)
+("Mission: Vor dem Schatten") 20+ Mission: Nicht so viele Häupter (R) (Irvo Curch, 65.0S,29.3W) -> ("Mission") Mission: Nicht so viele Häupter (R)
+("Mission: Vor dem Schatten") 20+ Mission: Schreckliche Schindkröten-Schwierigkeiten (R) (Irvo Curch, 65.0S,29.3W) -> ("Mission") Mission: Schreckliche Schindkröten-Schwierigkeiten (R)
+("Mission: Vor dem Schatten") 20+ Mission: Stadtpatrouille (R) (Irvo Curch, 65.0S,29.3W) -> ("Mission") Mission: Stadtpatrouille (R)
+("Mission: Vor dem Schatten") 20+ Mission: Unnatürliche Natur (R) (Irvo Curch, 65.0S,29.3W) -> ("Mission") Mission: Unnatürliche Natur (R)
+("Mission: Vor dem Schatten") 20+ Mission: Unter den Wachtürmen (R) (Irvo Curch, 65.0S,29.3W) -> ("Mission") Mission: Unter den Wachtürmen (R)
+
+Glyn Helyg
+Erkundungstat (Glyn Helyg, 62.4S,25.9W - Abgenutzte Angelrute, 62.5S,26.2W)
+10 Die Brücken von Glyn Helyg (Ponta Gochelgar, 62.5S,26.0W) -> 10 Reparatur der Brücken von Glyn Helyg
+6 Der schnellste Weg (Dervel Crintach, 62.8S,25.7W)
+5 Alter Schwipsi-gil (Sioned, 62.9S,25.8W)
+Nach 8 Das Dorf im Himmel: 8 Verderbtheit der Wildnis (Gwenfor Mellion, 62.4S,25.9W)
+12 Trophäenjäger: Nagers Ohr (Drop von Nager, um 61.4S,26.1W)
+
+Lintrev
+Erkundungstat (Lintrev, 61.6S,24.2W - Schatzspeicher, 57.7S,25.2W - Gravierter Stein, 59.1S,21.0W - Sharmokal, 60.2S,22.2W - Schatzspeicher, 60.6S,22.2W - Schatzspeicher, 64.2S,26.5W - Schwanensenke, 65.6S,26.4W)´
+Bezwingertat (Uruk-hai, um 60.2S,22.2W)
+10 Auf der Suche nach Crebain-Flügeln (Adan Rhuvyg, 61.7S,24.0W) -> 10 Das schwere Taschentuch -> 5 Der schwere Hobbit
+6 Spitznasige Plagegeister (Nerys Trafferth, 61.6S,24.1W)
+10 Wo Heleth wandelt (Heleth Bach, 61.7S,24.4W)
+14 Unruhe stiften in Sharmokal (Iago Rhudd, 61.4S,24.5W)
+12 Die wachsende Bedrohung von Sharmokal (Eirlys Dringarth, 61.4S,24.6W)
+Nach 8 Verderbtheit der Wildnis: 10 Wagnis in der Schwanensenke (Nuddo Rußschick, 61.4S,24.3W)
+Nach 8 Verderbtheit der Wildnis: 8 Coruwens Reinigung (Coruwen, 61.4S,24.5W)
+
+Lhan Garan
+Erkundungstat (Lhan Garan, 54.6S,27.0W - Schatzspeicher, 56.9S,28.4W - Fangsiedel, 54.4S,30.2W - Blutsenke, 56.8S,21.6W)
+Bezwingertat (Warge, um 56.8S,21.6W)
+10 Hilfe für Lhan Garan (Talfryn, 55.2S,27.2W)
+10 Angeln lernen in Lhan Garan (Madog, 54.9S,27.7W)
+Nach Annahme von 10 Hilfe für Lhan Garan: 10 Kundschafter in Ausbildung von Lhan Garan (Eluna, 55.2S,27.2W) -> 10 Probleme in der Blutsenke (Eluna, 57.8S,22.2W) -> 10 Rettung für Eluna (Deryn, 57.7S,22.3W) -> 10 Eine kurze Pause (Eluna, 55.2S,27.2W) -> 12 In der Hoffnung auf Frieden -> 10 Instanz: Ein bittersüßes Wiedersehen -> 10 Abschied von Lhan Garan (Eluna, 54.4S,27.5W)
+Nach 10 Kundschafter in Ausbildung von Lhan Garan: 10 Nahkampf in der Blutsenke (Marget, 57.3S,21.9W)
+Während 10 Probleme in der Blutsenke: 10 Makabre Botanik (Deryn, 57.7S,22.3W)
+Während 10 Probleme in der Blutsenke: 10 Wasser sichern (Murig, 56.1S,22.2W)
+Während 10 Rettung für Eluna: 10 Rettung für Eluna: Gefährlicher Gegner, 10 Rettung für Eluna: Vorstoß der Kampfspäher (Marget, 56.0S,24.5W) -> 10 Rettung für Eluna: Eine letzte Ablenkung
+Nach 10 Rettung für Eluna: 10 Schon wieder diese Fischer (Madog, 54.9S,27.7W)
+Während 10 Eine kurze Pause: 10 Ein kurzer Blick (Marget, 55.2S,27.1W)
+Während 10 Eine kurze Pause: 10 Schmecken Avanc lecker? (Culhuc, 54.9S,27.3W) -> 10 Ein einfacher Braten
+Nach Annahme von 10 Eine kurze Pause: 10 Futter für die Avanc (Culhuc, 54.9S,27.3W)
+13 Trophäenjäger: Mahlbeiß' Beine (Drop von Mahlbeiß, um 52.6S,29.3W)
+15 Trophäenjäger: Thostmoths Moos (Drop von Thostmoth, um 52.7S,32.7W)
+16 Trophäenjäger: Steinrückens Panzer (Drop von Steinrücken, um 51.9S,25.7W)
+
+Caras Gelebren
+Erkundungstat (Echad Terthas, 52.8S,22.5W - Gwâl Cruban, 51.9S,26.0W - Kiste voll alter Aufzeichnungen, 51.8S,26.0W - Schatzspeicher, 51.9S,25.9W - Caras Gelebren, 53.6S,20.8W - Eckstein, 53.1S,20.8W - Schatzspeicher, 53.6S,19.9W - Sonderbarer Anhänger, 55.9S,19.3W)
+8 Auf Abwegen in Gwâl Cruban, 8 Zu viele schreckliche Schindkröten! (Gwendrian, 52.8S,22.4W)
+10 Die blühenden Binsen des Watwassers (Lindeth, 52.8S,22.4W)
+12 Der Weg nach Caras Gelebren, 12 Feinde der Silbernen Bastion (Ilarion, 52.8S,22.4W)
+15 Die Weiße Hand nähert sich (Duindil, 52.8S,22.5W)
+20 Der Untergang der Mírdain (Tarandir, 53.7S,22.1W)
+
+Idhobel
+Erkundungstat (Idhobel, 47.2S,18.9W - Tham Lasgol, 48.8S,24.0W - Gedichtsammlung, 49.9S,23.7W - Tham Celechir, 45.5S,19.3W - Schatzspeicher, 46.0S,21.8W - Schatzspeicher, 41.6S,17.8W)
+13 Ein einsamer Eimer, 14 Heilung für die Kranken (Lornel, 47.2S,18.9W)
+Nach 13 Ein einsamer Eimer und 14 Heilung für die Kranken: 15 Ein bisschen von Beidem (Lornel, 47.2S,18.9W)
+Nach 15 Die Weiße Hand nähert sich: 15 Unruhe bei Tham Lasgol (Rhovandis, 47.3S,19.0W) -> 15 Ankunft in Tham Celechir -> 15 Enthüllung der Entfesselten (Haerlendir, 45.8S,18.7W) -> 15 Der Warg und der Meister (Rhovandis, 47.3S,19.0W)
+18 Trophäenjäger: Norlúgs Zunge (Drop von Norlúg, um 49.6S,29.0W)
+19 Trophäenjäger: Drindolfs Kernholz (Drop von Drindolf, um 48.2S,22.2W)
+
+Der Untergang von Caras Gelebren
+Bezwingertat (alle Mobs - die drei möglichen Endbosse)
+("Scharmützel") 20+ Der Untergang von Caras Gelebren (R)
+Während dem ersten Angriff: Margzal (Die Erde selbst erzittert, als ein gewaltiges Ungeheuer sich Caras Gelebren nähert ...)
+Während dem zweiten Angriff: Gurrákhal (Ein spöttisches Brüllen hallt vom Wachturm von Caras Gelebren wider ...)
+Während dem dritten Angriff: Gháshmog (Ein Schatten fällt über die Stallgebäude von Caras Gelebren ...)
+Während dem vierten Angriff: Khorgol (Ein markerschütterndes Heulen hallt von den Nordmauern von Caras Gelebren wider ...)
+Während dem vierten Angriff: Urzrûk (Ein ohrenbetäubendes Kreischen zerreißt die Luft bei der Südmauer von Caras Gelebren ...)
+Während dem letzten Angriff: Thordrok (Ein grobes Lachen ertönt von innerhalb der Kuppel in der Mitte von Caras Gelebren ...)
+Während dem letzten Angriff: Urush-Kharga (Schreie hallen von den Nordtoren von Caras Gelebren wieder ...)
+Während dem letzten Angriff: Irutrákri (Das Dröhnen eines Horns hallt von den Südtoren von Caras Gelebren wider ...)

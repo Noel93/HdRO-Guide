@@ -1,0 +1,16 @@
+Parth Celebrant (73)
+
+Erkundungstat (Die mörderische Grube, 26.7S,57.3W - Idmars Lager, 28.5S,56.8W - Feld von Celebrant, 28.5S,57.9W - Hordfierd, 30.4S,57.9W - Feste Celebrant, 30.3S,56.0W)
+
+73 Verspätete Lieferung (Brifard, 26.6S,58.3W) -> 73 Ein unnatürlicher Hunger -> 73 Wieder an der Arbeit -> 73 Ein vertagtes Geheimnis -> 73 Die Schatten ausspähen, 73 Woher sie kamen (Idmar, 28.5S,56.8W)
+Nach 73 Verspätete Lieferung: 73 Jäger ohne Beute? (Brifard, 26.6S,58.3W)
+Nach 73 Verspätete Lieferung: 73 Die Krankheit aufhalten (Drop von Wölfen, um 26.7S,57.3W)
+Nach Annahme von 73 Die Schatten ausspähen, Objective #2: 73 Die Eidbrecher von Parth Celebrant (Medwine, 27.9S,56.1W)
+Nach 73 Die Schatten ausspähen, 73 Woher sie kamen und 73 Die Eidbrecher von Parth Celebrant: 73 Ehrensache (Idmar, 28.5S,56.8W) -> 73 Eindringlinge auf dem Feld (Doron, 28.5S,57.9W) -> 73 Sichern unserer Vergangenheit (Idmar, 28.5S,56.8W)
+Nach Annahme von 73 Eindringlinge auf dem Feld: 73 Der Preis für ihre Taten (Doron, 28.5S,57.9W)
+Nach Annahme von 73 Der Preis für ihre Taten: 73 Die Rösser scheu machen (Medwine, 28.5S,56.8W)
+Nach 73 Sichern unserer Vergangenheit und 73 Die Rösser scheu machen: 73 Brennt es nieder (Medwine, 28.5S,56.8W)
+Nach 73 Sichern unserer Vergangenheit und 73 Die Rösser scheu machen: 73 Mit Furcht herrschen (Idmar, 28.5S,56.8W) -> 73 Der Preis der Loyalität (Doron, 28.5S,57.9W) -> 73 Instanz: Der Preis der Loyalität -> 73 Eine nicht gesendete Botschaft -> 73 Die Schuld auf sich nehmen (Cabed, 30.1S,56.7) -> 73 Spitzenargumente -> 73 Die Schlacht bei der Feste Celebrant (Doron, 28.5S,57.9W) -> ("Binsenlache") 74 Zwielichtige Geschäfte (Idmar, 28.5S,56.8W)
+Nach Annahme von 73 Mit Furcht herrschen: 73 Ein Symbol des Schreckens (Ramponiertes Zeichen des Auges, 30.2S,58.0W)
+Wähernd 73 Die Schuld auf sich nehmen: 73 Eine unsichtbare Bedrohung, 73 Eine verloren gegangene Botschaft (Cabed, 30.1S,56.7)
+Während 73 Die Schlacht bei der Feste Celebrant: 73 Den Eindringling aufspüren, 73 Die Eidbrecher vertreiben, 73 Die Vergangenheit ertränken, 73 Ein düsteres Bündnis (Doron, gerufen durch Item) -> 73 Ein Omen aus dem Osten -> 73 Instanz: Ein Omen aus dem Osten

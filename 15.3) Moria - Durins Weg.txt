@@ -1,0 +1,40 @@
+Durins Weg (53)
+
+Die Kammer des Scheidewegs
+Erkundungstat (Die Kammer des Scheidewegs, 5.2S,112.1W - Brunnensprung, 5.2S,112.1W - Die Halle der Hohen Treppe, 4.7S,112.0W - Ninknath Faltor, 3.6S,112.9W - Gloku-ru, 4.1S,111.2W - Die Tür zu den Wolken, 2.8S,110.8W - Die Zerfurchte Kluft, 13.4N,109.1W - Durins Fluch, 14.9N,108.7W - Uflûmp-mur, 3.1S,110.3W)
+53 Zerschmettert (Uxi, 5.5S,112.1W)
+Nach 53 Zerschmettert, 53 Helgi Bilwissfluchs Arm, ("Das Wasserwerk") 54 Rumpf von Helgi Bilwissfluch, ("Zelem-melek") 55 Helgi Bilwissfluchs Helm, ("Rothorn-Adern") 56 Helgi Bilwissfluchs Schulter und Arm, ("Die Lodernden Tiefen") 57 Helgi Bilwissfluchs Schulter: 57 Rekonstruktion der Statue (Alle Helgi-Quest-NPCs, z.B. Uxi, 5.5S,112.1W)
+Nach 53 Ein unerwarteter Schatz: 53 Vorboten der Verderbtheit (Rambi, 5.2S,112.0W) 
+53 Die Festung der Bilwisse (Líkmund, 5.1S,112.1W)
+53 Líkmunds Begleiter (Líkmund, 5.1S,112.1W) -> 53 Eine Nachricht zum Zirakzigil
+Während 53 Líkmunds Begleiter: 53 Ein erbitterter Feind (Rink, 5.1S,112.1W)
+Während 53 Líkmunds Begleiter: 53 Kriegstrommeln (Fostólf, 5.1S,112.1W)
+Während 53 Líkmunds Begleiter: 53 Verlorene Vorräte (Gansi, 5.1S,112.1W)
+Nach 53 Líkmunds Begleiter: 53 Kurvenreiche Kartografie (Thálfi, 5.1S,112.0W)
+Nach 53 Schickt sie wieder heim: ("Zelem-melek") 51 Der kurvenreiche Weg (Líkmund, 5.1S,112.1W)
+Nach 53 Vorboten der Verderbtheit und 53 Líkmunds Begleiter: 53 Schattenfetzen (Rambi, 5.2S,112.0W) -> 53 Unsichtbar (Kalman, 2.9S,110.8W)
+53 Abgesandte der Weißen Hand, 53 Nach dem Brand (Kalman, 2.9S,110.8W)
+53 Verschollene Legenden (Listein, 2.9S,110.8W)
+Nach 53 Die Festung der Bilwisse: 53 Schickt sie wieder heim (Listein, 2.9S,110.8W)
+53 Genug für alle (Siggir, 2.9S,110.8W)
+
+Jazârgund
+Erkundungstat (Tharâkh Bazân, 3.6S,109.2W - Salab Nurjundul, 3.6S,107.5W - Jazârgund, 3.6S,106.0W - Grubensprung, 3.7S,106.2W - Floid und Dewitt, 2.6S,105.9W - Hadâd-dûm, 3.0S,104.7W - Fehem-dûm, 4.1S,104.6W - Tith-maudhûl, 2.7S,101.8W - Khulturg, 2.7S,100.1W - Skoiruzg, 3.6S,99.6W - Dâr-Rukh, 4.1S,100.8W - Gríshurbhrum, 3.0S,100.8W)
+53 Ein Licht im Garten (Moria-Spiegel, 3.6S,109.1W)
+53 Das Grauen namens Azog (Búkk, 3.2S,108.6W) -> 53 Aufzeichnungen aus finsteren Zeiten -> 53 Damit wir nicht vergessen (Arnod, 3.2S,108.6W) -> 53 Das Bewahren uralter Geschichten
+53 Eine seltene Wurzel (Búkk, 3.2S,108.6W)
+53 Finsterste Nacht (Gerwith, 3.2S,108.6W)
+53 Helgi Bilwissfluchs Arm (Statue - Arm, 3.1S,107.8W)
+53 Hoffnung aus dem Osten, 53 Wölfe im Schafspelz (Borgar, 3.9S,105.7W)
+53 Kleine Revolution (Ión, 3.9S,105.7W)
+53 Einsturz, 53 Erinnerung an alte Lieder (Hamall, 3.9S,105.7W)
+Nach 53 Kleine Revolution: 53 In die Reißzahngrube (Oxi, 3.9S,105.7W)
+Nach 53 In die Reißzahngrube: 53 Ein finsterer Sieg (Oxi, 3.9S,105.7W)
+53 Das Antlitz des Schreckens (Folkath, 3.4S,103.3W) -> 53 Eitelkeit -> 54 Bogrianas Neugier -> 54 Nieder mit den Maiden
+Während 53 Das Antlitz des Schreckens: 53 Raubvögel (Gúri, 3.4S,103.3W)
+Während 53 Das Antlitz des Schreckens: 53 Werkstatt der Geflügelten (Hadi, 3.4S,103.3W)
+Während 53 Das Antlitz des Schreckens: 53 Flucht des Fungus (Bési, 3.4S,103.3W)
+
+Einundzwanzigste Halle
+Erkundungstat (Einundzwanzigste Halle, 5.8S,105.1W - Kammer von Mazarbul, 4.8S,105.3W)
+("Das Wasserwerk") 54 Águtis Rat (Simbi, 5.9S,105.4W)

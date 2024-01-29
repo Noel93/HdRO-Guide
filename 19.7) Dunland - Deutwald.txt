@@ -1,0 +1,16 @@
+Deutwald (72)
+
+Erkundungstat (Kundschafterlager der Rohirrim, 81.0S,10.6W - Der Tributbaum, 81.2S,11.2W - Der Versammlungsbaum, 80.1S,11.7W - Tal der Schatten, 83.2S,9.6W - Uvel-cadlus, 77.7S,11.4W - Rhuvel-cadlus, 80.1S,13.4W - Ak-ghru, 84.6S,10.7W)
+
+72 Ein dunkler und einsamer Wald (Amlan, 83.1S,14.6W) -> 2 Eine unheilvolle Stille (Saeradan, 81.0S,10.6W) -> 72 Auf der Suche nach einer Lösung (Spitzhacke, Questitem) -> 72 Das Böse im Wald (Zeichen der Ziege, Questitem) -> 72 Auf zur Jagd (Saeradan, 81.0S,10.6W) -> 72 Im Schatten des Berges (Andreg, 82.3S,9.6W) -> 72 Tribunal der Schatten -> 72 Instanz: Tribunal der Schatten -> 72 Die Augen der Reiter (Saeradan, 81.0S,10.6W) -> 72 Stille Reiter (Léofward, 81.0S,10.6W) -> 72 Widerstand leisten -> 72 Instanz: Widerstand leisten -> 72 Schlüsse ziehen -> 72 Überbringer schlechter Botschaften (Saeradan, 81.0S,10.6W)
+Während 72 Ein dunkler und einsamer Wald: 72 Der Wald hat Augen (Andreg, gerufen durch Item)
+Nur während 72 Der Wald hat Augen: 72 Eine tödliche Verderbtheit (Andreg, um 83.1S,14.6W)
+Nur während 72 Der Wald hat Augen: 72 Jagd auf das Rudel (Andreg, um 83.0S,13.9W)
+Nur während 72 Der Wald hat Augen: 72 Verlorenes Krächzen (Andreg, um 83.0S,13.1W)
+Nur während 72 Der Wald hat Augen: 72 Grausame Fallen, 72 Ork-Unheil (Andreg, um 81.9S,12.3W)
+72 Böse Dinge (Drop von Drugrir, 81.6S,10.8W)
+Nur bis zur Annahme von 72 Auf der Suche nach einer Lösung, nach 72 Eine unheilvolle Stille: 72 Ein blamabler Verlust (Saeradan, 81.0S,10.6W)
+Während 72 Im Schatten des Berges: 72 Bäh, bäh, schwarzes Schaf, 72 Das Geheimnis der Bäume, 72 Die Geister von Dunland, 72 Die Lichter löschen (Andreg, 82.3S,9.6W)
+Nach 72 Tribunal der Schatten: 72 Dem Drachen Zähne ziehen, 72 Hauch des Drachen, 72 Im Schlund des Drachen (Thurbald, 78.6S,11.5W)
+Nach 72 Tribunal der Schatten: 72 Angriff der Ochsen, 72 Ein erstklassiger Schnitt, 72 Wilde Flucht (Cuthric, 79.7S,13.0W)
+Nach 72 Tribunal der Schatten: 72 Mutwillige Zerstörung, 72 Orks kahl schlagen, 72 Trophäen des Feindes (Elfrith, 84.2S,11.6W)

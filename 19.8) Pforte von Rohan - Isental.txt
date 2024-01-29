@@ -1,0 +1,19 @@
+Isental (73)
+
+Erkundungstat (Voranbront, 87.0S,7.4W - Brôntrig, 89.6S,7.2W - Âthdâr, 87.5S,9.9W - Cuvnerth, 88.2S,11.4W)
+
+73 Ein nicht gesprochenes Wort (Ardwyn, 87.1S,7.4W)
+73 Schulden und Äxte, 73 Versiegeln des Weges (Cadthorn, 86.9S,8.7W)
+73 Befehle und Fragen (Drop von Isental-Bilwissen, um 86.6S,8.5W)
+Nach 73 Schulden und Äxte und 73 Ein nicht gesprochenes Wort: 73 Vorzeitige Rückkehr (Ardwyn, 87.1S,7.4W)
+Nach 73 Schulden und Äxte und 73 Versiegeln des Weges: 73 Überreste der Jagd (Ardwyn, 87.1S,7.4W)
+Nach 73 Schulden und Äxte und 73 Befehle und Fragen: 73 Ein nun bereister Pfad (Ardwyn, 87.1S,7.4W)
+Nach 73 Vorzeitige Rückkehr, 73 Überreste der Jagd und 73 Ein nun bereister Pfad: 73 Das Verstummen der Kundschafter, 73 Speere für die Verteidigung (Ardwyn, 87.1S,7.4W)
+73 Neue Befehle (Drop von Draig-lûth-Wachposten, um 88.8S,8.5W)
+Nach 73 Das Verstummen der Kundschafter, 73 Speere für die Verteidigung und 73 Neue Befehle: 73 Ausholen (Ardwyn, 87.1S,7.4W) -> 73 Schneller Schlag, 73 Seltsame Ausstattung, 73 Zellen und Käfige (Answith, 89.5S,8.5W)
+Nach 73 Schneller Schlag und 73 Zellen und Käfige: 73 Ein Schuss ins Blaue (Ardwyn, 87.1S,7.4W) -> 73 Instanz: Ein Schuss ins Blaue -> 73 Das Grollen in der Kluft (Ardwyn, 87.1S,7.4W) -> 73 Ende der Patrouille, 73 Zerstört die Flaggen (Garrun, 87.5S,11.9W) -> 73 Ein Besuch im Bau, 73 Felle für die Mission, 73 Heftiger Widerstand -> 73 Die Vorräte verderben, 73 Zerschmettert die Verteidigung -> 73 Seltsame Wohltäter -> 73 Instanz: Auffällige Wohltäter, 73 Instanz: Die Versorgungskette durchtrennen, 73 Instanz: Die Versorgungskette zerstören -> 73 Warnungen und Schwierigkeiten
+73 Brutaler Stachel (Drop von Draig-lûth-Kriegern, um 88.2S,11.4W)
+73 Seltsames Siegel (Seltsames Siegel, 88.2S,12.3W)
+73 Genommene Geschenke (Innoth, 89.5S,11.1W)
+Nach 73 Warnungen und Schwierigkeiten: 73 Gestohlene Güter, 73 Güter und Dienstleistungen (Innoth, 89.5S,11.1W) -> 73 Einsturzstelle
+Nach 73 Einsturzstelle und 73 Genommene Geschenke: 73 Ernst zu nehmende Warnungen (Innoth, 89.5S,11.1W) -> ("Pforte von Rohan: Heidefall") 74 Die Bastion (Ardwyn, 87.1S,7.4W)

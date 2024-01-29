@@ -1,0 +1,20 @@
+Heidefall (74)
+
+Erkundungstat (Grimbolds Lager, 87.7S,3.8W - Das Eisenloch, 86.1S,3.7W - Flusswache, 89.2S,3.8W - Dol Baran, 88.4S,6.8W - Die Schmelzerei, 50.3N,92.0W - Slavenpalisaden, 51.0N,91.2W - Die Tieftunnel, 51.5N,93.1W)
+
+74 Die Hunde, 74 Orks in Heidefall? (Cadfrith, 87.1S,7.3W)
+74 Der Hundemeister (Drop von Hunden, um 86.5S,6.8W)
+74 Woher sie kamen (Drop von Orks, um 86.4S,4.1W) -> 74 Kurz vor dem Einsturz (Ondor, 86.5S,4.7W) -> 74 Instanz: Kurz vor dem Einsturz
+74 Herold der Rohirrim (Drop vom Meister der Hunde, 86.5S,6.2W) -> 74 Instanz: Herold der Rohirrim -> 74 Dunländer-Patrouillen (Grimbold aus Grimslade, 87.4S,3.9W)
+Nach 74 Herold der Rohirrim: 74 Kommunikationsprobleme (Daervunn, 87.6S,3.7W) -> 74 Flaschenmoral (Grimbold aus Grimslade, 87.4S,3.9W) -> 74 Der Versuchung erliegen (Garward, 87.8S,3.9W)
+Nach 74 Kommunikationsprobleme: 74 Zurückschlagen (Garward, 87.8S,3.9W)
+Nach 74 Zurückschlagen: 74 Flusswache zurückerobern (Grimbold aus Grimslade, 87.4S,3.9W) -> 74 Die Schlacht von Dol Baran: Unsere Stärke auf der Probe
+Nach 74 Flusswache zurückerobern: 74 Die Schlacht von Dol Baran: Die Festung schützen, 74 Die Schlacht von Dol Baran: Die wackeren Gefallenen (Féarn, 88.2S,6.8W)
+Nach 74 Die Schlacht von Dol Baran: Unsere Stärke auf der Probe, 74 Die Schlacht von Dol Baran: Die Festung schützen und 74 Die Schlacht von Dol Baran: Die wackeren Gefallenen: 74 Die Schlacht von Dol Baran (Féarn, 88.2S,6.8W) -> 74 Instanz: Die Schlacht von Dol Baran
+Nach 74 Die Schlacht von Dol Baran: ("Der Aufstieg Isengarts") 74 Das Eisenloch (Féarn, 88.2S,6.8W)
+Nach 74 Die Schlacht von Dol Baran: 74 Ein bekanntes Gesicht (Zwergen-Spitzhacke, 86.2S,3.8W)
+Nach 74 Ein bekanntes Gesicht: 74 Die Sklaven der Tiefe (Ondor, 50.4N,92.7W) -> 74 Ein tödlicher Durst (Edhere, 51.3N,91.3W) -> 74 Der Schlüssel zur Freiheit, 74 Ein grausiges Schicksal, 74 Rachsüchtige Waffen -> 74 Aufruhr in der Tiefe -> 74 Instanz: Aufruhr in der Tiefe
+Nach 74 Die Sklaven der Tiefe: 74 Da unten bewegt sich etwas.... (Merjun, 50.9N,91.2W)
+Nach Annahme von 74 Da unten bewegt sich etwas....: 74 Der Verschlinger (Merjun, 50.9N,91.2W)
+Nach 74 Ein bekanntes Gesicht: 74 Die Lage entschärfen (Ondor, 50.4N,92.7W) -> 74 Donner in der Tiefe
+Nach 74 Die Lage entschärfen: 74 Seltsames Erz (R) (Ondor, 50.4N,92.7W) -> 74 Peitschenknall (R)
