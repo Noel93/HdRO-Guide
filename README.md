@@ -12,7 +12,7 @@ Die Dateien repräsentieren jeweils ein Gebiet und sind entsprechend aufsteigend
 
 Ab Moria gibt es Gebiete, die zusätzlich in Unter-Gebiete unterteilt sind. Dies wird in der Reihenfolge durch ```X.1```, ```X.2``` usw. repräsentiert. So ergibt sich eine Zuordnung von Questlog-Kategorien zu Dateien: ```Moria```-Quests kommen in ```15) Moria.txt```, Quests der Kategorie ```Die Großbinge``` in ```15.1) Moria - Die Großbinge.txt```.
 
-Ausnahmen sind ```0) Ortsunabhängig.txt```, wo Quests aufgeführt sind, die bspw. durch Levelup oder per Postnachrichten verfügbar sind, und ```1) Einleitung.txt```, welches die Intro-Quests der verschiedenen Völker auflistet, die nur in der anfänglichen Intro-Instanz angenommen werden können.
+Ausnahmen sind ```00) Ortsunabhängig.txt```, wo Quests aufgeführt sind, die bspw. durch Levelup oder per Postnachrichten verfügbar sind, und ```01) Einleitung.txt```, welches die Intro-Quests der verschiedenen Völker auflistet, die nur in der anfänglichen Intro-Instanz angenommen werden können.
 
 ### Dateiinhalt
 
@@ -28,9 +28,9 @@ Mögliche Voraussetzungen sind hierbei:
 - ```Nach A, B und C: Y``` für Quests, die den Abschluss mehrerer anderer Quests erfordern, ohne dass dies durch ```->``` dargestellt werden kann.
 - ```Nach Annahme von X: Y``` für Quests, die nach der Annahme einer anderen verfügbar werden.
 - ```Nach X Objective #Z: Y``` für Quests, die nicht sofort nach Annahme, aber im Verlauf einer anderen verfügbar werden.
-- ```Während X: Y``` für Quests, die nur während einer anderen Quest verfügbar sind. Wichtig: nur, wenn ```X``` nicht ohne ```Y``` abgeschlossen werden kann, also z.B. ein Wrapper-Quest!
+- ```Während X: Y``` für Quests, die nur während einer anderen Quest verfügbar sind. Wichtig: nur, wenn ```X``` nicht ohne ```Y``` abgeschlossen werden kann, also z.B. eine Wrapper-Quest!
 - ```Nur während X: Y``` für Quests, die nur während einer anderen Quest verfügbar sind, aber für deren Abschluss nicht relevant sind und somit verpasst werden können!
-- ```Nur bis X: Y``` für Quests, die nicht mehr verfügbar sind, wenn eine andere abgeschlossen wurde.
+- ```Nur bis Abschluss von X: Y``` für Quests, die nicht mehr verfügbar sind, wenn eine andere abgeschlossen wurde.
 
 Taten sind nach Art kategorisiert, hauptsächlich ```Erkundungstaten``` und ```Bezwingertaten```, welche ggf. am Anfang eines Abschnitts über den Quests platziert werden und als durch ```-``` getrennte Auflistungen von erkundbaren Orten, Gegnertypen o.ä. in Kombination mit den Koordinaten dargestellt sind.
 Bspw.
