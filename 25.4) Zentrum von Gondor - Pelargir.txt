@@ -1,0 +1,11 @@
+Zentrum von Gondor: Pelargir (100)
+
+Erkundungstat (Statue von Thorongil, 83.1S,34.7W - Westliches Hafentor, 85.6S,35.2W - Monument von König Telumehtar, 82.7S,33.7W - Monument der See-Könige, 83.6S,33.3W - Tol Ciryarani, 84.2S,33.3W - König Minardils Denkmal, 82.7S,31.8W - Östliches Hafentor, 84.8S,31.2W - Zerstörtes Monument von Castamir, 83.3S,31.3W)
+Schatzspeicher (83.0S,33.8W - 84.3S,34.9W - 84.4S,33.8W - 83.7S,31.1W)
+100 Eine waghalsige Rettung (Faltharan, 83.8S,33.3W) -> 100 Neuigkeiten (Thandor, 83.8S,32.6W) -> 100 Das Erbe von Sirgon (Faltharan, 83.8S,33.3W)
+100 Der Kampf um die Freiheit, 100 Hinter den feindlichen Linien (Thandor, 83.8S,32.6W)
+Nach 100 Neuigkeiten, während 100 Das Erbe von Sirgon: 100 Neue Befehle (Lorvegil, 83.6S,32.6W)
+Nach 100 Neuigkeiten, während 100 Das Erbe von Sirgon: 100 Nahrung für die Gestrandeten (Siriel, 83.7S,32.5W)
+Nach 100 Neuigkeiten, während 100 Das Erbe von Sirgon: 100 In den Wirren des Kriegs (Celebros, 83.8S,32.5W)
+Nach 100 Neue Befehle, 100 Nahrung für die Gestrandeten und 100 In den Wirren des Kriegs: 100 Abschied von Pelargir (Faltharan, 83.8S,33.3W) -> 100 Instanz: Abschied von Pelargir -> 100 Der Wahrheit auf der Spur -> 100 Das Verlorene wiederbeschaffen, 100 Die Straßen der Stille, 100 Unter Dieben (Thandor, 83.8S,32.6W)
+Nach 100 Die Straßen der Stille: 100 Faltharans Kampf (Thandor, 83.8S,32.6W) -> 100 Instanz: Faltharans Kampf

@@ -1,16 +1,21 @@
 Zentrum von Gondor (100)
 
 "Epos - Band IV, Buch 2: Tag ohne Morgen" (Fortsetzung aus West-Gondor)
-100 Buch 2, Kapitel 4: Tag ohne Morgenrot (Tologlor, 71.5S,50.7W) -> 100 Buch 2, Kapitel 5: Von Feinden umzingelt -> 100 Buch 2, Kapitel 6: Roamingstar (Roamingstar, Jungfer der Gilrain, 76.0S,42.7W) -> 100 Buch 2, Kapitel 7: Thorongils Antlitz (Ingalad, 80.7S,45.6W)
+100 Buch 2, Kapitel 4: Tag ohne Morgenrot (Tologlor, 71.5S,50.7W) -> 100 Buch 2, Kapitel 5: Von Feinden umzingelt -> 100 Buch 2, Kapitel 6: Roamingstar (Roamingstar, Jungfer der Gilrain, 76.0S,42.7W) -> 100 Buch 2, Kapitel 7: Thorongils Antlitz (Ingalad, 80.7S,45.6W) -> 100 Buch 2, Kapitel 8: Die Schlacht um Pelargir (Aragorn, 82.6S,37.5W) -> 100 Buch 2, Kapitel 9: Selbst in der Dunkelheit -> 100 Instanz: Selbst in der Dunkelheit
 
-"Zentrum von Gondor: Pelargir"
-Erkundungstat (Westliches Hafentor, 85.6S,35.2W)
-100 The Enemy Line
-100 Struggle for Freedom
-100 A Wary Extraction -> 100 Breaking the News -> 100 Delivering New Orders, 100 Food For the Stranded, 100 Lost in the Confusion -> 100 Farewell to Pelargir -> 100 Instance: Farewell to Pelargir -> 100 In Search of Truth -> 100 The Streets of Silence -> 100 Faltharan's Confrontation -> 100 Instance: Faltharan's Confrontation
-Nach 100 Breaking the News: 100 The Legacy of Sirgon
-Nach 100 In Search of Truth: 100 Returning What Belongs, 100 Among the Thieves
+"Epos - Band IV, Buch 3: Stimmen aus der Vergangenheit"
+100 Buch 3, Kapitel 1: Diskretion gefragt (Aragorn, 82.6S,37.5W) -> 100 Buch 3, Kapitel 2: Schatten und schwarze Segel -> 100 Buch 3, Kapitel 3: Furchtlos (Angbor, 82.6S,37.5W)
+Während 100 Buch 3, Kapitel 2: Schatten und schwarze Segel: 100 Schwarze Segel: Geheimes Wissen (Daervunn, 82.5S,37.6W)
+Während 100 Buch 3, Kapitel 2: Schatten und schwarze Segel: 100 Schwarze Segel: Beladung der Schiffe (Lothrandir, 82.5S,37.5W)
+Während 100 Buch 3, Kapitel 2: Schatten und schwarze Segel: 100 Schwarze Segel: Stimmen aus der Vergangenheit (Calenglad, 82.5S,37.5W)
+Während 100 Buch 3, Kapitel 2: Schatten und schwarze Segel: 100 Schwarze Segel: Herrenlose Waffen (Langlas, 82.5S,37.5W)
 
-"Umherziehende Bedrohungen"
-Bosstat ()
-Schatzspeicher (71.4S,53.5W)
+("Epische Schlachten - Krieg um Gondor") Rückeroberung von Pelargir
+C Rückeroberung von Pelargir (R) (Automatisch, solo/duo)
+C Ugturu der Halb-Troll (R), C Kang-kethek der Zauberer (R), C Mit dem Rücken zur Wand (R), C Diebesparade (R) (Automatisch, während der zweiten Phase, solo/duo)
+C Okurayo der Barde (R), C Bogenschütze Thisarti (R) (Automatisch, während der dritten Phase, solo/duo)
+C Rückeroberung von Pelargir - Gefährtengruppe (R) (Automatisch, Gefährtengruppe)
+C Ugturu der Halb-Troll (R), C Kang-kethek der Zauberer (R), C Mit dem Rücken zur Wand (R), C Diebesparade (R) (Automatisch, während der zweiten Phase, Gefährtengruppe)
+C Okurayo der Barde (R), C Bogenschütze Thisarti (R) (Automatisch, während der zweiten Phase, Gefährtengruppe)
+C Die Schiffssklaven (R) (Automatisch, während der xten Phase, Gefährtengruppe)
+C Der dritte Hornstoß (R) (Automatisch, während der xten Phase, Gefährtengruppe)

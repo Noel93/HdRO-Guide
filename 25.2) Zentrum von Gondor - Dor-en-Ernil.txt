@@ -2,6 +2,8 @@ Zentrum von Gondor: Dor-en-Ernil (100)
 
 Erkundungstat (Linhir, 81.5S,45.5W - Hata Khezrat, 79.3S,44.2W - Tungobel, 78.6S,50.5W - Dol Brannor, 78.6S,47.7W - Lang Boha, 82.2S,49.4W - Gaerlond, 84.2S,49.7W - Barad Rill, 86.4S,50.4W)
 Bezwingertat (Korsaren, um 79.3S,44.2W)
+Bosstat (77.7S,50.2W - 78.3S,49.0W - 79.4S,48.0W - 81.3S,47.1W - 81.4S,48.0W - 83.1S,49.3W - 83.0S,50.8W)
+Schatzspeicher (78.9S,47.4W - 77.8S,46.0W - 76.6S,44.0W - 75.7S,41.4W - 81.3S,53.0W - 84.3S,52.2W - 86.7S,50.1W)
 
 100 Verteidigungsvorbereitungen (Garvir, 80.6S,44.9W)
 Nach Annahme von 100 Verteidigungsvorbereitungen: 100 Jagd auf die Mutlosen (Garvir, 80.6S,44.9W) -> 100 Ein erneuter Angriff (Gorroch, 79.3S,44.2W) -> 100 Todesangst -> 100 Bis zur rechten Zeit (Gefallener Korsar, 77.9S,46.7W) -> 100 Der Verlauf der Schlacht (Garvir, 80.6S,44.9W) -> 100 Ein Hilferuf (Tancestel, 81.5S,45.3W) -> 100 Die geschundene Lichtung, 100 Unheilvolle Männer (Roamingstar, Jungfer der Gilrain, 76.0S,42.7W) -> 100 Schwester der Gilrain -> 100 Instanz: Schwester des Gilrain
@@ -24,4 +26,3 @@ Nach 100 'Blut für Blut ...': 100 Eine schmutzige Angelegenheit (R), 100 Wacht 
 Nach 100 'Blut für Blut ...': 100 Blendung des Feindes (R), 100 Den Vormarsch stoppen (R), 100 Gesplittertes Licht (R), 100 Umherziehende Bedrohung: Ripper, Schrecken der Länder des Prinzen (R) (Herion, 80.6S,44.9W)
 
 Nach 100 'Blut für Blut ...' und (Tat) Freund von Dor-en-Ernil: 100 Epilog: Die Wasser des Gilrain (Erchar, 80.6S,44.9W)
-
