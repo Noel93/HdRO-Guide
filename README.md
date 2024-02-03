@@ -1,4 +1,4 @@
-# HdRO-Guide
+# HdRO-Questguide
 
 ## Einleitung
 
@@ -43,7 +43,7 @@ Bezwingertat (Haradrim und Halbtrolle, um 84.6S,36.7W)
 
 ## Anmerkungen
 
-Es wird lange Zeit ein Work in Progress verbleiben, da ich den Guide parallel zu meinem aktuellen Playthrough erstelle und nach diesem vermutlich länger keinen neuen starten werde. An hdro-guide@outlook.de können gerne Korrekturen, Verbesserungsvorschläge etc. gesendet werden!
+Es wird lange Zeit ein Work in Progress verbleiben, da ich den Guide parallel zu meinem aktuellen Playthrough erstelle und nach diesem vermutlich länger keinen neuen starten werde. An hdro-questguide@outlook.de können gerne Korrekturen, Verbesserungsvorschläge etc. gesendet werden!
 
 Aktuell befindet sich alles in Textformat. Falls jemand eine übersichtlichere Alternative (z.B. Flowcharts für die Questreihen?) kennt, welche alle Use Cases abbilden kann, dann den Vorschlag ebenfalls gerne an obige Mail senden.
 
