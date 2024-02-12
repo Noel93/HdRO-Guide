@@ -1,0 +1,7 @@
+Ost-Gondor (100)
+
+"Epos - Band IV, Buch 3: Stimmen aus der Vergangenheit" (Fortsetzung aus dem Zentrum von Gondor)
+100 Buch 3, Kapitel 4: Eine weitere beschwerliche Straße (Angbor, 78.5S,26.4W) -> 100 Buch 3, Kapitel 5: Nach Ithilien (Angbor, 75.5S,23.7W) -> 100 Buch 3, Kapitel 6: Söhne des Schwarzgrundtals (Duilin, 73.4S,12.7W) -> 100 Instanz: Söhne des Schwarzgrundtals -> 100 Buch 3, Kapitel 7: Osgiliath in Bedrängnis -> 100 Buch 3, Kapitel 8: Gothmog erscheint (Damrod, 62.7S,8.8W) -> 100 Instanz: Gothmog erscheint
+
+"Epos - Band IV, Buch 4: Belagerung der Weißen Stadt"
+100 Buch 4, Kapitel 1: Der gebrochene Damm (Damrod, 62.7S,8.8W)

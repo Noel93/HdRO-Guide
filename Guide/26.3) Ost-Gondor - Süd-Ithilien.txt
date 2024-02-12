@@ -1,0 +1,38 @@
+Ost-Gondor: Süd-Ithilien (100)
+
+Bosstat (76.7S,17.4W - 76.3S,16.6W - 75.9S,14.4W - 76.7S,12.3W - 71.9S,8.1W - 70.0S,10.2W - 68.9S,9.8W - 66.3S,8.8W - 64.8S,3.9W - 62.6S,6.4W - 63.0S,9.8W)
+
+Bâr Húrin
+Erkundungstat (Duindir, 74.6S,16.3W - Feste Sarram, 76.9S,15.3W - Bâr Húrin, 73.2S,12.3W - Harlanc, 76.1S,11.2W - Lân Mefam, 73.6S,7.8W)
+Schatzspeicher (78.8S,18.8W - 73.1S,14.3W - 75.8S,10.9W - 74.4S,9.9W)
+Bezwingertat (Haradrim, um 73.6S,7.8W)
+100 Waldläufer des Südens (Luntil, 78.4S,20.4W) -> 100 Auf den Klippen (Gladhir, 75.2S,15.9W) -> 100 Nach Bâr Húrin (Mírthel, 76.5S,15.5W)
+100 Duindir: Haradrim, 100 Duindir: Vorräte (Automatisch, um 74.6S,16.3W)
+100 Kopfgeld: Maeganc (Kopfgeld: Maeganc, 73.5S,12.9W) [77.8S,17.8W]
+100 Kopfgeld: Langarch (Kopfgeld: Langarchl, 73.5S,12.9W) [72.7S,14.2W]
+100 Kopfgeld: Ronkúrz (Kopfgeld: Ronkúrz, 73.4S,12.9W) [um 68.8S,8.4W]
+100 Kopfgeld: Yambahul (Kopfgeld: Yambahul, 73.4S,12.9W) [73.7S,8.2W]
+Nach 100 Nach Bâr Húrin Objective #2: 100 Duilins Auftrag (Duilin, 73.4S,12.7W)
+Nach 100 Nach Bâr Húrin Objective #2: 100 Derufins Auftrag (Derufin, 73.4S,12.7W)
+Nach 100 Nach Bâr Húrin: 100 Pfeile und Bögen, 100 Vorratssuche (Thurindol, 73.5S,12.2W)
+Nach 100 Nach Bâr Húrin: 100 Die Mondland-Fälle (Anborn, 73.5S,12.2W)
+Nach 100 Pfeile und Bögen, 100 Vorratssuche und 100 Die Mondland-Fälle: 100 Aufruhr in Harlanc (Thurindol, 73.5S,12.2W)
+Nach 100 Pfeile und Bögen, 100 Vorratssuche und 100 Die Mondland-Fälle: 100 Störangriff auf Lân Mefam (Anborn, 73.5S,12.2W)
+Während 100 Aufruhr in Harlanc: 100 Harlanc: Waldläufer-Vorratslager, 100 Harlanc: Haradrim-Hauptmänner, 100 Harlanc: Haradrim-Schärpen, 100 Harlanc: Halbtrolle (Automatisch, um 76.1S,11.2W)
+Während 100 Störangriff auf Lân Mefam: 100 Lân Mefam: Mûmakil-Futter, 100 Lân Mefam: Schützen, 100 Lân Mefam: Haradrim-Zelte, 100 Lân Mefam: Halbtroll-Äxte (Automatisch, um 73.6S,7.8W)
+100 Wer hoch steigt, fällt tief (R) (Mûmakil, z.B. um 73.0S,7.0W)
+Nach 100 Aufruhr in Harlanc und 100 Störangriff auf Lân Mefam: 100 Die Ruinen von Brangobel (Thurindol, 73.5S,12.2W)
+Nach 100 Aufruhr in Harlanc und 100 Störangriff auf Lân Mefam: 100 Zu Faramirs Aussichtspunkt (Anborn, 73.5S,12.2W)
+("Umherziehende Bedrohungen") 100 Umherziehende Bedrohung: Kethat-sai, der Zerstörer, 100 Umherziehende Bedrohung: Morgrish, die Kreatur aus Harad, 100 Umherziehende Bedrohung: Shardrágh, die Belagerungskreatur aus Morgul (Nanoth, 72.7S,12.5W)
+
+Faramirs Aussichtspunkt
+Erkundungstat (Brangobel, 71.5S,9.1W - Tuntham, 69.6S,6.6W - Barad Nemorn, 68.1S,8.9W - Rolanthir, 67.8S,5.9W - Faramirs Aussichtspunkt, 65.0S,6.1W)
+Schatzspeicher (70.7S,4.1W - 65.6S,8.7W)
+Bezwingertat (Orks, um 68.1S,8.9W)
+100 Kampfgruppe: Thangol-ya (R) (Automatisch, um 70.4S,8.8W)
+100 Das Geheimnis von Tuntham (Automatisch, um 69.6S,6.6W)
+Nach Annahme von 100 Zu Faramirs Aussichtspunkt: 100 Störangriff auf Barad Nemorn (Hügelgrab, 69.4S,7.5W)
+Während 100 Störangriff auf Barad Nemorn: 100 Barad Nemorn: Morgul-Krieger, 100 Barad Nemorn: Niederträchtige Anführer, 100 Barad Nemorn: Statuen des Dunklen Herrschers, 100 Barad Nemorn: Troll-Zähne, 100 Barad Nemorn: Warg-Meister (Automatisch, um 68.1S,8.9W)
+Nach 100 Zu Faramirs Aussichtspunkt: 100 Die Wacht an der Kreuzung, 100 Das Glühen Rolanthirs (Arodor, 65.1S,6.2W) -> 100 Nach Osgiliath
+100 Belagert das Morgul-Heer (R) (Katapulte, Ballisten und Trébuchets, um 62.9S,5.6W)
+100 Kampfgruppe: Gundrágh (R) (Automatisch, um 64.3S,4.3W)

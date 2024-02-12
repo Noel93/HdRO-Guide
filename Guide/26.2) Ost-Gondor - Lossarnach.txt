@@ -1,0 +1,29 @@
+Ost-Gondor: Lossarnach (100)
+
+Arnach
+Erkundungstat (Arnach, 77.3S,24.6W - Aegollant, 78.8S,23.1W - Galdirs Tal, 77.0S,21.4W)
+Schatzspeicher (78.5S,22.3W - 81.2S,24.3W)
+100 In Forlongs Schuhen (Baranor, 77.3S,24.6W) -> 100 Die Verteidigung von Arnach -> 100 Instanz: Die Verteidigung von Arnach -> 100 Dagors Torheit -> 100 Ein Brief an die Herrin
+Während 100 In Forlongs Schuhen: 100 Dagor: Abgeschlagene Hände, 100 Dagor: Ein Dolchstoß in den Rücken, 100 Dagor: Ein Schlag gegen den Kopf (Dagor, 77.2S,24.5W)
+Während 100 In Forlongs Schuhen: 100 Indir: Verschließt ihre Augen, 100 Indir: Verschließt ihre Ohren, 100 Indir: Versiegelte Lippen (Indir, 76.9S,24.6W)
+Während 100 Die Verteidigung von Arnach: 100 Außer Reichweite (Dagor, 77.2S,24.5W)
+Während 100 Die Verteidigung von Arnach: 100 In Sicherheit (Indir, 76.9S,24.6W)
+100 Verstreut und verteilt (Annaben, 78.3S,24.1W)
+
+Imloth Melui
+Erkundungstat (Imloth Melui, 72.8S,24.0W - Tribut für den Erui, 75.0S,24.6W - Feste Norhír, 75.7S,21.3W)
+Schatzspeicher (76.0S,21.0W)
+100 Besuch für eine Träumerin (Merenir, 73.2S,23.5W)
+100 Stets ein offenes Ohr (Vanyalos, 73.0S,23.0W)
+Nach Annahme von 100 Stets ein offenes Ohr: 100 Die Pracht der Gärten von Gondor (Vanyalos, 73.0S,23.0W)
+Nach Annahme von 100 Stets ein offenes Ohr: 100 Kriegerschule (Merenir, 73.2S,23.5W)
+Nach Annahme von 100 Stets ein offenes Ohr: 100 Eine Ratte im Garten (Brunil, 73.2S,25.5W) -> 100 Der Gifttest -> 100 Egind unter Verdacht -> 100 Das Gegengift -> 100 Berichte von Orks (Merenir, 73.2S,25.5W) -> 100 Vanyalos' Umnachtung (Merenir, 73.2S,23.5W) -> 100 Instanz: Vanyalos' Umnachtung -> 100 Wacht über die Mauer (Vanyalos, 73.0S,23.0W)
+
+Der Harlond
+Erkundungstat (Der Harlond, 73.0S,20.3W)
+Schatzspeicher (71.9S,21.3W)
+100 Rauchende Köder, 100 Späher im Harlond (Dindal, 73.8S,21.5W)
+Während 100 Späher im Harlond: 100 Der Harlond: Böse Augen (Automatisch, um 73.2S,20.5W)
+Während 100 Späher im Harlond: 100 Der Harlond: Schwarze Herzen (Automatisch, um 72.4S,20.4W)
+Während 100 Späher im Harlond: 100 Der Harlond: Tödliche Maschinerie (Automatisch, um 72.3S,19.8W)
+Nach 100 Rauchende Köder und 100 Späher im Harlond: 100 Fort aus Lossarnach (Dindal, 73.8S,21.5W)

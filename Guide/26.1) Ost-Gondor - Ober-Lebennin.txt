@@ -1,0 +1,26 @@
+Ost-Gondor: Ober-Lebennin (100)
+
+Glaniath
+Erkundungstat (Glaniath, 80.8S,29.6W - Sirthanc, 79.3S,32.0W - Tribut für den Sirith, 78.9S,30.5W)
+Schatzspeicher (82.8S,28.6W - 78.4S,32.3W)
+100 Ein furchtloser Vorstoß (Angbor, 82.6S,31.7W)
+Nach Annahme von 100 Ein furchtloser Vorstoß: 100 Über der Asche (Angbor, 82.6S,31.7W)
+Nach 100 Ein furchtloser Vorstoß und 100 Über der Asche: 100 In den Krieg gezogen (Angbor, 82.6S,31.7W) -> 100 Faltharans Sorge (Faltharan, 82.8S,31.9W) -> 100 Ein brüchiger Frieden (Arvellon, 81.0S,29.7W)
+("Umherziehende Bedrohungen") 100 Die umherziehenden Bedrohungen von Ost-Gondor (Automatisch, um 80.8S,29.6W)
+Nach Annahme von 100 Ein brüchiger Frieden: 100 Flammen in der Dunkelheit (Arvellon, 81.0S,29.7W)
+Nach 100 Ein brüchiger Frieden und 100 Flammen in der Dunkelheit: 100 Die Suche nach dem verschollenen Fürsten (Arvellon, 81.0S,29.7W) -> 100 Zuflucht in Tumladen (Faltharan, 79.4S,32.0W)
+
+Tumladen
+Erkundungstat (Tumladen, 77.6S,28.8W - Minlos, 76.8S,26.0W)
+Nach 100 Zuflucht in Tumladen: 100 Die Wunden des Vaters (Faltharan, 77.1S,29.7W)
+Nach Annahme von 100 Wounds of the Father: 100 Von Flüchtling zu Flüchtling (Faltharan, 77.1S,29.7W)
+Nach 100 Die Wunden des Vaters und 100 Von Flüchtling zu Flüchtling: 100 Sprecher der Verlorenen (Faltharan, 77.1S,29.7W) -> 100 Die List der Herrin (Herrin Terenis, 75.8S,30.6W) -> 100 Ein Schwur der Verschwiegenheit (Angbor, 77.7S,28.9W) -> 100 Instanz: Ein Schwur der Verschwiegenheit -> 100 Kein Wort aus Minas Tirith, 100 Umgehung einer Verteidigung (Herrin Terenis, 75.8S,30.6W)
+Nach 100 Ein Schwur der Verschwiegenheit: 100 Vormarsch ins Landesinnere (Herrin Terenis, 75.8S,30.6W) -> 100 Schlangen in Minlos (Othor, 76.6S,25.8W) -> 100 Die Südstraße (Herrin Terenis, 75.8S,30.6W)
+
+Halach
+Schatzspeicher (75.0S,25.0W - 81.4S,25.5W)
+Nach 100 Die Südstraße: 100 Verspätet und verlassen (Glassiel, 82.0S,26.5W) -> 100 Die einsame Herrin -> 100 Von den Schwestern aufgegeben -> 100 Der Zorn des Erui (Roamingstar, Jungfer des Gilrain, 76.0S,42.7W) -> 100 Instanz: Der Zorn des Erui -> 100 Beunruhigende Träume (Herrin Terenis, 75.8S,30.6W)
+Nach Annahme von 100 Verspätet und verlassen: 100 Eine führende Klinge, 100 Wegbereitung (Irodon, 81.9S,26.3W)
+Nach Annahme von 100 Verspätet und verlassen: 100 Die Diebe von Harad (Gorhir, 82.4S,26.2W)
+Nach 100 Die einsame Herrin Objective #3: 100 Rüstungen der Verlorenen (Rüstungen, um 78.6S,25.4W)
+100 Kampfgruppe: Kasota (R) (Automatisch, um 81.6S,28.0W)

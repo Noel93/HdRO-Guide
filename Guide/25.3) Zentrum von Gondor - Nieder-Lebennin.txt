@@ -3,7 +3,7 @@ Zentrum von Gondor: Nieder-Lebennin (100)
 Bosstat (83.5S,44.2W - 84.6S,43.9W - 85.6S,44.8W - 84.1S,41.7W - 80.8S,40.8W - 78.5S,35.5W - 79.0S,33.6W)
 
 Sarnhad & Malbarth
-Erkundungstat (Ruinen von Ethillorn, 84.0S,45.6W)
+Erkundungstat (Ruinen von Ethillorn, 84.0S,45.6W - Tribut an den Gilrain, 78.6S,42.1W)
 Schatzspeicher (85.6S,43.2W - 79.7S,42.7W)
 Nach 100 Das Dunkel im Osten Objective #2: 100 Verwüstung an der Küste (Baraniel, 81.4S,43.9W)
 Nach 100 Das Dunkel im Osten: 100 Die Männer der düsteren Flotte (Korsaren, um 84.0S,45.6W)
@@ -15,7 +15,7 @@ Nach 100 Die Rückkehr der Schwestern: 100 Flammen des südlichen Leuchtfeuers (
 100 Kampfgruppe: Darik (R) (Automatisch, um 83.5S,42.6W)
 
 Feste Anglebed
-Erkundungstat (Tribut an den Serni, 80.9S,38.3W - Thama Aklam, 80.8S,36.8W - Anglebed, 80.0S,39.7W - Lornost, 80.8S,34.4W)
+Erkundungstat (Tribut an den Serni, 80.9S,38.3W - Thama Aklam, 80.8S,36.8W - Anglebed, 80.0S,39.7W - Lornost, 80.8S,34.4W - Tribut an den Celos, 79.5S,32.4W)
 Schatzspeicher (77.5S,36.4W - 78.4S,33.0W)
 Nach 100 Flammen des südlichen Leuchtfeuers: 100 Die kopflose Schlange (Malthellim, 78.5S,39.2W)
 Nach Annahme von 100 Die kopflose Schlange: 100 Begrenzte Offensive, 100 Im Schatten (Malthellim, 78.5S,39.2W)
@@ -27,7 +27,7 @@ Nach Annahme von 100 Das Schicksal von Lornost: 100 Das Geschenk der Geißel (Au
 100 Kampfgruppe: Vilosh (R) (Automatisch, um 80.6S,35.2W)
 
 Aerthir
-Erkundungstat (Hata Kebir, 84.2S,37.6W - Lager der Schatten, 82.5S,37.6W - Pelagir, 83.0S,34.8W)
+Erkundungstat (Hata Kebir, 84.2S,37.6W - Lager der Schatten, 82.5S,37.6W - Pelargir, 83.0S,34.8W)
 Bezwingertat (Haradrim und Halbtrolle, um 84.6S,36.7W)
 Schatzspeicher (85.7S,40.1W)
 Nach 100 Jenseits der Grenze: 100 Ehre und Rache (Jajax, 84.3S,39.9W) -> 100 Söhne des Usurpators (Erchar, 80.6S,44.9W) -> 100 Instanz: Söhne des Usurpators -> 100 Die Söhne von Pelargir (Nimithil, 79.4S,39.4W)

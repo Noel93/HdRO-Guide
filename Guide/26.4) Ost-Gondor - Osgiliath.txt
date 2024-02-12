@@ -1,0 +1,44 @@
+Ost-Gondor: Osgiliath (100)
+
+Osgiliath
+Erkundungstat (Die Große Brücke, 63.0S,9.4W - Tunnel von Osgiliath, 62.7S,8.8W - Häuser der Heilung, 62.0S,7.4W - Rómendacil-Platz, 61.6S,8.0W - Der Sternendom, 61.5S,9.1W - Meneldil-Platz, 61.6S,10.6W - Cemendurs Theater, 62.1S,10.8W - Palast von Eldacar, 61.2S,11.2W - Die hohen Archive, 62.7S,10.7W - Halle des Osgiliath-Steins 63.4N,9.5W [Am Ende der Sternendom-Instanz])
+Schatzspeicher (64.6S,9.1W - 63.8S,10.3W - 62.7S,10.0W - 61.1S,8.7W)
+Bezwingertat (Ostlinge, um 61.6S,8.0W - Halbtrolle, um 61.6S,10.6W - Kreaturen und Bilwisse, um 64.1S,11.2W)
+100 Verloren, aber nicht vergessen (Mablung, 62.7S,8.8W)
+Nach Annahme von 100 Verloren, aber nicht vergessen: 100 Heilung der Verlorenen (Golthor, 62.1S,7.4W) -> 100 Die gefallenen Sterne
+Nach Annahme von 100 Verloren, aber nicht vergessen: 100 Zum Leiden geboren (Halhir, 61.0S,10.2W) -> 100 Der Sitz zweier Könige
+Nach Annahme von 100 Verloren, aber nicht vergessen: 100 Ungeschriebene Geschichte (Candúr, 62.6S,10.7W)
+Nach Annahme von 100 Verloren, aber nicht vergessen: 100 Bereit für die Niederlage (Meldir, 64.3S,10.9W)
+Nach Annahme von 100 Bereit für die Niederlage: 100 Der Vormarsch von Minas Morgul (Meldir, 64.3S,10.9W)
+Nach 100 Die gefallenen Sterne: 100 Anduins Gnade (R) (Golthor, 62.7S,8.8W)
+Nach 100 Der Sitz zweier Könige: 100 Unerwartete Umsetzung (R) (Halhir, 62.7S,8.8W)
+Nach 100 Ungeschriebene Geschichte: 100 Überleben in der Dunkelheit (R) (Echil, 62.7S,8.8W)
+Nach 100 Bereit für die Niederlage und 100 Der Vormarsch von Minas Morgul: 100 Bereitmachung zum Krieg (R) (Meldir, 62.7S,8.8W)
+Nach 100 Verloren, aber nicht vergessen: 100 Die Last der Großen Brücke (R), 100 Mit Verstand und Schwert (R) (Damrod, 62.7S,8.8W)
+Nach 100 Verloren, aber nicht vergessen: ("Asche und Sterne") 100 Asche und Sterne, Kapitel 1 (Mablung, 62.7S,8.8W) -> ("Asche und Sterne") 100 Asche und Sterne, Kapitel 2 -> ("Asche und Sterne") 100 Asche und Sterne, Kapitel 3 -> ("Asche und Sterne") 100 Asche und Sterne, Kapitel 4 -> ("Asche und Sterne") 100 Asche und Sterne, Kapitel 5 -> ("Asche und Sterne") 100 Asche und Sterne, Kapitel 6 -> ("Asche und Sterne") 100 Asche und Sterne, Kapitel 7
+
+Versunkenes Labyrinth
+50+ Versunkenes Labyrinth - Stufe 1 (R) (Automatisch, T1)
+50+ Versunkenes Labyrinth - Stufe 2 (R) (Automatisch, T2)
+("Asche und Sterne") MAX Bounty: The Sunken Labyrinth (R) (Automatisch, T2)
+MAX Challenge: Subterranean Slugfest (R) (Automatisch, T2)
+100+ Featured Instance: Sunken Labyrinth (R) (Automatisch, T2)
+MAX Featured Instance: Sunken Labyrinth (cap level) (R) (Automatisch, T2)
+
+Die zerstörte Stadt
+50+ Die zerstörte Stadt - Stufe 1 (R) (Automatisch, T1)
+50+ Die zerstörte Stadt - Stufe 2 (R) (Automatisch, T2)
+("Asche und Sterne") MAX Bounty: The Ruined City (R) (Automatisch, T2)
+MAX Challenge: Harrowing Ordeal (R) (Automatisch, T2)
+100+ Featured Instance: The Ruined City (R) (Automatisch, T2)
+MAX Featured Instance: The Ruined City (cap level) (R) (Automatisch, T2)
+
+("Asche und Sterne") Der Sternendom
+50+ Der Sternendom - Stufe 1 (R) (Automatisch, T1)
+50+ The Dome of Stars -- Tier 2 (R) (Automatisch, T2)
+50+ Der Herr der Federn (R) (Automatisch)
+MAX Bounty: The Dome of Stars (R) (Automatisch, T2)
+MAX Challenge: Painful Memories (R) (Automatisch, T2)
+100+ Featured Instance: The Dome of Stars (R) (Automatisch, T2)
+MAX Featured Instance: The Dome of Stars (cap level) (R) (Automatisch, T2)
+MAX Featured Challenge: The Dome of Stars (R) (Automatisch, T2)
