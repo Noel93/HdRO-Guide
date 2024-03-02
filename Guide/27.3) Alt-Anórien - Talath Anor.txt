@@ -1,0 +1,28 @@
+Alt-Anórien: Talath Anor (100)
+
+Nördliche Rammas
+Erkundungstat (Ostlinge, um 60.0S,14.3W)
+100 Ausspähen des Nordtors (Ingold, 59.4S,17.6W) -> 100 Gefahr im Verzug, 100 Sûhalar am Forant -> 100 Jal Vârsha: Das Blatt wenden, 100 Jal Vârsha: Eroberung der Nordmauer, 100 Jal Vârsha: Von Rang und Wachen, 100 Jal Vârsha: Äxte der Sûhalar -> 100 Suche nach Überlebenden -> 100 Tolwins Geschichte (Toter Ostling, 57.6S,16.8W) -> 100 Instanz: Tolwins Geschichte
+100 Kampfgruppe: Sumpfschleicherin (R) (Automatisch, um 60.6S,12.1W)
+
+Crithost
+Erkundungstat (Parth Duin, 52.8S,13.6W - Parth Lisc, 48.8S,18.4W)
+Nach 100 Tolwins Geschichte: 100 Crithost in Not, 100 Den Obstgarten retten (Tolwin, 53.5S,16.0W)
+Nach Annahme von 100 Den Obstgarten retten: 100 Die Rückeroberung des Landes (Tolwin, 53.5S,16.0W)
+Nach 100 Tolwins Geschichte: 100 Befestigungen für Crithost (Ceveneth, 53.5S,16.0W)
+Nach 100 Crithost in Not, 100 Den Obstgarten retten und 100 Die Rückeroberung des Landes: 100 Die Suche nach Dúneth (Tolwin, 53.5S,16.0W)
+Nach Annahme von 100 Die Suche nach Dúneth: 100 Brennende Felder, 100 Die Rückeroberung von Parth Duin, 100 Hinaus aus Haus und Hof, 100 Reiter des Krieges (Tolwin, 53.5S,16.0W)
+100 Kampfgruppe: Mauzúr (R) (Automatisch, 47.5S,17.8W)
+Nach 100 Die Suche nach Dúneth, 100 Brennende Felder, 100 Die Rückeroberung von Parth Duin, 100 Hinaus aus Haus und Hof und 100 Reiter des Krieges: 100 Die Verteidigung von Crithost (Tolwin, 53.5S,16.0W)
+Nach 100 Die Suche nach Dúneth, 100 Brennende Felder, 100 Die Rückeroberung von Parth Duin, 100 Hinaus aus Haus und Hof und 100 Reiter des Krieges: 100 Trommeln im Grauen Wald (Ceveneth, 53.5S,16.0W)
+Nach 100 Trommeln im Grauen Wald und nach Annahme von 100 Die Verteidigung von Crithost: 100 Den nächsten Tag erleben (Ceveneth, 53.5S,16.0W)
+Nach 100 Die Verteidigung von Crithost und 100 Den nächsten Tag erleben: 100 Tolwins Reise (Tolwin, 53.5S,16.0W)
+
+Cair Andros
+Erkundungstat (Parth Forant, 56.0S,14.3W - Parth Gladló, 58.4S,12.8W)
+Bezwingertat (Kreaturen, um 55.0S,13.0W)
+Während 100 Tolwins Reise: 100 Die Suche nach Dúneth geht weiter (Tolwin, durch Item herbeigerufen)
+Während 100 Tolwins Reise, nach 100 Die Suche nach Dúneth geht weiter #3: 100 Demontierte Pläne (Tolwin, durch Item herbeigerufen) -> 100 Schutz der Wälder
+Während 100 Tolwins Reise, nach 100 Die Suche nach Dúneth geht weiter und 100 Schutz der Wälder: 100 Auf der Schwelle von Cair Andros (Tolwin, durch Item herbeigerufen)
+100 Kampfgruppe: Tupûrta (R) (Automatisch, um 58.1S,11.7W)
+Nach 100 Tolwins Reise: 100 Die Erste Klinge (Dúneth, 50.9S,15.1W) -> 100 Instanz: Die Erste Klinge -> 100 Der Schwur von Cair Andros (Dúneth, 53.5S,16.0W)

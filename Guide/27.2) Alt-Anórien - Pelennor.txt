@@ -1,0 +1,21 @@
+Alt-Anórien: Pelennor (100)
+
+Südtor
+Erkundungstat (Pel Dúven, 69.2S,17.9W - Pel Tundalaf, 71.0S,15.6W - Pel Chardún, 69.3S,13.8W)
+100 Der sturköpfige Bauer (Turgon, 72.0S,19.4W) -> 100 Außerordentliche Sturheit (Talfadan, 69.4S,18.4W)
+Nach 100 Der sturköpfige Bauer: 100 Hauptmänner der Armee, 100 Späher auf dem Hügel (Turgon, 72.0S,19.4W)
+Nach 100 Späher auf dem Hügel: 100 Verteidigung der südlichen Rammas (Turgon, 72.0S,19.4W) -> 100 Die Reihen der Trolle ausdünnen (R)
+Nach 100 Späher auf dem Hügel: 100 Die Reihen der Orks ausdünnen (R) (Turgon, 72.0S,19.4W)
+100 Kampfgruppe: Okursa (R) (Automatisch, um 69.7S,15.9W)
+100 Kampfgruppe: Sharshûg (R) (Automatisch, um 67.7S,13.4W)
+Nach (Tat) Freund der Verteidiger von Minas Tirith: 100 Ein Weg für Aragorn freimachen (R) (Turgon, 72.0S,19.4W)
+Während 100 Ein Weg für Aragorn freimachen (R): 100 Ein Weg für Aragorn: Belagerungsmaschinen (R), 100 Ein Weg für Aragorn: Hauptmänner (R), 100 Ein Weg für Aragorn: Orks (R), 100 Ein Weg für Aragorn: Trolle (R), 100 Ein Weg für Aragorn: Zelte (R)
+
+Nordtor
+Erkundungstat (Pel Forod, 61.9S,14.9W - Pel Enaid, 66.3S,14.0W)
+Bezwingertat (Orks und Trolle, um 64.4S,13.6W - Haradrim, um 66.3S,14.0W)
+100 Das letzte Stückchen Grün (Ingold, 59.4S,17.6W) -> 100 Aufschub der Belagerung, 100 Die Plünderung der Ländereien -> 100 Die Reihen der Uruk-hai ausdünnen (R) (Ingold, 59.4S,17.6W)
+Nach 100 Das letzte Stückchen Grün: 100 Die Reihen der Ostlinge ausdünnen (R) (Ingold, 59.4S,17.6W)
+Nach (Tat) Freund der Verteidiger von Minas Tirith: 100 Rückeroberung der nördlichen Rammas (R) (Ingold, 59.4S,17.6W)
+Während 100 Rückeroberung der nördlichen Rammas (R): 100 Die nördliche Rammas: Banner (R), 100 Die nördliche Rammas: Haken (R), 100 Die nördliche Rammas: Hauptmänner (R), 100 Die nördliche Rammas: Sûhalar (R), 100 Die nördliche Rammas: Vorräte (R) (Ingold, 59.4S,17.6W)
+100 Kampfgruppe: Kûr-anchi (R) (Automatisch, um 66.2S,12.6W)

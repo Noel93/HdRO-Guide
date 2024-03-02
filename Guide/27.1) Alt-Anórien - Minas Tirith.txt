@@ -1,0 +1,54 @@
+Alt-Anórien: Minas Tirith (100)
+
+Arbeiterring
+Erkundungstat (Hochkönig Elendil, 65.5S,16.9W - König Anárion, 65.5S,16.9W - Halle der Boten, 65.2S,16.7W - Truchsess Túrin I., 65.2S,16.8W - Truchsess Húrin I., 65.3S,16.9W - Unteres Lager, 65.0S,17.1W - Nördliches Gästehaus, 64.8S,17.2W - Truchsess Herion, 63.9S,17.8W - Essenshändler-Halle, 63.4S,18.4W - Truchsess Boromir Charn, 63.5S,18.5W - König Telemnar Sintavarda, 63.3S,18.6W - König Valacar Formendur, 63.3S,18.7W - König Atanatar I., 63.4S,18.8W - Das Rad und Fass, 63.3S,19.0W - Truchsess Cirion Gwaedhir, 63.4S,19.3W - Städtische Ställe, 65.6S,16.9W - König Isildur, 65.6S,16.9W - Feste der Schlüssel, 65.9S,16.8W - König Tarannon Falastur, 66.0S,16.9W - König Eärnil I. Ciryatan, 66.0S,17.0W - Altes Gästehaus, 66.3S,17.1W - Südliches Gästehaus, 66.5S,17.2W - Halle der Handwerker, 67.8S,18.4W - Der Lachende Halbling, 67.8S,18.7W - König Siriondil, 68.0S,19.4W - König Ciryandil Úmarth, 67.8S,19.4W - König Ondoher Manardil, 67.8S,19.6W)
+100 Neuigkeiten aus Tadrent (Rossaran, 65.6S,16.9W)
+100 Eine Gruppe Reisender (Polla Feist, 63.4S,19.5W) -> 100 Bühne frei -> 100 Rummel im Blauen Theater (Polla Feist, 64.9S,19.5W) -> 100 Instanz: Rummel im Blauen Theater
+("Alt-Anórien: Pelennor") 100 Die Widerstandsfähigkeit der Rammas (Curugond, 65.7S,16.9W)
+100 Opportunisten (Húrin, 65.9S,16.8W)
+100 Ein Spaziergang mit Bergil (Bergil, 66.3S,17.1W) -> 100 Der geheime Durchgang
+Nach 100 Der geheime Durchgang: 100 Ein Brief mit Verspätung (Landath, 66.3S,17.1W)
+Nach 100 Der geheime Durchgang: 100 Ein leidender Vater (Bereneth, 66.3S,17.0W)
+Nach 100 Ein Brief mit Verspätung und 100 Ein leidender Vater: 100 Geschenke für die Zusammenkunft (Bergil, 66.3S,17.1W) -> 100 Das Bankett und der Durchbruch -> 100 Instanz: Das Bankett und der Durchbruch -> 100 Viele Flicken
+Nach (Tat) Freund der Verteidiger von Minas Tirith: ("Alt-Anórien: Pelennor") 100 Hilfe für die Gilde der Schmiede (R) (Narnaith, 65.7S,16.9W)
+Nach (Tat) Freund der Verteidiger von Minas Tirith: ("Alt-Anórien: Pelennor") 100 Hilfe für die Bauarbeitergilde (R) (Londir, 65.7S,16.9W)
+Nach (Tat) Verwandter der Verteidiger von Minas Tirith: 100 Hilfe für die Gilde der Beamten (R) (Heledon, 65.7S,16.9W)
+
+Soldatenring
+Erkundungstat (Truchsess Túrin II., 66.6S,17.6W - Besucherkaserne, 66.9S,18.0W - Der Gespaltene Schild, 67.4S,18.9W - Truchsess Beregond Belechest, 67.4S,19.7W - Pension Mûmak, 67.3S,19.9W - Halle der Gesetze, 64.6S,17.7W - Der Kopf des Wagenreiters, 63.7S,19.0W - Städtisches Gefängnis, 63.9S,19.8W)
+100 Zweikampf in Minas Tirith (Harnion, 64.1S,18.3W) -> 100 Instanz: Zweikampf in Minas Tirith
+100 Neuigkeiten aus Ethring (Dervorin, 64.0S,18.1W)
+100 Eine Wette um Wind (Gradir, 63.9S,18.2W) -> 100 Eine Wette um Magenfaul
+
+Handwerkerring
+Erkundungstat (Das Hammer und Zangen, 64.1S,18.9W - Das Ziegel und Mörtel, 64.2S,19.4W - Halle der Bauarbeiter, 64.1S,19.5W - Truchsess Egalmoth, 64.3S,20.3W - Truchsess Dior, 64.4S,20.3W - Haus des Aufruhrs, 65.2S,17.7W - Gewölbe von Rynd Mírath, 65.2S,17.8W - Halle der Tuchhändler, 66.2S,18.0W - Der Hafen, 66.6S,18.2W - König Eärnil II. Melehta, 66.9S,18.4W - Haus der Rast, 67.0S,18.6W - Mittleres Lager, 67.0S,19.3W - König Anardil, 67.2S,19.5W - Der Vergnügte Schwan, 67.1S,19.8W - Halle der Gastwirte, 66.7S,20.2W)
+100 Lagerinventur (Lintanar, 64.8S,17.9W)
+100 Nachschub für die Schmiede (Aglarang, 64.5S,18.2W)
+100 Spendensammlung (Habdir, 66.2S,18.0W)
+100 Vergangene Tage (Forlong, 67.0S,19.8W) -> 100 Umbar und Osgiliath -> 100 Nah ... auch dem Herzen
+
+Spielerring
+Erkundungstat (Das Einsame Leuchtfeuer, 66.6S,18.7W - Halle der Künstler, 66.5S,18.8W - König Calimehtar Minastan, 66.6S,19.1W - König Narmacil II. Romenturún, 66.7S,19.1W - Hohes Gästehaus, 66.6S,19.3W - Truchsess Hallas, 66.6S,19.7W - Truchsess Húrin II., 66.6S,19.7W - Truchsess Eradan, 66.4S,18.4W - Truchsess Mardil Voronwë, 66.3S,18.4W - Die Hohe Welle, 64.7S,18.6W - Truchsess Barahir, 64.4S,19.2W - König Calmacil, 64.5S,19.7W - König Atanatar II. Alcarin, 64.5S,19.7W - König Narmacil I., 64.5S,19.7W - König Aldamir, 64.6S,19.6W - Truchsess Belecthor II. Orndil, 64.6S,19.6W - König Minardil Úmanwa, 64.6S,19.7W)
+100 Ein Versteck für die Meisterwerke (Lenglír, 66.5S,18.8W)
+100 Ein kriegerischer Hort der Wörter (Dúrbethir, 66.3S,18.3W)
+100 Haltet den Dieb (Edeldame, 65.1S,18.2W)
+100 Allein in der Stadt (Mílien, 64.6S,19.0W) -> 100 Segelfahrt der Erinnerung (Círgon, 64.3S,20.3W) -> 100 Verdorrt und versenkt (Mílien, 64.6S,19.0W)
+100 Sabotage in den Zisternen (Rathon, 64.7S,19.9W)
+Nach Annahme von 100 Sabotage in den Zisternen: 100 Auf der Suche nach den Saboteuren (Rathon, 64.7S,19.9W)
+Nach Annahme von 100 Auf der Suche nach den Saboteuren: 100 Die unterirdische Ernte, 100 Drecksarbeit, 100 Ein schuppiges Problem (Rathon, 64.7S,19.9W)
+Nach (Tat) Verwandter der Verteidiger von Minas Tirith: 100 Eine Bresche in der Dunkelheit finden (R) (Rathon, 64.7S,19.9W)
+Während 100 Eine Bresche in der Dunkelheit finden (R): 100 Durchbruch in der Dunkelheit: Der verdorrte Feind (R), 100 Durchbruch in der Dunkelheit: Die Hintertür (R), 100 Durchbruch in der Dunkelheit: Die Invasoren (R), 100 Durchbruch in der Dunkelheit: Kamabhosh (R), 100 Durchbruch in der Dunkelheit: Verrat (R) (Rathon, 64.7S,19.9W)
+
+Gelehrtenring
+Erkundungstat (Truchsess Hador, 65.1S,18.7W - Haus der Himmel, 64.9S,18.9W - Truchsess Belecthor I., 64.9S,19.2W - Truchsess Orodreth, 64.8S,19.4W - Das Adler und Sichel, 65.0S,19.4W - Truchsess Thorondir, 64.9S,19.6W - König Meneldil Teltarcil, 65.1S,18.7W - Oberes Lager, 65.1S,18.6W - Die Alten Archive, 65.7S,18.4W - Die Archive von Vorondil, 66.1S,18.8W - Truchsess Belegorn, 66.3S,18.8W - Das Schwarze Haus, 66.4S,19.5W - Tafel vom Schwarzen Haus, 66.4S,19.5W - Häuser des Wissens, 66.3S,19.5W - Der Durstige Seher, 66.2S,19.7W)
+Nach ("Epos - Band IV, Buch 4: Belagerung der Weißen Stadt") 100 Buch 4, Kapitel 3: Die sieben Tore: 100 Unausgesprochene Ängste (Maenir, 66.3S,19.5W) -> 100 Worte des Feindes (Mithrandir, 65.7S,19.0W) -> 100 Abscheuliche Sprachen (Gúldil, 65.6S,18.4W) -> 100 Instanz: Abscheuliche Sprachen
+
+Meisterring
+Erkundungstat (Die Helle Halle, 66.0S,19.0W - König Cemendur, 66.1S,19.0W - König Eärendil, 66.1S,18.9W - Obere Ställe, 65.3S,18.8W - Truchsess Ecthelion II. Thandir, 65.2S,18.8W - Sonnenkuppel, 65.2S,18.8W - Truchsess Turgon, 65.3S,18.9W - Stadtkammer, 65.1S,19.1W - Truchsess Denethor I., 65.1S,19.4W - Halle der Stadtbeamten, 65.2S,19.5W)
+100 Für den kommenden Sturm (Galathir, 66.1S,19.3W)
+
+Die Zitadelle
+Erkundungstat (König Eärnur Teldil, 65.5S,19.2W - Truchsess Beren Ithrondil, 65.5S,19.2W - König Ostoher, 65.7S,19.2W - Truchsess Ecthelion I. Minastur, 65.7S,19.2W - Das Truhenhaus, 65.8S,19.2W - Großes südliches Gästehaus, 65.8S,19.1W - König Tarondor Andovarda, 65.6S,18.7W - König Rómendacil I. Tarostar, 65.5S,18.7W - König Turambar Onótimo, 65.5S,18.5W - König Rómendacil II. Minalcar, 65.5S,17.9W - König Telumehtar Umbardacil, 65.7S,17.9W - König Hyarmendacil II. Vinyarion, 65.7S,18.5W - König Hyarmendacil I. Ciryaher, 65.7S,18.7W - Von 65.6S,17.2W springen) - König Eldacar Vinitharya, 65.6S,18.7W
+100 Brüderliche Rivalen (Ormatar, 65.7S,19.2W)
+Während 100 Brüderliche Rivalen: 100 Merethrond (Beregond, 65.4S,18.9W)
+Während 100 Brüderliche Rivalen: 100 Das große südliche Gästehaus (Iorlas, 65.9S,18.8W)

@@ -1,0 +1,36 @@
+Alt-Anórien (100)
+
+"Epos - Band IV, Buch 4: Belagerung der Weißen Stadt" (Fortsetzung aus Ost-Gondor)
+100 Buch 4, Kapitel 2: Zu weit von der Stadt (Derufin, 63.7S,14.6W) -> 100 Instanz: Zu weit von der Stadt -> 100 Buch 4, Kapitel 3: Die sieben Tore (Gandalf, 65.7S,16.7W) -> 100 Buch  4, Kapitel 4: Der Wachturm (Mithrandir, 65.7S,19.0W) -> 100 Buch 4, Kapitel 5: Hinter der Rammas (Imrahil, 65.7S,16.9W) -> 100 Buch 4, Kapitel 6: Die Schlinge schließt sich (Barathant, 54.6S,16.2W) -> 100 Buch 4, Kapitel 7: Ein Ring aus Feinden (Imrahil, 65.7S,16.9W) -> 100 Buch 4, Kapitel 8: Was der Truchsess sah (Ormatar, 65.7S,19.2W) -> 100 Instanz: Was der Truchsess sah -> 100 Buch 4, Kapitel 9: Die belagerte Stadt (Mithrandir, 58.2N,19.1E) -> 100 Buch 4, Kapitel 10: Die Verteidigung von Minas Tirith (Imrahil, 58.1N,19.3E) -> 100 Buch 4, Kapitel 11: Der Unterwelthammer -> 100 Buch 4, Kapitel 12: Die dunkelste Stunde -> 100 Instanz: Die dunkelste Stunde -> 100 Buch 4, Kapitel 13: Es ist noch nicht zu spät (Peregrin Tuk, 65.6S,19.2W)
+Während 100 Buch  4, Kapitel 4: Der Wachturm: 100 Wache der Zitadelle (Peregrin Tuk, 65.6S,19.2W)
+Während 100 Buch  4, Kapitel 4: Der Wachturm: 100 Der Rat von Gondor (Othnar, 65.3S,18.8W)
+Während 100 Buch  4, Kapitel 4: Der Wachturm: 100 Disziplin benötigt (Duilin, 67.2S,20.1W)
+Während 100 Buch 4, Kapitel 7: Ein Ring aus Feinden: 100 Der Mut der Verzweifelten (Echadon, 67.4S,18.9W)
+Während 100 Buch 4, Kapitel 7: Ein Ring aus Feinden: 100 Eine lange Belagerung (Arodor, 65.2S,18.8W)
+Während 100 Buch 4, Kapitel 7: Ein Ring aus Feinden: 100 Eine Frage der Abstammung (Mithrandir, 65.7S,19.0W) -> 100 Instanz: Eine Frage der Abstammung
+Nach 100 Eine lange Belagerung: 100 Eine lange Belagerung - Ihr vergebt ihm oder 100 Eine lange Belagerung - Ihr verratet ihn (Dírion, 65.1S,17.0W)
+Während 100 Buch 4, Kapitel 9: Die belagerte Stadt: 100 Der Verdorrte Baum (Lamlor, 59.6N,18.0E)
+Während 100 Buch 4, Kapitel 9: Die belagerte Stadt: 100 Feuer in der Stadt (Rathon, 58.8N,17.9E)
+Während 100 Buch 4, Kapitel 9: Die belagerte Stadt: 100 Verrückt vor Angst (Ingold, 60.8N,17.9E)
+
+"Epos - Band IV, Buch 5: Der Ritt der Rohirrim" 
+101 Buch 5, Kapitel 1: Gefährliche Gerüchte (Mithrandir, 65.7S,19.0W) -> 101 Buch 5, Kapitel 2: Reitet sicher und geschwind (Lobodril, 65.6S,17.0W)
+
+("Epische Schlachten - Krieg um Gondor") Die Verteidigung von Minas Tirith
+C Die Verteidigung von Minas Tirith (R) (Automatisch, solo/duo)
+C Epischer Feind: Raghathai, Faramirs Fluch (R), C Kreaturen von Harad (R), C In hellen Flammen (R) (Automatisch, während der Verteidigung des linken Mauerabschnitts solo/duo)
+C Epischer Feind: Ahârtal, die Hand der Ersten Klinge (R), C Regen des Todes (R), C Verzweiflung in den Straßen (R) (Automatisch, während der Verteidigung des rechten Mauerabschnitts solo/duo)
+C Die Verteidigung von Minas Tirith (R) (Automatisch, kleine Gefährtengruppe)
+C Epischer Feind: Raghathai, Faramirs Fluch (R), C Kreaturen von Harad (R), C In hellen Flammen (R) (Automatisch, kleine Gefährtengruppe)
+C Epischer Feind: Ahârtal, die Hand der Ersten Klinge (R), C Regen des Todes (R), C Verzweiflung in den Straßen (R) (Automatisch, kleine Gefährtengruppe)
+
+("Epische Schlachten - Krieg um Gondor") Hammer der Unterwelt
+C Der Unterwelthammer (R) (Automatisch, solo/duo)
+C Epischer Feind: Ughâsh der Unersättliche (R), C Kriegstrommeln (R) (Automatisch, während der Verteidigung der Nordflanke solo/duo)
+C Epischer Feind: Mâsorgh der Schädelspalter (R), C Eine brutale Wende (R) (Automatisch, während der Verteidigung der Südflanke solo/duo)
+C Auf schwarzen Schwingen (R), C Angsterstarrt (R) (Automatisch, während der Verteidigung des Tors solo/duo)
+C Der Unterwelthammer (R) (Automatisch, Gefährtengruppe)
+C Epischer Feind: Ughâsh der Unersättliche (R), C Kriegstrommeln (R) (Automatisch, Gefährtengruppe)
+C Epischer Feind: Mâsorgh der Schädelspalter (R), C Eine brutale Wende (R) (Automatisch, Gefährtengruppe)
+C Auf schwarzen Schwingen (R), C Angsterstarrt (R) (Automatisch, Gefährtengruppe)
+C Aus der Tiefe (R) (Automatisch, Gefährtengruppe)
