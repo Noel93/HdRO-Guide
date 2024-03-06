@@ -1,0 +1,40 @@
+Fernes Anórien: Taur Drúadan (100-102)
+
+Grauer Wald
+102 Verschlungene Webereien (R) (Spinnen, um 51.6S,22.4W)
+
+Drû Butha
+102 Jagdauftrag: Verderbte Waldtrolle (R), 102 Felle gesucht (R) (Gnô-buri-Krûg, 52.6S,26.7W)
+101 Geschnitzte Geschichte (Khûr-pulo-Skâl, 52.8S,26.7W)
+101 Der Ruf der Wasa (Ôk-weni-Dhûr, 52.8S,26.7W) -> 101 Wilde Ehe
+101 Ein donnernder Auftrag (Dhûn-buri-Ghôb, 52.9S,26.8)
+101 Die Jagd nach dem Weißen Hirsch (Lhôs-uksa-Wôt, 53.4S,27.7W) -> 101 Luck of the White Stag
+101 Die Wurzel der Dunkelheit, 101 Ein knorriges Problem (Ghân-buri-Ghân, 53.5S,27.7W) -> 101 Choking Vines -> 101 Lost in the Wood -> 101 Ancient Wards -> 101 Glade of the Three Merry-makers -> 101 Instance: Glade of the Three Merry-makers -> 101 The Mysterious Dheghûn -> 101 The Forgotten Quarry -> 101 Lost Shadows -> 101 Instance: Lost Shadows -> 101 Mender of the Grey Wood
+101 Die Suche nach Shákrug (Ghân-buri-Ghân, 53.5S,27.7W)
+
+Amon Dîn
+Erkundungstat (Amon Dîn, 48.1S,23.8W)
+Nach 101 Die Suche nach Shákrug Objective #2: 101 Die Feinde in Maudhúl Grak, 101 Die Schwächung von Maudhúl Grak (Automatisch, um 47.2S,21.9W)
+Nach 101 Die Suche nach Shákrug: 101 Shákrugs letzter Kampf (Untergebener des Schlüsselwächters, um 45.3S,23.4W) -> 101 Thanking the Dhûrghud
+Nach 101 Shákrugs letzter Kampf Objective #4: 101 Die Aufgabe des Boten (Bregdal, 47.1S,22.5W)
+102 Die Heulende Bedrohung (Warge, um 49.2S,22.9W)
+102 Blockade durch die Variag (Variag, um 46.3S,24.7W)
+105 Kampfgruppe: Aslâ Khimash (R) (Automatisch, um 46.1S,19.8W)
+105 Kampfgruppe: Ganglemód (R) (Automatisch, um 50.1S,24.9W)
+
+Eilenach
+102 Jagdauftrag: Kundschafter bei den Leuchtfeuern (R), 102 Nahrung für die Reiter (R) (Dúnhere, 46.1S,28.1W)
+("Weites Anórien: Leuchtfeuerberge") 103 Ein Geschenk auf Abwegen, ("Weites Anórien: Leuchtfeuerberge") 103 Das Grab am Halifirien (Guthláf, 46.1S,28.1W)
+("Weites Anórien: Leuchtfeuerberge") 103 Die Spuren einer Armee, ("Weites Anórien: Leuchtfeuerberge") 103 Die Botenreiter (Déowrine, 46.1S,28.1W)
+
+
+
+
+102 Thwarting Spying Eyes -> 102 Herefara's Patrol -> 102 The Variag Variable
+105 Warband: Krûghu (R)
+
+
+
+
+
+Nach ("Weites Anórien: Leuchtfeuerberge") 10X Vengeance for Léofdag: 104 Whispers in the Forest -> 104 The Way of the Enemy -> ("The Battle of Pelennor") 105 A Field of Death -> ("The Battle of Pelennor") 105 Honour and Treachery -> ("The Battle of Pelennor") 105 Instance: Honour and Treachery
