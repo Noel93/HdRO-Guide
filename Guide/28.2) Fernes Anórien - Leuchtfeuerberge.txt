@@ -1,19 +1,34 @@
-Weites Anórien: Leuchtfeuerberge (103-105)
+Weites Anórien: Leuchtfeuerhügel (103-105)
 
-103 A Perilous Parley -> 103 The Ransomer's Rival -> 103 A Look Before the Leap -> 103 Treating with Scoundrels -> 103 Instance: Treating With Scoundrels -> 103 A Recounting of the Sons -> 104 A Trail in the Entwash -> 104 Back on One's Feet -> 104 Hobbling Homeward
-Nach 103 A Perilous Parley: 103 Gathering Wool
-103 The Horseless Rider -> 103 Saddle and Shoes -> 103 A Horse in the Forest
-103 The Straw Men of Ost Rimmon -> 103 Best Banners Forward
-103 The Riders Three -> 103 Vengeance for Léofdag
-104 Variags at Bâr Nadhron
-103 Claws in the Firien
-103 Courage and Light
+Erelas
+Erkundungstat (Erelas, 46.1S,33.5W)
+Schatzspeicher (46.6S,32.6W - 48.6S,32.0W - 48.5S,34.0W)
+105 Der Stoßtrupp (R) (Uruk-hai, um 44.6S,33.9W)
+105 Kampfgruppe: Naurúk (R) (Automatisch, um 43.0S,36.1W)
 
-104 Enemies in the Firien Wood (R)
-104 Enemies in the Mouths of Entwash (R)
-104 Entwash Greens (R)
-104 Eyes On Ost Rimmon (R)
-104 The Burrowers (R)
-105 The Raiding Party (R)
-105 Warband: Jarl Vrakya (R)
-105 Warband: Naurúk (R)
+Min-Rimmon
+Erkundungstat (Min-Rimmon, 46.4S,37.9W)
+Schatzspeicher (45.6S,35.9W - 47.9S,39.5W)
+103 Der Reiter ohne Pferd (Sithgar, 46.7S,36.4W) -> 103 Sattel und Hufeisen
+103 Mut und Licht, 104 Entwasser-Grünzeug (R) (Narvellon, 47.4S,36.6W)
+104 Die Feste Rimmon im Blick (R) (Glánhar, 47.8S,37.1W)
+103 Die Strohleute der Feste Rimmon (Glánhar, 47.8S,37.1W) -> 103 Hoch die Banner
+103 Schwierige Verhandlungen (Glánhar, 47.8S,37.1W) -> 103 Der Rivale des Erpressers -> 103 Erst schauen - dann springen (Gondrad, 42.7S,45.3W) -> 103 Verhandeln mit Schurken (Gondrad, 42.4S,39.0W) -> 103 Instanz: Verhandeln mit Schurken -> 103 Die Geschichte der Söhne -> 104 Eine Spur im Entwasser (Togbor, 42.7S,37.1W) -> 104 Wieder auf den Beinen (Malhar, 36.0S,36.1W) -> 104 Der lange Weg nach Hause
+Nach 103 Schwierige Verhandlungen: 103 Wolle sammeln (Lavandir, 47.8S,37.1W)
+103 Die Reiter der Drei (Burnoth, Sohn von Baldeg, 48.1S,37.5W) -> 103 Rache für Léofdag (Ulf der Verwüster, 48.1S,37.5W)
+104 Die Gräber (R) (Höhlenklauen, um 49.4S,38.4W)
+
+Calenhad
+Erkundungstat (Calenhad, 44.6S,41.8W)
+Schatzspeicher (40.5S,38.9W - 43.9S,42.0W - 45.4S,41.6W)
+Bezwingertat (Variag und Kreaturen, um 41.6S,39.2W)
+104 Variag bei Bâr Nadhron (Variag, um 41.6S,39.2W)
+105 Kampfgruppe: Jarl Vrakya (R) (Automatisch, um 41.6S,42.5W)
+
+Halifirien
+Erkundungstat (Halifirien, 45.6S,46.3W)
+Schatzspeicher (43.9S,47.1W - 46.6S,47.3W)
+103 Klauen im Firienwald (Láthbären, um 44.0S,46.0W)
+
+Mündung der Entwasser
+Erkundungstat (Hügelgrab, 41.9S,37.0W - Hügelgrab, 41.0S,36.8W - Hügelgrab, 39.6S,36.6W - Hügelgrab, 38.7S,36.8W - Hügelgrab, 37.6S,36.7W - Hügelgrab, 36.3S,36.6W - Hügelgrab, 35.0S,36.8W - Hügelgrab, 34.6S,37.5W)

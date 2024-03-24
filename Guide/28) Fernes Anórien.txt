@@ -3,42 +3,52 @@ Fernes Anórien (100-105)
 "Epos - Band IV, Buch 5: Der Ritt der Rohirrim" (Fortsetzung aus Alt-Anórien)
 102 Buch 5, Kapitel 3: Älter als die Hügel (Khôr-buri-Ghân, 52.1S,23.8W) -> 102 Buch 5, Kapitel 4: Die verhassten Orks (Ghân-buri-Ghân, 53.5S,27.7W) -> 103 Buch 5, Kapitel 5: Die lange Straße zur Schlacht (Khôr-buri-Ghân, 53.7S,26.8W) -> 103 Buch 5, Kapitel 6: Was es heißt, zu kämpfen (Ingbert, 45.4S,26.0W) -> 103 Buch 5, Kapitel 7: Durch das Steinkarrental (Meriadoc Brandybock, 45.6S,26.7W) -> 104 Buch 5, Kapitel 8: Der Ritt der Rohirrim (Éomer, 55.6S,21.9W) -> 104 Instanz: Der Ritt der Rohirrim
 
+"Epos - Band IV, Buch 6: Die Schlacht auf dem Pelennor"
+105 Buch 6, Kapitel 1: Im Kampf verbunden (Théoden, 27.1N,16.6W) -> 105 Buch 6, Kapitel 2: Der Tod wird Euch holen -> 105 Instanz: Der Tod wird Euch holen -> 105 Buch 6, Kapitel 3: Die Macht der Verzweiflung (Gléowine, 22.4N,14.2W) -> 105 Buch 6, Kapitel 4: Der Feind ist neu erwacht (Ingbert, 22.3N,14.2W) -> 105 Instanz: Der Feind ist neu erwacht -> 105 Buch 6, Kapitel 5: Die schwarzen Schiffe (Éomer, 18.3N,15.4W) -> 105 Buch 6, Kapitel 6: Die Schlacht tobt -> 105 Buch 6, Kapitel 7: Finale Rache (Corunir, 18.9N,18.3W) -> 105 Instanz: Finale Rache -> 105 Buch 6, Kapitel 7: So rot das Feld (Corunir, 18.8N,18.2W) -> 105 Instanz: So rot das Feld -> 105 Buch 6, Kapitel 9: Die Stadt steht (Aragorn, 22.4N,16.1W)
 
+"Epos - Band IV, Buch 7: Die Falle"
+105 Buch 7, Kapitel 1: Die Heilung beginnt (Aragorn, 22.4N,16.1W)
 
+"Zorn und Vernichtung"
+105 Zorn und Verderben, Kapitel 1 (Bregdal, 27.2N,16.7W) -> 105 Zorn und Verderben, Kapitel 2 -> 105 Zorn und Verderben, Kapitel 3 (Bregdal, 22.5N,14.2W) -> 105 Zorn und Verderben, Kapitel 4 -> 105 Zorn und Verderben, Kapitel 5 (Bregdal, 18.7N,15.2W) -> 105 Zorn und Verderben, Kapitel 6 (Bregdal, 18.7N,18.4W)
 
+"Die Schlacht auf dem Pelennor"
+Nach ("Fernes Anórien: Taur Drúadan") 104 Die Methoden des Feindes: 105 Ein Feld des Todes (Burnoth, Sohn des Baldeg, 27.2N,16.3W) -> 105 Ehre und Verrat (Burnoth, Sohn des Baldeg, 22.5N,13.5W) -> 105 Instanz: Ehre und Verrat
 
+"Minas Tirith (Schlachtgezeichnet)"
+Nach Tat "Verwandter der Verteidiger von Minas Tirith": 105 Nach der Schlacht (Automatisch, um 22.4N,16.1W)
 
-X+ Blood of the Black Serpent -- Tier 1 (R)
-X+ Blood of the Black Serpent -- Tier 2 (R)
-X+ Bounty: Blood of the Black Serpent (R)
-X+ Featured Instance: Blood of the Black Serpent (R)
-X+ Featured Instance: Blood of the Black Serpent (cap level) (R)
-X+ Featured Challenge: Blood of the Black Serpent (R)
+("Die Schlacht auf dem Pelennor") Blut der Schwarzen Schlange
+75+ Blut der Schwarzen Schlange -- Stufe 1 (R) (Automatisch, T1)
+75+ Blut der Schwarzen Schlange -- Stufe 2 (R) (Automatisch, T2)
+MAX Bounty: Blood of the Black Serpent (R) (Automatisch, T2)
+100+ Featured Instance: Blood of the Black Serpent (R) (Automatisch, T2)
+MAX Featured Instance: Blood of the Black Serpent (cap level) (R) (Automatisch, T2)
+MAX Featured Challenge: Blood of the Black Serpent (R) (Automatisch, T2)
+MAX Challenge: Fall of the Two Princes (R) (Automatisch, T2)
 
+("Die Schlacht auf dem Pelennor") Die Stille Straße
+75+ Die Stille Straße - Stufe 1 (R) (Automatisch, T1)
+75+ Die Stille Straße - Stufe 2 (R) (Automatisch, T2)
+MAX Bounty: The Silent Street (R) (Automatisch, T2)
+100+ Featured Instance: The Silent Street (R) (Automatisch, T2)
+MAX Featured Instance: The Silent Street (cap level) (R) (Automatisch, T2)
+MAX Featured Challenge: The Silent Street (R) (Automatisch, T2)
+MAX Challenge: Redeemer of the Cursed Line (R) (Automatisch, T2)
 
-X+ The Silent Street -- Tier 1 (R)
-X+ The Silent Street -- Tier 2 (R)
-X+ Bounty: The Silent Street (R)
-X+ Featured Instance: The Silent Street (R)
-X+ Featured Instance: The Silent Street (cap level) (R)
-X+ Featured Challenge: The Silent Street (R)
+("Die Schlacht auf dem Pelennor") Die Kais von Harlond
+75+ Die Kais vom Harlond - Stufe 1 (R) (Automatisch, T1)
+75+ Die Kais vom Harlond - Stufe 2 (R) (Automatisch, T2)
+MAX Bounty: The Quays of the Harlond (R) (Automatisch, T2)
+100+ Featured Instance: Quays of the Harlond (R) (Automatisch, T2)
+MAX Featured Instance: Quays of the Harlond (cap level) (R) (Automatisch, T2)
+MAX Featured Challenge: The Quays of the Harlond (R) (Automatisch, T2)
+MAX Challenge: Kálmok's Squadron (R) (Automatisch, T2)
 
-
-X+ The Quays of the Harlond -- Tier 1 (R)
-X+ The Quays of the Harlond -- Tier 2 (R)
-X+ Bounty: The Quays of the Harlond (R)
-X+ Featured Instance: Quays of the Harlond (R)
-X+ Featured Instance: Quays of the Harlond (cap level) (R)
-X+ Featured Challenge: The Quays of the Harlond (R)
-
-
-X+ Challenge: Fall of the Two Princes (R)
-X+ Challenge: Kálmok's Squadron (R)
-X+ Challenge: Redeemer of the Cursed Line (R)
-
-105 Challenge: Calm of Death (R)
-105 Challenge: Fear or Flame (R)
-105 Challenge: Short Fuse (R)
-105 Challenge: The Returned King (R)
-105 Challenge: Trampling the Mûmakil (R)
-105 Challenge: Unbound Corruption (R)
+("Die Schlacht auf dem Pelennor") Thron des Schreckensherrn
+105 Challenge: Short Fuse (R) (Automatisch, T2)
+105 Challenge: Trampling the Mûmakil (R) (Automatisch, T2)
+105 Challenge: Fear or Flame (R) (Automatisch, T2)
+105 Challenge: Unbound Corruption (R) (Automatisch, T2)
+105 Challenge: Calm of Death (R) (Automatisch, T2)
+105 Challenge: The Returned King (R) (Automatisch, T2)
