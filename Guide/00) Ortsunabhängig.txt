@@ -58,3 +58,5 @@ Lv.100: ("Fernes Anórien") 101 Einführung: Weites Anórien
 
 Lv.105: ("Pelennor (schlachtgezeichnet)") 105 Einführung: Anórien (schlachtgezeichnet)
 Lv.105: ("Das Ödland") 105 Einführung: Die Ödlande
+
+Lv.115: ("Festungen des Nordens") 115 Einführung: Nördlicher Düsterwald

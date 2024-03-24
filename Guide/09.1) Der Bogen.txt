@@ -15,6 +15,9 @@ Erkundungstat (Tham Lumren, 38.7S,17.3W - Adlerfarnhütte, 39.4S,17.4W - Glynafon
 Bezwingertat (Geister um 37.9S,16.9W - Kreaturen um 40.0S,18.3W)
 Nach Ziel #2 von 40 Verdorbenes Gold: 40 Flussufer-Avanc (Thalathril, 38.7S,17.2W)
 40 Heilung eines Heilers (Hal Hornbläser, 38.6S,18.5W) -> 41 Die Blüte der Liebe?
+41 Rast am Wegrand (Ivoreth, 38.6S,20.0W) -> 41 Gefahr in nächster Nähe -> 41 Sicheres Geleit
+Nach Annahme von 41 Rast am Wegrand: 41 Abneigung gegen Gemüse, 41 Frische Nachspeise (Barhador, 38.6S,20.0W)
+Nach 41 Sicheres Geleit Objective #3: 41 Eine Nachricht vom Häuptling (Glorfindel, 38.8S,17.9W)
 Nach 40 Ein verlorener Talisman: 40 Jagd auf den Talisman (Maervellon, 39.9S,18.6W)
 40 Verzweifeltes Lagern (Onora, 40.7S,19.0W) -> 40 Bären und Beeren -> 40 Sichere Passage nach Gaerond (Rúdhan, 40.7S,19.0W)
 
