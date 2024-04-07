@@ -21,7 +21,7 @@ Nach 103 Schwierige Verhandlungen: 103 Wolle sammeln (Lavandir, 47.8S,37.1W)
 Calenhad
 Erkundungstat (Calenhad, 44.6S,41.8W)
 Schatzspeicher (40.5S,38.9W - 43.9S,42.0W - 45.4S,41.6W)
-Bezwingertat (Variag und Kreaturen, um 41.6S,39.2W)
+Bezwingertat (Variag und Kreaturen, um 41.6S,39.2W - Wargreiter, um 41.6S,41.5W)
 104 Variag bei Bâr Nadhron (Variag, um 41.6S,39.2W)
 105 Kampfgruppe: Jarl Vrakya (R) (Automatisch, um 41.6S,42.5W)
 

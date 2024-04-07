@@ -1,6 +1,7 @@
 Fernes Anórien: Taur Drúadan (100-102)
 
 Drû Butha
+Bezwingertat (Dheghûn, um 52.9S,30.6W)
 102 Jagdauftrag: Verderbte Waldtrolle (R), 102 Felle gesucht (R) (Gnô-buri-Krûg, 52.6S,26.7W)
 101 Geschnitzte Geschichte (Khûr-pulo-Skâl, 52.8S,26.7W)
 101 Der Ruf der Wasa (Ôk-weni-Dhûr, 52.8S,26.7W) -> 101 Wilde Ehe
@@ -12,6 +13,7 @@ Nach 101 Shákrugs letzter Kampf: 101 Dank dem Dhûrghud (Ghân-buri-Ghân, 53.5
 
 Grauer Wald
 Schatzspeicher (53.7S,19.5W)
+Bezwingertat (Ghûrdhos, um 53.0S,20.8W)
 Nach 101 Die Jagd nach dem Weißen Hirsch: 101 Das Glück des Weißen Hirschs (Glitzerlilie, 54.6S,18.3W)
 102 Verschlungene Webereien (R) (Spinnen, um 51.6S,22.4W)
 105 Kampfgruppe: Krûghu (R) (Automatisch, um 55.8S,17.9W)
