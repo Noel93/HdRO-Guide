@@ -1,0 +1,14 @@
+Pelennor (schlachtgezeichnet) (105)
+
+Erkundungstat (Vorräte der Haradrim, 70.9S,15.3W - Vorräte der Haradrim, 69.4S,15.1W - Vorräte der Haradrim, 66.4S,13.8W - Vorräte der Haradrim, 58.3S,13.1W)
+
+105 Die Nachwehen des Sieges (Aragorn, 65.6S,14.7W) -> 105 Trauer um die Toten -> 105 Instanz: Trauer um die Toten -> ("Osgiliath (schlachtgezeichnet)") 105 Der Marsch nach Osgiliath
+Während 105 Die Nachwehen des Sieges Objective #3: 105 Die Nachwehen: Dervorin und Rossaran, 105 Die Nachwehen: Duilin und Derufin, 105 Die Nachwehen: Forlong, Golasgil und Hirluin, 105 Die Nachwehen: Ingold und Turgon (Aragorn, 65.6S,14.7W)
+Während 105 Die Nachwehen des Sieges Objective #4: 105 Die Nachwehen: Die tapferen Rohirrim, 105 Die Nachwehen: Elfmar, Harding und Torferth (Aragorn, 65.6S,14.7W)
+
+105 Der Kopf der gefallenen Bestie (König Éomer, 65.6S,14.7W) -> 105 Instanz: Der Kopf der gefallenen Bestie -> 105 Der letzte Hauptmann -> 105 Elfhelms Geheimnis -> 105 Die Rückeroberung von Talath Anor -> 105 Instanz: Die Rückeroberung von Talath Anor -> 105 Umherstreifende Feinde auf dem Pelennor (König Éomer, (König Éomer, 65.6S,14.7W)
+Nach ("Epos - Band IV, Buch 7: Die Falle") 105 Buch 7, Kapitel 2: Der Rat der Hauptmänner und 105 Die Rückeroberung von Talath Anor: 105 Patrouille an der Stadtmauer (König Éomer, 65.6S,14.7W)
+
+Nach ("Epos - Band IV, Buch 7: Die Falle") 105 Buch 7, Kapitel 2: Der Rat der Hauptmänner: 105 Bergbau am Mindolluin (Angbor, 65.4S,14.6W) -> 105 Verstärkung der Truppen -> 105 Erprobung der Rüstungen -> 105 Klingen schmieden, 105 Packen für den Marsch, 105 Wichtige Rüstungen
+
+("Das Ödland") 100 Runen der Verbesserung für Heer-des-Westens-Silberstücke (täglich) (R), 100 Runen der Verbesserung für Heer-des-Westens-Silberstücke (wöchentlich) (R) (Quartiermeister, 65.6S,14.6W)

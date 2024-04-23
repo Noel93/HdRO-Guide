@@ -1,0 +1,8 @@
+Osgiliath (schlachtgezeichnet) (105)
+
+Erkundungstat (Häuser der Heilung, 62.0S,7.4W - Der Sternendom, 61.5S,9.1W - Vorräte der Haradrim, 61.2S,10.4W - Palast von Eldacar, 61.2S,11.2W - Vorräte der Haradrim, 64.4S,9.9W - Vorräte der Haradrim, 63.8S,8.8W - Vorräte der Haradrim, 63.6S,7.8W - Tunnel von Osgiliath, 62.7S,8.8W)
+Bezwingertat (Feinde, 62.7S,8.8W)
+
+105 Feinde in den Ruinen (Mablung, 63.0S,7.1W) -> 105 Aushaltende zwischen den Trümmern -> 105 Freund oder Feind -> 105 Ein vernünftiger Handel -> 105 Das Morgul-Nest -> 105 Der Marsch zur Kreuzung -> 105 Nachricht vom Heer (Angbor, 63.1S,5.4W) -> 105 Der gefallene König in Trümmern -> 105 Der erneuerte gefallene König (Arandol, 63.2S,5.1W) -> 105 Feuer unter dem Schatten (Angbor, 63.1S,5.4W) -> 105 Instanz: Feuer unter dem Schatten -> 105 Der Marsch nach Nord-Ithilien
+
+("Das Ödland") 100 Runen der Verbesserung für Heer-des-Westens-Silberstücke (täglich) (R), 100 Runen der Verbesserung für Heer-des-Westens-Silberstücke (wöchentlich) (R) (Quartiermeister, 63.1S,7.2W)

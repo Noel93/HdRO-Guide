@@ -1,0 +1,68 @@
+Nord-Ithilien (105)
+
+Bâr Aroth
+Erkundungstat (Bâr Aroth, 59.6S,5.6W)
+Schatzspeicher (59.5S,6.1W [auf die Mauer springen])
+105 Durch die Gärten Gondors (Thurindol, 62.7S,4.9W)
+Nach Annahme von 105 Durch die Gärten Gondors: 105 Die Rückeroberung Ithiliens, 105 Ein nahender Feind, 105 Kriechender Verfall (Thurindol, 62.7S,4.9W)
+Nach Annahme von 105 Durch die Gärten Gondors: 105 Die Macht Mordors (R) (Orks und Ostlinge, um 62.6S,4.6W)
+Nach Annahme von 105 Durch die Gärten Gondors: 105 Überwuchert und überrannt (Überwuchernde Äste, um 61.3S,3.9W)
+Nach ("Osgiliath (schlachtgezeichnet)") 105 Ein vernünftiger Handel: 105 Keine Schlacht mehr zu kämpfen (Automatisch, um 59.5S,8.7W)
+105 Kampfgruppe: Bittergalle die Weberin (R) (Automatisch, um 57.6S,7.8W)
+
+Aelin Veren
+Erkundungstat (Thargelon, 56.5S,5.0W - Aelin Veren, 52.8S,7.2W)
+Schatzspeicher (56.4S,5.0W - 56.7S,7.3W - 56.5S,8.1W - 53.1S,7.6W - 52.9S,10.1W)
+105 Schlangen in der Falle (Automatisch, um 53.0S,6.6W) -> 105 Kriegsgefangene, 105 Hilfe für den Feind (Maendal, 53.0S,6.9W)
+Während 105 Kriegsgefangene: 105 Zähnefletschen (Daugha-tûm, 53.0S,6.9W)
+Nach 105 Zähnefletschen: 105 Nachlassende Spannungen (Maendal, 53.0S,6.9W)
+Während 105 Kriegsgefangene, nach 105 Zähnefletschen: 105 Ein ernstes Problem (Thai-chât, 53.0S,6.9W)
+Während 105 Kriegsgefangene, nach 105 Zähnefletschen: 105 Geschichten aus Harad (Jubuya, 53.1S,7.4W)
+Während 105 Kriegsgefangene, nach 105 Zähnefletschen: 105 Ein notwendiger Kompromiss (Chan-két Doloi, 53.0S,7.6W)
+Nach 105 Kriegsgefangene: 105 Ein Moment des Friedens (Maendal, 53.0S,6.9W)
+Während 105 Durch die Gärten Gondors Objective #3: 105 Das Fenster des Sonnenuntergangs (Dornach, 51.4S,6.8W)
+105 Kampfgruppe: Ognir, Krieger von Minas Morgul (R) (Automatisch, um 55.7S,5.3W)
+
+Henneth Annûn
+Bezwingertat (Kreaturen, um 47.6S,5.8W)
+Schatzspeicher (51.3S,8.2W - 52.2S,11.4W)
+("Kräuterkunde") 105 Hilfe für die Kräuterkundigen: Nord-Ithilien (R) (Automatisch, um 48.1S,8.1W)
+Nach 105 Das Fenster des Sonnenuntergangs: 105 Von der Schlacht zum Krieg (Anborn, 48.1S,8.0W) -> 105 Seltsame Gesellschaft, 105 Die letzte Zuflucht (Mablung, 48.1S,8.0W)
+Nach Annahme von 105 Von der Schlacht zum Krieg: 105 Die Narben des Pelennor (Anborn, 48.1S,8.0W)
+Nach 105 Von der Schlacht zum Krieg: 105 Kein sicheres Geleit (Rhadrog, 48.1S,8.0W)
+Nach 105 Seltsame Gesellschaft: 105 Reisende in Ithilien (Anborn, 48.1S,8.0W) -> 105 Instanz: Reisende in Ithilien -> 105 Halblinge and Olifanten (Mablung, 48.1S,8.0W) -> 105 Instanz: Halblinge and Olifanten -> 105 Der verbotene Teich (Anborn, 48.1S,8.0W) -> 105 Instanz: Der verbotene Teich -> 105 Ein beunruhigender Weg -> 105 Instanz: Ein beunruhigender Weg
+Nach Annahme von 105 Die letzte Zuflucht: 105 Natürliche Verteidigung (Rhadrog, 48.1S,8.0W)
+Nach 105 Die letzte Zuflucht: 105 Das Meistern der Wildnis, 105 Schatten Ithiliens (Mablung, 48.1S,8.0W) -> ("Kräuterkunde") 105 Die Rückeroberung von Torngroth (R)
+Nach Annahme von 105 Schatten Ithiliens: 105 Ein ängstlicher Feind (Rhadrog, 48.1S,8.0W)
+Nach Annahme von 105 Schatten Ithiliens: 105 Einschnürende Netze (Automatisch, 54.6S,4.7W)
+Nach Annahme von 105 Schatten Ithiliens: 105 Eines Waldläufers Verlust (Automatisch, 41.6S,11.3W)
+Nach 105 Das Meistern der Wildnis: 105 Verbotene Wasser (Laeglaw, 48.1S,7.9W)
+Nach 105 Das Meistern der Wildnis und 105 Schatten Ithiliens: 105 Ausbruch aus der Falle (Anborn, 48.1S,8.0W)
+Nach 105 Durch die Gärten Gondors und nach Annahme von ("Kräuterkunde") 105 Aufzeichnungen eines Lehrlings: Ithilien: ("Kräuterkunde") 105 Löscht sie aus (R), ("Kräuterkunde") 105 Rettung der Wildnis (R), ("Kräuterkunde") 105 Wertvoller Saft (R) (Thurindol, 48.1S,8.0W)
+
+Bâr Tarnaher 
+Erkundungstat (Bâr Tarnaher, 43.4S,13.2W)
+Schatzspeicher (46.5S,10.6W - 45.0S,11.7W - 45.9S,15.2W)
+Nach 105 Keine Schlacht mehr zu kämpfen: 105 Beglichene Schulden (Jarl Gurthilm, 47.8S,10.4W) -> 105 Durch kriegsgezeichnete Lande
+Nach Annahme von 105 Die letzte Zuflucht: 105 Die Extrakte Ithiliens, 105 Raubtiere aus dem Osten (Ereblen, 46.7S,11.1W)
+Nach Annahme von 105 Die Extrakte Ithiliens: 105 Neues Leben (Ereblen, 46.7S,11.1W)
+Nach Annahme von 105 Raubtiere aus dem Osten: 105 Trolle im Garten (Ereblen, 46.7S,11.1W)
+Nach 105 Die Extrakte Ithiliens, 105 Raubtiere aus dem Osten, 105 Neues Leben und 105 Trolle im Garten: ("Kräuterkunde") 105 Die Pflege des Gartens (R), ("Kräuterkunde") 105 Ein Geschenk des Feindes (R), ("Kräuterkunde") 105 Neues Leben sprießt (R) (Ereblen, 48.2S,8.1W)
+
+Cirith Negen & Torngroth
+Bezwingertat (Ostlinge, um 41.8S,7.2W [am besten am Spiegelteich wiederholen: 105 Instanz: Die Reichtümer Rhûns])
+Schatzspeicher (44.2S,9.0W)
+Nach 105 Ausbruch aus der Falle: 105 Angreifer aus Rhûn (Tordoron, 42.9S,7.9W) -> 105 Vor dem Schlachtfeld (Anborn, 48.1S,8.0W)
+Nach Annahme von 105 Angreifer aus Rhûn: 105 Unterirdische Lager (Tordoron, 42.9S,7.9W)
+Nach 105 Durch kriegsgezeichnete Lande: 105 Die Reichtümer Rhûns (Jarl Gurthilm, 42.6S,8.1W) -> 105 Instanz: Die Reichtümer Rhûns -> 105 Eine gerechte Belohnung (Jarl Gurthilm, 41.5S,9.5W)
+Während 105 Eine gerechte Belohnung: 105 Eine gerechte Belohnung - Allein die Ehre oder 105 Eine gerechte Belohnung - Beute des Krieges (Jarl Gurthilm, 41.5S,9.5W)
+105 Kampfgruppe: Wächter Shomushúk, Katzenmeister der Khundolar (R) (Automatisch, um 42.1S,12.5W)
+
+Aragorns Lager & Cair Andros
+Erkundungstat (Caladuil, 48.8S,12.5W)
+Bezwingertat (Feinde, um 49.9S,13.7W [am besten am Spiegelteich wiederholen: 105 Instanz: Die Rückeroberung von Cair Andros])
+Nach 105 Vor dem Schlachtfeld: 105 Die Feiglinge (Aragorn, 40.8S,10.3W) -> 105 Cair Andros: Die Festung, 105 Cair Andros: Die Gefangenen, 105 Cair Andros: Die Inselmauern, 105 Cair Andros: Grausamer Molvagúr (Duinhir, 48.8S,12.6W)
+Nach 105 Cair Andros: Grausamer Molvagúr: 105 Die Rückeroberung von Cair Andros (Duinhir, 48.8S,12.6W) -> 105 Instanz: Die Rückeroberung von Cair Andros
+Nach 105 Vor dem Schlachtfeld oder ("Epos - Band IV, Buch 7: Die Falle") 105 Buch 7, Kapitel 9: Mit geheimen Schritten: ("Kräuterkunde") 105 Müßige Hände (Aragorn, 40.8S,10.3W) -> ("Kräuterkunde") 105 Aufzeichnungen eines Lehrlings: Ithilien (Ioreth, 66.0S,19.0W) -> ("Kräuterkunde") 105 Das Gift des dunklen Herrschers (Mílgamel, 48.4S,6.9W) -> ("Kräuterkunde") 105 Busch und Blatt und Ödland
+("Das Ödland") 100 Runen der Verbesserung für Heer-des-Westens-Silberstücke (täglich) (R), 100 Runen der Verbesserung für Heer-des-Westens-Silberstücke (wöchentlich) (R) (Quartiermeister, 40.8S,10.4W)
+Nach ("Osgiliath (schlachtgezeichnet)") 105 Feuer unter dem Schatten und ("Epos - Band IV, Buch 7: Die Falle") 105 Buch 7, Kapitel 9: Mit geheimen Schritten: ("Kräuterkunde") 105 Unbeugsam und übel riechend (R) (Mithrandir, 40.8S,10.3W)

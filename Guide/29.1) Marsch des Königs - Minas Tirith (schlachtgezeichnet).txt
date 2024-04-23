@@ -1,0 +1,13 @@
+Minas Tirith (schlachtgezeichnet) (105)
+
+105 Auf der Suche nach Überlebenden (R), 105 Der geschundene Weg (R), 105 Vernichtung der letzten Gegner (R) (Prinz Imrahil, 65.6S,16.3W)
+105 Die Feuer des Kriegs (R), 105 Die nächste Lieferung (R), 105 Grauenhafte Überreste (R) (Húrin, 65.6S,16.3W)
+Nach 105 Auf der Suche nach Überlebenden (R), 105 Der geschundene Weg (R), 105 Vernichtung der letzten Gegner (R), 105 Die Feuer des Kriegs (R), 105 Die nächste Lieferung (R) und 105 Grauenhafte Überreste (R): 105 Zwischenspiel: Ein Traum von kalter Stille (Prinz Imrahil, 65.6S,16.3W) -> 20 Zwischenspiel: Ein Traum von kalter Stille
+
+Nach 105 Zwischenspiel: Ein Traum von kalter Stille: 105 Auf zur Visite (R), 105 Medizin für die Massen (R) (Ioreth, 66.0S,19.0W)
+Nach 105 Zwischenspiel: Ein Traum von kalter Stille: 105 Eine störende Menge (R), 105 Knappe Vorräte (R), 105 Nachricht von den Verwundeten (R) (Torchún, 66.1S,19.3W)
+Nach 105 Auf zur Visite (R), 105 Medizin für die Massen (R), 105 Eine störende Menge (R), 105 Knappe Vorräte (R) und 105 Nachricht von den Verwundeten (R): 105 Zwischenspiel: Heimliche Rückkehr (Bote der Heiler, 66.1S,19.2W) -> 105 Zwischenspiel: Heimliche Rückkehr
+
+Nach 105 Zwischenspiel: Heimliche Rückkehr: 105 Das Zeichen des Schwarzen Schattens (R), 105 Irrige Infusionen (R), 105 Zeit mit den Sterbenden (R) (Aragorn, 66.0S,19.0W)
+Nach 105 Zwischenspiel: Heimliche Rückkehr: 105 Königskraut - geschnitten und getrocknet (R), 105 Königskraut - schwer zu finden (R) (Bergil, 66.1S,19.4W)
+Nach 105 Das Zeichen des Schwarzen Schattens (R), 105 Irrige Infusionen (R), 105 Zeit mit den Sterbenden (R), 105 Königskraut - geschnitten und getrocknet (R) und 105 Königskraut - schwer zu finden (R): 105 Die Hände eines Heilers (Bote der Heiler, 66.1S,19.2W) -> 1 Instanz: Die Hände eines Heilers
